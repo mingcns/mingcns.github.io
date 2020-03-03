@@ -73,9 +73,8 @@ _(所有国际学生)_ [ISSS](https://isss.umn.edu/new/) 要求学生在到达�
 [Registration Hold](https://isss.umn.edu/new/removeholds.html)。
 
 * _(仅限研究生)_ 研究生将在完成International Student Preparation Course的过程中预约 **ISSS Check-In And Welcome Session**
-时间，或者[点击这里](https://z.umn.edu/issscheckin)直接进行预约。
-<font color="red">完整参与</font>Session活动之后，将可以
-[消除来自ISSS的Registration Hold](https://isss.umn.edu/new/removeholds.html)。
+时间，或者[点击这里](https://z.umn.edu/issscheckin)直接进行预约。<font color="red">完整参与</font>Session活动之后，
+将可以[消除来自ISSS的Registration Hold](https://isss.umn.edu/new/removeholds.html)。
 一般来说，强烈建议研究生在自己院系的Orientation以及Events开始之前，完成ISSS Check-in。
 
 <!-- TODO(tnz): Adding link to 心内容中文综述 in attachment. -->
