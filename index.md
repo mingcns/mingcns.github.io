@@ -5,9 +5,11 @@
 (V202003 Git Version)
 </div><br>
 
+
 本文所有的地址链接均可以直接点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
 
 本文档约4万字，阅读全文约耗时40-60分钟。
+
 
 ## 录取后需要完成的事宜
 
@@ -71,7 +73,8 @@ _(所有国际学生)_ [ISSS](https://isss.umn.edu/new/) 要求学生在到达�
 和 **Welcome Session** 活动来消除来自ISSS的
 [Registration Hold](https://isss.umn.edu/new/removeholds.html)。
 
-* _(仅限研究生)_ 研究生将在完成International Student Preparation Course的过程中预约 **ISSS Check-In And Welcome Session**
+* _(仅限研究生)_ <span id="prep-grad-before-arrival">研究生将在完成</span>
+International Student Preparation Course的过程中预约 **ISSS Check-In And Welcome Session**
 时间，或者[点击这里](https://z.umn.edu/issscheckin)直接进行预约。<font color="red">完整参与</font>Session活动之后，
 将可以[消除来自ISSS的Registration Hold](https://isss.umn.edu/new/removeholds.html)。
 一般来说，强烈建议研究生在自己院系的Orientation以及Events开始之前，完成ISSS Check-in。
@@ -136,3 +139,97 @@ TD的成人版国内不普遍，所以一般等来学校打，学校医保<font 
 就可以继续持有 **现有签证+新的I-20** 出入美国。
 
 * _(仅限**目前F-1签证已经过期**、但是将会使用I-20 Transfer将SEVIS记录转到明大的美高、美本、美本转学生)_  需要按照本章 [_(仅限目前没有F-1签证的同学)_](#no-f1-visa-anchor) 的情况操作，用新的I-20重新申请签证。但是不需要再支付I-901 fee来激活I-20，因为SEVIS已经是active状态了。
+
+
+## 计划来明大的行程
+
+### 航班选择
+
+#### 到达机场与到校时间
+
+离学校最近的商用机场为 **Minneapolis−Saint Paul International Airport 明尼阿波利斯-圣保罗国际机场** IATA代码: **MSP** 。美国各大主要航空公司、荷兰皇家航空、法国航空、加拿大航空、爱尔兰航空等均于此运营商业航班，为达美航空(Delta Air Lines) 第二大枢纽，前西北航空(Northwest Airlines NWA)总部，全美客流第17忙碌的机场、次于波士顿高于底特律。拥有定期航班的目的地超过230个，于美国境内的航线覆盖非常好，主要次要城市均可直飞到达。远洋国际直飞航线主要目的地包括: 阿姆斯特丹史基浦(AMS)、巴黎戴高乐(CDG)、伦敦希思罗(LHR)、雷克雅未克(KEF)、都柏林(DUB)、法兰克福(FRA)、东京羽田(HND)、首尔(汉城)仁川(ICN)。并且达美航空已经提交了航权申请，如果一切顺利将会在2020年开航上海浦东(PVG)直航。
+
+<!-- TODO(tnz): check the recommended arrival date from ISSS -->
+_（仅限本科新生、本科转学新生）_ 一般来说，尽管ISSS要求8月19日前到达，但是实际上只需要保证在Orientation前到达即可。
+
+_（全部研究生）_ 强烈建议在院系安排的orientation以及event之前，完成ISSS要求的check-in，提交最终成绩单、申请SSN（见下文）等准备工作，请合理安排到达时间。
+关于ISSS check-in，详见 [ISSS International Student Preparation 国际生入境前准备 - 研究生](#prep-grad-before-arrival).
+
+_（有TA、RA职位或者Fellowship的Master、Ph.D.项目）_ 请确保至少在既定的work start date前10天以前入境，
+原则上首次入境十天后方可按流程从院系到ISSS到Social Security Administration(SSA)去申请SSN(Social Security Number)。  
+在申请SSN并且拿到SSN Receipt之后，方可去Payroll处填写I-9表格入职开始工作。
+
+无论项目，只要还未提交所有最终成绩/学位证明的话，便需要在选课(Orientation)前提交最终成绩单以及毕业证书（如果需要）
+给Admission Office _(所有本科生)_ 或是Graduate School _(所有研究生)_ 。  
+如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
+否则将无法正常进行对第二学期的选课。
+
+* Admission Office 地址(适用于本科生):  
+[240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
+Phone #: (612) 625-2008  
+E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
+
+* Graduate School Admissions Office 地址(适用于研究生):  
+[321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7)  
+Phone #: (612) 625-3014  
+E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
+
+#### 航班入境美国须知
+
+所有进入、经过美国的行程，除非已经于美国境外通过了Preclearance提前办理完入境手续(下文详解)，均需要在
+<font color="red">美国境内着陆的第一个机场</font> 通过CBP(U.S. Customs and Border Protection)查验。
+**无论行李是否是联运的**, 皆需要在通过CBP的护照查验Passport Control后，于行李传送带提取所有托运行李，
+由 **本人携带** 通过海关以及农业部查验后，方可离开边检禁区。  
+若入境机场并非最终目的地且有后续航班，需要找航司柜台或者是托运行李带 **重新托运** 行李后，再次前往下一段航班登机口。
+
+**Preclearance:** 这是美国的海外提前入境计划，这是所有
+[参与机场的列表](https://www.cbp.gov/border-security/ports-entry/operations/preclearance),
+在美国境外通过Preclearance之后，航班到达美国之后将视为国内到达，不需要再通过CBP也不需要再提取行李。
+中国留学生能接触到基本就是加拿大的 **多伦多YYZ**、**温哥华机场YVR** 以及 **阿布扎比AUH** 。于下一章节将会详述。
+
+#### 关于选择转机机场/入境机场
+
+* 重新托运的传送带以及转机柜台就在边检海关禁区出口附近的机场：
+    * 西雅图SEA
+    * 达拉斯DFW
+    * 底特律DTW
+    * 休斯敦IAH
+    * 旧金山SFO(仅限G楼降落的航空公司转接国内段United Airlines联合航空)
+    * 纽瓦克EWR
+* 转机流程非常复杂的机场：
+    * 洛杉矶LAX (所有航站楼都是分离的)
+    * 纽约JFK (所有航站楼都是分离的)
+    * 芝加哥ORD因为机场改造，目前轻轨停运，因为国际到达集中在T5，而国内航班都是都在T1 2 3，现在需要乘坐巴士换航站楼，会比较麻烦。
+* 拥有航班直飞明尼可以直接在明尼入境，不需要再在转机机场额外提取行李的机场:
+    * 首尔仁川ICN
+    * 东京羽田HND
+    * 阿姆斯特丹AMS
+    * 巴黎CDG
+    * 伦敦LHR
+
+未提及机场可以于新生交流互助群内咨询 @Tiannan。
+
+#### 第三国转机签证问题
+
+可以参考此篇文章信息:
+[中美各地转机签证总结【2018.10更新】](https://www.uscreditcardguide.com/transit-visa-summaries/)
+
+未提及国家可以于新生交流互助群内咨询 @Tiannan。
+
+#### 关于分票组合/Hacker Fare
+携程或者飞猪的分票组合、分别出票，或者英文OTA上所谓的Hacker Fare，其实本质上是分开买两张以上的票凑在一起用。
+这些票<font color="red">不受联程规则</font>保护，美国境内单独出票的航班需要支付<font color="red">额外的托运行李费用</font>。
+如果因为客观原因误机需要重新花钱购票，而不是航司帮忙免费改签。
+
+**什么是联程票？有什么好处？**  
+只要不是<font color="red">分开购买</font>、或者注明<font color="red">分开出票</font>的，
+于任意平台一次性购买的从一个城市到另一个城市的机票，均为联程票。(全部行程拥有同一个电子客票号码)  
+联程票全程提供统一的行李额度，比如美国境内航班通常没有免费托运，但是如果这个航班是接驳的在同一张票上的跨洋航班，
+那么同样适用于跨洋航班的行李额度，以跨太平洋经济舱为例，即是可以有免费两件 23 kg 托运行李的托运额度。  
+只要不涉及出入境，联程票理论上均可联运行李。
+在前序延误、或者是因为出入境手续导致误机时，
+联程票可以提供最好的保障比如免费改签到下一个可用的航班甚至其他航司更快到达目的地的航班、
+如果航司原因延误导致误机需要过夜还会提供酒店或者酒店报销，甚至是
+[等价于几千人民币的现金赔偿 (e.g. EC 261/2004)](https://en.wikipedia.org/wiki/Flight_Compensation_Regulation)
+（取决于航司和线路）。  
+<font color="red">联程票不一定全程都由一个航空公司执行，全部同一个航空公司执行但是分开购买的票也不是联程票，不受保护。</font>
