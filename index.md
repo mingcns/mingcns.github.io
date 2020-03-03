@@ -176,14 +176,14 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 
 #### 航班入境美国须知
 
-所有进入、经过美国的行程，除非已经于美国境外通过了Preclearance提前办理完入境手续(下文详解)，均需要在
-<font color="red">美国境内着陆的第一个机场</font> 通过CBP(U.S. Customs and Border Protection)查验。
+所有进入、经过美国的行程，除非已经于美国境外通过了Preclearance提前办理完入境手续(下文详解)，
+均需要在<font color="red">美国境内着陆的第一个机场</font> 通过CBP(U.S. Customs and Border Protection)查验。
 **无论行李是否是联运的**, 皆需要在通过CBP的护照查验Passport Control后，于行李传送带提取所有托运行李，
 由 **本人携带** 通过海关以及农业部查验后，方可离开边检禁区。  
 若入境机场并非最终目的地且有后续航班，需要找航司柜台或者是托运行李带 **重新托运** 行李后，再次前往下一段航班登机口。
 
 **Preclearance:** 这是美国的海外提前入境计划，这是所有
-[参与机场的列表](https://www.cbp.gov/border-security/ports-entry/operations/preclearance),
+[参与机场的列表](https://www.cbp.gov/border-security/ports-entry/operations/preclearance) ,
 在美国境外通过Preclearance之后，航班到达美国之后将视为国内到达，不需要再通过CBP也不需要再提取行李。
 中国留学生能接触到基本就是加拿大的 **多伦多YYZ**、**温哥华机场YVR** 以及 **阿布扎比AUH** 。于下一章节将会详述。
 
@@ -233,3 +233,53 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 [等价于几千人民币的现金赔偿 (e.g. EC 261/2004)](https://en.wikipedia.org/wiki/Flight_Compensation_Regulation)
 （取决于航司和线路）。  
 <font color="red">联程票不一定全程都由一个航空公司执行，全部同一个航空公司执行但是分开购买的票也不是联程票，不受保护。</font>
+
+
+### 从MSP机场到学校
+
+1. Uber、Lyft打车软件: 白天从机场打车到学校大概资费为15-25 USD，晚上或凌晨为20-40 USD，根据当时打车人的多少，价格会有上下浮动。
+    * Terminal 1: 绝大多数航班（除去Sun Country, JetBlue, Southwest, Condor, Icelandair以外）都会降落在Terminal 1 - Lindbergh, 在抵达到达层(行李转盘层)之后，跟着App-based Ride Service的牌子走，坐电梯下降到地下层，随后跟着牌子直走，直到再次看到App-based Ride Service的牌子后左转，坐电梯上两层楼后，即为机场Pick-up乘车点。Terminal 1 - Zone A或者Zone B皆在这一层。
+    * Terminal 2: Sun Country, JetBlue, Southwest, Condor, Icelandair会降落在Terminal 2 - Humphrey。在行李转盘提取行李后，跟随App-based Ride Services牌子走，只有一个Pick-up乘车点Terminal 2 - App-based Ride Services。
+1. 轻轨:
+    * Terminal 1: 在抵达到达层(行李转盘层)之后，跟随LRT/Light Rail Transportation的标志走，坐电梯下降到地下层。
+    乘坐机场内部轨道交通到另一头，乘坐扶手电梯或者直梯下楼即可抵达轻轨Terminal 1 - Lindbergh站。
+    * Terminal 2: 在抵达到达层(行李转盘层)之后，跟随LRT/Light Rail Transportation的标志一直走大约4-6分钟，
+    即可到达轻轨Terminal 2 - Humphrey 站。
+    * 乘坐轻轨前请记得由左侧售票机售票，每张票有效期2小时30分钟，有效期内换乘不需要额外购票，
+    从两个航站楼均为乘坐Blue Line - **Northbound to Downtown Minneapolis** 的列车，
+    到达换乘站U.S. Bank Stadium Station后，至对面站台换乘Green Line - **Eastbound to Downtown St Paul**
+    的列车 (一定要注意车的头灯颜色以及报站，因为去学校的Green Line与Blue Line - Southbound to Mall of America
+    停靠同一站台)，乘坐1-3站即可到达学校内的轻轨站(
+    [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
+    [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
+    [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
+1. **学校官方** 接机服务：时间为8月9号到25号期间，每天10点到21点20，每小时一趟车，
+在Terminal 1的6号行李传送带处(Baggage Claim Carousel 6)。具体情况请访问连接：
+[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
+1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
+
+
+### 临时宿舍
+
+学校对国际生提供临时宿舍服务（需付费，$30/night），具体情况以可以参照此链接:
+[International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
+于2020年6月2日开始接受预定，最早2020年7月27日可以入住。  
+
+Check-in 时间及地址：  
+前台24x7有人  
+Centennial Hall:
+[614 Delaware Street Southeast, Minneapolis, MN](https://goo.gl/maps/siNCPWx4TFNRbRiL8)
+由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时3分钟。
+
+
+### 关于临时宿舍与正式宿舍的衔接
+
+* 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，
+听从临时宿舍的安排即可。详见:
+[International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
+
+* Check-out 时间:
+    * Comstock, Middlebrook, Sanford, 17th & Bailey: 8月28日
+    * Frontier: 8月30日
+    * 其他学校宿舍: 8月27日
+    * 不住在学校公寓(校外租房)的学生需要于8月28日晚7点前退房。
