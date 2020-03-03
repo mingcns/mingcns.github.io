@@ -277,9 +277,92 @@ Centennial Hall:
 * 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，
 听从临时宿舍的安排即可。详见:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
-
 * Check-out 时间:
     * Comstock, Middlebrook, Sanford, 17th & Bailey: 8月28日
     * Frontier: 8月30日
     * 其他学校宿舍: 8月27日
     * 不住在学校公寓(校外租房)的学生需要于8月28日晚7点前退房。
+
+
+## Orientation相关问题
+
+### Global Gopher Event (GGE)
+
+时间：2019年8月19 - 27号
+
+GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍很多的学校资源、逛校园。
+而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
+详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
+
+### Ucard校园卡
+
+Ucard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领取了，不用等到Orientation再领取。
+
+**关于Ucard的介绍:**  
+Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明的一个证件。Ucard除了做证件以外，还内置了几个账户，
+可以用于校内的消费、图书馆借书、甚至搭乘公交（需要充值）:
+* **Gopher Gold**  
+校内的电子货币，可以用于支付校内打印费用等大部分校内消费。  
+充值信息如下：[Deposit to Gopher GOLD](https://ucard.umn.edu/umtc/deposit)  
+这里笔者建议大家在刚开学Ucard Office 推出充值送钱的活动时充值。
+但是由于Gopher Gold是支付校内打印/复印服务的 **唯一方式**，我们建议新生在领取Ucard时充值10刀左右的Gopher Gold
+以便打印/复印Immigration Check-in所需的文件使用。
+* **Flexdine (FD)**  
+和Gopher Gold有所区别，FD 只能在学校饭堂，或者Dining 旗下的店铺使用。涵盖但不限于：Coffman Food Court,
+Freshii at Moos Tower, On-campus Starbucks and Caribou Coffee.
+FD和Gopher Gold的最大区别就是，使用FD可以不用交税(Sales Tax消费税为商品价格的8.025%, 美国的消费税是不含在商品标价里的)，
+而Gopher Gold 需要交税。  
+充值信息如下：[University of Minnesota Dining Services - FlexDine](http://www.dining.umn.edu/MealPlansFlexDine/FlexDine.html)  
+这里笔者建议大家等开学初期Dining有充值送钱的活动时再充值。
+* **Meal Plan**  
+如果选择住在学校宿舍的话，那么会强制需要购买一个Meal Plan，而Meal Plan的使用也集成在了Ucard上。
+每次进入饭堂的时候向前台（greeter）出示Ucard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
+学校关于Meal Plan的政策如下：
+[University of Minnesota Dining Services - Meal Plan Policies](http://www.dining.umn.edu/MealPlansFlexDine/MealPlanPolicy.html)
+* **GoTo Card**  
+GoTo Card是Metro Transit，也就是双城区域的交通卡。  
+使用前需要拿Ucard在任意轻轨站的售票机，选择GoTo Card充值进行充值。充值后方可刷卡乘车。
+当然，大家也可以在Coffman Info Desk另外领取单独的GoTo Card。
+* **图书馆借书卡**  
+UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部图书借出(请不要这么做哦)，
+只需要借书者可以保障书本状态(condition)并按时归还/续租即可。
+关于图书馆政策的详细介绍，新生们会在Freshman Writing课(课号WRIT 1301)上得到深入了解。
+
+学校官方对于Ucard Account的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
+
+_注：以上提及的Gopher Gold, Flexdine和GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
+但是充值方式和余额都是 **相互独立存在** 的。_
+
+### 现场Orientation (Ori)
+
+* 大一新生：  
+Orientation 分两天，**第一天Immigration Check-in，十分重要！** 事关你在美国的合法身份。务必到场。
+然后就是逛学校，介绍学校的具体情况/资源。 **第二天见advisor以及选课** 。
+
+* 转学生：  
+转学生的Orientation只有一天，内容是大一新生的精简版本。
+
+* 硕士生/博士生：  
+没有统一的Orientation，请联系录取院系获取相关事宜
+
+更多关于 **非常重要** 的所有国际生都需要参加的 **Immigration check-in** 的细节，
+请参考[国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
+
+**关于 University Writing/ AKA Freshman Writing (课号WRIT 1301):**  
+学校要求所有的本科生(包括转学生)于毕业前完成WRIT1301课程。选课时，WRIT1301的section 1-10 是为国际生定制的sections，
+综合难度会小于其他美国本地生的sections，所以我们建议选择前十个sections。
+当然，选择本地生的sections也不是不可以，有些老师对上本地生sections的国际生还是很友好的，会适当降低要求，
+所以请在充分了解某老师的教学要求后再做出选择。另外，不论是国际生还是本地生sections，WRIT1301的课程设置
+(包括评分标准、Paper篇幅要求、MLA或APA写作风格等)会因不同老师的要求不同而存在差异，
+所以我们强烈建议大家选课前向学长学姐打听清楚每位老师的教学风格与要求，避免不必要的麻烦。
+
+### Welcome Week (WW)
+
+学校官方介绍如下：  
+[Orientation & Transition Experiences - Welcome Week](https://ote.umn.edu/welcome-week-home)
+
+**CLA的同学** 请注意前往Welcome Week中的College Day参与活动，
+因为College Day占大一新生体验这门课(课号CLA1001)中U-Thrive活动的50分
+(总分100分，不去College Day将不会得到其中的50分，后续需要通过参与更多的U-Thrive活动来补偿这50分)。
+
+**CEHD的同学** 需要注意，在你们的College Day中有一次Meeting，这是必须要参加的Meeting，请务必前往。
