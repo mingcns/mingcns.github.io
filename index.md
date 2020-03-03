@@ -1,8 +1,7 @@
 # Project MinG/CNS 明尼苏达大学中国新生核心指南
 
 <div align="right">
-本指南非官方文件，详见版权与免责协议
-
+本指南非官方文件，详见版权与免责协议<br>
 (Version 2020-03-03)
 </div><br>
 
@@ -43,10 +42,10 @@ https://it.umn.edu/service-details/virtual-private-network-vpn (Windows推荐使
         * https://mail.umn.edu 或
         * https://myu.umn.edu 随后点击右上角的信封logo。  
     * 激活后会得到一个UMN邮箱地址，格式为X.500@umn.edu，关于如何使用移动或桌面客户端登陆邮箱：
-        1. 使用Gmail客户端登陆UMN邮箱：
+        * 使用Gmail客户端登陆UMN邮箱：
         选择添加Gmail Account然后在输入完整的邮箱地址后点击下一步，Google会重新定向登陆页面至学校网站进行身份验证，
         输入X.500和密码登陆成功后即完成。
-        1. 使用第三方客户端：请参考学校IT部门的介绍。
+        * 使用第三方客户端：请参考学校IT部门的介绍。
 
 ### Checklist
 
