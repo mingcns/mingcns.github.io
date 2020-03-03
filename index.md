@@ -2,11 +2,12 @@
 
 <div align="right">
 本指南非官方文件，详见版权与免责协议<br>
-(Version 2020-03-03)
+(V202003 Git Version)
 </div><br>
 
+[TOC]
 
-本文所有的地址链接均可以直接点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
+<br>本文所有的地址链接均可以直接点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
 
 本文档约4万字，阅读全文约耗时40-60分钟。
 
@@ -80,7 +81,7 @@ _(所有国际学生)_ [ISSS](https://isss.umn.edu/new/) 要求学生在到达�
 <!-- TODO(tnz): Adding link to 心内容中文综述 in attachment. -->
 * International Student Preparation Course 核心内容中文综述 (详见附件 仅供参考)
 
-### 申请 I-20 学生表格
+### 申请I-20学生表格
 
 _(所有国际学生)_ 在确认录取之后，需要申请 I-20 学生表格。只有在收到I-20之后才可以预约签证。
 
@@ -90,10 +91,10 @@ Financial Certification Statement表格（在提交这个表格的步骤时，�
 之后ISSS或者Graduate School会开始处理制作你的I-20表格。  
 在I-20准备完毕可以被寄出时，会收到来自学校的信息跟指引，如果需要寄送到美国以外的地址（比如中国大陆），一般是选择 **Express Mail**
 寄送，根据邮件里的指引会让你去[study.eshipglobal.com](https://study.eshipglobal.com)上填写你的收件地址，
-七位数字的student id等个人信息，以及选择快递提供商。  
-顺利的话2-4个工作日即可收到 I-20。在收到I-20之后，需要去
+七位数字的student id等个人信息，以及选择快递提供商。顺利的话2-4个工作日即可收到 I-20。  
+在收到I-20之后，<span id="i901fee-anchor">需要去
 [www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html)
-缴费激活(Pay I-901 Fee)自己的SEVIS记录，并获取 **I-901 Receipt**, 只有SEVIS记录被激活之后方可去面签。  
+缴费激活(Pay I-901 Fee)自己的SEVIS记录，并获取 **I-901 Receipt**, 只有SEVIS记录被激活之后方可去面签。</span>  
 SEVIS记录将会伴随你的整个美国学生生涯以及毕业后OPT工作。
 
 * _(仅限现在持有有效I-20，且拥有active SEVIS记录的**美高、美本、美本转学学生**)_ 这部分学生需要的是 I-20 Transfer,
@@ -125,3 +126,12 @@ TD的成人版国内不普遍，所以一般等来学校打，学校医保<font 
 也可以打印
 [纸质版](https://boynton.umn.edu/sites/boynton.umn.edu/files/2018-10/Form_Immunization-2018.pdf)
 出来填好交去Boynton前台。如果在Boynton打疫苗的话，可以直接在Boynton的工作人员处填表。
+
+### 预约签证
+
+* _(仅限目前没有F-1签证的同学)_ 请参照网上的F-1签证攻略依次填写DS-160表格、预约签证，请确保你的I-20在面签时间之前已经完成了I-901 Fee的支付并且已经激活，详见 **申请I-20学生表格** 内 _(仅限之前未连续在美国学习的国际学生)_
+中[关于I-901的最后一段](#i901fee-anchor)。
+
+*
+
+*
