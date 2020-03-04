@@ -17,6 +17,7 @@
 * 目录
 {:toc}
 
+
 ## 录取后需要完成的事宜
 
 这里是学校Admission Office关于录取后注意事项的概述: [Checklist for Admitted International Freshmen](https://admissions.tc.umn.edu/checklist/intl_fresh.html)
@@ -34,7 +35,8 @@ Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个
         * Internet ID (X.500) 在一般情况下头四位由四个英文字母组成，后四位则为数字。字母部分一般为你的姓氏的
         前四个字母，如果姓氏不足四个字母，那么将会用字母x或数字0补全。例子：lixx1001、li001001、zhan1001。
 
-1. 关于DUO Security：DUO Security是一个在登陆学校账户时进行二步验证身份的软件，是学校为了更高等级的账号保护而
+1. <span id="about-duo-security-anchor">关于DUO Security</span>：DUO Security
+是一个在登陆学校账户时进行二步验证身份的软件，是学校为了更高等级的账号保护而
 采用的密保软件。具体作用可以类比国内银行的U盾。学校IT部门对DUO有详细的介绍:
 [Duo Two Factor Authentication](https://it.umn.edu/technology/duo-two-factor-authentication)  
 据明大ISSS消息，**理论上** 国际生在抵达学校前不会被强制要求注册DUO，但是如果你在抵达学校前忘记了你的账号密码，那么你就
@@ -156,7 +158,7 @@ TD的成人版国内不普遍，所以一般等来学校打，学校医保<font 
 离学校最近的商用机场为 **Minneapolis−Saint Paul International Airport 明尼阿波利斯-圣保罗国际机场** IATA代码: **MSP** 。美国各大主要航空公司、荷兰皇家航空、法国航空、加拿大航空、爱尔兰航空等均于此运营商业航班，为达美航空(Delta Air Lines) 第二大枢纽，前西北航空(Northwest Airlines NWA)总部，全美客流第17忙碌的机场、次于波士顿高于底特律。拥有定期航班的目的地超过230个，于美国境内的航线覆盖非常好，主要次要城市均可直飞到达。远洋国际直飞航线主要目的地包括: 阿姆斯特丹史基浦(AMS)、巴黎戴高乐(CDG)、伦敦希思罗(LHR)、雷克雅未克(KEF)、都柏林(DUB)、法兰克福(FRA)、东京羽田(HND)、首尔(汉城)仁川(ICN)。并且达美航空已经提交了航权申请，如果一切顺利将会在2020年开航上海浦东(PVG)直航。
 
 <!-- TODO(tnz): check the recommended arrival date from ISSS -->
-_（仅限本科新生、本科转学新生）_ 一般来说，尽管ISSS要求8月19日前到达，但是实际上只需要保证在Orientation前到达即可。
+_（仅限本科新生、本科转学新生）_ 一般来说，尽管ISSS要求8月25日前到达，但是实际上只需要保证在Orientation前到达即可。
 
 _（全部研究生）_ 强烈建议在院系安排的orientation以及event之前，完成ISSS要求的check-in，提交最终成绩单、申请SSN（见下文）等准备工作，请合理安排到达时间。
 关于ISSS check-in，详见 [ISSS International Student Preparation 国际生入境前准备 - 研究生](#prep-grad-before-arrival).
@@ -240,7 +242,6 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 （取决于航司和线路）。  
 <font color="red">联程票不一定全程都由一个航空公司执行，全部同一个航空公司执行但是分开购买的票也不是联程票，不受保护。</font>
 
-
 ### 从MSP机场到学校
 
 1. Uber、Lyft打车软件: 白天从机场打车到学校大概资费为15-25 USD，晚上或凌晨为20-40 USD，根据当时打车人的多少，价格会有上下浮动。
@@ -264,7 +265,6 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
 
-
 ### 临时宿舍
 
 学校对国际生提供临时宿舍服务（需付费，$30/night），具体情况以可以参照此链接:
@@ -276,7 +276,6 @@ Check-in 时间及地址：
 Centennial Hall:
 [614 Delaware Street Southeast, Minneapolis, MN](https://goo.gl/maps/siNCPWx4TFNRbRiL8)
 由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时3分钟。
-
 
 ### 关于临时宿舍与正式宿舍的衔接
 
@@ -294,7 +293,8 @@ Centennial Hall:
 
 ### Global Gopher Event (GGE)
 
-时间：2019年8月19 - 27号
+<!-- TODO(tnz): check the time below later. -->
+时间：2019年8月19 - 27号 (2020年信息待定)
 
 GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍很多的学校资源、逛校园。
 而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
@@ -405,7 +405,6 @@ Sprint: band 5/ 20/ 25/ 26/ 41/ 46;
 T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。  
 官网链接：[T-Mobile](https://www.t-mobile.com/cell-phone-plans)
 
-
 信号方面的话在 **双城区域** 三家都是没问题的，没问题指的是有信号的时候大家都有，没信号的时候大家都没有。
 毕竟美国是资本主义，基站都是按需建设。像国内那种深山老林甚至南海都有信号就不可能了。总之对这边信号的期待不要太高就好。
 
@@ -422,7 +421,6 @@ T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。
 按量套餐资费为每月20刀基础话费+10刀每GB的流量费用，每月使用超过6GB流量后费用封顶，即80刀每月封顶。
 无限套餐资费为70刀每月。如果多人组合Family Plan可以降低人均资费。  
 官网链接: [Google Fi](https://fi.google.com/about/plans/)
-
 
 如果大家觉得30刀的月费还是贵的话，不妨考虑一下虚拟运营商（MVNO—Mobile Virtual Network Operator）。  
 虚拟运营商（自己不建设基站）是指向刚刚提到的三大实体运营商（拥有自己的基站）购买富余的带宽以建设自己的服务的运营商。
@@ -728,7 +726,7 @@ _请注意，威斯康星州 Wisconsin <font color="red">不允许使用中国�
 使用中国驾照驾驶的同学请勿意外驶入威斯康辛。_
 
 ![New version of Chinese Driving License](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/shanghai_driving_license_template.jpg)  
-（新版带英文翻译的中国驾照格式，图片来自网络）
+_（新版带英文翻译的中国驾照格式，图片来自网络）_
 
 根据[明尼苏达DVS规定](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=551)，
 除非为Active Duty的军人或者其家属，否则无论之前持有何处签发的驾照，在成为明州居民后60天内，还需要开车的话，必须申请明尼苏达驾照。
@@ -828,7 +826,6 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 
 更多关于成绩单符号的介绍请访问这个链接：[Academics - Viewing grades](https://onestop.umn.edu/academics/viewing-grades)
 
-
 ### 每学期选课的学分要求
 
 1. 国际生(Full Time Student)每学期必须选够12分学分 (研究生6分) 以保持在美F-1身份的合法性。
@@ -920,3 +917,213 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 
 但是在此提醒，请做好自己的学业与职业规划，不要盲目追求多学位。
 只修一个学位一样可以有很好的发展前景，多个专业学位毕业也不代表就能样样精通。
+
+
+## 校内安全及可用资源
+
+强调以下两点， 第一是不作死就不会死，第二是遇到 **紧急情况** 请直接拨打 **<font color="red">911 报警</font>**。
+
+总体来说校园内还是比较安全的，恶性事件已经很久没有发生过了。
+2017年校警局的统计数据表明校内只发生了7起抢劫，18起盗窃案，19起强奸/性骚扰案件。
+
+![safe_maps_image_yang](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/unsafe_roads_map.png)  
+双城的两个校区相比而言，圣保罗校区会比明尼阿波利斯校区更安全一点。  
+明尼校区因为东岸靠近Dinkytown，西岸临近难民营的原因，会比圣保罗校区多一些不安全因素。
+如上方左侧图1所示，标红地区是位于西岸的索马里难民营，建议新生探索学校时尽量不要越过卡尔森商学院，
+晚上也尽量不要一个人出没于西岸靠近难民营一带的区域。  
+如上方右侧图2所示，标红地区为Dinkytown， 白天该地区还是相对安全的。但该地区流浪汉与闲汉较多，经常能闻到大麻味道，
+另一方面也是因为Dinkytown地区靠近高速方便劫匪逃窜，不建议晚上独自于此活动。
+右侧图2红线标出的路线是校内抢劫案高发区，建议新生晚上最好不要一个人在这些地方走夜路。
+
+下面简单介绍一下学校为保障校园安全提供的一些资源：
+
+1. **蓝灯（Code Blue Emergency Phone）**  
+如下图所示，功能挺明显，遇到紧急情况可一键报警，学校在校区四处安装了20个蓝灯。如果晚上感觉自己被不明人士尾随，可以直接往蓝灯方向走，一是方便报警，二是蓝灯有一定威慑作用。  
+![Code blue emergency phone](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/u_blue_light.png)
+
+2. **校园保安护送服务（Campus Safe Walk Service）**  
+这是一项全年每天时时都有的免费服务，24/7/365. 不管刮风下雨下暴风雪，不管凌晨几点有多晚。
+如果你觉得一个人走不安全，只要拨打电话 **<font color="red">612-624-9255</font>** ，
+向接线员说明 **自己的姓名**， **目前所在位置** 及 **目的地** 。
+半小时内就会有一名身穿制服的保安来到你面前送你回家/去指定教学楼。
+遗憾的是这项服务只覆盖校区及校区延伸一公里的距离，但是好在大部分学生公寓都在此范围内。
+![University security photo 1](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/u_security_1.png)
+![University security photo 2](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/u_security_2.png)
+
+3. **The Aurora Center**  
+TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨打TAC 24小时热线 **612-626-9111**  
+如果遇到问题不想报警，可以先打电话咨询TAC。而且TAC对外严格保密，保证让你得到帮助的同时，不会让你的个人信息遭到泄露。
+
+其他很有用的安全相关材料的链接：
+
+1. [实时更新明尼犯罪地图，掌握区域一手安全情况](https://communitycrimemap.com/?rms=Minneapolis_Crime_Map&type=simple&address=Minneapolis%20MN)
+1. [校园护送服务官方介绍 & QA](https://publicsafety.umn.edu/home/security)
+1. [校园护送服务覆盖地区地图](https://umn-egis.maps.arcgis.com/apps/webappviewer/index.html?id=0594a3d7511846e0beda80a724353eba)
+1. [2018年度校园安全报告](https://publicsafety.umn.edu/sites/publicsafety.umn.edu/files/2018_asr.pdf)
+1. [如果你被骚扰了该如何应对](http://aurora.umn.edu/sites/g/files/pua3546/f/options_for_individuals_experiencing_harassment.pdf)
+1. [The Aurora Center 官网](http://aurora.umn.edu/)
+1. [明大学生规范对性骚扰的定义](https://regents.umn.edu/sites/regents.umn.edu/files/policies/Sexual_Harassment_Sexual_Assault_Stalking_Relationship_Violence.pdf)
+
+
+## 医疗保险
+
+1. **简介**  
+明尼苏达大学医疗保险计划和管理服务由 Blue Cross and Blue Shield of Minnesota 提供，
+覆盖全球上千个医疗服务提供商和医院。这将是明大所有国际学生的默认购买保险。  
+学校关于学生医疗保险计划（SHBP）的详细介绍:
+[Student Health Benefit Plan](https://shb.umn.edu/health-plans/shbp-home)。
+
+1. **日期与价格**  
+    1. 2019秋季学期医保周期自08/19/2019开始至01/20/2020结束，牙医保险于09/01/2019起至01/31/2020结束。
+    1. 价格为$1170/每学期（Summer Term包含在春季学期内，单独购买为$641每学期）。
+    1. SHBP包含洗牙等基础牙科服务，但是不覆盖拔牙等其他牙医服务。牙医保险是需要另外购买的，价格为$326/每年
+    （如果学生同时enroll春季秋季学期，费用将会以每学期$163的形式出现在账单上）<br><br>
+_2020学年的保险覆盖日期与价格信息将于晚些时候发布。_
+
+1. **附加内容**  
+紧急旅行协助服务由 Redpoint 提供，[详细内容在此](https://shb.umn.edu/sites/shb.umn.edu/files/redpoint_benefits_chart.pdf)。
+
+1. **关于豁免于购买默认保险**  
+一般来说，如果没有 **美国绿卡** 或者 **美国公民** 身份，且也没有其他的美国医保覆盖的情况下，
+为了省钱去 waive 掉学校的默认保险的购买要求是几乎不可能的，
+并且也是将自己的健康与经济能力（美国的医疗在没有保险的情况下非常的昂贵）暴露在风险之中。
+以下是学校官方允许申请[豁免于购买该医保的几种情况](https://shb.umn.edu/students-and-scholars/shbp-waiver)，
+请注意，一些第三方网站上购买的所谓学生医疗保险 **并不能帮助你申请此项豁免** :
+
+    1. Enrolled in a **United States-based employer-sponsored** group health plan  
+    对于非绿卡/美国公民来说，这条一般适用于已经全职工作并且雇主提供医保计划，回到学校来part-time读书的同学；
+    亦或者是父母持有 H-1B 或者 L-1 等工作签证或持有绿卡，并且父母的雇主也提供医保计划，学生本人虽没有绿卡/公民身份，
+    但是也处于父母的保险计划覆盖中的情况。
+
+    1. Enrolled in the University-sponsored **Graduate Assistant Health Plan (GAHP)**  
+    所有拥有 TAship、RAship 的Master，Ph.D同学，你们适用于此项豁免。
+    关于提供给拥有 Assistanceship 的研究生的GAHP计划，请参阅
+    [Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)。
+
+    1. Residing in your **home country**  
+    如果选择gap一学期，或者是一学期全是网课(该可能性与国际生的最低现场上课学分要求相悖，
+    详见 [每学期选课的学分要求](#每学期选课的学分要求) 章节)，
+    适用于此项豁免。
+
+_<font color="red">免责声明：以上关于医保所有内容（包括但不限于保险费用、保险生/失效日期、保险涵盖内容等信息）的介绍仅供参考，
+具体情况请咨询学校Office of Student Health & Benefit确认，并以SHB官方答复为准。
+官网链接：[Office of Student Health Benefits](https://shb.umn.edu/) </font>_
+
+
+## 常见问题FAQ
+
+### 关于学校的录取、注册和要求
+
+**Q: Checklist (含placement test)需要在什么时候做完？**  
+A: 在Orientation选课前做完。
+
+**Q: Orientation 是什么时候？**  
+A: 本科新生与本科转学生在做Checklist的时候可以自己选择日期。研究生的Orientation将会由院系统一安排。
+详见本文 [录取后需要完成的事宜](#录取后需要完成的事宜) 章节。
+
+**Q: 我在国内，加载学校的网页很慢怎么办？**  
+A: 学校官方提供有VPN，虽然网速偏慢，但是做个Checklist还是没问题的:  
+[Virtual Private Network (VPN) | IT@UMN](https://it.umn.edu/service-details/virtual-private-network-vpn)
+
+<!-- TODO(tnz): check ISSS required date of arrival. -->
+**Q: 学校要求8月24号前到达学校，请问一定要这个时间到吗？**  
+A: 不是，确保Orientation前到学校即可。
+学校推荐24号前到校的原因参考本文 [Orientation相关问题](#orientation相关问题) 章节。
+
+**Q: 我是研究生/博士生，为什么我没有Checklist？**  
+A: 研究生和博士生没有Checklist，具体入学事项请联系你的Department。
+
+**Q: 为什么我申请的时候填了专业，但是录取通知书上只有学院的名字？**  
+A:  因为美国大学和国内大学不一样，美国大学基本上都是先录取到学院，或者pre-major，
+然后在你修完先修课程（pre-requisite）满足专业的admission要求后（一般在大二下学期）才申请declare专业。
+具体可以参阅本文 [明大学术要求与本科专业 - 本科专业与学位项目要求](#本科专业与学位项目要求) 章节。
+
+**Q: 我现在录取到了A专业/学院，以后可以转去B专业/学院吗？**  
+A: 当然可以，具体情况联系Advisor。一般来说在pre-major阶段，同学院转专业只需要跟Advisor联系，
+跨学院转专业需要在满足目标专业的Declaration要求后，提交一张非常简单的在线申请表申请转院。  
+具体请参考以下链接：
+[Change your major, minor, college, or campus](https://onestop.umn.edu/academics/change-your-major-minor-college-or-campus)
+
+**Q: 明大是否强制要求本科大一新生住在宿舍？**  
+A: 明大不强制要求任何学生住在宿舍，大一即可出去租房住。
+
+**Q: 我收到了一封有关学校在五月份的一个Pre-departure Orientation （PDO）的邮件，请问这是什么？必须去吗？**  
+A: PDO 是学校 ISSS 和 [OTE](https://ote.umn.edu/) 为了方便广大中国学生可以更多的了解中美教育、生活、法律上的不同，
+而特地派人前往中国的北京、上海开展的一个关于UMN的综合介绍会。会上的内容基于 Checklist 而多于Checklist
+（可以理解为一个对入学流程的介绍会），同时会有学校邀请的中国学长学姐现场为大家解答问题。
+PDO **不是强制** 的，可以不去，不去也不会对你入学造成影响。  
+学校中国办公室官方介绍以及2019年的报名链接:
+[报名开始 2019明大本科新生及家长行前准备会](https://mp.weixin.qq.com/s/l9anotvw1InCYz4O7BDyxQ)
+
+**Q: 学校要求我设置DUO, 这是什么？**   
+A: DUO全称DUO Security，是一个在你登陆账户时二步验证身份的软件。具体作用可以类比国内银行的U-盾。  
+学校对其介绍如下：
+[Duo Two Factor Authentication](https://it.umn.edu/technology/duo-two-factor-authentication)  
+我们也在本文中做了简单的介绍，详见
+[录取后需要完成的事宜 - UMN学生账号的激活与使用 - 2. 关于DUO Security](#about-duo-security-anchor) 条目。
+
+**Q: 我考了AP, 请问多少分可以换学分？怎么换？截止日期是什么时候？**  
+A: 学校官方介绍如下：[Advanced Placement Course Awards](https://admissions.tc.umn.edu/academics/ap.html)
+
+**<span id="ba-bs-diff-anchor">Q: 同一个专业有BA和BS两种，我应该学习哪一种？</span>**  
+A: BA和BS的全称分别为 Bachelor of Arts (文学学士) 和 Bachelor of Science (理学学士)，
+是学校针对对大学毕业后有不同安排的学生而设计的。  
+对于理科(Hard Science)来说 BA 的专业课要求没有 BS 多，但是会有更多的通识教育要求，适合打算跨学科学习的学生。
+而BS就更加的专注于该科目领域内的教学，适合想要准备专精于该学科的同学。  
+虽然一般来讲 BA 和 BS 有以上区别，但是根据专业不同，情况会有变化，
+所以请与你的 Advisor 或者同专业的学长学姐联系，以确认你是想修BA还是BS学位。
+
+**Q: 请问学校的假期有几个? 分别在什么时候？**  
+A: 请查阅学校官方Academic Calendar:
+[Academic Calendars](http://usenate.umn.edu/resources/academic-calendars)  
+一般来说，在秋季学期，我们只有感恩节放假两天；而在春季学期，则在三月会有一个礼拜的春假。
+
+### 关于住房
+Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？
+A: 首先，不同的人对于这个问题有不同的看法。住宿舍的主要问题在于没有私人空间（公共卫浴）以及强制购买性价比很低且并不好吃的每周至少11顿食堂的Meal plan。没有私人空间可能在舍友做一些国人通常认为非常出格的事情时候造成困扰。另外注意，美国大学的宿舍并不像中国的宿舍那般和谐安全，请不要用中国的惯性思维来觉得美国大学的宿舍也会是一个很好的选择。宿舍因为酗酒、非法使用药品(一般为大麻)等问题其实是校警UMPD出警非常频繁的地方。
+
+Q: 那么宿舍有没有优点呢？
+A: 在充分认识到住宿的缺点后，如果你都不在意的话（或者没有遇到），宿舍还是有不少优点的：
+1. 体验美国文化，增强被动交流的可能性。对于一些较为害羞，不善主动与人交朋友的同学来说，住在宿舍是一个比较好的交友机会。毕竟大家抬头不见低头见，很容易产生交流，发现好友。除此之外，宿舍不同的楼层会有不同的LLC（LLC介绍见本文末端链接内的宿舍介绍文档），时不时会组织宿舍楼范围的活动，还是挺有意思的。
+2. 每个LLC都会有1-2名Community Advisor (CA)。CA的主要工作就是处理舍友间的矛盾，确保每日的Quiet Hour内宿舍楼的安静情况，以及在学生需要帮助时提供必要的资源。
+3. 饭堂虽然不好吃，但是方便。每天过着一下楼就有饭吃的日子，还是很令笔者怀念的（虽然真的不好吃，只是偶尔有点好吃的东西）。
+4. 临近校车站。几乎每个宿舍门口都会有校车站，上学期间通勤方便。（注：也有不少公寓有这个优点）
+
+Q: 是住宿舍好还是校外租房好呢？
+A: 这个问题的回答取决于你看完上面两个问题的解答后，对宿舍利弊的权衡。简单来说，注重私人空间的，建议住公寓。
+
+Q: 如果我决定住宿舍了，Meal Plan应该如何选择？
+A: 如果选择了宿舍，那么必须购买一个Meal Plan。可供住宿生选择的Meal Plan有6个：11餐/周+100Flexdine，11餐/周+250Flexdine，14餐/周+100Flexdine，14餐/周+250Flexdine，无限/周+100Flexdine，无限/周+250Flexdine。关于Flexdine的介绍请参考本文Ucard校园卡章节。这里需要注意的是所谓的无限Meal Plan仅为在饭堂开门时持卡人可以无限次数进出，并不代表可以24x7进入饭堂吃东西。至于如何选择Meal Plan，这个问题非常主观，因此我们仅建议先选择11餐/周+100Flexdine进行尝试。如果开学前两周内(点击这里查看具体时间)发现不够，可以联系Dining进行更换。联系方式：http://dining.umn.edu/。
+
+Q: 作为大一新生，是住在东岸好还是西岸好呢？
+A:  没有特别大的区别。大一有很多的通识教育课（Liberal Education），教室东西岸都有，甚至有可能要去圣保罗校区，所以大一住哪里没有特别大的影响。如果非要建议，除了商学院、法学院、音乐学院的同学都建议住东岸。
+
+Q: 作为研究生、博士生，我应该住在东岸还是西岸呢？
+A:  研究生和博士生的上课/工作一般都在自己的学院里进行。请根据自己的办公室或者是院系教学楼地址决定住处。
+
+Q: 有什么校外公寓推荐吗？
+A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。
+学校周边公寓列表：Listings.umn.edu，以及学校官方做的关于校外公寓的Survey：http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results
+有条件访问Google服务的话，可以使用Google Maps来更直观的查询学校周围公寓的官网和评分。
+
+Q: 我住在校外还可以吃饭堂吗？
+A: 可以使用Ucard中的Gopher Gold或者Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。关于Ucard账户的介绍请参考本文”Ucard校园卡”章节。另外也可以购买Meal Plan以进入饭堂：http://www.dining.umn.edu/MealPlansFlexDine/CommuterMealPlans.html
+
+在明大的日常生活
+Q: 我是南方人，来明尼苏达会冻死吗？
+A:  室内都有暖气，温度稳定在70-80华氏度（21.1-26.7摄氏度）。室外穿好羽绒服做好防风即可。平心而论，明尼的干冷比起湿冷，还是“舒服”一点的。
+
+Q: 国内的电器可以带过来美国使用吗？
+A: 这里需要注意的是中国的民用电压及频率是220V~50Hz, 而美国是110V~60Hz. 所以各位在带电器过来的时候请检查一下该产品的电源适配器是否写有100V-240V~50Hz/60Hz自适应。如有则可以带来美国放心使用，如没有则需要变压变频器（如果电器不支持，东西又不贵的话还是推荐过来美国买）。注意：三相插头(三插)的电器需要转换插头，两相(双插)可兼容美式插座。
+
+Q: 初来美国需要带美元现金吗，带多少合适？
+A: 从笔者个人的角度来讲，并不推荐携带太多现金。一来携带超过一万美元的现金在入境美国的时候需要向CBP申报，二来容易丢、被坏人盯上。一般来讲2000-3000的现金就足够一般人购置生活用品并生活一个月以上了。此外，学校周边的ATM基本都支持银联卡取现美元(1000RMB/Day, 详见下一个回答)，所以并没有必要带太多美元现金。而且因为美国并不是一个现金社会，我们强烈推荐来到学校后就到美国的银行开户并将现金存入，刷卡使用。随身只需要留有少量现金即可。关于学校周边银行的介绍见本文档”银行开户与开户流程”章节。
+
+Q: 在美国可以使用中国国内银行的银行卡吗？
+A: 分情况讨论：1. 如果卡面上有VISA，MasterCard，Discover，American Express（AMEX）的标志logo，那么可以在美国无障碍使用（商家接受相应卡组织的卡为前提）。2. 对于银联卡，由于银联和Discover有合作，所以可以刷Discover的地方理论上都可以刷银联，虽然偶尔会有技术性小问题或者有时候商家会不认可把银联卡当作Discover来刷。如果想用银联卡取现（美元）的话，学校里U.S. Bank的ATM都是支持银联卡的。取现按实时汇率+ATM手续费(如有)+发卡行手续费(如有)扣款。
+
+Q: 双城区域的公交方便吗？需要买车吗？
+A: 双城区域的公交系统虽然比起NYC等美国一线大城市并没有那么发达，但是对于美国整体来说还是非常方便的了。基本上城市的主要功能区都有公交/轻轨线路可达，学校里更是享有发达的校车网络，从日常生活和学习的角度来看买车显得没那么必要。如果需要出去游玩，可以考虑租车，尤其美国的租车行业十分发达，正常来说非常方便 (如果年龄不够可能会租不到车，绝大多数租车公司对于年龄小于25岁的租车者会有额外的Youth Fee，这些都取决于租车公司)。当然，拥有一辆自己的汽车可以显著扩大自己的日常活动范围以及提高自己（以及舍友）的生活质量。注意，学校的Contract停车位对于学生而言是需要每学期抽签购买的，详见https://www.pts.umn.edu/park/contract/studentcontracts 。
+
+Q: 中国驾照可以在明尼苏达使用吗？
+A: 请参考本文档“外国驾照于明尼苏达州使用问题“。
