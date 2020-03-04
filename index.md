@@ -727,7 +727,7 @@ _同一张 Ucard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若�
 _请注意，威斯康星州 Wisconsin <font color="red">不允许使用中国驾照</font> 进行驾驶，
 使用中国驾照驾驶的同学请勿意外驶入威斯康辛。_
 
-![New version of Chinese Driving License](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/shanghai_driving_license_template.jpg)
+![New version of Chinese Driving License](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/shanghai_driving_license_template.jpg)  
 （新版带英文翻译的中国驾照格式，图片来自网络）
 
 根据[明尼苏达DVS规定](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=551)，
