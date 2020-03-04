@@ -13,14 +13,14 @@
 
 ## 录取后需要完成的事宜
 
-这里是学校Admission Office关于录取后注意事项的概述: [Checklist for Admitted International Freshmen](https://admissions.tc.umn.edu/checklist/intl_fresh.html)
+这里是学校Admission Office关于录取后注意事项的概述: [Checklist for Admitted International Freshmen](https://admissions.tc.umn.edu/checklist/intl_fresh.html){target="_blank"}
 
-这里是UMN中国办公室关于录取后注意事项的概述: [新生入学帮助 \| 本科录取国际大一新生重要信息](https://mp.weixin.qq.com/s/zX3JfzWBv3MbGZTI9a-dbQ)
+这里是UMN中国办公室关于录取后注意事项的概述: [新生入学帮助 \| 本科录取国际大一新生重要信息](https://mp.weixin.qq.com/s/zX3JfzWBv3MbGZTI9a-dbQ){target="_blank"}
 
 ### UMN学生账号的激活与使用
 
 1. 在Confirm Enrollment后就可以凭录取通知书上的**7位数**的Student ID 去
-[https://my-account.umn.edu/claim-acct](https://my-account.umn.edu/claim-acct)
+[https://my-account.umn.edu/claim-acct](https://my-account.umn.edu/claim-acct){target="_blank"}
 (Social Security Number一项留空就好了)激活你的Internet ID (X.500)。  
 Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个身份识别号，可以用于登陆MyU以及各类学校网站。
     - Student ID与Internet ID (X.500)区别辨析：
@@ -30,35 +30,35 @@ Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个
 
 1. 关于DUO Security：DUO Security是一个在登陆学校账户时进行二步验证身份的软件，是学校为了更高等级的账号保护而
 采用的密保软件。具体作用可以类比国内银行的U盾。学校IT部门对DUO有详细的介绍:
-[Duo Two Factor Authentication](https://it.umn.edu/technology/duo-two-factor-authentication)  
+[Duo Two Factor Authentication](https://it.umn.edu/technology/duo-two-factor-authentication){target="_blank"}  
 据明大ISSS消息，**理论上** 国际生在抵达学校前不会被强制要求注册DUO，但是如果你在抵达学校前忘记了你的账号密码，那么你就
 必须激活DUO以修改密码。所以为了自己的便利，**请避免在抵校前忘记账户密码** 。   
 大家在抵校后会被要求激活DUO以保证账户安全，如果你在设置DUO账号的过程中遇到了技术问题，请联系学校IT部门(联系方式在网页底部左下角):
-[IT @ UMN](https://it.umn.edu/)
+[IT @ UMN](https://it.umn.edu/){target="_blank"}
 
 1. 激活你的UMN邮箱：由于学校邮箱是基于Google Gmail的，此操作需要可以访问Google的网络环境，学校官方提供VPN:
-[Virtual Private Network (VPN)](https://it.umn.edu/service-details/virtual-private-network-vpn)
+[Virtual Private Network (VPN)](https://it.umn.edu/service-details/virtual-private-network-vpn){target="_blank"}
 (Windows推荐使用AnyConnect, Mac OS 推荐使用Native Client。AnyConnect连接时请选择 **Full Tunnel**)。  
 一般情况下，学校在6月后就会停止往学生申请时填写的邮箱发送邮件通知，所以为了保证可以收到来自学校的重要消息，
 请务必于 **7月前激活** 你的UMN邮箱，并 **保持一定的查阅频率**。
     * 在拥有X.500后可以通过以下链接登陆进行激活:
-        * [mail.umn.edu](https://mail.umn.edu) 或
-        * [myu.umn.edu](https://myu.umn.edu) 随后点击右上角的信封logo。  
+        * [mail.umn.edu](https://mail.umn.edu){target="_blank"} 或
+        * [myu.umn.edu](https://myu.umn.edu){target="_blank"} 随后点击右上角的信封logo。  
     * 激活后会得到一个UMN邮箱地址，格式为X.500@umn.edu，关于如何使用移动或桌面客户端登陆邮箱：
         * 使用Gmail客户端登陆UMN邮箱：
         选择添加Gmail Account然后在输入完整的邮箱地址后点击下一步，Google会重新定向登陆页面至学校网站进行身份验证，
         输入X.500和密码登陆成功后即完成。
-        * 使用第三方客户端：请参考学校IT部门的[介绍](https://it.umn.edu/using-gmail)。
+        * 使用第三方客户端：请参考学校IT部门的[介绍](https://it.umn.edu/using-gmail){target="_blank"}。
 
 ### Checklist
 
-_(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.checklist.umn.edu)，请按步骤依次完成这个checklist，
+_(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.checklist.umn.edu){target="_blank"}，请按步骤依次完成这个checklist，
 完成第一步的survey后，可以在第二或第三步选取Orientation日期。
 
 * 如果国际生新生Orientation只显示5到7月的日期，请发邮件联系对应学院的新生联络邮箱来选择8月的Orientation日期。
 
 * Placement test中<font color="red">数学必考</font>，关于是否需要考化学请参照
-[Chemistry and Math Placement](http://placement.umn.edu/)
+[Chemistry and Math Placement](http://placement.umn.edu/){target="_blank"}
 右侧对应学院的链接里自己专业的Placement test要求。简略概况(请以上述链接为准): 如果你将来的专业要求里没有化学，
 你可以选择不考化学。
 
@@ -66,17 +66,17 @@ _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.chec
 
 ### ISSS International Student Preparation 国际生入境前准备
 
-_(所有国际学生)_ [ISSS](https://isss.umn.edu/new/) 要求学生在到达美国前完成
-[International Student Preparation Course](https://isss.umn.edu/new/online.html)
+_(所有国际学生)_ [ISSS](https://isss.umn.edu/new/){target="_blank"} 要求学生在到达美国前完成
+[International Student Preparation Course](https://isss.umn.edu/new/online.html){target="_blank"}
 
 * _(仅限本科新生与本科转学生)_ 本科新生与本科转学生将在New Student Orientation期间<font color="red">完整参与</font> **ISSS Check-In**
 和 **Welcome Session** 活动来消除来自ISSS的
-[Registration Hold](https://isss.umn.edu/new/removeholds.html)。
+[Registration Hold](https://isss.umn.edu/new/removeholds.html){target="_blank"}。
 
 * _(仅限研究生)_ <span id="prep-grad-before-arrival">研究生将在完成</span>
 International Student Preparation Course的过程中预约 **ISSS Check-In And Welcome Session**
-时间，或者[点击这里](https://z.umn.edu/issscheckin)直接进行预约。<font color="red">完整参与</font>Session活动之后，
-将可以[消除来自ISSS的Registration Hold](https://isss.umn.edu/new/removeholds.html)。
+时间，或者[点击这里](https://z.umn.edu/issscheckin){target="_blank"}直接进行预约。<font color="red">完整参与</font>Session活动之后，
+将可以[消除来自ISSS的Registration Hold](https://isss.umn.edu/new/removeholds.html){target="_blank"}。
 一般来说，强烈建议研究生在自己院系的Orientation以及Events开始之前，完成ISSS Check-in。
 
 <!-- TODO(tnz): Adding link to 心内容中文综述 in attachment. -->
@@ -87,26 +87,26 @@ International Student Preparation Course的过程中预约 **ISSS Check-In And W
 _(所有国际学生)_ 在确认录取之后，需要申请 I-20 学生表格。只有在收到I-20之后才可以预约签证。
 
 * _(仅限之前未连续在美国学习的国际学生)_ <span id="i901fee-anchor">在确认录取后</span>，即可于
-[Financial Certification Statement](https://admissions.tc.umn.edu/submit/fincert.php) 按照要求一步步提交
+[Financial Certification Statement](https://admissions.tc.umn.edu/submit/fincert.php){target="_blank"} 按照要求一步步提交
 Financial Certification Statement表格（在提交这个表格的步骤时，不需要财产证明，一切数据均为self-report），
 之后ISSS或者Graduate School会开始处理制作你的I-20表格。  
 在I-20准备完毕可以被寄出时，会收到来自学校的信息跟指引，如果需要寄送到美国以外的地址（比如中国大陆），一般是选择 **Express Mail**
-寄送，根据邮件里的指引会让你去[study.eshipglobal.com](https://study.eshipglobal.com)上填写你的收件地址，
+寄送，根据邮件里的指引会让你去[study.eshipglobal.com](https://study.eshipglobal.com){target="_blank"}上填写你的收件地址，
 七位数字的student id等个人信息，以及选择快递提供商。顺利的话2-4个工作日即可收到 I-20。  
 在收到I-20之后，需要去
-[www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html)
+[www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html){target="_blank"}
 缴费激活(Pay I-901 Fee)自己的SEVIS记录，并获取 **I-901 Receipt**, 只有SEVIS记录被激活之后方可去面签。
 SEVIS记录将会伴随你的整个美国学生生涯以及毕业后OPT工作。
 
 * _(仅限现在持有有效I-20，且拥有active SEVIS记录的**美高、美本、美本转学学生**)_ 这部分学生需要的是 I-20 Transfer,
 明大ISSS提供了完备的分步骤指引：
-[ISSS Visa Status Transfer](https://isss.umn.edu/new/visas-transfer.html)。
+[ISSS Visa Status Transfer](https://isss.umn.edu/new/visas-transfer.html){target="_blank"}。
 请提前向你现在学校了解清楚你在现在学校的 **I-20 release date** 是哪一天。
 
 ### 国内体检以及疫苗
 
 * 明大对于疫苗的要求在这里:
-[Boynton Health Immunization Requirements](https://boynton.umn.edu/immunization-requirement)
+[Boynton Health Immunization Requirements](https://boynton.umn.edu/immunization-requirement){target="_blank"}
 
 * 除了几个特殊的专业外，正常来说只要求有两针1周岁后接种的MMR（麻腮风）和一针最近十年之内接种的TD（百白破）就行了。
 TD的成人版国内不普遍，所以一般等来学校打，学校医保<font color="red">完全报销</font>这些疫苗的。
@@ -119,13 +119,13 @@ TD的成人版国内不普遍，所以一般等来学校打，学校医保<font 
 
 <!-- TODO(tnz): Adding link to 医保章节 -->
 * 对于打疫苗的意见建议:  
-笔者当时是在国内打了两针MMR拿了小黄本。对于已经有小黄本的同学们完全可以来到学校再打，毕竟医保报销，自己不用掏钱。学校医保一般在8月25左右生效（具体时间每年不一样，请参照本文医保章节以及[Office of Student Health Benefits](https://shb.umn.edu/))，
+笔者当时是在国内打了两针MMR拿了小黄本。对于已经有小黄本的同学们完全可以来到学校再打，毕竟医保报销，自己不用掏钱。学校医保一般在8月25左右生效（具体时间每年不一样，请参照本文医保章节以及[Office of Student Health Benefits](https://shb.umn.edu/){target="_blank"})，
 届时就可以预约Boynton Health的疫苗服务了。  
 打疫苗的时间很随意，只要在春季选课前打完并填好疫苗表给学校即可，表格不需要医生签名。  
 疫苗表可以通过Google Form网上电子填写:
-[Online Immunization Form](https://docs.google.com/forms/d/e/1FAIpQLSepNBnCb-weLc5smkNpsIOb_P_b3daUR7M3zQv0fzF2yGqMFw/viewform),
+[Online Immunization Form](https://docs.google.com/forms/d/e/1FAIpQLSepNBnCb-weLc5smkNpsIOb_P_b3daUR7M3zQv0fzF2yGqMFw/viewform){target="_blank"},
 也可以打印
-[纸质版](https://boynton.umn.edu/sites/boynton.umn.edu/files/2018-10/Form_Immunization-2018.pdf)
+[纸质版](https://boynton.umn.edu/sites/boynton.umn.edu/files/2018-10/Form_Immunization-2018.pdf){target="_blank"}
 出来填好交去Boynton前台。如果在Boynton打疫苗的话，可以直接在Boynton的工作人员处填表。
 
 ### 预约签证
@@ -165,12 +165,12 @@ _（有TA、RA职位或者Fellowship的Master、Ph.D.项目）_ 请确保至少�
 否则将无法正常进行对第二学期的选课。
 
 * Admission Office 地址(适用于本科生):  
-[240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
+[240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5){target="_blank"}  
 Phone #: (612) 625-2008  
 E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
 
 * Graduate School Admissions Office 地址(适用于研究生):  
-[321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7)  
+[321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7){target="_blank"}  
 Phone #: (612) 625-3014  
 E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 
@@ -183,7 +183,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 若入境机场并非最终目的地且有后续航班，需要找航司柜台或者是托运行李带 **重新托运** 行李后，再次前往下一段航班登机口。
 
 **Preclearance:** 这是美国的海外提前入境计划，这是所有
-[参与机场的列表](https://www.cbp.gov/border-security/ports-entry/operations/preclearance) ,
+[参与机场的列表](https://www.cbp.gov/border-security/ports-entry/operations/preclearance){target="_blank"} ,
 在美国境外通过Preclearance之后，航班到达美国之后将视为国内到达，不需要再通过CBP也不需要再提取行李。
 中国留学生能接触到基本就是加拿大的 **多伦多YYZ**、**温哥华机场YVR** 以及 **阿布扎比AUH** 。于下一章节将会详述。
 
@@ -212,7 +212,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 #### 第三国转机签证问题
 
 可以参考此篇文章信息:
-[中美各地转机签证总结【2018.10更新】](https://www.uscreditcardguide.com/transit-visa-summaries/)
+[中美各地转机签证总结【2018.10更新】](https://www.uscreditcardguide.com/transit-visa-summaries/){target="_blank"}
 
 未提及国家可以于新生交流互助群内咨询 @Tiannan。
 
@@ -230,7 +230,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 在前序延误、或者是因为出入境手续导致误机时，
 联程票可以提供最好的保障比如免费改签到下一个可用的航班甚至其他航司更快到达目的地的航班、
 如果航司原因延误导致误机需要过夜还会提供酒店或者酒店报销，甚至是
-[等价于几千人民币的现金赔偿 (e.g. EC 261/2004)](https://en.wikipedia.org/wiki/Flight_Compensation_Regulation)
+[等价于几千人民币的现金赔偿 (e.g. EC 261/2004)](https://en.wikipedia.org/wiki/Flight_Compensation_Regulation){target="_blank"}
 （取决于航司和线路）。  
 <font color="red">联程票不一定全程都由一个航空公司执行，全部同一个航空公司执行但是分开购买的票也不是联程票，不受保护。</font>
 
@@ -250,33 +250,33 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
     到达换乘站U.S. Bank Stadium Station后，至对面站台换乘Green Line - **Eastbound to Downtown St Paul**
     的列车 (一定要注意车的头灯颜色以及报站，因为去学校的Green Line与Blue Line - Southbound to Mall of America
     停靠同一站台)，乘坐1-3站即可到达学校内的轻轨站(
-    [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
-    [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
-    [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
+    [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A){target="_blank"},
+    [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7){target="_blank"},
+    [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6){target="_blank"})。
 1. **学校官方** 接机服务：时间为8月9号到25号期间，每天10点到21点20，每小时一趟车，
 在Terminal 1的6号行李传送带处(Baggage Claim Carousel 6)。具体情况请访问连接：
-[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
+[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation){target="_blank"}
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
 
 
 ### 临时宿舍
 
 学校对国际生提供临时宿舍服务（需付费，$30/night），具体情况以可以参照此链接:
-[International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
+[International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing){target="_blank"}  
 于2020年6月2日开始接受预定，最早2020年7月27日可以入住。  
 
 Check-in 时间及地址：  
 前台24x7有人  
 Centennial Hall:
-[614 Delaware Street Southeast, Minneapolis, MN](https://goo.gl/maps/siNCPWx4TFNRbRiL8)
-由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时3分钟。
+[614 Delaware Street Southeast, Minneapolis, MN](https://goo.gl/maps/siNCPWx4TFNRbRiL8){target="_blank"}
+由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7){target="_blank"} 下车后步行前往约耗时3分钟。
 
 
 ### 关于临时宿舍与正式宿舍的衔接
 
 * 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，
 听从临时宿舍的安排即可。详见:
-[International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
+[International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing){target="_blank"}  
 * Check-out 时间:
     * Comstock, Middlebrook, Sanford, 17th & Bailey: 8月28日
     * Frontier: 8月30日
@@ -292,7 +292,7 @@ Centennial Hall:
 
 GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍很多的学校资源、逛校园。
 而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
-详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
+详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/){target="_blank"}
 
 ### Ucard校园卡
 
@@ -303,7 +303,7 @@ Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明
 可以用于校内的消费、图书馆借书、甚至搭乘公交（需要充值）:
 * **Gopher Gold**  
 校内的电子货币，可以用于支付校内打印费用等大部分校内消费。  
-充值信息如下：[Deposit to Gopher GOLD](https://ucard.umn.edu/umtc/deposit)  
+充值信息如下：[Deposit to Gopher GOLD](https://ucard.umn.edu/umtc/deposit){target="_blank"}  
 这里笔者建议大家在刚开学Ucard Office 推出充值送钱的活动时充值。
 但是由于Gopher Gold是支付校内打印/复印服务的 **唯一方式**，我们建议新生在领取Ucard时充值10刀左右的Gopher Gold
 以便打印/复印Immigration Check-in所需的文件使用。
@@ -312,13 +312,13 @@ Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明
 Freshii at Moos Tower, On-campus Starbucks and Caribou Coffee.
 FD和Gopher Gold的最大区别就是，使用FD可以不用交税(Sales Tax消费税为商品价格的8.025%, 美国的消费税是不含在商品标价里的)，
 而Gopher Gold 需要交税。  
-充值信息如下：[University of Minnesota Dining Services - FlexDine](http://www.dining.umn.edu/MealPlansFlexDine/FlexDine.html)  
+充值信息如下：[University of Minnesota Dining Services - FlexDine](http://www.dining.umn.edu/MealPlansFlexDine/FlexDine.html){target="_blank"}  
 这里笔者建议大家等开学初期Dining有充值送钱的活动时再充值。
 * **Meal Plan**  
 如果选择住在学校宿舍的话，那么会强制需要购买一个Meal Plan，而Meal Plan的使用也集成在了Ucard上。
 每次进入饭堂的时候向前台（greeter）出示Ucard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
 学校关于Meal Plan的政策如下：
-[University of Minnesota Dining Services - Meal Plan Policies](http://www.dining.umn.edu/MealPlansFlexDine/MealPlanPolicy.html)
+[University of Minnesota Dining Services - Meal Plan Policies](http://www.dining.umn.edu/MealPlansFlexDine/MealPlanPolicy.html){target="_blank"}
 * **GoTo Card**  
 GoTo Card是Metro Transit，也就是双城区域的交通卡。  
 使用前需要拿Ucard在任意轻轨站的售票机，选择GoTo Card充值进行充值。充值后方可刷卡乘车。
@@ -328,7 +328,7 @@ UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 只需要借书者可以保障书本状态(condition)并按时归还/续租即可。
 关于图书馆政策的详细介绍，新生们会在Freshman Writing课(课号WRIT 1301)上得到深入了解。
 
-学校官方对于Ucard Account的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
+学校官方对于Ucard Account的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts){target="_blank"}
 
 _注：以上提及的Gopher Gold, Flexdine和GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
@@ -359,7 +359,7 @@ Orientation 分两天，**第一天Immigration Check-in，十分重要！** 事�
 ### Welcome Week (WW)
 
 学校官方介绍如下：  
-[Orientation & Transition Experiences - Welcome Week](https://ote.umn.edu/welcome-week-home)
+[Orientation & Transition Experiences - Welcome Week](https://ote.umn.edu/welcome-week-home){target="_blank"}
 
 **CLA的同学** 请注意前往Welcome Week中的College Day参与活动，
 因为College Day占大一新生体验这门课(课号CLA1001)中U-Thrive活动的50分
@@ -383,18 +383,18 @@ Sprint: band 5/ 20/ 25/ 26/ 41/ 46;
 
 * Verizon：信号最好，很多偏僻的地方也有信号。当然，价格也是最贵的。一般情况下月资费在50刀以上。
 如果有好的Family Plan可以加入的话是可以得到30-40刀的月资费的好套餐的。  
-官网链接：[Verizon](https://www.verizonwireless.com/plans/)
+官网链接：[Verizon](https://www.verizonwireless.com/plans/){target="_blank"}
 
 * AT&T：信号不错，虽然没有V好，但是比T-Mobile强。性价比不错，月资费40-70左右。
 通过参与Family Plan也可以将资费降到30-40一个月  
-官网链接：[AT&T Wireless Plans](https://www.att.com/plans/wireless.html)
+官网链接：[AT&T Wireless Plans](https://www.att.com/plans/wireless.html){target="_blank"}
 
 * T-Mobile：如果说AT&T的性价比不错，那T的性价比就是极高的了。个人套餐月资费30-50，但是流量比上面两家都要多。
 这里尤其推荐他家的T-Mobile One这个套餐，不幸的是这个套餐也是要人多的Family Plan才有优势，
 可以$30/mo享受到无限语音通话，全球无限短信和美国无限4G LTE流量（真的是4G LTE无限流量，
 很多运营商的无限流量都是指4G流量用完后降速到2G网速，然后无限2G流量），国际100多个国家和地区免费2G网速流量。
 T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。  
-官网链接：[T-Mobile](https://www.t-mobile.com/cell-phone-plans)
+官网链接：[T-Mobile](https://www.t-mobile.com/cell-phone-plans){target="_blank"}
 
 
 信号方面的话在 **双城区域** 三家都是没问题的，没问题指的是有信号的时候大家都有，没信号的时候大家都没有。
@@ -404,15 +404,15 @@ T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。
 (虚拟运营商，详见下一段)。由于其使用了三家运营商网络，其信号覆盖范围理论上可以达到以上三家运营商各自覆盖面积的总和。
 但是也正是因为Google Fi使用了三家运营商的网络，可以支持使用Google Fi的手机非常有限，
 大家可以点击
-[这里查看](https://fi.google.com/compatibility)
+[这里查看](https://fi.google.com/compatibility){target="_blank"}
 你的手机是否支持Google Fi。除了信号覆盖较好外，Google Fi还有很多优势，比如拨打全球50+国家和地区的电话不额外收费
 （含中国大陆与港台地区），全球200+国家和地区（4G或3G、某些地区2G网速）网络漫游
-[免费或低资费](https://fi.google.com/about/international-rates/)
+[免费或低资费](https://fi.google.com/about/international-rates/){target="_blank"}
 （含中国大陆及港澳台地区），非常适合喜欢出国旅游的朋友。
 套餐方面Google Fi提供有按量套餐(Flexible)和无限套餐(Unlimited)。
 按量套餐资费为每月20刀基础话费+10刀每GB的流量费用，每月使用超过6GB流量后费用封顶，即80刀每月封顶。
 无限套餐资费为70刀每月。如果多人组合Family Plan可以降低人均资费。  
-官网链接: [Google Fi](https://fi.google.com/about/plans/)
+官网链接: [Google Fi](https://fi.google.com/about/plans/){target="_blank"}
 
 
 如果大家觉得30刀的月费还是贵的话，不妨考虑一下虚拟运营商（MVNO—Mobile Virtual Network Operator）。  
@@ -420,14 +420,14 @@ T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。
 虚拟运营商的最大优势是成本低，所以有很多优惠的套餐可以选择，最低甚至可以到5刀月费。
 由于虚拟运营商太多，这里就不详细介绍了。有兴趣的可以加入我们的微信群进行讨论。
 
-在众多的虚拟运营商中有一家还是值得讲一下的，那就是中国电信美洲公司 (CTExcel，官网 [www.ctexcel.us](https://www.ctexcel.us/index_pc.jsp?language=zh)).  
+在众多的虚拟运营商中有一家还是值得讲一下的，那就是中国电信美洲公司 (CTExcel，官网 [www.ctexcel.us](https://www.ctexcel.us/index_pc.jsp?language=zh){target="_blank"}).  
 CTExcel使用的是T-Mobile的基站，因此信号覆盖和T-Mobile一致。
 电信美洲的最大优势是sim卡 **可以寄送到国内地址** ，在国内拿到卡，上飞机前激活，美国落地就可以有网用。
 在异国他乡可以第一时间和家里报平安还是很重要的。
 CTExcel每年开学季都会有第一个月1美元的优惠活动，找学长学姐要一个推荐码注册，还可以得到10刀的话费。  
 _注：如果参与1美元优惠活动，该号码需要在网3个月以上才可以携号转网 (详见下文) 去其他运营商。_
 
-更多关于运营商的评测视频: [Best Cell Phone Plans 2020](https://www.bestphoneplans.net/)  (视频需可以访问YouTube)
+更多关于运营商的评测视频: [Best Cell Phone Plans 2020](https://www.bestphoneplans.net/){target="_blank"}  (视频需可以访问YouTube)
 
 **关于携号转网**  
 据中华人民共和国工信部消息，中国三大运营商（移动、电信、联通）已于2019年11月30日前完成全国范围的携号转网技术部署。
