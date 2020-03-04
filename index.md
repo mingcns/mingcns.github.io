@@ -1262,7 +1262,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 8. 医保
     * 购买学校自动enroll的医保即可，将跟学费一起收取。
 
-_(本段由Tiannan Zhou根据2019年新生 ISSS Preparation 资源汇总)_
+_(本段由 Tiannan Zhou 根据2019年新生 ISSS Preparation 资源汇总)_
 
 ### 实用链接
 
@@ -1343,7 +1343,7 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 联合志愿作者团队与共同创作者名单 (排名不分先后):  
 List of names of the author team, co-editors, and contributors:
 
-* Sun, Haoyue (sunx0784@umn.edu)
+* Sun, Haoyue (sunx0784 a|t umn dot edu)
 * Tao, Leonard
-* Yang, Benyuan (yang4808@umn.edu)
-* Zhou, Tiannan (zhou0745@umn.edu / jeffztn+mingcns@gmail.com)
+* Yang, Benyuan (yang4808 a|t umn dot edu)
+* Zhou, Tiannan (zhou0745 a|t umn dot edu / jeffztn+mingcns a|t gmail dot com)
