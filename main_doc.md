@@ -1,6 +1,8 @@
+---
 layout: page
 title: "明大中国新生核心指南 | Project MinG/CNS"
 permalink: /guidebook/
+---
 
 # Project MinG/CNS 明尼苏达大学中国新生核心指南
 {:.no_toc}
