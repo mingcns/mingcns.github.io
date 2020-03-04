@@ -727,7 +727,7 @@ _同一张 Ucard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若�
 _请注意，威斯康星州 Wisconsin <font color="red">不允许使用中国驾照</font> 进行驾驶，
 使用中国驾照驾驶的同学请勿意外驶入威斯康辛。_
 
-<!-- TODO<tnz>: Adding the image here. -->
+![New version of Chinese Driving License](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/shanghai_driving_license_template.jpg)
 （新版带英文翻译的中国驾照格式，图片来自网络）
 
 根据[明尼苏达DVS规定](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=551)，
@@ -888,8 +888,8 @@ _Department of Economics_ )开设的，同一个院系的同一个 **专业 Majo
 这是 _Mathematics B.A._ 的学位项目要求链接：  
 [Program Details - Mathematics B.A.](https://onestop2.umn.edu/pcas/viewCatalogProgram.do?programID=141)
 
-首先，是学位项目的介绍：
-<!-- TODO<tnz>: Adding image here. -->
+首先，是学位项目的介绍：  
+![Mathematics B.A. program summary](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/ba_math_program_summary.png)
 
 每个学位项目都有两个要求：
 
