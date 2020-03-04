@@ -1,4 +1,4 @@
 name: Project MinG/CNS
 description: 明尼苏达大学中国新生核心指南
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 markdown: kramdown
