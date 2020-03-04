@@ -6,3 +6,7 @@
 我们永远欢迎任何个人和团体在该项目所适用协议的框架下，转发、传播、二次创作以及直接贡献内容。
 由于本项目仍处于起步阶段，很多地方仍需完善，若您有建议、意见或是希望贡献内容，
 非常欢迎您与我们联系或对该Repository发起Pull Request。
+
+我们的联络邮箱是:
+* mingcns2019@gmail.com
+* project-ming-cns-admin@googlegroups.com
