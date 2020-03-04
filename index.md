@@ -1179,3 +1179,172 @@ A: 双城区域的公交系统虽然比起NYC等美国一线大城市并没有�
 
 **Q: 中国驾照可以在明尼苏达使用吗？**  
 A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照于明尼苏达州使用问题) 章节
+
+
+## 附件：
+
+### 大新生交流互助群 MinG/CNS
+
+本群建立初衷为更好的引导新生有关入学的事宜。本群欢迎各位进行UMN、双城区域以及美国生活相关的讨论，
+但是为了一个和谐的学术环境，请避免讨论以下事情(包括但不限于): 政治相关、有伤大雅的言论等可能引起他人不适的内容。
+
+* **非常欢迎:** 希望得到帮助更好适应明大生活的新生，在阅读完本文档仍然有疑惑想进行讨论的同学，愿意帮助新生适应明大生活的在校学生、校友以及本地区热心人士。
+* **不欢迎:** 无意义发言刷屏、表情包重复刷屏、不阅读本文档先行伸手提问、对他人进行攻击性言论或者影响群内正常讨论者。
+
+为保障群内不会混入广告、中介、代写或营销号等闲杂人等，希望各位进入群后可以主动修改备注。
+推荐格式：名字-预计毕业年份-学院。名字可用昵称。
+
+#### 微信群二维码
+
+![Wechat Group QR code](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/wechat_group_QR.png)
+
+#### 联系人微信
+
+若二维码已失效，或者群人数到达200人，无法使用二维码进入，请联系群主/群管。
+添加好友请备注身份，无法确认身份的好友请求将不会被通过。
+
+通过好友验证后希望您可以 **主动提供录取通知书截图、Student ID或Internet ID等UMN学生身份证明** 。感谢您的理解与配合。
+
+管理员微信ID:
+* nb_tpy2215367513
+* h-yue-
+* jcztn0519
+
+### 关于家长群
+学校官方QQ家长群如下图所示 (信息可能不实时，请以中国办公室官网信息为准)。
+如果家长希望加入微信家长群，建议直接与学校中国办公室联系：https://china.umn.edu/contact-0
+![Parent QQ Group Number](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/parent_qq_group.png)
+
+### 微信公众号 MinGCNS
+
+为了更好的汇总 Project MinG/CNS 的各类文档并提供索引，我们建立了ID为 MinGCNS 的微信公众号平台。
+
+![WeChat MinG/CNS Channel QR code](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/MinGCNS_wechat_channel_QR.png)
+
+### ISSS Preparation 重点
+
+1. 护照
+    1. 必须随时有效
+    2. 进入美国时，护照有效期需要不短于6个月。
+    3. 若护照即将过期，可以寻求中国驻芝加哥领事馆帮助进行更换护照。更换护照后，原护照上的签证只要没有被作废，都是可以继续配合新护照一起用。需要使用新老护照一起值机、通过美国CBP。
+    4. 只要护照没有过期，不经过（入境）第三国返回中国是没有问题的。
+
+2. 签证知识:
+    1. 美国签证是用来进入美国的门票，哪怕签证过期也不影响在美国的身份，但是离境后重新进入美国必须需要在有效期内的对应种类的美国签证。
+    2. F-1签证必须配合SEVIS号码一致的有效I-20一起使用。
+
+3. I-20知识:
+    1. I-20表格是在美国的学生身份的法律文件，请妥善保管。右上角为你的SEVIS档案号码，会伴随你在美国的学生生涯。
+    2. 确保I-20上所有的信息是最实时的，当更换专业，declare 新专业等可能会改变I-20表格上信息等行为发生时，请联系ISSS换发新的I-20.
+    3. 请 保留 所有历史版本的I-20，当申请OPT时会需要所有的I-20的复印件，弄丢了很麻烦。
+    4. 签证时，如果要提供财产证明，请尽量不要少于I-20上所描述的会提供的一年所有费用。
+    5. 如果在第一次入境之后，需要离境再次进入，除了有效的签证之外，还需要在I-20的第二页上有在入境日期的一年以内的Travel Endorsement Signature。这个签名可以找ISSS walk-in更新，立等可取。（P.S. OPT期间需要是半年内的签名)
+    6. 不要试图篡改任何I-20表格上的内容，这只是SEVIS档案的打印件。学校跟CBP执法人员是可以直接调出电子原版资料的。
+
+4. I-94知识:
+    1. I-94 是你的入境记录证明，可以从通过
+    [Most Recent I-94](https://i94.cbp.dhs.gov/I94/#/recent-search)
+    网站提取到最近一次入境的I-94打印。
+    2. 入境章和I-94上的停留时间许可写的“D/S”是指Duration of Status，只要I-20有效，即可合法停留在美国
+
+5.  在入境后，请尽快在[myu.umn.edu](https://myu.umn.edu) 的 **MY INFO** 页面里更新实时的地址信息，联系方式等。
+
+6. 学生身份
+    1. 除非特殊情况，否则联邦政府要求每学期至少enroll 12个学分来维持全日制full-time学生身份（研究生为6学分每学期）。
+    2. 一般来说，每学期的每一门课的第一节课必须出席，否则教授可以移除没有来上课的人从而把位置空出来给Waitlist上的人。
+    3. 如果无法满足第一条里所说的full-time学生身份要求，若是最后一学期、co-op全职工作、学术困难以及有医学证明的疾病，可以申请从ISSS处Reduced Course Load来降低最低学分限制，从而合法维持学生身份。不同原因的RCL有不同的申请流程。
+
+7. 工作许可
+    1. 国际学生永远不允许无工作许可进行工作。非法工作将导致SEVIS关闭、遣返等严重后果。
+    2. On campus 校内工作，如果明尼苏达大学是你的雇主并且直接支付工资，当你得到你的offer letter之后，请寻求ISSS帮助做工作许可认证，随后即可正常进入工作流程。
+    3. 校外工作，需要有额外的工作许可并且专业相关，需要额外申请CPT或者Pre-complete OPT来合法的进行校外工作。
+    4. 工作时间上，春秋学期内只允许20小时/week，假期允许40小时/week，没有例外。
+
+8. 医保
+    * 购买学校自动enroll的医保即可，将跟学费一起收取。
+
+_(本段由Tiannan Zhou根据2019年新生 ISSS Preparation 资源汇总)_
+
+### 实用链接
+
+1. 学校官方新生指南: [z.umn.edu/goldbook](http://z.umn.edu/goldbook)
+
+1. UMN中国代表处官网: [明尼苏达大学中国代表处](https://china.umn.edu/)  
+UMN中国代表处微信公众号：UMNChina
+
+1. Project MinG/CNS 项目下文档清单: [Catalog.MinGCNS.org](http://catalog.MinGCNS.org)
+
+1. 学校地理情况概述(此文档仍处于起步阶段，欢迎各位提出意见建议):
+[UMN 主要院系及教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)
+
+1. 学校宿舍楼介绍(此文档仍处于起步阶段，欢迎各位提出意见建议):
+[UMN 宿舍楼及HRL旗下公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)
+
+1. Metro Transit 轻轨系统简介:
+[Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)
+
+1. 百度贴吧关于学校的概况介绍链接:
+    1. 综合介绍: [开个贴来慢慢写新生入学注意事项吧。。](http://tieba.baidu.com/p/6040925189)
+
+1. 如果对学校宿舍有兴趣的话: [housing.umn.edu](https://housing.umn.edu/)
+
+1. 校外公寓一览: [listings.umn.edu](http://listings.umn.edu)
+
+1. 学校官方VPN:
+[Virtual Private Network (VPN) | IT@UMN](https://it.umn.edu/service-details/virtual-private-network-vpn)
+
+1. 如果打算住在校外公寓，这里是一些可能用到的资源：[Off Campus Living](http://ocl.umn.edu/)  
+这个是学校官方的找室友网站: [Off Campus Living - Find A Roommate](http://ocl.umn.edu/renting-near-campus/find-a-roommate/)
+
+1. 各式学校地图
+
+    1. 学校官方Virtual Tour: [Campus Visits](https://admissions.tc.umn.edu/visit/) (向下滑点击”Guided Walking Virtual Tour”即可)
+
+    1. Interactive Map: [campusmaps.umn.edu](http://campusmaps.umn.edu/)
+
+    1. Walking Guide with Gopher Way (学校连接各大教学楼的地道或廊桥) Map:
+    [PTS Walking Guide](https://www.pts.umn.edu/sites/pts.umn.edu/files/walking_guide.pdf)
+
+    1. Biking Routes:
+    [Biking & Gopher Way System](https://www.pts.umn.edu/sites/pts.umn.edu/files/bikego.pdf)
+
+    1. 校车地图:
+    [PTS Bus Outline Map](https://www.pts.umn.edu/sites/pts.umn.edu/files/styles/panopoly_image_original/public/bus_outline_map_printable.jpg)
+
+    1. All Other Maps: [www.pts.umn.edu/maps](https://www.pts.umn.edu/maps)
+
+1. 学校ISSS有一个配对在校国际生和新国际生的项目叫做International Buddy Program。IBP旨在让匹配到的在校生为新生提供必要的入学事项引导，并建立互帮互助的朋友关系。  
+ISSS对其介绍如下：[ISSS - International Buddy Program](https://isss.umn.edu/programs/interbuddy/)
+
+### “Project MinG/CNS” 项目简介
+
+“Project MinG/CNS - 明大中国新生核心指南" 是于2019年4月几位学长在新生群中答疑时，
+意识到一份整合、客观、实时的新生指南手册的重要性后，发起的基于GNU GPL协议的开放、共享的合作项目。
+该项目旨在帮助即将入学或者刚刚抵达明大双城校区的中文母语学生更顺利地适应明大的生活。
+我们永远欢迎任何个人和团体在该项目所适用协议的框架下，转发、传播、二次创作以及直接贡献内容。
+由于本项目仍处于起步阶段，很多地方仍需完善，若您有建议、意见或是希望贡献内容，非常欢迎您与我们联系。
+
+### 版权与免责协议
+本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
+关于税务、移民身份相关问题的法律上的建议，请咨询专业会计师、律师或者UMN ISSS官方。
+由于信息变化较快以及作者能力所限，本文内容无法保证100%的准确性，敬请谅解。
+欢迎通过 Github Pull Request 来对本文档的更改做出建议。
+
+This document and any content in “Project MinG/CNS” are general introductions for readers only,
+and shall not constitute nor be relied on as legal opinion or legal advice in any form.
+We assume no liability for anything herein.
+If you need any legal or tax help, please talk to a tax, legal or ISSS immigration advisor immediately.
+
+Suggestions for updating and/or fixing are always welcomed via Github Pull Request.
+
+本文全文著作权属于联合志愿作者团队以及共同创作者。
+
+The “copyleft” of the entire document belongs to all of the author team, co-editors, and contributors.  
+
+联合志愿作者团队与共同创作者名单 (排名不分先后):  
+List of names of the author team, co-editors, and contributors:
+
+* Sun, Haoyue (sunx0784@umn.edu)
+* Tao, Leonard
+* Yang, Benyuan (yang4808@umn.edu)
+* Zhou, Tiannan (zhou0745@umn.edu / jeffztn+mingcns@gmail.com)
