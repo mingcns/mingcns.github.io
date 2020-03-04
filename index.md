@@ -377,6 +377,9 @@ Orientation 分两天，**第一天Immigration Check-in，十分重要！** 事�
 ## 到达明大之后生活相关问题
 
 ### 手机&套餐
+
+#### 美国运营商
+
 如果各位小伙伴想要在国内购买手机的话，请注意核实一下手机支持美国运营商的网络频段。   
 以下均为4G频段：  
 Verizon: band 2/ 4/ 5/ 13/ 66;  
@@ -435,7 +438,8 @@ _注：如果参与1美元优惠活动，该号码需要在网3个月以上才�
 
 更多关于运营商的评测视频: [Best Cell Phone Plans 2020](https://www.bestphoneplans.net/)  (视频需可以访问YouTube)
 
-**关于携号转网**  
+#### 关于携号转网
+
 据中华人民共和国工信部消息，中国三大运营商（移动、电信、联通）已于2019年11月30日前完成全国范围的携号转网技术部署。
 携号转网意味着用户可以在保留手机号码的前提下从A运营商转去使用B运营商的网络服务。  
 举个例子：小A有一个135开头的移动手机号。有一天小A发现电信有比移动更优惠的套餐，于是小通过携号转网，
@@ -446,3 +450,80 @@ _注：如果参与1美元优惠活动，该号码需要在网3个月以上才�
 大家如果对目前使用的运营商服务不满意或有任意个人原因想要转网，仅需要拨通 **当前运营商** 的客服热线，
 向客服询问当前手机号的 **Account Number** 和 **PIN Code** 即可。
 在获取这两个号码后，你便可以凭Account Number 和 PIN Code 在 **新的运营商客服** 处办理携号转网业务。
+
+### 银行开户与开户流程
+
+以下排名顺序按各位作者综合意见后的 **主观推荐顺序** 排列。
+
+#### 学校附近主流银行
+
+* **Chase Bank 摩根大通**  
+地址: [311 SE Harvard St Minneapolis, MN](https://goo.gl/maps/fF6noDLSNKbkkQkK9) (Hub公寓楼下)
+* **Bank of America 美国银行**  
+最近Branch地址:   
+[80 S 8th St STE 266, Minneapolis, MN 55402](https://goo.gl/maps/9rYiBQuCrffaoUpv5)
+(轻轨Green Line坐到Nicollet Mall后步行6-8分钟，位于IDS Center 2楼)  
+校内ATM地址:
+    * [1000 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/XQPqyfTy9PWZEfzN6) (WaHu公寓楼下)
+    * [1312 4th St SE, Minneapolis, MN 55414](https://goo.gl/maps/DE3p69DSZHkVUn4e7) (Dinkytown)
+* **Wells Fargo 富国银行**  
+最近的Branch在上述BOA的隔壁:  
+[80 S 8th St STE 281, Minneapolis, MN 55402](https://goo.gl/maps/F1mMC6EixWuvyhKJ7)  
+另一个附近地址:   
+[3430 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/1vqaZJZsw6g7r9Bz9)
+（位于轻轨[Green Line - West Gate Station](https://goo.gl/maps/BnUwN7KKGAKA3ogy9)站旁）  
+校内ATM:
+    * Willey Hall 大厅
+    * Coffman Memorial Union G层(Ground Floor)。
+* **U.S. Bank 美国合众银行**  
+    * 在学校West Bank Skyway 就有一个Branch。 地址：
+    [219 19th Ave S #140, Minneapolis, MN 55455](https://goo.gl/maps/wLUeUeqHC9F43KjF9)  
+    * 在Alumni Center对面(Superblock)也有一家Branch。地址：
+    [720 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/AS69MniAiGV7xXg89)  
+    * Dinkytown Branch 地址：
+    [401 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/uwKgmSCrq2i1Kncg6)
+    * 校内ATM各个Branch内均有ATM。
+
+#### 关于TCF Bank
+
+虽然TCF Bank是学校所谓的Official Bank，但是因为其没有自己独立的SWIFT CODE 国际汇款ID (详见下文国际汇款章节介绍)，
+非常不推荐有国际汇款需求的同学开户办理。另外，TCF的主要服务范围只有双城地区跟部分中西部城市，且网银服务非常纤弱，
+以TCF Bank作为主力账户会有很多不必要的麻烦。
+
+#### 开户流程：
+
+携带护照、I-20前往银行的Branch跟Banker说要open a Checking Account即可，
+（未满17或18周岁只能办理Savings Account，有每个月6笔提款的限制）。
+完成开户之后，Banker会帮你开通网银，给你的纸质材料里会有你的Account Number 和 Routing Number
+（以后也可以在网银里查询），
+另外还需要额外询问Banker这家银行用于<font color="red">美元汇款</font>的 **SWIFT Code** 记录下来，
+这是国际电汇时必要的一项信息。
+
+#### 关于Temporary Debit Card 和 Permanent Debit Card:
+
+在成功开户Checking Account之后，由于正式的借记卡需要一段时间才能通过USPS寄到，
+所以可以选择当场问Banker要求拿一张临时卡(Temporary Card)，临时卡的有效期一般为一个月。
+在没有收到正式的借记卡之前，可以正常使用这张临时卡进行消费。待正式卡寄到后，激活正式卡，临时卡随即失效作废。
+
+_注：1. Debit Card在银行交易记录中有可能显示为Check Card。2. Chase 不提供临时卡。_
+
+#### Account vs Debit Card 美国银行账户与借记卡区别辨析
+
+美国的银行账户和国内的不太一样，是 **卡户分离** 的。
+
+国内的卡号就是你的银行账户，但是美国的借记卡（Debit Card）只是关联到你的账户（Account）上，可以刷账户里的钱而已，账户是独立于卡存在的，账户号（Account Number）和借记卡卡号（Debit Card Number）是 **不一样** 的。  
+
+打个比方，你的银行账户是一个存钱罐，钱在账户里面，而借记卡就是一把钥匙，你可以用钥匙把钱放进去、取出来、消费。
+但是钥匙的编号（卡号）只是和存钱罐有对应关系，存钱罐的编号（Account Number）是独立存在的。
+至于把这个分那么清楚有什么用，一会讲交学费的时候就会知道了。  
+
+美国银行账户一般有Checking，Savings和投资账户（投资账户需要有个人税号/SSN后才可申请，
+部分投资账户需要美国绿卡/公民，比如BOA的Merrill Lynch）。
+
+* Checking和Savings的区别为:
+    * Checking _一般_ 没有利息
+    * Saving有利息
+    * Checking不限制转账次数
+    * Saving有一个月六次转账次数的限制
+
+对于普通人在美国的生活来说，一般有一个Checking就足够了。可以视情况(利息，财产管理等)决定要不要开Saving账户。
