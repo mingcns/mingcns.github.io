@@ -2,4 +2,4 @@ name: Project MinG/CNS
 description: 明尼苏达大学中国新生核心指南
 
 markdown: kramdown
-toc_levels: 1..4
+toc_levels: 2..6
