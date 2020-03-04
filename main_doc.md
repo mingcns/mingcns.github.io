@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "明大中国新生核心指南 @ Project MinG/CNS"
+title: "明大中国新生核心指南"
 permalink: /guidebook/
 ---
 
