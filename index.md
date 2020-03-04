@@ -1,4 +1,5 @@
 # Project MinG/CNS 明尼苏达大学中国新生核心指南
+{:.no_toc}
 
 <div align="right">
 本指南非官方文件，详见版权与免责协议<br>
