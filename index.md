@@ -1,4 +1,5 @@
 # Project MinG/CNS 明尼苏达大学中国新生核心指南
+{:.no_toc}
 
 <div align="right">
 本指南非官方文件，详见版权与免责协议<br>
@@ -9,6 +10,9 @@
 本文所有的地址链接均可以直接点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
 
 本文档约4万字，阅读全文约耗时40-60分钟。
+
+## 目录
+{:.no_toc}
 
 * 目录
 {:toc}
