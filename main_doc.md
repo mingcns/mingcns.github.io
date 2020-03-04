@@ -1350,7 +1350,7 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 联合志愿作者团队与共同创作者名单 (排名不分先后):  
 List of names of the author team, co-editors, and contributors:
 
-* Sun, Haoyue (sunx0784 a|t umn dot edu)
+* Sun, Haoyue
 * Tao, Leonard
-* Yang, Benyuan (yang4808 a|t umn dot edu)
-* Zhou, Tiannan (zhou0745 a|t umn dot edu / jeffztn+mingcns a|t gmail dot com)
+* Yang, Benyuan
+* Zhou, Tiannan
