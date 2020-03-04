@@ -651,3 +651,91 @@ Shanghai Wholesale 上海批发 | [451 Industrial Blvd NE E, Minneapolis, MN 554
 Dragon Star 龙星 | [633 W Minnehaha Ave, St Paul, MN 55104](https://goo.gl/maps/d82jfe3gRzPQzXJv8)
 Shuang Hur 双和Mpls Uptown店 | [2712 Nicollet Ave, Minneapolis, MN 55408](https://goo.gl/maps/N7mgcuHBewznK5K17)
 Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/maps/K7VhHA7YmicXabUy7)
+
+### 校内地面公共交通
+
+#### 校车系统
+
+- **East Bank Circulator 120**  
+在学校东岸逆时针绕圈。经停SuperBlock, Clinic & Surgery Center, TCF Bank Stadium, Civil Engineering Building
+
+- **Campus Connector 121**  
+连接Minneapolis(MPLS)和St. Paul校区，逆时针行驶。经停St. Paul Student Center (Bailey Hall), Buford & Gortner Aves,
+State Fair Ground, TCF Stadium, Ridder Arena, Eddy Circle, Bruininks Hall, Blegen Hall, Coffman Union, Alumni Center
+
+- **University Ave Circulator 122**  
+在MPLS校区东西岸顺时针绕圈。经停Carlson School, Law School, Sanford Hall, Eddy Circle, Rec Center (健身房),
+Alumni Center, Territorial Hall (工作日18点30后/周末全天停靠), Frontier Hall(工作日18点30后/周末全天停靠),
+Harvard & Washington (HUB, Centennial Hall, 工作日18点30后/周末全天停靠), Northrop Mall (Coffman 对面),
+Willey Hall, Middlebrook Hall (工作日18点30后/周末全天停靠)
+
+- **4th St. Circulator 123**  
+在MPLS校区东西岸逆时针绕圈，可以看作是122的逆向。经停Carlson School, Blegen Hall, Coffman Union, Alumni Center,
+Ridder Arena, 4th St. SE & 15th Ave (Pagoda门口), ~~10th Ave SE & University Ave (The Bridges Apartment 楼下),
+Law School,~~ <font color="red">新增了 Sanford Hall, Willey Hall</font>
+
+- **St. Paul Campus Circulator 124**  
+在St. Paul校区顺时针绕圈。经停St. Paul Student Center, Bell Museum, Christensen Lab,
+Veterinary Medical Center, Food Science & Nutrition
+
+[图片版校车地图](https://www.pts.umn.edu/sites/pts.umn.edu/files/styles/panopoly_image_original/public/bus_outline_map_printable.jpg)
+
+<!-- TODO(tnz): Add link to appendix. -->
+更多学校的地图请查阅本文档末端的实用链接获得。
+
+_以上经停站皆为挑选，详细路线及站点请下载手机软件Gopher Trip查看_
+
+Gopher Trip软件:
+* IOS [App Store](https://itunes.apple.com/us/app/gophertrip/id1233552074?mt=8)
+* 安卓 [Google Play Store](https://play.google.com/store/apps/details?id=com.bishoppeaktech.android.umn_transit&hl=en_US)
+
+**Q: 如何乘坐校车？**  
+A: 无需刷卡，直接上车即可。
+
+#### 轻轨系统
+
+凭Ucard可以在Coffman的Information Desk免费领取Campus Zone Pass，可以在Green Line的校内三站West Bank Station,
+East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。注: 需要选课后等待24h才可领取Zone Pass。
+
+#### Metro Transit 公交
+
+2路，3路，6路等公交线路穿过校园(需付费乘坐)
+
+美国的公交车（包括校车）不像国内的公交会每站都停，需要有人 **在到站前拉铃** (扶手杆上的按键或车窗边缘的白色或黄色金属线)，
+拉铃后司机才会在即将抵达的下一站停靠。（本条适用于全北美的公交系统）
+
+关于更多公交线路和车辆时刻等信息，可以使用 [Google Maps](https://www.google.com/maps) 进行查询，  
+或是参阅 [Metro Transit 官网](https://www.metrotransit.org/home)。
+
+#### U-Pass
+
+购买U-Pass学生版需要$114/Semester   
+
+持有U-pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
+
+_同一张 Ucard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若已领取了 Zone Pass，则需要归还 Zone Pass
+后才可以购买U-Pass。如已购买了U-pass则不可以领取Zone Pass。_
+
+### 外国驾照于明尼苏达州使用问题
+
+按照[明大ISSS官网显示](https://isss.umn.edu/resources/Dlicense.html)，
+临时访客的驾照从入境起可以合法在明尼苏达使用 **<font color="red">六十天</font>** 。 **新版中国驾照** 上已经有了英文翻译，
+可以不需要翻译件直接配合护照使用。但是有的警察可能并不认可中国驾照可以合法在明尼苏达驾驶。
+如果被不认可的警察所Pull Over，可能会被当作无证驾驶处理，需要上法庭进行辩驳。
+
+_请注意，威斯康星州 Wisconsin <font color="red">不允许使用中国驾照</font> 进行驾驶，
+使用中国驾照驾驶的同学请勿意外驶入威斯康辛。_
+
+<!-- TODO<tnz>: Adding the image here. -->
+（新版带英文翻译的中国驾照格式，图片来自网络）
+
+根据[明尼苏达DVS规定](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=551)，
+除非为Active Duty的军人或者其家属，否则无论之前持有何处签发的驾照，在成为明州居民后60天内，还需要开车的话，必须申请明尼苏达驾照。
+
+请注意，支付宝、租租车、携程等平台签发的所谓的《国际驾照认证件》**<font color="red">没有任何法律效力</font>**，
+仅仅只是为驾照的多语言翻译而已。法律效力甚至不如公证处的公证翻译件。
+如果强行将其当作 **国际驾驶执照(International Driving Permit)** 使用，可能会涉及伪造证件等法律问题。
+详见美国国务院博客上雾谷飞鸿的中文介绍《[再谈“国际驾照”](https://share.america.gov/zh-hans/permit/)》。
+
+根据[台湾地区涉外机关消息](https://www.mofa.gov.tw/News_Content_M_2.aspx?n=FAEEE2F9798A98FD&sms=6DC19D8F09484C89&s=ED8D44898C7AD886)，
+自2019年1月3日起， **台湾地区签发** 的驾驶执照可以直接在明尼苏达州免除路试换取明州驾照。台湾地区驾照持有者可以前往任意一个有笔试设施的MN DVS，在通过笔试后，可以免路考直接换取明尼苏达驾照。
