@@ -6,51 +6,51 @@ Project MinG/CNS
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">主要文档 Main Documents</h2>
 
-**<font size=5> 明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](http://mingcns.org/guidebook) </font>**
+- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](http://mingcns.org/guidebook)**
 
-**<font size=5> UMN地理、教学楼、主要学院简介: [Google Docs - 主要院系与教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing) </font>**
+- **UMN地理、教学楼、主要学院简介: [Google Docs - 主要院系与教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)**
 
-**<font size=5> UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)</font>**
+- **UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)**
 
-**<font size=5> 新生入学注意事项: [Google Docs - 新生入学注意事项](https://docs.google.com/document/d/1rxVFjaOZitAQL_hVDB4suGYS2qP0sag_TS_dF9U1VSU/edit?usp=sharing)</font>**
+- **新生入学注意事项: [Google Docs - 新生入学注意事项](https://docs.google.com/document/d/1rxVFjaOZitAQL_hVDB4suGYS2qP0sag_TS_dF9U1VSU/edit?usp=sharing)**
 
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
 
-**<font size=5> 转学分相关经验分享: [Google Docs - 转学分相关介绍](https://docs.google.com/document/d/1XTFisc8i_bUdBH2rpmU2p2Rq8T8johQ0Ca7JgyhLXVI/edit?usp=sharing)</font>**
+- **转学分相关经验分享: [Google Docs - 转学分相关介绍](https://docs.google.com/document/d/1XTFisc8i_bUdBH2rpmU2p2Rq8T8johQ0Ca7JgyhLXVI/edit?usp=sharing)**
 
-**<font size=5> MyU 简介: [Google Docs - MyU 简介](https://docs.google.com/document/d/1be9-hePpLw9f_bsaVRIJxPET0JXp1kD4PuRb3J2_M28/edit?usp=sharing)</font>**
+- **MyU 简介: [Google Docs - MyU 简介](https://docs.google.com/document/d/1be9-hePpLw9f_bsaVRIJxPET0JXp1kD4PuRb3J2_M28/edit?usp=sharing)**
 
-**<font size=5> 图书馆资源简介: _Coming soon_</font>**
+- **图书馆资源简介: _Coming soon_**
 
-**<font size=5> 二手书信息汇总: [Books.MinGCNS.org](http://books.mingcns.org)</font>**
+- **二手书信息汇总: [Books.MinGCNS.org](http://books.mingcns.org)**  
 _(请使用UMN邮箱登陆)_
 
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">生活相关 Daily Life Related</h2>
 
-**<font size=5> Metro Transit 轻轨简介: [Google Docs - Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)</font>**
+- **Metro Transit 轻轨简介: [Google Docs - Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)**
 
-**<font size=5> 实用网站 & 软件清单: [Google Docs - 在美实用网站及软件不完全清单](https://docs.google.com/document/d/11jLN2kKcfV6ZSPVkrWeKdF5GrRrc00iKTdfQqhjA044/edit?usp=sharing)</font>**
+- **实用网站 & 软件清单: [Google Docs - 在美实用网站及软件不完全清单](https://docs.google.com/document/d/11jLN2kKcfV6ZSPVkrWeKdF5GrRrc00iKTdfQqhjA044/edit?usp=sharing)**
 
-**<font size=5> 校外公寓居住体验投稿文档: [Google Docs - 校外公寓住宿体验收集文档](https://docs.google.com/document/d/1ngJgvJHpXnkCUGh_BuKL2OhEj4we9tY6eKFgxbkGQ-0/edit?usp=sharing)</font>**
+- **校外公寓居住体验投稿文档: [Google Docs - 校外公寓住宿体验收集文档](https://docs.google.com/document/d/1ngJgvJHpXnkCUGh_BuKL2OhEj4we9tY6eKFgxbkGQ-0/edit?usp=sharing)**  
 _(请使用UMN邮箱登陆)_
 
-**<font size=5> 校外公寓居住体验汇总: _Coming soon_</font>**
+- **校外公寓居住体验汇总: _Coming soon_**
 
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">其他 Others</h2>
 
-**<font size=5> UMN各类资源汇总: [Google Docs - 学校资源汇总](https://docs.google.com/document/d/1A06CgDp7ACYyA0KuVCJNnurALSzsBHE4JaqXIw-2SpU/edit?usp=sharing)</font>**
+- **UMN各类资源汇总: [Google Docs - 学校资源汇总](https://docs.google.com/document/d/1A06CgDp7ACYyA0KuVCJNnurALSzsBHE4JaqXIw-2SpU/edit?usp=sharing)**
 
-**<font size=5> 实用信息汇总: _Coming soon_</font>**
+- **实用信息汇总: _Coming soon_**
 
-**<font size=5> 赴美行李清单参考: [Google Docs - 赴美行李准备](https://docs.google.com/document/d/1lplKvfPrmqKd0_zQU2Ut9Wsi2gVoQPqrdZDRaTcUuBE/edit?usp=sharing)</font>**
+- **赴美行李清单参考: [Google Docs - 赴美行李准备](https://docs.google.com/document/d/1lplKvfPrmqKd0_zQU2Ut9Wsi2gVoQPqrdZDRaTcUuBE/edit?usp=sharing)**
 
-**<font size=5> 学费羊毛: [Google Docs - 学费包含的服务](https://docs.google.com/document/d/1Cu6NbOQzmb3fjdwdPt0XP6O9x4nsrraB5U31HOBMsBU/edit?usp=sharing)</font>**
+- **学费羊毛: [Google Docs - 学费包含的服务](https://docs.google.com/document/d/1Cu6NbOQzmb3fjdwdPt0XP6O9x4nsrraB5U31HOBMsBU/edit?usp=sharing)**
 
 ---
 
