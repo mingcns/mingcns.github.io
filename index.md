@@ -605,3 +605,49 @@ _注：1. Debit Card在银行交易记录中有可能显示为Check Card。2. Ch
 **学费账单生成日和付款截止日期:**  
 一般情况下，新生的学费账单生成日为开学第一周，而付款截止日期为开学第二周。  
 具体日期请以 [Dates and Deadlines](https://onestop.umn.edu/dates-and-deadlines) 中标注的日期为准。
+
+### 学校周边亚洲餐厅不完全清单
+
+以下所有排名不分先后：
+
+#### Stadium Village 地区
+
+饭店名 | 主打菜系 | 地址
+ --- | --- | ---
+九龙饭店 Kowloon Restaurant | 粤菜 | [935 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/bjH19aH6SsqYJQcj8)
+香园 Tea House | 北方菜、川菜 | [2425 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/Yi8oegwxLVhvFCEA6)
+宽窄 Legendary Spice | 川菜 | [317 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/yvqeAM8kxpXZwpUL6)
+香港面家 Hong Kong Noodles | 粤菜 | [901 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/XFJWBRJtn9z3M3V87)
+老四川 Lao Szechuan | 川菜 | [304 SE Oak St, Minneapolis, MN 55455](https://goo.gl/maps/gDMfj7kmiDLy6y5a8)
+Kimchi Tofu House | 韩餐 | [307 SE Oak St, Minneapolis, MN 55414](https://goo.gl/maps/NhLHiu28tjaA4B7f8)
+Bona Vietnamese Restaurant | 越南粉 | [815 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/edGNRc213XbY1zHf9)
+Korea Restaurant | 韩餐 | [211 SE Oak St, Minneapolis, MN 55414](https://goo.gl/maps/MdGxjvQMpbfTwMTG6)
+大排档 Sidewalk Kitchen | 粤菜 | [817 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/RkRo9UNWW2Yaz14fA)
+Haiku Japanese Bistro | 美式日料 | [620 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/a4V7i6o9FfxGxvfs6)
+聚烤屋 The Cajun House | 烧烤、海鲜 | [2600 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/CqLXpda8EbK9jZ3b7)
+宽窄串串火锅 Legendary Spice Hotpot | 烧烤、火锅 | [2501 University Avenue Southeast, Minneapolis, MN](https://goo.gl/maps/FW7vRzmE7Bdc9Dtm6)
+
+#### Dinkytown 地区
+
+饭店名 | 主打菜系 | 地址
+ --- | --- | ---
+忘不了 Pagoda | 中餐 | [1417 4th St SE, Minneapolis, MN 55414](https://goo.gl/maps/QYJSkj9L3ZZZSWSV7)
+Camdi | 越南、粤菜 | [1325 SE 4th St, Minneapolis, MN 55414](https://goo.gl/maps/kW1cFCfyMiLPg8Y79)
+味鼎 Tasty Pot | 台湾臭臭锅 | [423 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/YZeM9wCS1NYpyBnJ6)
+Kbop Korean Bistro | 韩餐 | [425 13th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/z28zwpGbhf9TU32Z6)
+乐涮 Le Pot | 小火锅 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/R6SZUJ4LvFjFkjsM6)
+Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/7AfEBYgmCq662aCf9)
+
+### 亚洲超市不完全清单
+
+以下排名不分先后：
+
+店名 Store Name | 地址 Location
+ --- | ---
+Shuang Hur Supermarket 双和St Paul店 | [654 University Ave W, St Paul, MN 55104](https://goo.gl/maps/CAmFQ8pjXgkv8T698)
+United Noodles 联合超市 | [2015 E 24th St, Minneapolis, MN 55404](https://goo.gl/maps/VhPUetG9jFCYfBMy8)
+Shanghai Market 上海超市 | [1546 Como Ave, St Paul, MN 55108](https://goo.gl/maps/G3gRKUtwDKrpTsz18)
+Shanghai Wholesale 上海批发 | [451 Industrial Blvd NE E, Minneapolis, MN 55413](https://goo.gl/maps/hcpS4PwqodcoMqQs7)
+Dragon Star 龙星 | [633 W Minnehaha Ave, St Paul, MN 55104](https://goo.gl/maps/d82jfe3gRzPQzXJv8)
+Shuang Hur 双和Mpls Uptown店 | [2712 Nicollet Ave, Minneapolis, MN 55408](https://goo.gl/maps/N7mgcuHBewznK5K17)
+Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/maps/K7VhHA7YmicXabUy7)
