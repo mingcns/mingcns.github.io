@@ -87,8 +87,8 @@ International Student Preparation Course的过程中预约 **ISSS Check-In And W
 将可以[消除来自ISSS的Registration Hold](https://isss.umn.edu/new/removeholds.html)。
 一般来说，强烈建议研究生在自己院系的Orientation以及Events开始之前，完成ISSS Check-in。
 
-<!-- TODO(tnz): Adding link to 心内容中文综述 in attachment. -->
-* International Student Preparation Course 核心内容中文综述 (详见附件 仅供参考)
+* [International Student Preparation Course 核心内容中文综述](#isss-preparation-重点)
+(详见附件 仅供参考)
 
 ### 申请I-20学生表格
 
@@ -680,8 +680,7 @@ Veterinary Medical Center, Food Science & Nutrition
 
 [图片版校车地图](https://www.pts.umn.edu/sites/pts.umn.edu/files/styles/panopoly_image_original/public/bus_outline_map_printable.jpg)
 
-<!-- TODO(tnz): Add link to appendix. -->
-更多学校的地图请查阅本文档末端的实用链接获得。
+更多学校的地图请查阅本文档末端的 [实用链接 - 各式学校地图](#umn-map-links-anchor)。
 
 _以上经停站皆为挑选，详细路线及站点请下载手机软件Gopher Trip查看_
 
@@ -1296,7 +1295,7 @@ UMN中国代表处微信公众号：UMNChina
 1. 如果打算住在校外公寓，这里是一些可能用到的资源：[Off Campus Living](http://ocl.umn.edu/)  
 这个是学校官方的找室友网站: [Off Campus Living - Find A Roommate](http://ocl.umn.edu/renting-near-campus/find-a-roommate/)
 
-1. 各式学校地图
+1. <span id="umn-map-links-anchor">各式学校地图</span>
 
     1. 学校官方Virtual Tour: [Campus Visits](https://admissions.tc.umn.edu/visit/) (向下滑点击”Guided Walking Virtual Tour”即可)
 
