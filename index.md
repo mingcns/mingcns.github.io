@@ -738,4 +738,184 @@ _请注意，威斯康星州 Wisconsin <font color="red">不允许使用中国�
 详见美国国务院博客上雾谷飞鸿的中文介绍《[再谈“国际驾照”](https://share.america.gov/zh-hans/permit/)》。
 
 根据[台湾地区涉外机关消息](https://www.mofa.gov.tw/News_Content_M_2.aspx?n=FAEEE2F9798A98FD&sms=6DC19D8F09484C89&s=ED8D44898C7AD886)，
-自2019年1月3日起， **台湾地区签发** 的驾驶执照可以直接在明尼苏达州免除路试换取明州驾照。台湾地区驾照持有者可以前往任意一个有笔试设施的MN DVS，在通过笔试后，可以免路考直接换取明尼苏达驾照。
+自2019年1月3日起， **台湾地区签发** 的驾驶执照可以直接在明尼苏达州免除路试换取明州驾照。
+台湾地区驾照持有者可以前往任意一个有笔试设施的MN DVS，在通过笔试后，可以免路考直接换取明尼苏达驾照。
+
+
+## 明大学术要求与本科专业
+
+### “GPA”平均学分绩点简介
+
+GPA全称Grade Point Average，国内称作绩点，是学生学术能力的直接体现。
+UMN的GPA范围为 **[0, 4.0]** 。
+GPA越高代表该学生在课程中的表现越为优异。GPA 分为 Accumulated 和 Technical (或称 Major GPA)。
+Accumulated是总GPA，其计算包括了学生在UMN的全部成绩，而Technical GPA的计算只包括了专业课的成绩。
+
+如果想要从UMN毕业，需要保持至少 **2.0以上** 的 Accumulated GPA。GPA的计算只舍不入。
+大家可以通过学校官方提供的GPA Calculator来计算自己的GPA：https://gpacalc.umn.edu/
+
+### Grading Basis简介
+
+1. **A-F**  
+使用A-F Grade Basis的课在结课后会收到A/B/C/D/F中的其中一个字母分(Letter Grade)，可细分为A至F的11个等地，并分别对应GPA:
+```
+    A -> 4.0
+    A- -> 3.667
+    B+ -> 3.333
+    B -> 3.0
+    B- -> 2.667
+    C+ -> 2.333
+    C -> 2.0
+    C- -> 1.667
+    D+ -> 1.333
+    D -> 1.0
+    F -> 0
+```
+得到 C 以上(包含 C)的成绩则代表通过这门课，可以获得该课的全部学分，并该课可以用来满足通识教育或(和)专业课要求。  
+如果获得 D ，有可能会得到学分，但是该课不能用来满足任何学位要求。  
+F 即不合格。  
+学校官方解释如下:
+[Grading and Transcripts: Twin Cities, Crookston, Morris, Rochester](https://policy.umn.edu/education/gradingtranscripts)
+
+1. **S/N**  
+Satisfactory or Non-stasifactory，既满足或不满足。  
+使用S/N Grade Basis的课在结课后会收到S或者N的Letter Grade。
+S 对等于 A-F Grade Basis中的C-以上 (或C, 不同课的要求不一样)，表示通过该课。N即为不通过。  
+S/N 相对于 A-F 的区别是 S/N 的课并不会影响你的GPA (不会拉低也不会提高)，但是任何选择了 S/N
+评分标准的课都 **不会被计入专业课要求** 中。
+因此，所有的专业课必须使用 A-F Grade Basis，S/N 则适用于通识教育课或者其他自己感兴趣但是又不想担太多压力的课程（
+但这并不表示通识教育课都可以选 S/N ）。
+
+1. **Audit**  
+旁听，使用 Audit Grade Basis 的课不会被计入任何学术要求中，课程完成后会成绩单上会写有V，代表这门课是旁听的，不计入成绩。
+Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学校的13 Credit Policy，
+对于本科生来说超过13分后学费是一个固定值）
+
+请注意，选择使用 **S-N Grade Basis** 完成的课程只能用于满足120学分的总学分要求以及通识课程要求，
+并 **<font color="red">不能满足学位要求</font>**。
+
+2018 Fall 之后才Declare专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
+将被降低为 **20学分**。
+
+在此之前Declare专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
+仍然为不超过毕业时 **总学分的 25%** 即可。
+
+请查看APAS([下有介绍](#apas))，或者面见Advisor获取更多细节，同时可以通过学校的Policy Library网站查看最新政策:
+[Credit and Grade Point Requirements for an Undergraduate (Baccalaureate) Degree: Twin Cities, Crookston, Morris, Rochester](https://policy.umn.edu/education/bacreditreq)
+
+### 关于选课与退课(Course Registration & Course Withdrawal)
+
+1. 选课
+
+    1. 新生将在Orientation第一次选课
+    1. 老生的选课时间将会在学校开放选课前于MyU中的Academic下的Register专栏出现。具体选课时间因人而异。
+
+1. 退课 (Drop/Withdraw)  
+退课的选择分为四个阶段，每个阶段的操作和造成的后果都不相同。
+
+    1. 开学第一周内：  
+    在开学第一周内学生可以随意添加、取消(Drop)或更改一门课的Grading Basis。不会在成绩单上留下任何痕迹。
+
+    1. 开学第二周内：  
+    在开学第二周内学生可以随意退课(Drop)和更改Grading Basis，但是加课需要授课者的许可(Instructor’s Consent)。同样也不会在成绩单上留下痕迹。
+
+    1. 第3周至第10周：  
+    学生可以随意退课(Drop)，但是会在成绩单上留下W记号，标志着Withdrawal。学生不得更改Grading Basis。加课需要填写Petition，在得到许可后才能加课。
+
+    1. 第11周至学期结束：  
+    理论上不得进行任何加课、退课以及更改Grading Basis的操作，特殊情况除外(Extenuating Circumstances，具体请联系Advisor)。这里有一个例外，那就是One Time Only Late Withdrawal (OTO)。通过使用OTO，学生可以在Last Day of Instruction之前退掉一门课，但是一个人的大学生涯中有且仅有一次OTO，并且使用OTO要与Advisor联系。使用情况一般为某一门课快要挂科了。
+
+更多关于成绩单符号的介绍请访问这个链接：[Academics - Viewing grades](https://onestop.umn.edu/academics/viewing-grades)
+
+
+### 每学期选课的学分要求
+
+1. 国际生(Full Time Student)每学期必须选够12分学分 (研究生6分) 以保持在美F-1身份的合法性。
+
+1. 一般情况下学费的计算基于学分数量，但是由于学校的13 Credit Policy，学生在选够13分学分后所缴纳的学费与只选取13分是同一个价格。
+如果因特殊情况获得ISSS批准后，未选够13分，可以填写表格申请减免相应的学费。Onestop 官方说明如下：
+[Academics - 13-credit requirement](https://onestop.umn.edu/academics/13-credit-policy)
+
+1. 学校建议学生每学期注册至少15分的课程以保证可以4年毕业。
+
+1. 学校虽然没有限定学生一学期内可以选修的学分上限，但是如果学生想要选取超过20分 (不包括20分) 的课程，需要向Advisor咨询并填写申请表，通过后方可注册超过20分的课程 (Overload)。
+
+1. F-1签证 **网课学分** 数量限制
+    * F-1身份的 **本科生** 每学期至多可以选择3分的网课用来满足12分的最低学分注册要求。如果in-person课程的学分已注册了9分或以上，那么可以注册的网课学分数量不受限制。
+    * F-1身份的 **研究生** 每学期至多可以选择3分的网课用来满足6分的最低学分注册要求。如果in-person课程的学分已注册了6分或以上，那么可以注册的网课学分数量不受限制。
+
+### APAS
+
+Academic Progress Audit System，是学校提供的用于追踪学生学术情况和毕业要求完成情况的一个报告。换句话来说就是某学生完成了什么要求，还需要满足什么要求才能毕业，都可以在该生的APAS中查到。
+
+可以点击链接访问你的 APAS：[Academic Progress Audit System](https://onestop.umn.edu/academics/apas)
+
+### 本科毕业要求
+
+1. 学分总数至少满足120分。
+
+1. 满足明大的 [Liberal Education 的本科通识教育要求](https://onestop.umn.edu/academics/education-requirements)。
+即为需要满足全部7个 **Diversified core** 要求、在5个 **Designated themes** 中至少满足4个、 **新生写作课**(WRIT 1301, 1401, or equivalent)、以及四门课号带有 **W尾标的Writing Intensive** 课程（其中需要有至少两门课号为3000-level或者更高的 **高阶课程** ，并且至少有一门为 **专业内的高阶课程** ）。  
+<br>这并不代表你需要上7+4+1+4=16节通识课，其实课程之间很多是有在通识教育要求上相互覆盖的。  
+比如 _PHYS 1301W: Introductory Physics for Science and Engineering I_ 这门课，它能满足 _Physical Sciences_
+这个 **Diversified core** 要求，与此同时，它还是一门带有 **W尾标的Writing Intensive** 课程。
+因此它可以同时满足两项要求。  
+再比如 _CSCI 3921W: Social, Legal, and Ethical Issues in Computing_ 这门课，它能满足 _Civic Life and Ethics_
+这个 **Designated themes** ，也是一门带有 **W尾标** 的课号至少为3000-level的 **高阶Writing Intensive** 课程，
+与此同时它还可以用来满足 _B.S. in Computer Science_ 或者 _B.S. in Computer Engineering_
+等学位的 **专业内高阶Writing Intensive** 课的要求。
+更多细节，请点击 [Academic - Education requirements](https://onestop.umn.edu/academics/education-requirements)
+查看详情。
+
+1. 满足至少一个学位项目的学位要求（详见下一小节 - [本科专业与学位项目要求](#本科专业与学位项目要求)）。
+
+### 本科专业与学位项目要求
+
+首先，所有的学位项目 **Program** 都是由 **院系 Department/School** (比如 _School of Mathematics_ 、
+_Department of Economics_ )开设的，同一个院系的同一个 **专业 Major** 开设的不同学位项目下的学生，
+倘若选了同一门课的同一个Section，都是在一起上课的，所以不存在BA还是BS项目更好选课之类的问题（请见
+常见问题FAQ <!-- TODO<tnz>: Adding link to FAQ -->
+中BA和BS的区别辨析）。  
+
+但是，只有注册在对应的 **学院 College** 才能Declare对应的学位项目 ，  
+比如数学专业(Mathematics Major) 的 _Mathematics B.S. Math._ 项目，只有身处 _College of Science and Engineering_
+才能Declare。  
+同时，同为数学专业(Mathematics Major) 的 _Mathematics B.A._ 项目，
+就只有在 _College of Liberal Arts_ 才能Declare，尽管这两个学位项目都是由数学系 _School of Mathematics_ 开设的。
+
+接下来，我们将用 _Mathematics B.A._ 这个学位项目作为例子，来详细讲解一个学位项目的学位要求是由什么组成的。
+这是 _Mathematics B.A._ 的学位项目要求链接：  
+[Program Details - Mathematics B.A.](https://onestop2.umn.edu/pcas/viewCatalogProgram.do?programID=141)
+
+首先，是学位项目的介绍：
+<!-- TODO<tnz>: Adding image here. -->
+
+每个学位项目都有两个要求：
+
+1. **Admission Requirements**  
+Admission Requirements 有时候又被称作 **Declaration Requirement** ，这是Declare学位项目的要求。  
+在新生被明大录取之后，其实大家都是没有专业的，有的也只是 **Undecided、Premajor或者Lower Division**
+这种希望自己能学习什么专业的<font color="red">意向</font>，而不是真正意义上确定了的<font color="red">专业</font>。
+要正式地 **确认专业 Declare Major** ，是需要在满足学位项目的 **Admission Requirements** 之后，
+向学院提交申请来正式确定自己的 **学位项目 Program** 。
+
+1. **Program Requirements**  
+在全部满足一个学位项目的 Program Requirements 之后，即便视作满足了这个学位项目的要求。可以以这个学位毕业。
+
+可以于 [Academics | UMTC - Undergraduate Majors](https://twin-cities.umn.edu/academics#anchor-undergraduate-majors)
+搜索到所有本科学位的学位项目要求。
+
+### 多学位(专业)毕业
+
+满足一个学位项目的全部学位要求，以及其他的综合毕业要求，是本科生毕业的 **基本条件** 。
+对于计划修习超过一个专业的同学来说，修满第二个、第三个甚至第四个学位项目要求，来同时以多个专业毕业也是可行的。
+
+不同的学位可以是来自不同的学院。  
+举个例子，一位同学注册在 _Carlson School of Management_ 并且已经在读于 _Management Information Systems B.S.B._
+项目，他也可以选择申请同时修读开设于 _College of Liberal Arts_ 的 _Computer Science B.A._
+项目来加强自己的技术上的竞争力。
+
+但是有的学位项目不允许非本学院的学生进行 额外专业(Double Major)申请，关于更多具体细节请联系你的 **College Advisor** 。
+
+但是在此提醒，请做好自己的学业与职业规划，不要盲目追求多学位。
+只修一个学位一样可以有很好的发展前景，多个专业学位毕业也不代表就能样样精通。
