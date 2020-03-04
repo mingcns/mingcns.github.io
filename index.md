@@ -1,4 +1,6 @@
-<b><h1 style="margin: 0 auto; text-align: center;">Project MinG/CNS</h1></b>
+<h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
+Project MinG/CNS
+</h1>
 
 ---
 
