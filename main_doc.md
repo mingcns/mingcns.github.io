@@ -381,6 +381,22 @@ GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛�
 而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
 详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
 
+### Welcome Week (WW)
+
+学校官方介绍如下：  
+[Orientation & Transition Experiences - Welcome Week](https://ote.umn.edu/welcome-week-home)
+
+所有新生理论上都要参加Welcome Week，学校称其为Required，但是在活动选择时或实在太累，可以选择性放弃一些项目。
+
+虽说可以放弃一些项目，但是我们还是强烈推荐大家完整的参加Welcome Week活动，
+毕竟这是一次与同是新生的美国人、中国人、其他国别的人交朋友的机会，也更是一个体验美国大学文化的好机会。
+
+**CLA的同学** 请注意前往Welcome Week中的College Day参与活动，
+因为College Day占大一新生体验这门课(课号CLA1001)中U-Thrive活动的50分
+(总分100分，不去College Day将不会得到其中的50分，后续需要通过参与更多的U-Thrive活动来补偿这50分)。
+
+**CEHD的同学** 需要注意，在你们的College Day中有一次Meeting，这是必须要参加的Meeting，请务必前往。
+
 ### Ucard校园卡
 
 Ucard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领取了，不用等到Orientation再领取。
@@ -419,22 +435,6 @@ UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 
 _注：以上提及的Gopher Gold, Flexdine和GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
-
-### Welcome Week (WW)
-
-学校官方介绍如下：  
-[Orientation & Transition Experiences - Welcome Week](https://ote.umn.edu/welcome-week-home)
-
-所有新生理论上都要参加Welcome Week，学校称其为Required，但是在活动选择时或实在太累，可以选择性放弃一些项目。
-
-虽说可以放弃一些项目，但是我们还是强烈推荐大家完整的参加Welcome Week活动，
-毕竟这是一次与同是新生的美国人、中国人、其他国别的人交朋友的机会，也更是一个体验美国大学文化的好机会。
-
-**CLA的同学** 请注意前往Welcome Week中的College Day参与活动，
-因为College Day占大一新生体验这门课(课号CLA1001)中U-Thrive活动的50分
-(总分100分，不去College Day将不会得到其中的50分，后续需要通过参与更多的U-Thrive活动来补偿这50分)。
-
-**CEHD的同学** 需要注意，在你们的College Day中有一次Meeting，这是必须要参加的Meeting，请务必前往。
 
 
 ## 生活在明大
