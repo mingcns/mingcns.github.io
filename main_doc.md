@@ -372,6 +372,15 @@ Orientation只有一天，将在一天内完成Immigration Check-in以及面见A
 (包括评分标准、Paper篇幅要求、MLA或APA写作风格等)会因不同老师的要求不同而存在差异，
 所以我们强烈建议大家选课前向学长学姐打听清楚每位老师的教学风格与要求，避免不必要的麻烦。
 
+### Global Gopher Event (GGE)
+
+<!-- TODO(tnz): check the time below later. -->
+时间：2019年8月19 - 27号 (2020年信息待定)
+
+GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍很多的学校资源、逛校园。
+而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
+详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
+
 ### Ucard校园卡
 
 Ucard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领取了，不用等到Orientation再领取。
@@ -410,15 +419,6 @@ UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 
 _注：以上提及的Gopher Gold, Flexdine和GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
-
-### Global Gopher Event (GGE)
-
-<!-- TODO(tnz): check the time below later. -->
-时间：2019年8月19 - 27号 (2020年信息待定)
-
-GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍很多的学校资源、逛校园。
-而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
-详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
 
 ### Welcome Week (WW)
 
