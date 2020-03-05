@@ -1289,8 +1289,6 @@ _(本段由 Tiannan Zhou 根据2019年新生 ISSS Preparation 资源汇总)_
 1. UMN中国代表处官网: [明尼苏达大学中国代表处](https://china.umn.edu/)  
 UMN中国代表处微信公众号：UMNChina
 
-1. Project MinG/CNS 项目下文档清单: [Catalog.MinGCNS.org](http://catalog.MinGCNS.org)
-
 1. 学校地理情况概述(此文档仍处于起步阶段，欢迎各位提出意见建议):
 [UMN 主要院系及教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)
 
