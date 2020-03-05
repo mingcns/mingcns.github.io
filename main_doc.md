@@ -13,11 +13,10 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-<i>
+<div style="color: grey">
 Page Built on:
-<script type="text/javascript"> document.write(document.lastModified);
-</script>
-</i>
+<i><script type="text/javascript"> document.write(document.lastModified); </script></i>
+</div>
 </div><br>
 
 
