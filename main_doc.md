@@ -334,8 +334,8 @@ Centennial Hall:
         1. 我们建议大家在面见Advisor前先于
         [University Catalog - list of current undergrad programs](https://onestop2.umn.edu/pcas/viewCatalogSearchResults.do?campusId=UMNTC&userDefinedSearch=true&keywords=&careerId=UGRD&programType=BACC)
         中搜索自己想攻读的专业项目，随后按照项目要求先自行排课，如有疑问即可当面向Advisor提出。  
-        关于如何阅读项目要求，可以参考本文
-        [明大学术要求与本科专业 - 专业与学位项目要求](#专业与学位项目要求) 章节。  
+        关于如何阅读学位项目要求，可以参考本文
+        [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。  
         学校提供有排课工具网站 **Schedule Builder**:
         [schedulebuilder.umn.edu](https://schedulebuilder.umn.edu/)  
         _(使用Schedule Builder排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
@@ -808,7 +808,7 @@ _（新版带英文翻译的中国驾照格式，图片来自网络）_
 _请注意：是否能持中国驾照在当地开车是以当地DMV规定与执法部门实际执行为准，该文章来源于网络，仅供参考。_
 
 
-## 明大学术要求与本科专业
+## 明大学术要求与专业项目
 
 ### “GPA”平均学分绩点简介
 
@@ -1102,7 +1102,7 @@ A: 研究生和博士生没有Checklist，具体入学事项请联系你的Depar
 **Q: 为什么我申请的时候填了专业，但是录取通知书上只有学院的名字？**  
 A:  因为美国大学和国内大学不一样，美国大学基本上都是先录取到学院，或者pre-major，
 然后在你修完先修课程（pre-requisite）满足专业的admission要求后（一般在大二下学期）才申请declare专业。
-具体可以参阅本文 [明大学术要求与本科专业 - 专业与学位项目要求](#专业与学位项目要求) 章节。
+具体可以参阅本文 [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。
 
 **Q: 我现在录取到了A专业/学院，以后可以转去B专业/学院吗？**  
 A: 当然可以，具体情况联系Advisor。一般来说在pre-major阶段，同学院转专业只需要跟Advisor联系，
