@@ -13,7 +13,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，<a href="#版权与免责协议">详见版权与免责协议</a><br>
-(V202003 Git Version)
+<i>Build Date: {{build_date_utc}}</i>
 </div><br>
 
 
