@@ -362,7 +362,7 @@ Orientation只有一天，将在一天内完成Immigration Check-in以及面见A
 需要注意的是，研究生的ISSS Immigration Check-in 必须要早于学院的 Orientation 完成。否则 **无法选课** 。
 
 更多关于 **非常重要** 的所有国际生都需要参加的 **Immigration check-in** 的细节，
-请参考[国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
+请参考 [国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
 
 **关于 University Writing/ AKA Freshman Writing (课号WRIT 1301):**  
 学校要求所有的本科生(包括转学生)于毕业前完成WRIT1301课程。选课时，WRIT1301的section 1-10 是为国际生定制的sections，
