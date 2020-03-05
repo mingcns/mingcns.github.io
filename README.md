@@ -7,6 +7,25 @@
 由于本项目仍处于起步阶段，很多地方仍需完善，若您有建议、意见或是希望贡献内容，
 非常欢迎您与我们联系或对该Repository发起Pull Request。
 
-我们的联络邮箱是:
-* mingcns2019@gmail.com
-* project-ming-cns-admin@googlegroups.com
+我们的联络邮箱 Email:  
+* [mingcns2019@gmail.com](mailto:MinGCNS2019@gmail.com)
+* [project-ming-cns-admin@googlegroups.com](mailto:project-ming-cns-admin@googlegroups.com)
+
+参与本项目的志愿作者团队与共同创作者名单 (排名不分先后):  
+Authors, co-editors, and contributors participating in this project:
+
+* Cai, Wen
+* Ding, Yifan
+* Feng, Anita
+* Law, Chingyau
+* Liu, Jingyan
+* Lu, Han
+* Shen, Thomas
+* Su, Yuhao
+* [Sun, Haoyue](https://github.com/H-Yue-Sun)
+* Tao, Leonard
+* Wang, Yushuang
+* Yang, Benyuan
+* Zhan, Jiayu
+* Zheng, Yue
+* [Zhou, Tiannan](https://github.com/TrotylTN)
