@@ -12,8 +12,12 @@ permalink: /guidebook/
 {:.no_toc}
 
 <div align="right">
-本指南非官方文件，<a href="#版权与免责协议">详见版权与免责协议</a><br>
-<i>Build Date: {{build_date_utc}}</i>
+本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+<i>
+Page Built on:
+<script type="text/javascript"> document.write(document.lastModified);
+</script>
+</i>
 </div><br>
 
 
