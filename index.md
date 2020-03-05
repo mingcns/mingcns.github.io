@@ -4,17 +4,15 @@ Project MinG/CNS
 
 ---
 
-<h2 style="margin: 0 auto 10px auto; text-align: center;">主要文档 Main Documents</h2>
+<h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
 
 - **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](http://mingcns.org/guidebook)**
-
-- **UMN地理、教学楼、主要学院简介: [Google Docs - 主要院系与教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)**
-
-- **UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)**
 
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
+
+- **UMN地理、教学楼、主要学院简介: [Google Docs - 主要院系与教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)**
 
 - **转学分相关经验分享: [Google Docs - 转学分相关介绍](https://docs.google.com/document/d/1XTFisc8i_bUdBH2rpmU2p2Rq8T8johQ0Ca7JgyhLXVI/edit?usp=sharing)**
 
@@ -28,6 +26,8 @@ _(请使用UMN邮箱登陆)_
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">生活相关 Daily Life Related</h2>
+
+- **UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)**
 
 - **Metro Transit 轻轨简介: [Google Docs - Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)**
 
