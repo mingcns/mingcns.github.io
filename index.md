@@ -73,10 +73,10 @@ _<font color="grey">Authors, co-editors, and contributors participating in this 
 * <font color="grey">Lu, Han</font>
 * <font color="grey">Shen, Thomas</font>
 * <font color="grey">Su, Yuhao</font>
-* <font color="grey">[Sun, Haoyue](https://github.com/H-Yue-Sun)</font>
+* [Sun, Haoyue](https://github.com/H-Yue-Sun)
 * <font color="grey">Tao, Leonard</font>
 * <font color="grey">Wang, Yushuang</font>
 * <font color="grey">Yang, Benyuan</font>
-* <font color="grey">[Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)</font>
+* [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * <font color="grey">Zheng, Yue</font>
-* <font color="grey">[Zhou, Tiannan](https://github.com/TrotylTN)</font>
+* [Zhou, Tiannan](https://github.com/TrotylTN)
