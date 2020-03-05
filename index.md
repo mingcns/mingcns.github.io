@@ -12,8 +12,6 @@ Project MinG/CNS
 
 - **UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)**
 
-- **新生入学注意事项: [Google Docs - 新生入学注意事项](https://docs.google.com/document/d/1rxVFjaOZitAQL_hVDB4suGYS2qP0sag_TS_dF9U1VSU/edit?usp=sharing)**
-
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
