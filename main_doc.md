@@ -57,7 +57,8 @@ Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个
 大家在抵校后会被要求激活DUO以保证账户安全，如果你在设置DUO账号的过程中遇到了技术问题，请联系学校IT部门(联系方式在网页底部左下角):
 [IT @ UMN](https://it.umn.edu/)
 
-1. 激活你的UMN邮箱：由于学校邮箱是基于Google Gmail的，此操作需要可以访问Google的网络环境，学校官方提供VPN:
+1. <span id="activate-umn-email-anchor">激活你的UMN邮箱：</span>
+由于学校邮箱是基于Google Gmail的，此操作需要可以访问Google的网络环境，学校官方提供VPN:
 [Virtual Private Network (VPN)](https://it.umn.edu/service-details/virtual-private-network-vpn)
 (Windows推荐使用AnyConnect, Mac OS 推荐使用Native Client。AnyConnect连接时请选择 **Full Tunnel**)。  
 一般情况下，学校在6月后就会停止往学生申请时填写的邮箱发送邮件通知，所以为了保证可以收到来自学校的重要消息，
@@ -303,7 +304,73 @@ Centennial Hall:
     * 不住在学校公寓(校外租房)的学生需要于8月28日晚7点前退房。
 
 
-## Orientation相关问题
+## 初至明尼
+
+### Orientation & Immigration Check-in
+
+* 大一新生：Orientation 分两天。  
+    1. 第一天为Immigration Check-in， **关系到你在美国的合法身份** ，请务必 **准时到场** 参加！
+        1. Immigration Check-in需要准备材料如下：
+            * 护照原件
+            * 护照信息页复印件
+            * 美国 F-1 或 J-1 签证复印件
+            * 护照内美国海关(CBP)的入境章(Entry Stamp)复印件
+            * I-20 或 DS-2019 表格原件
+            * I-20 或 DS-2019 表格复印件
+            * I-94 入境记录打印件
+            (可于 [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov/I94/) 点击 "**Get Most Recent I-94**" 获取)。
+        1. 自Fall 2019开始，ISSS要求大家在抵达美国后，先在
+        [MyISSS Portal](https://myisss.umn.edu/)上传相关信息后，再前往In Person Immigration Check-in。
+        请大家留意自己的 **UMN邮箱** 中关于相关事宜的邮件。因此，请务必 **提前激活学校邮箱** ，详见本文
+        [UMN学生账号的激活与使用 - 激活你的UMN邮箱](#activate-umn-email-anchor)
+        章节。更多细节，请参阅：
+        [ISSS - Submit Your Documents on MyISSS](https://isss.umn.edu/new/docs.html)
+        1. Coffman G层 UCard Office 与 星巴克 中间有一家 **Printing Service** 可以复印以上材料。
+        Printing Service **仅接受 [Gopher Gold](#gopher-gold-intro-anchor)** 付款。
+        如果暂时没有领取 UCard 或还没有充值 Gopher Gold，
+        可以选择前往 700 Washington Apartments 公寓楼下的 **Paradigm Copies** 打印店复印材料。地址为:  
+        [720 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/Dc7ZrmKas9cbQDnR6)
+    1. 第二天为面见Advisor以及选课，请确保在此时你MyU上的 **Hold(s)已经全部消除** ，否则你将无法选课。
+        1. 我们建议大家在面见Advisor前先于
+        [University Catalog - list of current undergrad programs](https://onestop2.umn.edu/pcas/viewCatalogSearchResults.do?campusId=UMNTC&userDefinedSearch=true&keywords=&careerId=UGRD&programType=BACC)
+        中搜索自己想攻读的专业项目，随后按照项目要求先自行排课，如有疑问即可当面向Advisor提出。  
+        关于如何阅读学位项目要求，可以参考本文
+        [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。  
+        学校提供有排课工具网站 **Schedule Builder**:
+        [schedulebuilder.umn.edu](https://schedulebuilder.umn.edu/)  
+        _(使用Schedule Builder排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
+        1. 学校虽然安排新生于选课后前往UCard Office领取UCard，
+        但是其实新生到校后便可前往UCard Office凭护照领取UCard了， **并无时间限制** 。
+            1. 领取 UCard 时会有TCF Bank的员工询问你是否需要开一个TCF Bank的银行账户。
+            由于TCF是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用TCF Bank](#关于tcf-bank)
+            作为主力账户，请大家自行斟酌。
+            更多关于银行的讨论，请参阅本文的 [银行账户与开户流程](#银行账户与开户流程) 章节。
+            1. 领取 UCard 时，UCard Office会询问你是否需要充值Gopher Gold，
+            由于校内打印、复印均需要使用Gopher Gold付款，我们建议大家领取时可以选择充值少量金额
+            （譬如10刀）供复印使用。**Carlson学生** 与 **工院CSELab用户** 分别拥有
+            [无限免费文印](https://carlsonschool.umn.edu/degrees/undergraduate/student-life/advising-coaching-and-technology) 和
+            [CSELab $60 免费文印额度](https://cseit.umn.edu/knowledge-help/learn-more-about-cse-labs-print-quotas)，
+            若是Carlson的学生或者是 CSELab用户（比如工院CSE学生、CLA CS学生、和选了入门CS课的其他学院学生）
+            ，可以选择不充值。
+            1. 更多关于 UCard 的介绍请阅读本文中的 [UCard校园卡](#ucard校园卡) 简介章节。
+
+* 转学生：  
+Orientation只有一天，将在一天内完成Immigration Check-in以及面见Advisor和选课。注意事项与大一新生相同。
+
+* 硕士生/博士生：  
+没有统一的Orientation以及Immigration Check-in。请联系录取院系获取相关事宜。  
+需要注意的是，研究生的ISSS Immigration Check-in 必须要早于学院的 Orientation 完成。否则 **无法选课** 。
+
+更多关于 **非常重要** 的所有国际生都需要参加的 **Immigration check-in** 的细节，
+请参考 [国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
+
+**关于 University Writing/ AKA Freshman Writing (课号WRIT 1301):**  
+学校要求所有的本科生(包括转学生)于毕业前完成WRIT1301课程。选课时，WRIT1301的section 1-10 是为国际生定制的sections，
+综合难度会小于其他美国本地生的sections，所以我们建议选择前十个sections。
+当然，选择本地生的sections也不是不可以，有些老师对上本地生sections的国际生还是很友好的，会适当降低要求，
+所以请在充分了解某老师的教学要求后再做出选择。另外，不论是国际生还是本地生sections，WRIT1301的课程设置
+(包括评分标准、Paper篇幅要求、MLA或APA写作风格等)会因不同老师的要求不同而存在差异，
+所以我们强烈建议大家选课前向学长学姐打听清楚每位老师的教学风格与要求，避免不必要的麻烦。
 
 ### Global Gopher Event (GGE)
 
@@ -321,7 +388,7 @@ Ucard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领�
 **关于Ucard的介绍:**  
 Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明的一个证件。Ucard除了做证件以外，还内置了几个账户，
 可以用于校内的消费、图书馆借书、甚至搭乘公交（需要充值）:
-* **Gopher Gold**  
+* **<span id="gopher-gold-intro-anchor">Gopher Gold</span>**  
 校内的电子货币，可以用于支付校内打印费用等大部分校内消费。  
 充值信息如下：[Deposit to Gopher GOLD](https://ucard.umn.edu/umtc/deposit)  
 这里笔者建议大家在刚开学Ucard Office 推出充值送钱的活动时充值。
@@ -353,33 +420,15 @@ UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 _注：以上提及的Gopher Gold, Flexdine和GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
 
-### 现场Orientation (Ori)
-
-* 大一新生：  
-Orientation 分两天，**第一天Immigration Check-in，十分重要！** 事关你在美国的合法身份。务必到场。
-然后就是逛学校，介绍学校的具体情况/资源。 **第二天见advisor以及选课** 。
-
-* 转学生：  
-转学生的Orientation只有一天，内容是大一新生的精简版本。
-
-* 硕士生/博士生：  
-没有统一的Orientation，请联系录取院系获取相关事宜
-
-更多关于 **非常重要** 的所有国际生都需要参加的 **Immigration check-in** 的细节，
-请参考[国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
-
-**关于 University Writing/ AKA Freshman Writing (课号WRIT 1301):**  
-学校要求所有的本科生(包括转学生)于毕业前完成WRIT1301课程。选课时，WRIT1301的section 1-10 是为国际生定制的sections，
-综合难度会小于其他美国本地生的sections，所以我们建议选择前十个sections。
-当然，选择本地生的sections也不是不可以，有些老师对上本地生sections的国际生还是很友好的，会适当降低要求，
-所以请在充分了解某老师的教学要求后再做出选择。另外，不论是国际生还是本地生sections，WRIT1301的课程设置
-(包括评分标准、Paper篇幅要求、MLA或APA写作风格等)会因不同老师的要求不同而存在差异，
-所以我们强烈建议大家选课前向学长学姐打听清楚每位老师的教学风格与要求，避免不必要的麻烦。
-
 ### Welcome Week (WW)
 
 学校官方介绍如下：  
 [Orientation & Transition Experiences - Welcome Week](https://ote.umn.edu/welcome-week-home)
+
+所有新生理论上都要参加Welcome Week，学校称其为Required，但是在活动选择时或实在太累，可以选择性放弃一些项目。
+
+虽说可以放弃一些项目，但是我们还是强烈推荐大家完整的参加Welcome Week活动，
+毕竟这是一次与同是新生的美国人、中国人、其他国别的人交朋友的机会，也更是一个体验美国大学文化的好机会。
 
 **CLA的同学** 请注意前往Welcome Week中的College Day参与活动，
 因为College Day占大一新生体验这门课(课号CLA1001)中U-Thrive活动的50分
@@ -388,7 +437,7 @@ Orientation 分两天，**第一天Immigration Check-in，十分重要！** 事�
 **CEHD的同学** 需要注意，在你们的College Day中有一次Meeting，这是必须要参加的Meeting，请务必前往。
 
 
-## 到达明大之后生活相关问题
+## 生活在明大
 
 ### 手机&套餐
 
@@ -463,7 +512,7 @@ _注：如果参与1美元优惠活动，该号码需要在网3个月以上才�
 向客服询问当前手机号的 **Account Number** 和 **PIN Code** 即可。
 在获取这两个号码后，你便可以凭Account Number 和 PIN Code 在 **新的运营商客服** 处办理携号转网业务。
 
-### 银行开户与开户流程
+### 银行账户与开户流程
 
 以下排名顺序按各位作者综合意见后的 **主观推荐顺序** 排列。
 
@@ -758,7 +807,7 @@ _（新版带英文翻译的中国驾照格式，图片来自网络）_
 _请注意：是否能持中国驾照在当地开车是以当地DMV规定与执法部门实际执行为准，该文章来源于网络，仅供参考。_
 
 
-## 明大学术要求与本科专业
+## 明大学术要求与专业项目
 
 ### “GPA”平均学分绩点简介
 
@@ -882,9 +931,9 @@ Academic Progress Audit System，是学校提供的用于追踪学生学术情�
 更多细节，请点击 [Academic - Education requirements](https://onestop.umn.edu/academics/education-requirements)
 查看详情。
 
-1. 满足至少一个学位项目的学位要求（详见下一小节 - [本科专业与学位项目要求](#本科专业与学位项目要求)）。
+1. 满足至少一个学位项目的学位要求（详见下一小节 - [专业与学位项目要求](#专业与学位项目要求)）。
 
-### 本科专业与学位项目要求
+### 专业与学位项目要求
 
 首先，所有的学位项目 **Program** 都是由 **院系 Department/School** (比如 _School of Mathematics_ 、
 _Department of Economics_ )开设的，同一个院系的同一个 **专业 Major** 开设的不同学位项目下的学生，
@@ -916,8 +965,8 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 1. **Program Requirements**  
 在全部满足一个学位项目的 Program Requirements 之后，即便视作满足了这个学位项目的要求。可以以这个学位毕业。
 
-可以于 [Academics | UMTC - Undergraduate Majors](https://twin-cities.umn.edu/academics#anchor-undergraduate-majors)
-搜索到所有本科学位的学位项目要求。
+可以于 [University Catalogs: Search for Programs](https://onestop2.umn.edu/pcas/viewCatalogSearchForm.do)
+搜索到所有学位级别所有专业的学位项目要求。
 
 ### 多学位(专业)毕业
 
@@ -1052,7 +1101,7 @@ A: 研究生和博士生没有Checklist，具体入学事项请联系你的Depar
 **Q: 为什么我申请的时候填了专业，但是录取通知书上只有学院的名字？**  
 A:  因为美国大学和国内大学不一样，美国大学基本上都是先录取到学院，或者pre-major，
 然后在你修完先修课程（pre-requisite）满足专业的admission要求后（一般在大二下学期）才申请declare专业。
-具体可以参阅本文 [明大学术要求与本科专业 - 本科专业与学位项目要求](#本科专业与学位项目要求) 章节。
+具体可以参阅本文 [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。
 
 **Q: 我现在录取到了A专业/学院，以后可以转去B专业/学院吗？**  
 A: 当然可以，具体情况联系Advisor。一般来说在pre-major阶段，同学院转专业只需要跟Advisor联系，
@@ -1172,7 +1221,7 @@ A: 从笔者个人的角度来讲，并不推荐携带太多现金。
 一般来讲2000-3000的现金就足够一般人购置生活用品并生活一个月以上了。
 此外，学校周边的ATM基本都支持银联卡取现美元 (1000RMB/Day, 详见下一个Q&A “**在美国可以使用中国国内银行的银行卡吗？**”)，
 所以并没有必要带太多美元现金。而且因为美国并不是一个现金社会，我们强烈推荐来到学校后就到美国的银行开户并将现金存入，
-刷卡使用。随身只需要留有少量现金即可。关于学校周边银行的介绍见本文档 [银行开户与开户流程](#银行开户与开户流程) 章节。
+刷卡使用。随身只需要留有少量现金即可。关于学校周边银行的介绍见本文档 [银行账户与开户流程](#银行账户与开户流程) 章节。
 
 **Q: 在美国可以使用中国国内银行的银行卡吗？**  
 A: 分情况讨论：
