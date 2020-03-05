@@ -26,6 +26,6 @@ Authors, co-editors, and contributors participating in this project:
 * Tao, Leonard
 * Wang, Yushuang
 * Yang, Benyuan
-* Zhan, Jiayu
+* [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * Zheng, Yue
 * [Zhou, Tiannan](https://github.com/TrotylTN)
