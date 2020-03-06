@@ -34,30 +34,33 @@ Page Built on:
 Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘制函数，矩阵计算等等。学校免费提供 Wolfram Alpha Pro 教育版本。
 
 3. Matlab & Mathematica: [Matlab](https://it.umn.edu/matlab) [Mathematica](https://it.umn.edu/mathematica)  
-* 学校对 CSE 和 CFANS 的学生免费提供这两个软件。但是很抱歉的是，其他学院的学生只能通过教育折扣来购买了。
-* 如果非 CSE 或 CFANS 的学生有注册 CSE 的课程，并且教授要求使用这两个软件之一，教授一般会提供一个Sponsorship，通过这个Sponsorship注册上述两个软件便可以免费使用。
+    * 学校对 CSE 和 CFANS 的学生免费提供这两个软件。但是很抱歉的是，其他学院的学生只能通过教育折扣来购买了。
+    * 如果非 CSE 或 CFANS 的学生有注册 CSE 的课程，并且教授要求使用这两个软件之一，教授一般会提供一个Sponsorship，通过这个Sponsorship注册上述两个软件便可以免费使用。
 
 4. Visual Studio Pro: [链接](https://it.umn.edu/visual-studio-pro-microsoft)
 
 5. Autodesk & SolidWorks: [Autodesk](https://it.umn.edu/autodesk-education-software-autocad), [SolidWorks](https://it.umn.edu/solidworks)
-* Autodesk 的教育版本本身就是免费的，直接去其官网下载即可。
-* SolidWorks 可从上方学校网站链接下载使用。
+    * Autodesk 的教育版本本身就是免费的，直接去其官网下载即可。
+    * SolidWorks 可从上方学校网站链接下载使用。
 
 6. Citation Manager:
-* [学校图书馆关于 Citation Manager 的介绍](https://www.lib.umn.edu/pim/citation)
-* [EndNote](https://it.umn.edu/endnote)
-* [Mendeley](https://www.lib.umn.edu/pim/mendeley)
-* [Zotero](https://www.lib.umn.edu/pim/citation/zotero)
+    * [学校图书馆关于 Citation Manager 的介绍](https://www.lib.umn.edu/pim/citation)
+    * [EndNote](https://it.umn.edu/endnote)
+    * [Mendeley](https://www.lib.umn.edu/pim/mendeley)
+    * [Zotero](https://www.lib.umn.edu/pim/citation/zotero)
 
 7. Coursera: [链接](https://coursera.umn.edu/)
 
 8. LinkedIn Learning (Lynda.com): [链接](https://it.umn.edu/technology/linkedin-learning)
 
 9. 其它软件
-* [IT @ UMN | Software](https://it.umn.edu/service-details/software)
+    * [IT @ UMN | Software](https://it.umn.edu/service-details/software)
 
 
-## 学生医保 Student Health & Benefits Plan [官网](https://shb.umn.edu/)  
+## 学生医保 Student Health & Benefits Plan
+
+[学校医保官网](https://shb.umn.edu/)  
+
 学校医保分为基础医保和附加牙保 (Dental Buy-up Plan) 两个部分，前者是强制要求国际生购买的，而后者是自愿购买的。详见: [https://shb.umn.edu/health-plans/shbp-home](https://shb.umn.edu/health-plans/shbp-home)
 
 医保包含以下服务：
@@ -75,7 +78,7 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 * [2019-2020 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_sdp_buy-up_plan_spd.pdf)
 * [2019-2020 Dental Plans Network](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_sdp_buy_up_sbc.pdf)
 
-免责声明：由于医保信息的时效性很强，本文关于医保的介绍仅供参考。如有疑问请咨询[学校医保办公室](https://shb.umn.edu/contact)并以其官方回复为准。
+_免责声明：由于医保信息的时效性很强，本文关于医保的介绍仅供参考。如有疑问请咨询[学校医保办公室](https://shb.umn.edu/contact)并以其官方回复为准。_
 
 
 ## 版权与免责协议
