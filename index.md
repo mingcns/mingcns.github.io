@@ -6,7 +6,7 @@ Project MinG/CNS
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
 
-- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](http://mingcns.org/guidebook)**
+- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook)**
 
 ---
 
@@ -48,7 +48,7 @@ _(请使用UMN邮箱登陆)_
 
 - **赴美行李清单参考: [Google Docs - 赴美行李准备](https://docs.google.com/document/d/1lplKvfPrmqKd0_zQU2Ut9Wsi2gVoQPqrdZDRaTcUuBE/edit?usp=sharing)**
 
-- **学费羊毛: [Google Docs - 学费包含的服务](https://docs.google.com/document/d/1Cu6NbOQzmb3fjdwdPt0XP6O9x4nsrraB5U31HOBMsBU/edit?usp=sharing)**
+- **学费包含的服务: [mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition)**
 
 ---
 
