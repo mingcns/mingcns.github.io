@@ -8,7 +8,7 @@ permalink: /service-included-in-tuition/
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 新文档模板
+# 学费包含的服务
 {:.no_toc}
 
 <div align="right">
