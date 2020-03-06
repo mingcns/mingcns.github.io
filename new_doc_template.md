@@ -31,7 +31,7 @@ Page Built on:
 1. 替换第三第四行的 网页title 和 permalink 成对应新文档的合适名字。
 1. Markdown源代码每行原则上不超过100个字符，最多不超过120个字符，添加链接时除外。
 1. 所有增加新文档的操作请在 **Branch** 上编写，完成后于GitHub上发起Pull Request，
-请保证至少添加了 TrotylTN@ 作为该PR的reviewer。 **请不要** 直接commit新文档到master。
+请保证至少添加了 TrotylTN 作为该PR的reviewer。 **请不要** 直接commit新文档到master。
 
 ## 删除[使用说明](#使用说明)跟这一行后，从这里开始编写正文，目录将根据Headings自动生成。
 
