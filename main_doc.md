@@ -1405,7 +1405,7 @@ Suggestions for updating and/or fixing are always welcomed via Github Pull Reque
 
 The “copyleft” of the entire document belongs to all of the author team, co-editors, and contributors.  
 
-参与本文编撰的作者与共同创作者名单(排名不分先后):
+参与本文编撰的作者与共同创作者名单(排名不分先后):  
 Authors, co-editors, and contributors of this documentation:
 
 * [Sun, Haoyue](https://github.com/H-Yue-Sun)
