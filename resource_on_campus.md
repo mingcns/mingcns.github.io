@@ -115,7 +115,7 @@ Page Built on:
 
   * **Softwares Provided by the University for Free** [Link](https://it.umn.edu/service-details/software)
 
-更多关于学费包含的服务介绍请阅读我们的《[学费包含的服务](https://www.mingcns.org/service-included-in-tuition/)》文档。
+更多关于学费包含的服务介绍请阅读我们的 [《学费包含的服务》mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition/) 文档。
 
 
 ## 版权与免责协议
