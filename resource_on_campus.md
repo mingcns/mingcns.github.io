@@ -27,6 +27,7 @@ Page Built on:
 
 
 ## Academia Related
+
 ### Language  
   * Minnesota English Language Program  
     * [项目主页 Main Page](https://ccaps.umn.edu/minnesota-english-language-program)   
@@ -63,6 +64,7 @@ Page Built on:
 
 
 ## Daily Life Related
+
 ### Legal Support
   * [Student Legal Service](https://usls.umn.edu/)
 
@@ -79,29 +81,42 @@ Page Built on:
   * [Paws](https://boynton.umn.edu/paws)
 
 ### Others
+
   * [Student Engagement](http://engage.umn.edu/)
 
 ## Provided by ISSS
   * [Academic Counseling](https://isss.umn.edu/Academics/academic-counseling.html)
+
   * [International Buddy Program](https://isss.umn.edu/programs/interbuddy/)
+
   * [Global Gopher Events](https://isss.umn.edu/programs/ggumn/)
+
   * [Small World Coffee Hour](https://isss.umn.edu/programs/smallworld/)
+
   * [Culture Corps](https://isss.umn.edu/programs/culturecorps/)
 
 ## Others
+
   * [Disability Resource Center](https://disability.umn.edu/)
+
   * [Counseling Services](https://counseling.umn.edu/)
+
   * Center for Conflict  
     * [Student Conflict Resolution Center](http://www.sos.umn.edu/)  
     * [Office for Conflict Resolution](https://ocr.umn.edu/)
-  * [Effective U | Skills for Academic and Personal Well-being](http://effectiveu.umn.edu/)
+
+  * [Effective U \| Skills for Academic and Personal Well-being](http://effectiveu.umn.edu/)
+
   * **Crisis Phone Counseling**   
     * [Webpage](http://www.mentalhealth.umn.edu/text/index.html)  
       Call 612-301-4673 or Text “UMN” to 61222
-  * [Minnesota Landscape Arboretum](http://arboretum.umn.edu/)
-  * **Softwares Provided by the University for Free** [Link](https://it.umn.edu/service-details/software)
 
-更多关于学费包含的服务介绍请阅读我们的《[学费包含的服务](https://www.mingcns.org/service-included-in-tuition/)》文档。
+  * [Minnesota Landscape Arboretum](http://arboretum.umn.edu/)
+
+  * **Softwares Provided by the University for Free**  
+  [it.umn.edu/service-details/software](https://it.umn.edu/service-details/software)
+
+更多关于学费包含的服务介绍请阅读我们的 [《学费包含的服务》mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition/) 文档。
 
 
 ## 版权与免责协议
