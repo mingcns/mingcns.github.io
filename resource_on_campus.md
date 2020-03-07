@@ -113,7 +113,8 @@ Page Built on:
 
   * [Minnesota Landscape Arboretum](http://arboretum.umn.edu/)
 
-  * **Softwares Provided by the University for Free** [Link](https://it.umn.edu/service-details/software)
+  * **Softwares Provided by the University for Free**  
+  [it.umn.edu/service-details/software](https://it.umn.edu/service-details/software)
 
 更多关于学费包含的服务介绍请阅读我们的 [《学费包含的服务》mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition/) 文档。
 
