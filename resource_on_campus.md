@@ -8,7 +8,7 @@ permalink: /resource-on-campus/
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# Resources on Campus
+# 校内实用资源
 {:.no_toc}
 
 <div align="right">
