@@ -42,7 +42,7 @@ _(请使用UMN邮箱登陆)_
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">其他 Others</h2>
 
-- **UMN各类校内实用资源: [mingcns.org/resource-on-campus](https://www.mingcns.org/resource-on-campus)**
+- **UMN各类校内实用资源: [mingcns.org/resources-on-campus](https://www.mingcns.org/resources-on-campus)**
 
 - **实用信息汇总: _Coming soon_**
 

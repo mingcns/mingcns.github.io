@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resources on Campus"
-permalink: /resource-on-campus/
+permalink: /resources-on-campus/
 ---
 
 <div>

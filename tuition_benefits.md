@@ -83,7 +83,7 @@ _免责声明：由于医保信息的时效性很强，本文关于医保的介�
 
 ## 更多校内实用资源
 
-更多关于校内实用资源的介绍，请阅读我们的 [《校内实用资源》mingcns.org/resource-on-campus](https://www.mingcns.org/resource-on-campus/) 文档。
+更多关于校内实用资源的介绍，请阅读我们的 [《校内实用资源》mingcns.org/resources-on-campus](https://www.mingcns.org/resources-on-campus/) 文档。
 
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
