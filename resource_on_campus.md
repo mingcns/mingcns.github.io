@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "校内实用资源"
+title: "Resources on Campus"
 permalink: /resource-on-campus/
 ---
 
@@ -8,7 +8,7 @@ permalink: /resource-on-campus/
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 校内实用资源
+# Resources on Campus
 {:.no_toc}
 
 <div align="right">
@@ -19,7 +19,7 @@ Page Built on:
 </div>
 </div><br>
 
-## 目录
+## 目录 Table of Contents
 {:.no_toc}
 
 * 目录
@@ -81,7 +81,6 @@ Page Built on:
   * [Paws](https://boynton.umn.edu/paws)
 
 ### Others
-
   * [Student Engagement](http://engage.umn.edu/)
 
 ## Provided by ISSS
