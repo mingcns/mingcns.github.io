@@ -370,7 +370,7 @@ International Student and Scholar Services 位于其190室
 * 西岸: [130 West Bank Skyway 219 19th Avenue South, Minneapolis, MN](https://goo.gl/maps/vnJt1esGAgfT9rpDA)
 * St Paul: [130 Coffey Hall, 1420 Eckles Avenue, St. Paul, MN](https://goo.gl/maps/DfFRQSuuf6xHPA6x6)
 
-#### 各院系行政楼：(不完全)
+#### 各院系行政楼 (不完全)
 
 * CLA: Johnston Hall
 
