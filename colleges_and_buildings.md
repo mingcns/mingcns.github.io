@@ -19,6 +19,9 @@ Page Built on:
 </div>
 </div><br>
 
+
+本文所有的地址链接均可以直接点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
+
 ## 目录
 {:.no_toc}
 
@@ -51,35 +54,45 @@ Page Built on:
 上图红圈内即为明大MPLS校区的 West Bank 西岸地区。
 
 **Mondale Hall（对法学研究生、博士生）**  
-是法学院的主场，法学院的所有课程都在这栋楼里教授。法学院拥有独立的招收办、书店、图书馆，其他学院的学生在19点后将无法入内。
+是法学院的主场，俗称 Law School。
+法学院的所有课程都在这栋楼里教授。法学院拥有独立的招收办、书店、图书馆，其他学院的学生在19点后将无法入内。  
+地址: [229 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/5XwoZ1GicbpfCL899)
 
 **Willey Hall**  
 是学校最大的Lecture Hall，内有125和175两个巨大的阶梯室，每间教室的容量为500人左右。  
-一般人数较多的大课会在这里进行。例如：Psy1001, Econ1101, Biol1001。课堂人数在200人左右的课的考试、测验也有可能会选在这里进行。
+一般人数较多的大课会在这里进行。例如：Psy1001, Econ1101, Biol1001。课堂人数在200人左右的课的考试、测验也有可能会选在这里进行。  
+地址: [225 S 19th Ave, Minneapolis, MN 55455](https://goo.gl/maps/gwCMyQt1bKyBvPDAA)
 
 **Anderson Hall**  
-也是一个大教学楼，内有6个250人规模的阶梯教室，部分低阶数学课会在这里上。
+也是一个大教学楼，内有6个250人规模的阶梯教室，部分低阶数学课会在这里上。  
+地址: [257 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/tWXxEPUG2WAeCism6)
 
 **Humphrey School & Social Science Building**  
 人类学和社会学的主场，人文类的课多数会在这里上。<font color="red">ISSS的办公室</font> 位于 Humphrey School
-的190室。
+的190室。  
+Humphrey School: [301 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/LEq9vaNu3VMQnq4H9)  
+Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/3ahjf9mwsfP6Q2eg6)
 
 **Wilson Library**  
-位于西岸的图书馆，主要藏书类别为人文类。在Sub-Basement层设有东亚文学图书馆。
+位于西岸的图书馆，主要藏书类别为人文类。在Sub-Basement层设有东亚文学图书馆。  
+地址: [309 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/xZ38TJ2nbLtnTXJA8)
 
-<!-- TODO(tnz): add link -->
 **Carlson School & Hanson Hall**  
-商学院主场，商学院的课程几乎都在这里教授。详见本文Carlson简介。
+商学院主场，商学院的课程几乎都在这里教授。详见本文 [Carlson 简介](#carlson-school-of-management-csom) 章节。  
+地址: [321 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/UGJaEgskqhapFj5J9)
 
 **Rarig Center & Regis Center for Art**  
-艺术系的主场，以ARTS开头的课几乎都在此进行
+艺术系的主场，以ARTS开头的课几乎都在此进行  
+地址: [330 21st Ave S, Minneapolis, MN 55455](https://goo.gl/maps/7XsHhMcRttjpZCcN6)
 
 **Ferguson Hall**  
-音乐系主场，里面还有一个音乐厅，经常会有演出举行
+音乐系主场，里面还有一个音乐厅，经常会有演出举行  
+地址: [2106 S 4th St, Minneapolis, MN 55455](https://goo.gl/maps/MEJaUiKhRZxSfeJ6A)
 
 <!-- TODO(tnz): add link -->
 **Middlebrook Hall**  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
+宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)  
+地址: [412 22nd Ave S, Minneapolis, MN 55455](https://goo.gl/maps/uSXiNB9okiZrTSsv5)
 
 ### 东岸 East Bank
 
