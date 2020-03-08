@@ -31,6 +31,7 @@ Page Built on:
   * [Google](https://www.google.com/)
 
 ## 旅行类
+
 ### 住宿
   * 爱彼迎 [Airbnb](https://www.airbnb.com/)
   * 缤客 [Booking](https://www.booking.com/)
@@ -40,23 +41,27 @@ Page Built on:
   * [Uber](https://www.uber.com/) (需要国际版APP，即非中国版)
 
 ## 生活类
+
 ### 公交
   * [Metro Transit](https://www.uber.com/)
   * [Transit](https://transitapp.com/)
   * [Gopher Trip](https://www.pts.umn.edu/bus/gophertrip)
 
 ### 购物
+
   * 亚马逊 [Amazon](https://www.amazon.com/)
   * 亚米网 [Yamibuy](https://www.yamibuy.com/zh)
   * 塔吉特 [Target](https://www.target.com/)
   * 沃尔玛 [Walmart](https://www.walmart.com/)
 
 ### 买菜
+
   * [Cub Foods](https://www.cub.com/)
   * [Instacart](https://www.instacart.com/)
   * [Wholefoods](https://www.wholefoodsmarket.com/)
 
 ### 外卖/到店自取
+
   * 美国软件
     * [Bite Squad](https://www.bitesquad.com/)
     * [DoorDash](https://www.doordash.com/)
@@ -69,12 +74,14 @@ Page Built on:
     * [管饱外卖](http://www.guanbaousa.com/)
 
 ### 金融
+
   * [Paypal](https://www.paypal.com/us/home)
   * [Venmo](https://venmo.com/)
   * [Zelle](https://www.zellepay.com/) (一般会内置于各大银行APP)
   * 自己银行的网银/APP
 
 ### 社交/即时通讯
+
   * [Facebook](https://www.facebook.com/)
   * [GroupMe](https://groupme.com/en-US/)
   * [Instagram](https://www.instagram.com/)
@@ -85,15 +92,18 @@ Page Built on:
   * Text... (美国人是真的喜欢发短信。。。)
 
 ### 音乐类
+
   * [Spotify](https://www.spotify.com/us/)
   * [YouTube](https://www.youtube.com/)
   * [YouTube Music](https://music.youtube.com/)
 
 ### 攻略类
+
   * [Google Maps](https://www.google.com/maps/)
   * [Yelp](https://www.yelp.com/)
 
 ## 教育相关
+
   * Canvas
   * Google Docs
   * Google Drive
