@@ -302,6 +302,58 @@ Bio-Medical Library 所在地，通过地下通道与 Health Area 的其他建�
 位于TCF Bank Stadium后方，学校新建的生命科学及医学研究设施，也有教授的办公室坐落于此，
 相关专业的研究生和本科生会在此从事研究活动。
 
+### 圣保罗校区
+
+圣保罗校区地图：[PTS - St Paul Campus](https://www.pts.umn.edu/sites/pts.umn.edu/files/stpaul.pdf)
+
+Lenny Yu 学姐拍摄的圣保罗校区的介绍视频：  
+YouTube链接：[YouTube - 明尼苏达大学双城分校之圣保罗校区游](https://www.youtube.com/watch?v=Wia8EeZTHYU)  
+Bilibili链接：[Bilibili - 明尼苏达大学双城分校之圣保罗校区游](https://www.bilibili.com/video/av50101276/)  
+优酷链接：[Youku - 明尼苏达大学双城分校之圣保罗校区游](https://v.youku.com/v_show/id_XNDE0NzcxMzA3Ng==.html?spm=a2h0k.11417342.soresults.dtitle)  
+
+### 功能性楼宇汇总
+
+#### 新生需要知道的楼
+
+**Williamson Hall**  
+Office of Undergraduate Admissions 所在地
+
+**Centennial Hall**  
+临时宿舍所在地
+
+**Coffman Union**  
+* Orientation (包括Immigration Check-in) 的签到将在此进行
+* Ucard Office 位于G层
+* 学校Bookstore 位于G层
+* Technology Support 位于一层
+* Information Desk 位于一层
+
+**Humphrey Hall**  
+International Student and Scholar Services 位于其190室
+
+**Onestop Student Services 所在地**
+* 东岸: [333 Robert H. Bruininks Hall, 222 Pleasant St. S. E., Minneapolis, MN](https://goo.gl/maps/d23DbHg7EufQWHd49)
+* 西岸: [130 West Bank Skyway 219 19th Avenue South, Minneapolis, MN](https://goo.gl/maps/vnJt1esGAgfT9rpDA)
+* St Paul: [130 Coffey Hall, 1420 Eckles Avenue, St. Paul, MN](https://goo.gl/maps/DfFRQSuuf6xHPA6x6)
+
+#### 各院系行政楼：(不完全)
+
+* CLA: Johnston Hall
+
+* CSE: Lind Hall
+
+* CEHD: Burton Hall
+
+* Carlson: Carlson School of Management
+
+* CBS: Molecular & Cellular Biology
+
+* 音乐学院: Ferguson Hall
+
+* 心理系: Elliott Hall
+
+* 数学系: Vincent Hall
+
 
 
 ## 版权与免责协议
