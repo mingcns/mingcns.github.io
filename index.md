@@ -12,7 +12,7 @@ Project MinG/CNS
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
 
-- **UMN地理、教学楼、主要学院简介: [Google Docs - 主要院系与教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)**
+- **明大地理：主要院系和教学楼简介: [mingcns.org/colleges-and-buildings](https://www.mingcns.org/colleges-and-buildings)**
 
 - **转学分相关经验分享: [Google Docs - 转学分相关介绍](https://docs.google.com/document/d/1XTFisc8i_bUdBH2rpmU2p2Rq8T8johQ0Ca7JgyhLXVI/edit?usp=sharing)**
 
