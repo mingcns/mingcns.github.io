@@ -111,7 +111,7 @@ Page Built on:
   * Google SpreadSheets
   * Microsoft Office 365
   * Wolfram Alpha
-  * **以上教育类网站/软件学校均提供免费的订阅**。 详见我们的[《学费包含的服务》](https://www.mingcns.org/service-included-in-tuition/)文档。
+  * **以上教育类网站/软件学校均提供免费的订阅**。 详见我们的[《学费包含的服务》mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition/) 文档。
 
 
 ## 版权与免责协议
