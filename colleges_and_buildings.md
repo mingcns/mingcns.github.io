@@ -107,6 +107,7 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 
 <!-- TODO(tnz): add link -->
 **Sanford Hall**  
+[1122 University Ave SE, Minneapolis, MN 55455](https://goo.gl/maps/pcJafnNyUuRK1vwZ9)  
 宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
 
 #### Eddy Circle 周边
@@ -117,15 +118,19 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 Eddy Circle 本身也算是明大的一个公交枢纽。
 
 **Burton Hall**  
+[178 Pillsbury Dr SE, Minneapolis, MN 55455](https://goo.gl/maps/PqZMTTLAcvZ6Ng2y9)  
 为CEHD的主楼。
 
 **Folwell Hall**  
+[9 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/SeRWM5LTAkfkG1xg9)  
 语言系的主场，大部分语言课于此上课。
 
 **Williamson Hall**  
+[231 Pillsbury Dr SE, Minneapolis, MN 55455](https://goo.gl/maps/9TRpJngcUsNqPAYw5)  
 这里就是大家申请时寄送材料的目的地-- Admission Office 的办公楼啦。
 
 **Nicholson Hall**  
+[216 Pillsbury Dr SE, Minneapolis, MN 55455](https://goo.gl/maps/13MYYvGyhGLCsBpp9)  
 Writing Center、ESL项目等语言服务位于Nicholson的一楼，部分文学专业的办公室也位于此
 
 #### Mall Area
@@ -135,22 +140,27 @@ Writing Center、ESL项目等语言服务位于Nicholson的一楼，部分文学
 全称为 Northrop Mall Area，是学校的核心区，其标志是Northrop以南的一片大草坪。
 
 **Northrop Auditorium**  
+[84 Church St SE, Minneapolis, MN 55454](https://goo.gl/maps/KrY2b7No75wBrsfR8)  
 是学校的一座礼堂/剧院，Honors Program的Advising位于其二层东侧。  
 Northrop时不时会有各类演出，有兴趣的同学可以留意一下他们的官网:
 [northrop.umn.edu](http://www.northrop.umn.edu/)
 
 **Johnston Hall**  
+[101 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/1KakK5ZAXQ33dVNs9)  
 CLA行政楼，CLA的 Advising Office 位于其 Ground Floor。  
 _注意: CLA也有部分 Advising 在 Bruininks Hall 5楼。_
 
 **Morrill Hall**  
+[100 Church St SE, Minneapolis, MN 55455](https://goo.gl/maps/vnG597hMRGibocN5A)  
 学校的行政楼，校长办公室和校董会办公室位于此处。
 
 **Walter Library**  
+[117 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/wZgwsUgrqPnGUiLK6)  
 CSE的图书馆，也是学校主要图书馆之一，主要藏书为科学类，位于地下负1、2、3层。  
 Walter的2楼分为5个部分：中央大厅，SMART Learning Commons，Reference，Quiet Study 以及图书管理员办公区域。
 
 **Tate Hall**  
+[116 Church St SE, Minneapolis, MN 55455](https://goo.gl/maps/dKJ5gvxqkhdSPSSv7)  
 Tate 分为三个部分，北塔(Geology Tower)，南塔(Physics Tower)和中部。
 虽然叫做塔，但是实际上只是一栋楼的南北两侧而已，地质系拥有Tate的北塔，而中央和南塔都是物理系的地盘。
 物理、天文课几乎都在此楼上课。  
@@ -159,9 +169,12 @@ Tate中部有三间大教室：B50 (容量200人以上)，101 (150人左右) 和
 
 **Smith Hall & Kolthoff Hall**  
 化学系主楼，化学实验课主要于此上。  
-Kolthoff Hall 靠近中央草坪的一侧门口有一个放着真实元素的元素周期表，有兴趣的同学可以前往观看。
+Kolthoff Hall 靠近中央草坪的一侧门口有一个放着真实元素的元素周期表，有兴趣的同学可以前往观看。  
+Smith Hall: [207 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/iKmnP6puZAFrDyBE8)  
+Kolthoff Hall: [225 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/aSCQYvSeMwVWFhKUA)
 
 **Vincent Hall**  
+[206 Church St SE, Minneapolis, MN 55455](https://goo.gl/maps/s3o1eQB2qMnjfqMG6)  
 数学系的主场，与Murphy Hall相连，介于Ford Hall 与 Tate Hall之间。
 主体五层高，对于本科生来说比较有用的是前三层。第四层和第五层主要是研究生和一些教授的办公室，以及一个可以讨论问题的休息室。  
 首先第一层，面朝大门方向进入后右手边最头上是115房间。
@@ -172,16 +185,20 @@ Kolthoff Hall 靠近中央草坪的一侧门口有一个放着真实元素的元
 值得一提的是，进入数学院图书馆后，其里面挂钟上的数字为从前十二个质数，感兴趣的同学可以留意。
 
 **Murphy Hall**  
+[206 Church St SE, Minneapolis, MN 55455](https://goo.gl/maps/UW9jQkHzDcKDD1366)  
 和Vincent Hall以Skyway相连，被大家戏称为连体楼。传媒部门的办公室位于此楼。
 
 **Ford Hall**  
+[224 Church St SE, Minneapolis, MN 55455](https://goo.gl/maps/byqxr9jcor9Ai33y9)  
 Department of Earth Science 以及 School of Statistics的办公室均设于此。
 
 **Appleby Hall**  
+[128 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/E8jAvenjDsa21d7Z7)  
 内有The Aurora Center, Multicultural Center for Academic Excellence,
 Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办公室。
 
 **Bruininks Hall**  
+[222 Pleasant St SE, Minneapolis, MN 55455](https://goo.gl/maps/VCMEeiZqwtcARSis5)  
 2010年建造，原名 Science Teaching and Student Services (STSS)， 是学校主要学生服务部门的所在地，
 包括但不限于 Onestop，CLA Advising，Career Center。
 
@@ -190,17 +207,21 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 ![Coffman Area Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/coffman_area.png)
 
 **Weisman Art Museum**  
+[333 E River Pkwy, Minneapolis, MN 55455](https://goo.gl/maps/pvEeoP5sLMfZFCa99)  
 学校的艺术馆
 
 <!-- TODO(tnz): add link -->
 **Comstock Hall**  
+[210 Delaware St SE, Minneapolis, MN 55455](https://goo.gl/maps/hs1NeDUwCwBxMrS1A)  
 宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
 
 <!-- TODO(tnz): add link -->
 **Yudof Hall**  
+[220 Delaware St SE, Minneapolis, MN 55455](https://goo.gl/maps/aMVTT7JUvdUseqHb6)  
 学校公寓楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
 
-**Coffman Union**  
+**Coffman Memorial Union**  
+[300 Washington Ave SE, Minneapolis, MN 55455](https://goo.gl/maps/wAGJZpvJAXeziWo36)  
 学校的核心楼之一，可以理解为学生活动/服务中心，是学生会举办活动的主要场所之一。  
 其G层有 University Bookstore、Ucard Office、Food Court、USPS美国邮政、星巴克等。
 
