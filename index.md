@@ -31,7 +31,7 @@ _(请使用UMN邮箱登陆)_
 
 - **Metro Transit 轻轨简介: [Google Docs - Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)**
 
-- **实用网站 & 软件清单: [Google Docs - 在美实用网站及软件不完全清单](https://docs.google.com/document/d/11jLN2kKcfV6ZSPVkrWeKdF5GrRrc00iKTdfQqhjA044/edit?usp=sharing)**
+- **在美实用网站/软件不完全清单: [mingcns.org/usefull-sites](https://www.mingcns.org/usefull-sites/)**
 
 - **校外公寓居住体验投稿文档: [Google Docs - 校外公寓住宿体验收集文档](https://docs.google.com/document/d/1ngJgvJHpXnkCUGh_BuKL2OhEj4we9tY6eKFgxbkGQ-0/edit?usp=sharing)**  
 _(请使用UMN邮箱登陆)_
