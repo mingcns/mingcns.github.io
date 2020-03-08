@@ -355,6 +355,102 @@ International Student and Scholar Services 位于其190室
 * 数学系: Vincent Hall
 
 
+## UMN 学院简介
+
+UMN的主要学院有：
+
+学院 | 简称 | 中文名称
+--- | --- | ---
+College of Liberal Arts | CLA | 文理学院
+College of Science & Engineering | CSE | 科学与工程学院
+College of Food, Agricultural & Natural Resource Science | CFANS | 食品、农业与自然资源科学学院 (农学院)
+College of Biological Science | CBS | 生物科学学院
+College of Education & Human Development | CEHD | 教育与人类发展学院
+Carlson School of Management | CSOM | 卡尔森商学院
+College of Design | CDes | 设计学院
+Law School | N/A |法学院
+Medical School | Med School | 医学院
+College of Pharmacy | N/A | 药学院
+School of Nursing | N/A | 护理学院
+School of Dentistry | N/A | 牙医学院
+College of Continuing Education | N/A |进修教育学院
+
+### College of Liberal Arts (CLA)
+
+学校官方简介: [About the College of Liberal Arts](https://cla.umn.edu/about/about-college-liberal-arts)
+
+CLA 行政楼: Johnston Hall；在 Bruininks 也有 Student Service (Advising Office等)
+
+CLA于1868年成立，是学校最大、人最多的一个学院。CLA主要教学楼散布在Mall Area 和 Eddy Circle周边。
+
+CLA开设了60余个专业，其中就包括了UMN最出名的心理专业(心理 BA 和 BS 项目都在CLA)。  
+完整专业列表:
+[College of Liberal Arts - Majors & Minors](https://cla.umn.edu/academics-experience/programs/undergraduate)
+
+### College of Science & Engineering (CSE)
+
+学校官方简介:
+[About the College of Science and Engineering](https://cse.umn.edu/college/about-college-science-and-engineering)
+
+CSE 行政楼: Lind Hall
+
+主要区域（包括但不限于）：Lind Hall, Tate Hall, Ford Hall, Vincent Hall, Akerman Hall, Keller Hall, Amundson Hall, Smith Hall, Kolthoff Hall, Shepherd Laboratories, etc.
+
+CSE主要开设工程和科学类课程，本科提供有19个工程和科学类专业，下辖12个院系(Schools/Departments)，
+与CFANS有一个合作项目--BBE，详见:
+* [College of Science & Engineering - Undergraduate majors](https://cse.umn.edu/college/undergraduate-majors)
+* [College of Science & Engineering - Departments](https://cse.umn.edu/college/departments)
+
+CSE Advising Office 针对每一个专业分别制定了Four-Year-Plan，
+从理论上来讲，如果学生遵从Four-Year-Plan就可以极大程度上确保四年毕业。
+但是课程规划因人而异，我们 **并不推荐** 严格按照Four-Year-Plan进行选课，望大家可以根据自己的需求个性化选课。
+
+各个系的大部分实验室以及教师办公室位于各院系自己的楼内，部分教师和/或实验室可能位于别的楼内。
+
+主要交通方式：
+* 校车至 Coffman Union 或 Northrop Mall站，各大CSE主要教学楼位于车站北侧。
+* 轻轨 Green Line East Bank Station。车站西北侧即为 Keller Hall 以及其他CSE教学楼。
+
+
+### Carlson School of Management (CSOM)
+
+主场:
+* Carlson School of Management
+* Hanson Hall
+
+Carlson School of Management和Hanson Hall由Skyway相连， 所以就一起介绍了吧。
+（Skyway连接了两栋楼的二楼）
+
+**到达这两栋楼的主要方式**：
+1. 乘坐校车121线到达Blegan Hall站，走进目之所及最近的学校建筑 Blegan Hall内，**按照路牌指示** 穿过Tunnel。
+1. 乘坐轻轨Green Line 到达 West Bank Station, 走上轻轨站靠近密西西比河一侧(东侧)的天桥楼梯，
+往南(上天桥后左转步行约80米即可到达。
+1. 步行穿过Washington Avenue Bridge（校内连接东西两岸的主要桥梁），左转沿Blagan Hall至一片小广场（可见到Humphrey School），绕过Wilson Library，就能见到CSOM。CSOM的马路对面就是Hanson Hall。
+
+**主要功能**：
+
+1. CSOM 和 Hanson 这两栋楼都是商学院的主要上课地点，另外总共包含35个group study spaces（breakout rooms），想要使用最好是提前预约, 预约网址如下：  
+[CSOM - Reserve a Room](https://carlsonschool.umn.edu/about-us/our-location-facilities/reserve-space/reserve-rooms)
+
+1. 商学院advisors和部分经济系advisors的办公室（undergrad）位于Hanson Hall二楼，Business Career Center
+（undergrad: UBCC; grad: GBCC）位于Hanson Hall二楼，
+Carlson的career center为商学院学生学生提供专业的resume和Cover Letter修改服务，
+也可以聊聊职业规划和Job search（或者没事找事去练练口语），还可以申请Mock Interview。
+
+1. 如果想要来一杯提神醒脑的咖啡，West Bank唯一一家Caribou位于Hanson Hall二楼。
+
+1. Hanson Hall三楼是 Graduate Office，大量经济系TA汇集于此（经济课TA的office hours所在地），进门需要刷U Card。
+
+1. CSOM主楼三楼和四楼是商学院各科老师的办公室，具体房间号码请关注课程Syllabus，
+也可以询问坐在门口的当班人员（不一定靠谱），进入办公室区域Hallway需要刷U Card。
+
+1. CSOM主楼负一层有Panda Express之类的快餐充饥，有针对商学院学生免费的printing lab，也有大教室和breakout rooms。
+
+1. 其他特定于某个专业的教室用途，请declare majors以后自行研究，CSOM有一些空间是专门为某一个特定专业设计的，比如MIS Lab，HRIR library，etc.
+
+1. 商学院或者商科社团定期举办帮助学生找到工作，提升技能或者networking的活动，
+地点一般都设在CSOM或者Hanson Hall，特大型活动详见通知。
+
 
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
