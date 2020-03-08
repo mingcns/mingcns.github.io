@@ -568,7 +568,7 @@ Orientation的时候，AD会提到大一的时候为了方便各位同学的学�
 记得AD时刻在线哦！留意自己 Advisor 的 Office Hour 和 Drop-in Hour 是非常必要的。
 在CEHD，有问题找教授，有问题找AD，他们一定会非常乐意帮助你！
 
-**<p align="center">欢迎大家加入CEHD！👏</p>**
+<p align="center" style="font-weight: bold; ">欢迎大家加入CEHD！👏</p>
 
 _(感谢 Law, Chingyau 和 Wang, Yushuang 贡献本段内容)_
 
