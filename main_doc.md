@@ -1207,7 +1207,7 @@ A: 通过在 [上一个问题](#live-off-campus-faq) 中介绍的方法和资源
 **<span id="legal-service">Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？</span>**  
 A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签字合同的原件</font>
 (无论是电子版PDF还是纸质版)。这也是前一个问题中不建议引入第三方机构的一个原因，会将出现纠纷的情况更加复杂化。  
-学校提供学生法律援助服务 [Student Legal Service sls.umn.edu/](http://sls.umn.edu/)，
+学校提供学生法律援助服务 Student Legal Service, 官网为 [sls.umn.edu](http://sls.umn.edu/)，
 请联系他们的法律援助志愿者以获取更多信息。  
 他们不止提供关于租客权利的法律援助，这是他们提供的服务的 [完整清单](http://sls.umn.edu/our-services/advice-representation)。这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
 此外，Student Legal Service 还提供免费的公证服务（Notary Service），
