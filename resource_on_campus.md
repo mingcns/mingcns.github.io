@@ -66,18 +66,33 @@ Page Built on:
 ## Daily Life Related
 
 ### Legal Support
-  * [Student Legal Service](http://sls.umn.edu/)  
-  这是他们提供的服务的 [完整清单](http://sls.umn.edu/our-services/advice-representation)。
-  这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
-  此外，Student Legal Service 还提供免费的 **公证服务（Notary Service）**，
-  在办理申根签证，第三类入台证(中华民国台湾地区入出境许可证)等证件或签证时，可能可以用到。
-  学校内部并没有UPS或者FedEX，且这两家的公证服务往往还必须同时购买非常昂贵的彩色复印服务。
-  因此，Student Legal Service 的免费 Notary Service 对于办证件或者签证并且需要公证文件的同学来说，是非常方便的。
-  关于公证服务详见网站: [Student Legal Service - Notary Services](http://sls.umn.edu/our-services/notary-services)  
-  Student Legal Service 地址 (就在西岸天桥上):  
-  [160 West Bank Skyway, 219 19th Avenue South,Minneapolis, MN 55455](https://goo.gl/maps/yYgNLktHQoWvyHyR6)  
-  相关问题 _"Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？"_
-  链接 [www.mingcns.org/guidebook#legal-service](https://www.mingcns.org/guidebook#legal-service)
+
+**Student Legal Service**
+
+官网链接: [sls.umn.edu](http://sls.umn.edu/)
+
+这是他们提供的服务的完整清单:  
+This is the full list of the service SLS provides:     
+[Student Legal Service - Advice & Representation](http://sls.umn.edu/our-services/advice-representation)。  
+
+这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
+All of these services mentioned have been included in Student Service Fee paid within tuition,
+which means, these services are FREE in most scenarios.
+
+此外，Student Legal Service 还提供免费的 **公证服务（Notary Service）**，
+在办理申根签证，第三类入台证(中华民国台湾地区入出境许可证)等证件或签证时，可能可以用到。
+学校内部并没有UPS或者FedEX，且这两家的公证服务往往还必须同时购买非常昂贵的彩色复印服务。
+因此，Student Legal Service 的免费 Notary Service 对于办证件或者签证并且需要公证文件的同学来说，是非常方便的。
+关于公证服务详见网站:  
+Additionally, SLS also provides FREE Notary Service, for details, please see:  
+[Student Legal Service - Notary Services](http://sls.umn.edu/our-services/notary-services)  
+
+
+Student Legal Service Address (就在西岸天桥上):  
+[160 West Bank Skyway, 219 19th Avenue South,Minneapolis, MN 55455](https://goo.gl/maps/yYgNLktHQoWvyHyR6)  
+
+相关问题 _"Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？"_
+链接: [www.mingcns.org/guidebook#legal-service](https://www.mingcns.org/guidebook#legal-service)
 
 ### Campus Safety
   * [Safe Walk Escort Service](https://www.pts.umn.edu/walk/campus-security-monitor-escort)
