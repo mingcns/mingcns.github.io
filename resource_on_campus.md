@@ -72,12 +72,12 @@ Page Built on:
 官网链接: [sls.umn.edu](http://sls.umn.edu/)
 
 这是他们提供的服务的完整清单:  
-This is the full list of the service SLS provides:     
+This is the full list of the services SLS provides:     
 [Student Legal Service - Advice & Representation](http://sls.umn.edu/our-services/advice-representation)。  
 
 这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
 All of these services mentioned have been included in Student Service Fee paid within tuition,
-which means, these services are FREE in most scenarios.
+which means these services are FREE in most scenarios.
 
 此外，Student Legal Service 还提供免费的 **公证服务（Notary Service）**，
 在办理申根签证，第三类入台证(中华民国台湾地区入出境许可证)等证件或签证时，可能可以用到。
