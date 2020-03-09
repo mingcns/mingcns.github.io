@@ -1217,9 +1217,9 @@ A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签
 关于公证服务详见网站: [Student Legal Service - Notary Services](http://sls.umn.edu/our-services/notary-services)  
 Student Legal Service 地址 (就在西岸天桥上):  
 [160 West Bank Skyway, 219 19th Avenue South,Minneapolis, MN 55455](https://goo.gl/maps/yYgNLktHQoWvyHyR6)  
-本问题链接 [www.mingcns.org/guidebook#legal-service](https://www.mingcns.org/guidebook#legal-service)  
 同时也可以参考 《Resources on Campus》 文档中
-[Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍
+[Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍  
+本问题链接: [www.mingcns.org/guidebook#legal-service](https://www.mingcns.org/guidebook#legal-service)
 
 
 
