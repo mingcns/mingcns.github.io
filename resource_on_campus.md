@@ -170,5 +170,5 @@ Authors, co-editors, and contributors of this documentation:
 ---
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&co=2d78ad&cmo=3acc3a&cmn=f77c0b&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff0000&cmn=ff7a00&ct=ffffff&co=2d78ad'></script>
 </div>
