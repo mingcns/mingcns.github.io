@@ -39,15 +39,14 @@ Page Built on:
 
 蓝线 Blue Line:
 
-时间段 | 发车间隔 | 时间段
+Target Field 发车时间段 | 发车间隔 | Mall of America 发车时间段
 --- | --- | ---
-Target Field 发车 | **工作日** | Mall of America 发车
+ | **工作日** |
 04:00-05:30 | 15-30 min | 04:00-05:30
 05:30-19:00 | 10 min | 05:30-20:00
 19:00-00:00 | 15-30 min | 20:00-00:00
 00:00-01:00 | 30 min - 1 hour| 00:00-02:00
-<div align="center">--</div> | <div align="center">--</div> | <div align="center">--</div>
-Target Field 发车 | **周末/节假日** | Mall of America 发车
+ | **周末/节假日** |
 04:00-09:30 | 15-30 min | 03:00-09:30
 09:30-18:30 | 10 min | 09:30-19:30
 18:30-00:00 | 15-30 min | 19:30-00:00
@@ -56,15 +55,14 @@ Target Field 发车 | **周末/节假日** | Mall of America 发车
 
 绿线 Green Line:
 
-时间段 | 发车间隔 | 时间段
+Target Field 发车时间段 | 发车间隔 | Union Depot 发车时间段
 --- | --- | ---
-Target Field 发车 | **工作日** | Union Depot 发车
+ | **工作日** |
 04:00-06:00 | 15-30 min | 03:00-05:00
 06:00-22:00 | 10 min | 05:00-21:00
 22:00-01:00 | 15-30 min | 21:00-00:00
 01:00-02:00 | 30 min - 1 hour| 00:00-02:00
-<div align="center">--</div> | <div align="center">--</div> | <div align="center">--</div>
-Target Field 发车 | **周末/节假日** | Union Depot 发车
+ | **周末/节假日** |
 02:00-09:00 | 15-30 min | 01:00-08:00
 09:00-20:00 | 10 min | 08:00-19:00
 20:00-01:00 | 15-30 min | 19:00-00:00
