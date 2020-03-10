@@ -204,7 +204,7 @@ GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另�
 
 ### U-Pass
 
-![GoTo Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/UPass.png)
+![UPass Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/UPass.jpg)
 
 图自：https://www.metrotransit.org/upass
 
