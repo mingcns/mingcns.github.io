@@ -44,8 +44,6 @@ _(请使用UMN邮箱登陆)_
 
 - **UMN各类校内实用资源: [mingcns.org/resources-on-campus](https://www.mingcns.org/resources-on-campus)**
 
-- **实用信息汇总: _Coming soon_**
-
 - **赴美行李清单参考: [Google Docs - 赴美行李准备](https://docs.google.com/document/d/1lplKvfPrmqKd0_zQU2Ut9Wsi2gVoQPqrdZDRaTcUuBE/edit?usp=sharing)**
 
 - **学费包含的服务: [mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition)**
