@@ -29,7 +29,7 @@ _(请使用UMN邮箱登陆)_
 
 - **UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)**
 
-- **Metro Transit 轻轨简介: [Google Docs - Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)**
+- **Metro Transit 轻轨简介: [mingcns.org/light-rail](https://www.mingcns.org/light-rail/)**
 
 - **在美实用网站/软件不完全清单: [mingcns.org/usefull-sites](https://www.mingcns.org/usefull-sites/)**
 
