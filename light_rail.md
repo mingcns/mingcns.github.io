@@ -27,12 +27,14 @@ Page Built on:
 
 
 ## 写在前面
+
 本文讨论范围仅限 Regular Routes Local Buses & Light Rails, Express Buses & NorthStar Commuter Rail 不在讨论范围内。  
 轻轨及BRT线路如下图（图源: [https://www.metrotransit.org/metro](https://www.metrotransit.org/metro)）：
 
 ![Light Rail Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/Metro_Map_Dec_2019.jpg)
 
 ### 轻轨时刻表
+
 轻轨蓝线Blue Line和绿线Green Line、BRT红线Red Line都是24x7运营的。发车间隔会根据时段调整，以下是大致的发车间隔：
 
 蓝线 Blue Line:
@@ -71,7 +73,9 @@ Target Field 发车 | **周末/节假日** | Union Depot 发车
 具体时刻表请访问: [https://www.metrotransit.org/schedules-maps](https://www.metrotransit.org/schedules-maps)
 
 ## 购票方式
+
 ### 付款方式
+
 轻轨接受以下几种付款方式：  
   1. 现金
   1. 信用卡/借记卡
@@ -85,6 +89,7 @@ Target Field 发车 | **周末/节假日** | Union Depot 发车
   1. 本文中的 Campus Zone Pass 和 U-Pass 属于上述【类别4】。
 
 #### 【类别1&2】付款方式
+
 使用此类别付款方式需要每次于乘车前前往轻轨站的售票机购票。  
 售票机如下图所示：
 
@@ -95,6 +100,7 @@ Target Field 发车 | **周末/节假日** | Union Depot 发车
 [点击这里](https://www.metrotransit.org/how-to-use-a-ticket-machine) 查看 Metro Transit 官方售票机使用说明。
 
 #### 【类别3&4】付款方式
+
 使用此类别付款方式需要每次乘车前在轻轨站/公交车的刷卡机上刷卡后方可乘车。
 使用GoTo Card需要先对其在上述售票机进行充值后才可使用。
 
@@ -109,6 +115,7 @@ Metro Transit 官方使用说明：
   1. 关于GoTo Card：https://www.metrotransit.org/go-to-card-users-guide
 
 ## 费用
+
 轻轨费用分有普通费用和高峰期费用两种。
   1. 高峰期 (Rush Hours) 费用$2.5/票，时间为周一至周五6:00-9:00和15:00-18:30。
   1. 普通费用$2.0/票，时间为高峰期 (Rush Hours) 之外的全部时段。
@@ -122,12 +129,15 @@ Metro Transit 官方介绍：https://www.metrotransit.org/fares
 _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换乘模式等）仅供参考，具体请以Metro Transit官方描述为准。_
 
 ## 乘坐轻轨
+
 在使用合适的付款方式支付了车票费用后，就可以直接上轻轨乘坐了。轻轨站台没有闸机，买票靠自觉，
 但是请一定不要抱有侥幸心理而不去买票，因为一旦被查发现逃票，将面临$180的罚款，
 且逃票行为有可能被记录在案。
 
 ## 轻轨线路及实用站点简介
+
 ### 轻轨蓝线 Metro Blue Line
+
 蓝线的大致走向为南北向，始发站为Target Field (北) 和 Mall of America (MOA，南)。从 Target Field
 发出前往 MOA 的列车称为 South Bound，而从 MOA 发出前往 Target Field 的车称为 North Bound。
 
@@ -137,6 +147,7 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
   1. South Bound: A South Bound Blue Line Train to Mall of America Is Due in 2 Minutes.
 
 #### 实用站点
+
   * Nicollet Mall  
     * 附近有Bank of America, Wells Fargo Bank, T-Mobile Store等
   * U.S. Bank Stadium   
@@ -149,6 +160,7 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
     * MOA买买买，宜家IKEA在MOA隔壁
 
 ### 轻轨绿线 Metro Green Line
+
 绿线的走向为东西向，始发站为 Target Field (西) 和 Union Depot (东)。
 从 Target Field 发出前往 Union Depot 的车为 East Bound，
 而从 Union Depot 发出前往 Target Field 的车为 West Bound。
@@ -160,6 +172,7 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
   1. East Bound: An East Bound Green Line Train to Downtown St. Paul Is Due in 2 Minutes。
 
 #### 实用站点
+
   * Nicollet Mall
     * 附近有Bank of America, Wells Fargo, T-Mobile Store等
   * U.S. Bank Stadium
@@ -181,6 +194,7 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
 在Downtown Minneapolis换乘轻轨时仅需下车前往对面站台等候相应列车即可。**
 
 ## 交通卡简介
+
 ### GoTo Card
 
 ![GoTo Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/GoTo_Card.png)
@@ -219,6 +233,7 @@ Coffman 一层 Information Desk 凭 UCard 领取。
   1. 需要选课后等待24h才可领取 Zone Pass。
 
 ## 关于公交
+
 如先乘坐公交后换乘轻轨，记得向公交司机索取一张Transfer Pass，有效期2.5h。
 美国的公交车 (包括校车) 不像国内的公交会每站都停，需要有人在到站前拉铃
 (扶手杆上的按键或车窗边缘的白色/黄色金属线)，拉铃后司机才会在将抵达的一站停靠。
@@ -228,6 +243,7 @@ _注：以上关于公交与轻轨的介绍（包括但不限于费用以及换�
 
 
 ## 版权与免责协议
+
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
 关于税务、移民身份相关问题的法律上的建议，请咨询专业会计师、律师或者UMN ISSS官方。
 由于信息变化较快以及作者能力所限，本文内容无法保证100%的准确性，敬请谅解。
