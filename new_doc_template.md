@@ -57,3 +57,9 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 Authors, co-editors, and contributors of this documentation:
 
 * I am Groot.
+
+---
+_<font color="grey">Locations of Visitors: </font>_
+<div style="width: 50%; ">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cl=ffffff&w=a"></script>
+</div>

@@ -166,3 +166,9 @@ Authors, co-editors, and contributors of this documentation:
 
 * Sun, Haoyue
 * Zhou, Tiannan
+
+---
+_<font color="grey">Locations of Visitors: </font>_
+<div style="width: 50%; ">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cl=ffffff&w=a"></script>
+</div>
