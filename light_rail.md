@@ -105,7 +105,7 @@ Target Field 发车 | **周末/节假日** | Union Depot 发车
 
 Metro Transit 官方使用说明：
   1. 关于扣费：https://www.metrotransit.org/paying-for-your-ride
-  1. 关于GoTo Card：https://www.metrotransit.org/paying-for-your-ride
+  1. 关于GoTo Card：https://www.metrotransit.org/go-to-card-users-guide
 
 ## 费用
 轻轨费用分有普通费用和高峰期费用两种。
