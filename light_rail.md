@@ -109,8 +109,8 @@ Target Field 发车时间段 | 发车间隔 | Union Depot 发车时间段
 （[图源](https://www.metrotransit.org/go-to-card-users-guide)）
 
 Metro Transit 官方使用说明：
-  1. 关于扣费：https://www.metrotransit.org/paying-for-your-ride
-  1. 关于GoTo Card：https://www.metrotransit.org/go-to-card-users-guide
+  1. 关于扣费：[Metro Transit - Paying for your ride](https://www.metrotransit.org/paying-for-your-ride)
+  1. 关于GoTo Card：[Metro Transit - Go-To Card User's Guide](https://www.metrotransit.org/go-to-card-users-guide)
 
 ## 费用
 
@@ -122,7 +122,7 @@ Metro Transit 官方使用说明：
   刷卡机不会进行扣款而会显示Transfer字样。
   1. 换乘公交时，需要拿轻轨票在公交上特定的机器上验票后方可换乘。
 
-Metro Transit 官方介绍：https://www.metrotransit.org/fares
+Metro Transit 官方介绍：[www.metrotransit.org/fares](https://www.metrotransit.org/fares)
 
 _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换乘模式等）仅供参考，具体请以Metro Transit官方描述为准。_
 
@@ -197,7 +197,8 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
 
 ![GoTo Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/GoTo_Card.png)
 
-图自：https://www.metrotransit.org/go-to-card
+图自:
+[www.metrotransit.org/go-to-card](https://www.metrotransit.org/go-to-card)
 
 GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另外，2017年后的 UCard 都内置了GoTo Card 功能。
 拿 UCard 在轻轨站售票机按充值 GoTo Card 的流程进行充值后即可将 UCard 当作 GoTo Card 来使用。
@@ -206,18 +207,21 @@ GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另�
 
 ![UPass Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/UPass.jpg)
 
-图自：https://www.metrotransit.org/upass
+图自:
+[www.metrotransit.org/upass](https://www.metrotransit.org/upass)
 
 持有 U-Pass 可以在其有效期内无限次数乘坐 Metro Transit 旗下的所有公交和轻轨，
 不包括Express Bus和NorthStar。
-U-Pass 售价$114/学期，需要在 https://www.pts.umn.edu/bus/upass
+U-Pass 售价$114/学期，需要在
+[UMN PTS - U-Pass - discounted student unlimited transit pass](https://www.pts.umn.edu/bus/upass)
 购买后于 Coffman Information Desk 或 St. Paul Student Center 凭 UCard 领取。
 
 ### Campus Zone Pass
 
 ![Campus Zone Pass](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/Campus_Zone_Pass_Fall2017.png)
 
-图自：https://www.pts.umn.edu/bus/campus-zone-passu-community
+图自:
+[www.pts.umn.edu/bus/campus-zone-passu-community](https://www.pts.umn.edu/bus/campus-zone-passu-community)
 
 持有Campus Zone Pass可以在绿线的校内三站——West Bank Station, East Bank Station,
 Stadium Village Station——区间内免费乘坐轻轨。Zone Pass 可以在
