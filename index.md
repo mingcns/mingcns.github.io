@@ -82,7 +82,7 @@ _<font color="grey">Authors, co-editors, and contributors participating in this 
 ---
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&co=2d78ad&cmo=3acc3a&cmn=f77c0b&ct=ffffff'></script>
 </div>
 
 <div align="right" style="color: grey">
