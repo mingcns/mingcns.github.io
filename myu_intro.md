@@ -37,7 +37,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 下图为登陆后界面预览:
 
-![MyU Main](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Main.png)
+![MyU Main](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_main.png)
 
 明大Logo下方是校区选择，此处应显示为 **Twin Cities**。
 
@@ -46,7 +46,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
   1. MyU字样：点击可回到主页（上图中显示页面）
 
   1. Key Links：  
-  ![Key Links](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Key_Links.png)
+  ![Key Links](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_key_links.png)
 
     * Employee Center (Formerly PeopleSoft) 与 Human Resources 有关，一般情况下无需了解
     * U Travel
@@ -58,10 +58,10 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
     * Training Hub - 如果学校对学生有相关的培训要求会使用到，一般情况下无需使用。
 
   1. Campus Info：学生可以在这里找到大部分关于校园的信息。  
-  ![Campus Info](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Campus_Info.png)
+  ![Campus Info](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_campus_info.png)
 
   1. Resources：这里是一些学生可能用得到的校内资源。  
-  ![Resources](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Resources.png)
+  ![Resources](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_resources.png)
 
     * I need help with... 点进去后会显示一个列表的帮助资源信息。
 
@@ -69,7 +69,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
   1. User Options (主页图马赛克处)：同一栏的右手边，有一个图标有个人像logo后面接着使用人的名字，
   点击后会出现下列选项：  
-  ![User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_User_Options.png)
+  ![User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_user_options.png)
 
   1. Email：User Options 右边有一个信封图标，点击此图标可以访问使用人自己的学校邮箱。
 
@@ -79,7 +79,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 ## 左侧工具栏
 
-![左侧工具栏](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Left.png)
+![左侧工具栏](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_left.png)
 
 ### NEWS
 
@@ -89,7 +89,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 点击后会显示下图界面
 
-![My Classes](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_My_Classes.png)
+![My Classes](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_my_classes.png)
 
 在 Academics 界面底部有许多非常有用的链接，比如 [Academic Calendar - UMTC](https://onestop.umn.edu/dates-and-deadlines); [Schedule Builder-UMTC](schedulebuilder.umn.edu); [APAS](https://www.mingcns.org/guidebook/#apas); Enrollmention Verification 等。
 **Orientation 时会详细讲解这部分功能的使用**
@@ -106,7 +106,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 这个页面用于查看选课时间和选课。
 
-![Registration](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Registration.png)
+![Registration](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_registration.png)
 
 #### DEGREE PROGRESS
 
@@ -121,7 +121,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 点击后会显示下图界面:
 
-![My Finances](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_My_Finances.png)
+![My Finances](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_my_finances.png)
 
   * BILLING & PAYMENT  
   查看学费，交学费，查看详细账单及查询各种deadline的地方。
