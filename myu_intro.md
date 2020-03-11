@@ -45,6 +45,8 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 #### 左侧 - 快捷链接
 
+快捷链接栏位于工具栏的左半边，处于校区选择栏的正下方。
+
 1. **MyU字样**  
 点击可回到主页（上图中显示页面）
 
@@ -72,7 +74,10 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 类似于书签 Bookmark，可以收藏自己常用的链接。
 
 #### 右侧 - 登录用户信息
+
 ![Right User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_right_user_options.png)
+
+登录用户信息模块位于工具栏的右半边，如上图所示。
 
 1. **User Options (登录用户姓名栏)**  
 位于登录用户信息的最左侧，
