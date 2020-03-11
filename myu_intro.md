@@ -43,11 +43,11 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 ### 校区选择栏下方基础工具栏
 
-  1. MyU字样：点击可回到主页（上图中显示页面）
+1. **MyU字样**  
+点击可回到主页（上图中显示页面）
 
-  1. Key Links：  
-  ![Key Links](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_key_links.png)
-
+1. **Key Links**  
+![Key Links](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_key_links.png)
     * Employee Center (Formerly PeopleSoft) 与 Human Resources 有关，一般情况下无需了解
     * U Travel
     * Student Center 是查找各种与学业相关信息的重要窗口，包括但不限于成绩单(Transcript)、
@@ -57,28 +57,33 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
     * Moodle 和 Canvas 性质相同，但是双城校区自2019年秋季 (Fall2019) 起只使用 Canvas，不再使用 Moodle。
     * Training Hub - 如果学校对学生有相关的培训要求会使用到，一般情况下无需使用。
 
-  1. Campus Info：学生可以在这里找到大部分关于校园的信息。  
-  ![Campus Info](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_campus_info.png)
+1. **Campus Info**  
+学生可以在这里找到大部分关于校园的信息。  
+![Campus Info](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_campus_info.png)
 
-  1. Resources：这里是一些学生可能用得到的校内资源。  
-  ![Resources](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_resources.png)
-
+1. **Resources**  
+这里是一些学生可能用得到的校内资源。  
+![Resources](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_resources.png)
     * I need help with... 点进去后会显示一个列表的帮助资源信息。
 
-  1. Favorites：类似于书签 Bookmark，可以收藏自己常用的链接。
+1. **Favorites**  
+类似于书签 Bookmark，可以收藏自己常用的链接。
 
-  1. User Options (主页图 **马赛克处**)：同一栏的右手边，
-  有一个人像图标后面紧接着使用人的名字，
-  点击后会出现下列选项：  
-  ![User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_user_options.png)
+1. **User Options (主页图马赛克处)**  
+位于同一栏的右手边，
+有一个人像图标后面紧接着使用人的名字，
+点击后会出现下列选项：  
+![User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_user_options.png)
 
-  1. Email：User Options 右边有一个信封图标，点击此图标可以访问使用人的学校邮箱，
-  效果等同于登录 [mail.umn.edu](http://mail.umn.edu)。
+1. **Email**  
+User Options 右边有一个信封图标，点击此图标可以访问学校邮箱，
+效果等同于登录 [mail.umn.edu](http://mail.umn.edu)。
 
-  1. <span id="holds-anchor">Holds：Email 右边的警告符号，使用人所有的 Holds 都会在这显示。</span>   
-  Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都会有详细的信息说明这个Hold是为什么被放置在你的账户上，
-  以及该如何移除/联系谁移除。  
-  新生常见的 Hold 有:
+1. <span id="holds-anchor"></span>**Holds**  
+Email 右边的警告符号，使用人所有的 Holds 都会在这显示。  
+Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都会有详细的信息说明这个Hold是为什么被放置在你的账户上，
+以及该如何移除/联系谁移除。  
+新生常见的 Hold 有:
     * ISSS 放置的 **Immigration Check-in 的Hold**， 可以在参加完 Immigration Check-in 之后移除。
     * 学院/院系 放置的 **选课 Hold**，要求你现在/或者将来某个学期选课之前，去和Advisor交流一下，
     Advisor会帮你移除这个Hold，或者是将这个 Hold 阻止选课的学期往后顺延。  
@@ -93,7 +98,8 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
     [初至明尼 - 最终成绩单和学历证明](https://www.mingcns.org/guidebook/#最终成绩单和学历证明) 章节
 
 
-  1. Notifications：Holds 右边的小旗子，大家需要多留意学校发出的 Notifications，完成相应事情。
+1. **Notifications**  
+Holds 右边的小旗子，大家需要多留意学校发出的 Notifications，完成相应任务。
 
 ## 左侧工具栏
 
