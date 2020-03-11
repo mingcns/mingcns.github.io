@@ -35,7 +35,6 @@ Page Built on:
 
 这里是学校Admission Office关于录取后注意事项的概述: [Checklist for Admitted International Freshmen](https://admissions.tc.umn.edu/checklist/intl_fresh.html)
 
-这里是UMN中国办公室关于录取后注意事项的概述: [新生入学帮助 \| 本科录取国际大一新生重要信息](https://mp.weixin.qq.com/s/zX3JfzWBv3MbGZTI9a-dbQ)
 
 ### UMN学生账号的激活与使用
 
@@ -260,7 +259,7 @@ _（有TA、RA职位或者Fellowship的Master、Ph.D.项目）_ 请确保至少�
     [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
     [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
     [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
-1. **学校官方** 接机服务：时间为8月7号到23号期间，每天10点到21点20分，每小时一趟车，地点在Terminal 1的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
+1. **学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，地点在Terminal 1的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
 
@@ -321,7 +320,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
             * I-20 或 DS-2019 表格复印件
             * I-94 入境记录打印件
             (可于 [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov/I94/) 点击 "**Get Most Recent I-94**" 获取)。
-        1. 自Fall 2019开始，ISSS要求新生在抵达美国后，先在
+        1. 自Fall 2019开始，ISSS要求新生在抵达美国后，先于
         [MyISSS Portal](https://myisss.umn.edu/) 上传相关信息后，再前往In Person Immigration Check-in。
         请大家留意自己的 **UMN邮箱** 中关于相关事宜的邮件。因此，请务必 **提前激活学校邮箱** ，详见本文
         [UMN学生账号的激活与使用 - 激活你的UMN邮箱](#activate-umn-email-anchor)
@@ -1368,17 +1367,7 @@ _(本段由 Tiannan Zhou 根据2019年新生 ISSS Preparation 资源汇总)_
 1. UMN中国代表处官网: [明尼苏达大学中国代表处](https://china.umn.edu/)  
 UMN中国代表处微信公众号：UMNChina
 
-1. 学校地理情况概述(此文档仍处于起步阶段，欢迎各位提出意见建议):
-[UMN 主要院系及教学楼介绍](https://docs.google.com/document/d/1NJdfS0-JRyqahweVOosiPCoDAKOx85srSw-cJOKyc28/edit?usp=sharing)
-
-1. 学校宿舍楼介绍(此文档仍处于起步阶段，欢迎各位提出意见建议):
-[UMN 宿舍楼及HRL旗下公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)
-
-1. Metro Transit 轻轨系统简介:
-[Metro Transit 轻轨简介](https://docs.google.com/document/d/1L41K23U9caxq-LI0czEyIONrn4HgphJZRxccHq7L-xg/edit?usp=sharing)
-
-1. 百度贴吧关于学校的概况介绍链接:
-    1. 综合介绍: [开个贴来慢慢写新生入学注意事项吧。。](http://tieba.baidu.com/p/6040925189)
+1. MinG/CNS 项目主页：[mingcns.org](https://www.mingcns.org/)
 
 1. 如果对学校宿舍有兴趣的话: [housing.umn.edu](https://housing.umn.edu/)
 
