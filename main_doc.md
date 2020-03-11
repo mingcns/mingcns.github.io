@@ -328,7 +328,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         [ISSS - Submit Your Documents on MyISSS](https://isss.umn.edu/new/docs.html)
         1. Coffman G层 UCard Office 与 星巴克 中间有一家 **Printing Service** 可以复印以上材料。
         Printing Service **仅接受 [Gopher Gold](#gopher-gold-intro-anchor)** 付款。
-        如果暂时没有领取 UCard 或还没有充值 Gopher Gold，
+        如果暂时没有领取 UCard，亦或者还没有充值或不准备充值 Gopher Gold，
         可以选择前往 700 Washington Apartments 公寓楼下的 **Paradigm Copies** 打印店复印材料。地址为:  
         [720 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/Dc7ZrmKas9cbQDnR6)
     1. 第二天为面见Advisor以及选课，
@@ -350,11 +350,14 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
             更多关于银行的讨论，请参阅本文的 [银行账户与开户流程](#银行账户与开户流程) 章节。
             1. 领取 UCard 时，UCard Office会询问你是否需要充值Gopher Gold，
             由于校内打印、复印均需要使用Gopher Gold付款，我们建议大家领取时可以选择充值少量金额
-            （譬如10刀）供复印使用。**Carlson学生** 与 **工院CSELab用户** 分别拥有
+            （譬如10刀）供复印打印 Immigration Check-in 需要的文件 (如果是在Orientation前就领取了UCard的话)
+            及日后的文印需求。  
+            _注意: **Carlson学生** 与 **工院CSELab用户** 在 **选课后** 将分别拥有
             [无限免费文印](https://carlsonschool.umn.edu/degrees/undergraduate/student-life/advising-coaching-and-technology) 和
             [CSELab $60 免费文印额度](https://cseit.umn.edu/knowledge-help/learn-more-about-cse-labs-print-quotas)，
             若是Carlson的学生或者是 CSELab用户（比如工院CSE学生、CLA CS学生、和选了入门CS课的其他学院学生）
-            ，可以选择不充值。
+            ，如果不需要在学校文印系统内复印打印 Immigration Check-in 需要的文件，
+            可以利用该项福利从而选择不充值 Gopher Gold。_  
             1. 更多关于 UCard 的介绍请阅读本文中的 [UCard校园卡](#ucard校园卡) 简介章节。
 
 * 转学生：  
