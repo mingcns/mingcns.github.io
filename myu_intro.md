@@ -169,6 +169,7 @@ Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold �
         详见主文档 [Account vs Debit Card 美国银行账户与借记卡区别辨析](https://www.mingcns.org/guidebook/#account-vs-debit-card-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%80%9F%E8%AE%B0%E5%8D%A1%E5%8C%BA%E5%88%AB%E8%BE%A8%E6%9E%90) 章节）
 
 
+
   * FINANCIAL AID  
   如果申请了Financial aid或者获取了奖学金可以在这个窗口查看。
 
@@ -187,13 +188,14 @@ Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold �
   * 如果在找到校内工作后，希望工资可以自动打入你的银行账户而不是每次都收纸质支票的话，
   建议设置 Direct Deposit。
   * 设置方法：
-    1. 点击 My Pay
+    1. 点击 "My Pay"
     1. 找到 "Direct Deposit Set-Up" 点击
     1. 按要求输入你的银行账户信息（不是 Debit Card 信息，
     详见主文档 [Account vs Debit Card 美国银行账户与借记卡区别辨析](https://www.mingcns.org/guidebook/#account-vs-debit-card-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%80%9F%E8%AE%B0%E5%8D%A1%E5%8C%BA%E5%88%AB%E8%BE%A8%E6%9E%90) 章节）
     1. Deposit Type 选择 "Balance of Net Pay"
     1. Amount or Percent 留空
     1. Deposit Order 输入 "999"
+  * _信息可能不实时，请以 Payroll 官方说明为准。_
 
 ### My Benefits
 
