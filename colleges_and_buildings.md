@@ -248,7 +248,8 @@ Writing 老师的办公楼，一楼有一个环境优雅的学习室。
 学校最古老的教学楼之一，Department of Earth Science 和 English Department 的主场。
 
 **Rapson Hall**  
-College of Design 以及建筑系的主场。
+College of Design 以及建筑系的主场。  
+详见 [College of Design (CDes)](#college-of-design-cdes) 章节。
 
 **Mechanical Engineering**  
 如其名，是 Mechanical Engineering 的主场，同时也为工院其他专业的课程提供教学场所。
@@ -572,6 +573,30 @@ Orientation的时候，AD会提到大一的时候为了方便各位同学的学�
 
 _(感谢 Law, Chingyau 和 Wang, Yushuang 贡献本段内容)_
 
+### College of Design (CDes)
+ 
+CDes 主场: Rapson Hall
+
+CDes 主页: [design.umn.edu](https://design.umn.edu/)
+ 
+Rapson Hall 分为 New Rapson Hall 和 Old Rapson Hall （其实还是同一个建筑物）
+ 
+- 新的Rapson hall 是指的地图上长得像十字架部分的建筑，视觉向外开放，落地大窗，通光性强。没有大门一说，四面八方都有门。一楼包括了设计学院的办公室，大多数需要Lecture的课都会在New Rapson hall进行，读书馆在三楼空间利用率较高。
+ 
+- 旧的Rapson hall是指的在地图上显示为正方形的建筑，具体很迷，一楼是空大的场地用来展示各种学生作品和现场活动的地方，并且有着VR实验室，激光打印室，二楼是学生用的studio，大部分的课都是在地下一层完成。最头疼的地方在于你不管对Rapson有多熟，总会有迷路绕远道的麻烦。（如果不看那小到不行的指示牌）。
+ 
+- Computer lab在新老建筑的交接口处地下一层。
+ 
+**主要交通方式:**  
+没有近的公交站，最近的就是DinkyTown的一片的公交站和Coffman Memorial Union门口的公交站。  
+如果是轻轨的话，坐到Green Line 到 East Bank Station，然后大概走7分钟左右即可抵达。
+
+![CDesign T-Shirt](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/cdes_tshirt.jpg)
+
+Orientation时候送的 CDes 学院专属限定款黑色T恤 （为身上黑色这件，举起来的是
+[CLA](#college-of-liberal-arts-cla) 的T恤）
+
+_(感谢 Yin, Ziniu 贡献本段内容)_
 
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
@@ -597,6 +622,7 @@ Authors, co-editors, and contributors of this documentation:
 * Shen, Thomas
 * Sun, Haoyue
 * Wang, Yushuang
+* Yin, Ziniu
 * Zhan, Jiayu
 * Zheng, Yue
 
