@@ -260,8 +260,7 @@ _（有TA、RA职位或者Fellowship的Master、Ph.D.项目）_ 请确保至少�
     [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
     [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
     [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
-1. **学校官方** 接机服务：时间为8月9号到25号期间，每天10点到21点20，每小时一趟车，
-在Terminal 1的6号行李传送带处(Baggage Claim Carousel 6)。具体情况请访问连接：
+1. **学校官方** 接机服务：时间为8月7号到23号期间，每天10点到21点20分，每小时一趟车，地点在Terminal 1的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
 
@@ -286,7 +285,7 @@ Centennial Hall:
     * Comstock, Middlebrook, Sanford, 17th & Bailey: 8月28日
     * Frontier: 8月30日
     * 其他学校宿舍: 8月27日
-    * 不住在学校公寓(校外租房)的学生需要于8月28日晚7点前退房。
+    * 不住在学校公寓(校外租房)的学生需要于8月28日19点前退房。
 
 
 ## 初至明尼
@@ -299,12 +298,12 @@ Centennial Hall:
 如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
 否则将无法正常进行对第二学期的选课。
 
-* Admission Office 地址(适用于本科生):  
+* Admission Office 地址 (适用于本科生):  
 [240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
 Phone #: (612) 625-2008  
 E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
 
-* Graduate School Admissions Office 地址(适用于研究生):  
+* Graduate School Admissions Office 地址 (适用于研究生):  
 [321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7)  
 Phone #: (612) 625-3014  
 E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
@@ -322,8 +321,8 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
             * I-20 或 DS-2019 表格复印件
             * I-94 入境记录打印件
             (可于 [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov/I94/) 点击 "**Get Most Recent I-94**" 获取)。
-        1. 自Fall 2019开始，ISSS要求大家在抵达美国后，先在
-        [MyISSS Portal](https://myisss.umn.edu/)上传相关信息后，再前往In Person Immigration Check-in。
+        1. 自Fall 2019开始，ISSS要求新生在抵达美国后，先在
+        [MyISSS Portal](https://myisss.umn.edu/) 上传相关信息后，再前往In Person Immigration Check-in。
         请大家留意自己的 **UMN邮箱** 中关于相关事宜的邮件。因此，请务必 **提前激活学校邮箱** ，详见本文
         [UMN学生账号的激活与使用 - 激活你的UMN邮箱](#activate-umn-email-anchor)
         章节。更多细节，请参阅：
@@ -402,18 +401,18 @@ GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛�
 
 **CEHD的同学** 需要注意，在你们的College Day中有一次Meeting，这是必须要参加的Meeting，请务必前往。
 
-### Ucard校园卡
+### UCard校园卡
 
 Ucard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领取了，不用等到Orientation再领取。
 
-**关于Ucard的介绍:**  
-Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明的一个证件。Ucard除了做证件以外，还内置了几个账户，
+**关于UCard的介绍:**  
+Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明的一个证件。UCard除了做证件以外，还内置了几个账户，
 可以用于校内的消费、图书馆借书、甚至搭乘公交（需要充值）:
 * **<span id="gopher-gold-intro-anchor">Gopher Gold</span>**  
 校内的电子货币，可以用于支付校内打印费用等大部分校内消费。  
 充值信息如下：[Deposit to Gopher GOLD](https://ucard.umn.edu/umtc/deposit)  
-这里笔者建议大家在刚开学Ucard Office 推出充值送钱的活动时充值。
-但是由于Gopher Gold是支付校内打印/复印服务的 **唯一方式**，我们建议新生在领取Ucard时充值10刀左右的Gopher Gold
+这里笔者建议大家在刚开学UCard Office 推出充值送钱的活动时充值。
+但是由于Gopher Gold是支付校内打印/复印服务的 **唯一方式**，我们建议新生在领取UCard时充值10刀左右的Gopher Gold
 以便打印/复印Immigration Check-in所需的文件使用。
 * **Flexdine (FD)**  
 和Gopher Gold有所区别，FD 只能在学校饭堂，或者Dining 旗下的店铺使用。涵盖但不限于：Coffman Food Court,
@@ -436,13 +435,13 @@ UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 只需要借书者可以保障书本状态(condition)并按时归还/续租即可。
 关于图书馆政策的详细介绍，新生们会在Freshman Writing课(课号WRIT 1301)上得到深入了解。
 
-学校官方对于Ucard Account的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
+学校官方对于UCard Account的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
 
-_注：以上提及的Gopher Gold, Flexdine和GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
+_注：以上提及的 Gopher Gold, Flexdine和 GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
 
 
-## 生活在明大
+## 在明大的生活
 
 ### 手机&套餐
 
@@ -454,7 +453,7 @@ Verizon: band 2/ 4/ 5/ 13/ 66;
 AT&T: band 2/ 4/ 5/ 12/ 17;  
 T-Mobile: band 2/ 4/ 5/ 12/ 66/ 71;  
 Sprint: band 5/ 20/ 25/ 26/ 41/ 46;  
-一般来说，IPhone5s之后的苹果手机，三星Galaxy和Note系列(芯片为骁龙的国行机器)都是支持美国所有运营商的。华为P和Mate系列支持AT&T和T-Mobile。一加6T(含)往后支持全部主流运营商。由于美国的5G网络仍处于建设阶段，故本文不予讨论。
+一般来说，IPhone5s之后的苹果手机，三星Galaxy和Note系列(芯片为骁龙的国行机器)都是支持美国所有运营商的。华为P和Mate系列支持AT&T和T-Mobile。一加6T(含)往后支持全部主流运营商。由于美国的5G网络仍处于建设阶段，本文不予讨论。
 
 美国三大运营商(Sprint已被T-Mobile并购):
 
@@ -467,7 +466,7 @@ Sprint: band 5/ 20/ 25/ 26/ 41/ 46;
 官网链接：[AT&T Wireless Plans](https://www.att.com/plans/wireless.html)
 
 * T-Mobile：如果说AT&T的性价比不错，那T的性价比就是极高的了。个人套餐月资费30-50，但是流量比上面两家都要多。
-这里尤其推荐他家的T-Mobile One这个套餐，不幸的是这个套餐也是要人多的Family Plan才有优势，
+这里尤其推荐他家的T-Mobile Magenta这个套餐，不过不幸的是这个套餐也是要人多的Family Plan才有优势，
 可以$30/mo享受到无限语音通话，全球无限短信和美国无限4G LTE流量（真的是4G LTE无限流量，
 很多运营商的无限流量都是指4G流量用完后降速到2G网速，然后无限2G流量），国际100多个国家和地区免费2G网速流量。
 T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。  
