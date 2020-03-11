@@ -42,6 +42,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 明大Logo下方是校区选择，此处应显示为 **Twin Cities**。
 
 ### 校区选择栏下方基础工具栏
+
   1. MyU字样：点击可回到主页（上图中显示页面）
 
   1. Key Links：  
@@ -77,12 +78,15 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
   1. Notifications：Holds 右边的小旗子，大家需要多留意学校发出的 Notifications，完成相应事情。
 
 ## 左侧工具栏
+
 ![左侧工具栏](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Left.png)
 
 ### NEWS
+
 点击后右边会出现明大近期举办过或将要举办的活动及重要通知。（如主页图所示）
 
 ### ACADEMICS
+
 点击后会显示下图界面
 
 ![My Classes](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_My_Classes.png)
@@ -91,6 +95,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 **Orientation 时会详细讲解这部分功能的使用**
 
 #### MY CLASSES  
+
   这里显示有以下信息（见上图）：
   * 课程表
   * My Program(s) 处显示专业/辅修。
@@ -98,18 +103,22 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
   将在临近 Orientation 时分配。
 
 #### REGISTRATION
+
 这个页面用于查看选课时间和选课。
 
 ![Registration](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_Registration.png)
 
 #### DEGREE PROGRESS
+
 显示学生在某专业下的学术进度。其显示可能不准确，请以[APAS](https://www.mingcns.org/guidebook/#apas)为准。
 
 #### GRADES
+
 查看自己的各科成绩，也可以在这个页面里查看 Unofficial Transcript、Order Official Transcript、
 获取在读证明 Verification of Enrollment 等。
 
 ### MY FINANCES
+
 点击后会显示下图界面:
 
 ![My Finances](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/MyU_My_Finances.png)
@@ -124,22 +133,30 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
   查看奖学金或 Financial Aid 的情况与记录。
 
 ### My Time
+
 本项只会在学生有在校工作后显示，用途为汇报工时。
 
 ### My Pay
+
 本项只会在学生有在校工作后显示，用途为查看工资情况。
 
 ### My Benefits
-本项只会在学生有在校工作后显示，如无特别需求，无视即可。
+
+本项只会在学生有在校工作后显示，对于本科生而言如无特别需求，无视即可。
+
+有TAship或者RAship的研究生，或是学校的教工，可以在这里查看/更改自己的福利。
 
 ### Purchasing
+
 本项只会在学生有在校工作后显示，如无特别需求，无视即可。
 
 ### MY INFO
+
 填写、修改个人信息的地方。这里需要注意保持美国的邮寄地址、邮件及电话号码真实有效且实时，
 这对维持在美合法身份 **非常重要**。
 
 ## 相关信息
+
   1. Onestop对于MyU功能的介绍：[https://onestop.umn.edu/how-guides](https://onestop.umn.edu/how-guides)
   1. IT部门对MyU功能的介绍：[https://it.umn.edu/technology/myu-portal](https://it.umn.edu/technology/myu-portal)
   1. 学校Training部门的MyU介绍视频：[YouTube - Get to Know the New MyU](https://www.youtube.com/watch?v=TACviSppgFI)
