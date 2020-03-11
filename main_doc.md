@@ -123,6 +123,23 @@ SEVIS记录将会伴随你的整个美国学生生涯以及毕业后OPT工作。
 明大ISSS提供了完备的分步骤指引：
 [ISSS Visa Status Transfer](https://isss.umn.edu/new/visas-transfer.html)。
 请提前向你现在学校了解清楚你在现在学校的 **I-20 release date** 是哪一天。
+    * <span id="opt-i20-transfer"></span>(_仅限现在现在处于 OPT 或者 STEM OPT 工作的同学_)
+
+        1. I-20 Transfer 将会在 release date 当天立刻结束你的 OPT 或 STEM OPT。设置 I-20 release date
+        于正式离职前会导致 **非法工作**。
+
+        1. 正式离职后到 I-20 release date 中间这段时间是用的
+        [OPT / STEM OPT 的 Unemployment 失业期](https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/unemployment-counter)，
+        请计算自己之前已经使用过多少天失业期，以免身份失效。
+
+        1. 也请勿将 I-20 Release Date 设置的太早，最好不要早过开学前五个月，否则也会存在中间衔接时段的身份隐患。
+        关于 Five-Month Rule, 请参考国土安全部的官方文章
+        [What is the Five-Month Rule?](https://studyinthestates.dhs.gov/2015/01/what-is-the-five-month-rule)
+
+        1. 在 Release date 之后到开学前，SEVIS Record 将处于明大，并可以合法待在美国.
+
+_此段仅为通用介绍以及个人解读，**不构成任何法律上的建议**，详见 [版权与免责协议](#版权与免责协议)_
+
 
 ### 国内体检以及疫苗
 
