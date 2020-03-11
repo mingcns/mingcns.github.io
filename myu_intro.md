@@ -67,13 +67,31 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
   1. Favorites：类似于书签 Bookmark，可以收藏自己常用的链接。
 
-  1. User Options (主页图马赛克处)：同一栏的右手边，有一个图标有个人像logo后面接着使用人的名字，
+  1. User Options (主页图 **马赛克处**)：同一栏的右手边，
+  有一个人像图标后面紧接着使用人的名字，
   点击后会出现下列选项：  
   ![User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_user_options.png)
 
-  1. Email：User Options 右边有一个信封图标，点击此图标可以访问使用人自己的学校邮箱。
+  1. Email：User Options 右边有一个信封图标，点击此图标可以访问使用人的学校邮箱，
+  效果等同于登录 [mail.umn.edu](http://mail.umn.edu)。
 
-  1. Holds：Email 右边的警告符号，使用人所有的 Holds 都会在这显示。
+  1. <span id="holds-anchor">Holds：Email 右边的警告符号，使用人所有的 Holds 都会在这显示。</span>   
+  Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都会有详细的信息说明这个Hold是为什么被放置在你的账户上，
+  以及该如何移除/联系谁移除。  
+  新生常见的 Hold 有:
+    * ISSS 放置的 **Immigration Check-in 的Hold**， 可以在参加完 Immigration Check-in 之后移除。
+    * 学院/院系 放置的 **选课 Hold**，要求你现在/或者将来某个学期选课之前，去和Advisor交流一下，
+    Advisor会帮你移除这个Hold，或者是将这个 Hold 阻止选课的学期往后顺延。  
+    很多学院/院系的专业是会为此放置一个永久的 Hold 在账户上的，每次和Advisor交流可以顺延阻止选课的学期，用来强制你每学期或者每年去跟Advisor沟通选课计划。  
+    _举例: Addy 是2020 Fall入学的CSE 电子工程系新生，在录取后，他的账户上被放上了 CSE
+    用来阻止 **选 2020 Fall 的课** 的Hold。在和Advisor聊完之后，
+    这个Hold的阻止选课学期被延后到了 **2021 Fall**。
+    在选 2021 Fall的课程之前， Addy需要再去跟 Advisor聊一下天，否则将无法正常选课。_
+    * Admission Office/Graduate School 因没有上交前一段学历的 **最终成绩单/毕业证书/学位证书** 而放置的Hold，
+    一般会阻止新生第一学期的选课。在申请缓交之后，会阻止新生第二学期的正常选课。  
+    可以通过完整上交前一段学习的各种材料给对应部门来消除，详见核心指南文档的
+    [初至明尼 - 最终成绩单和学历证明](https://www.mingcns.org/guidebook/#最终成绩单和学历证明) 章节
+
 
   1. Notifications：Holds 右边的小旗子，大家需要多留意学校发出的 Notifications，完成相应事情。
 

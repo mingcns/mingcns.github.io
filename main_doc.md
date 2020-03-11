@@ -291,9 +291,11 @@ Centennial Hall:
 
 ## 初至明尼
 
-### 上交最终成绩单和学历证明
+### 最终成绩单和学历证明
+
 无论项目，只要还未提交所有最终成绩/学位证明的话，便需要在选课(Orientation)前提交最终成绩单以及毕业证书（如果需要）
-给Admission Office _(所有本科生)_ 或是Graduate School _(所有研究生)_ 。  
+给Admission Office _(所有本科生)_ 或是Graduate School _(所有研究生)_ 来消除
+**[选课 HOLD](https://www.mingcns.org/myu-intro/#holds-anchor)**。  
 如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
 否则将无法正常进行对第二学期的选课。
 
@@ -331,7 +333,9 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         如果暂时没有领取 UCard 或还没有充值 Gopher Gold，
         可以选择前往 700 Washington Apartments 公寓楼下的 **Paradigm Copies** 打印店复印材料。地址为:  
         [720 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/Dc7ZrmKas9cbQDnR6)
-    1. 第二天为面见Advisor以及选课，请确保在此时你MyU上的 **Hold(s)已经全部消除** ，否则你将无法选课。
+    1. 第二天为面见Advisor以及选课，
+    请确保在此时你MyU上的 **[Hold(s)已经全部消除](https://www.mingcns.org/myu-intro/#holds-anchor)** ，
+    否则你将无法选课。
         1. 我们建议大家在面见Advisor前先于
         [University Catalog - list of current undergrad programs](https://onestop2.umn.edu/pcas/viewCatalogSearchResults.do?campusId=UMNTC&userDefinedSearch=true&keywords=&careerId=UGRD&programType=BACC)
         中搜索自己想攻读的专业项目，随后按照项目要求先自行排课，如有疑问即可当面向Advisor提出。  
