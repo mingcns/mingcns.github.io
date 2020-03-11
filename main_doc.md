@@ -182,21 +182,6 @@ _（有TA、RA职位或者Fellowship的Master、Ph.D.项目）_ 请确保至少�
 原则上首次入境十天后方可按流程从院系到ISSS到Social Security Administration(SSA)去申请SSN(Social Security Number)。  
 在申请SSN并且拿到SSN Receipt之后，方可去Payroll处填写I-9表格入职开始工作。
 
-无论项目，只要还未提交所有最终成绩/学位证明的话，便需要在选课(Orientation)前提交最终成绩单以及毕业证书（如果需要）
-给Admission Office _(所有本科生)_ 或是Graduate School _(所有研究生)_ 。  
-如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
-否则将无法正常进行对第二学期的选课。
-
-* Admission Office 地址(适用于本科生):  
-[240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
-Phone #: (612) 625-2008  
-E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
-
-* Graduate School Admissions Office 地址(适用于研究生):  
-[321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7)  
-Phone #: (612) 625-3014  
-E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
-
 #### 航班入境美国须知
 
 所有进入、经过美国的行程，除非已经于美国境外通过了Preclearance提前办理完入境手续(下文详解)，
@@ -305,6 +290,22 @@ Centennial Hall:
 
 
 ## 初至明尼
+
+### 上交最终成绩单和学历证明
+无论项目，只要还未提交所有最终成绩/学位证明的话，便需要在选课(Orientation)前提交最终成绩单以及毕业证书（如果需要）
+给Admission Office _(所有本科生)_ 或是Graduate School _(所有研究生)_ 。  
+如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
+否则将无法正常进行对第二学期的选课。
+
+* Admission Office 地址(适用于本科生):  
+[240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
+Phone #: (612) 625-2008  
+E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
+
+* Graduate School Admissions Office 地址(适用于研究生):  
+[321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7)  
+Phone #: (612) 625-3014  
+E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 
 ### Orientation & Immigration Check-in
 
