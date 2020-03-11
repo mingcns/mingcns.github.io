@@ -89,11 +89,11 @@ User Options 右边的信封图标，点击此图标可以访问学校邮箱，
 效果等同于登录 [mail.umn.edu](http://mail.umn.edu)。
 
 1. <span id="holds-anchor"></span>**Holds**  
-Email 右边的警告符号，使用人所有的 Holds 都会在这显示。  
-Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都会有详细的信息说明这个Hold是为什么被放置在你的账户上，
+Email 右边的警告符号，使用人所有的 Hold(s) 都会于此显示。  
+Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold 都会有详细的信息说明这个 Hold 是为什么被放置在你的账户上，
 以及该如何移除/联系谁移除。  
 新生常见的 Hold 有:
-    * ISSS 放置的 **Immigration Check-in 的Hold**， 可以在参加完 Immigration Check-in 之后移除。
+    * ISSS 放置的 **Immigration Check-in 的 Hold**， 可以在参加完 Immigration Check-in 之后移除。
     * 学院/院系 放置的 **选课 Hold**，要求你现在/或者将来某个学期选课之前，去和Advisor交流一下，
     Advisor会帮你移除这个Hold，或者是将这个 Hold 阻止选课的学期往后顺延。  
     很多学院/院系的专业是会为此放置一个永久的 Hold 在账户上的，每次和Advisor交流可以顺延阻止选课的学期，用来强制你每学期或者每年去跟Advisor沟通选课计划。  
@@ -156,7 +156,18 @@ Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都�
 ![My Finances](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_my_finances.png)
 
   * BILLING & PAYMENT  
-  查看学费，交学费，查看详细账单及查询各种deadline的地方。
+  查看学费、交学费、查看详细账单的地方。
+    * 关于 Direct Deposit：
+        * 美国银行体系中将一笔钱从一间机构直接（电子）汇款给个人的操作称为 Direct Deposit。
+        * **Direct Deposit 不是强制要求设置的**。
+        * 此处的 Direct Deposit 是学校给学生退费时使用的，如果没有设置 Direct Deposit，
+        学校 Onestop 会寄一张支票到学生在 MyU 里预留的地址。
+            * 发生退费的主要情况：
+                1. 在账户欠款清零后收到了一笔奖学金/补贴。
+                1. 在交完学费后课程杂费发生变更。例如换课。
+        * 如有意向设置，可以在点击 "Setup Direct Deposit" 后按要求输入银行账户信息即可。（不是 Debit Card 信息，
+        详见主文档 [Account vs Debit Card 美国银行账户与借记卡区别辨析](https://www.mingcns.org/guidebook/#account-vs-debit-card-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%80%9F%E8%AE%B0%E5%8D%A1%E5%8C%BA%E5%88%AB%E8%BE%A8%E6%9E%90) 章节）
+
 
   * FINANCIAL AID  
   如果申请了Financial aid或者获取了奖学金可以在这个窗口查看。
@@ -171,6 +182,18 @@ Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都�
 ### My Pay
 
 本项只会在学生有在校工作后显示，用途为查看工资情况。
+
+关于 Direct Deposit Setup：    
+  * 如果在找到校内工作后，希望工资可以自动打入你的银行账户而不是每次都收纸质支票的话，
+  建议设置 Direct Deposit。
+  * 设置方法：
+    1. 点击 My Pay
+    1. 找到 "Direct Deposit Set-Up" 点击
+    1. 按要求输入你的银行账户信息（不是 Debit Card 信息，
+    详见主文档 [Account vs Debit Card 美国银行账户与借记卡区别辨析](https://www.mingcns.org/guidebook/#account-vs-debit-card-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%80%9F%E8%AE%B0%E5%8D%A1%E5%8C%BA%E5%88%AB%E8%BE%A8%E6%9E%90) 章节）
+    1. Deposit Type 选择 "Balance of Net Pay"
+    1. Amount or Percent 留空
+    1. Deposit Order 输入 "999"
 
 ### My Benefits
 
