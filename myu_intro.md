@@ -75,7 +75,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 ![Right User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_right_user_options.png)
 
 1. **User Options (登录用户姓名栏)**  
-位于工具栏的右侧，
+位于登录用户信息的最左侧，
 有一个人像图标后面紧接着登录人 (_Golden Gopher!_) 的名字，
 点击后会出现上图所示的选项。
 
