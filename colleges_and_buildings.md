@@ -577,8 +577,8 @@ _(感谢 Law, Chingyau 和 Wang, Yushuang 贡献本段内容)_
  
 CDes 主场: Rapson Hall
 
-CDes 主页: [design.umn.edu](https://design.umn.edu/)
- 
+CDes 主页: [design.umn.edu](https://design.umn.edu/)  
+
 Rapson Hall 分为 New Rapson Hall 和 Old Rapson Hall （其实还是同一个建筑物）
  
 - 新的Rapson hall 是指的地图上长得像十字架部分的建筑，视觉向外开放，落地大窗，通光性强。没有大门一说，四面八方都有门。一楼包括了设计学院的办公室，大多数需要Lecture的课都会在New Rapson hall进行，读书馆在三楼空间利用率较高。
