@@ -6,17 +6,17 @@ Project MinG/CNS
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
 
-- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook)**
+- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook/)**
 
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
 
-- **明大地理：主要院系和教学楼简介: [mingcns.org/colleges-and-buildings](https://www.mingcns.org/colleges-and-buildings)**
+- **明大地理：主要院系和教学楼简介: [mingcns.org/colleges-and-buildings](https://www.mingcns.org/colleges-and-buildings/)**
 
 - **转学分相关经验分享: [Google Docs - 转学分相关介绍](https://docs.google.com/document/d/1XTFisc8i_bUdBH2rpmU2p2Rq8T8johQ0Ca7JgyhLXVI/edit?usp=sharing)**
 
-- **MyU 简介: [Google Docs - MyU 简介](https://docs.google.com/document/d/1be9-hePpLw9f_bsaVRIJxPET0JXp1kD4PuRb3J2_M28/edit?usp=sharing)**
+- **学校 MyU 系统简介: [mingcns.org/myu-intro](https://www.mingcns.org/myu-intro/)**
 
 - **图书馆资源简介: _Coming soon_**
 
@@ -42,11 +42,11 @@ _(请使用UMN邮箱登陆)_
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">其他 Others</h2>
 
-- **UMN各类校内实用资源: [mingcns.org/resources-on-campus](https://www.mingcns.org/resources-on-campus)**
+- **UMN各类校内实用资源: [mingcns.org/resources-on-campus](https://www.mingcns.org/resources-on-campus/)**
 
 - **赴美行李清单参考: [Google Docs - 赴美行李准备](https://docs.google.com/document/d/1lplKvfPrmqKd0_zQU2Ut9Wsi2gVoQPqrdZDRaTcUuBE/edit?usp=sharing)**
 
-- **学费包含的服务: [mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition)**
+- **学费包含的服务: [mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition/)**
 
 ---
 
