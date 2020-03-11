@@ -41,7 +41,9 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 
 明大Logo下方是校区选择，此处应显示为 **Twin Cities**。
 
-### 校区选择栏下方基础工具栏
+### 校区选择栏下方工具栏
+
+#### 左侧 - 快捷链接
 
 1. **MyU字样**  
 点击可回到主页（上图中显示页面）
@@ -69,14 +71,16 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 1. **Favorites**  
 类似于书签 Bookmark，可以收藏自己常用的链接。
 
-1. **User Options (主页图马赛克处)**  
-位于同一栏的右手边，
-有一个人像图标后面紧接着使用人的名字，
-点击后会出现下列选项：  
-![User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_user_options.png)
+#### 右侧 - 登录用户信息
+![Right User Options](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_right_user_options.png)
+
+1. **User Options (登录用户姓名栏)**  
+位于工具栏的右侧，
+有一个人像图标后面紧接着登录人 (_Golden Gopher!_) 的名字，
+点击后会出现上图所示的选项。
 
 1. **Email**  
-User Options 右边有一个信封图标，点击此图标可以访问学校邮箱，
+User Options 右边的信封图标，点击此图标可以访问学校邮箱，
 效果等同于登录 [mail.umn.edu](http://mail.umn.edu)。
 
 1. <span id="holds-anchor"></span>**Holds**  
@@ -97,13 +101,12 @@ Holds 会 **阻止你现在或者将来某一学期的选课**，每条Hold都�
     可以通过完整上交前一段学习的各种材料给对应部门来消除，详见核心指南文档的
     [初至明尼 - 最终成绩单和学历证明](https://www.mingcns.org/guidebook/#最终成绩单和学历证明) 章节
 
-
 1. **Notifications**  
-Holds 右边的小旗子，大家需要多留意学校发出的 Notifications，完成相应任务。
+登录用户信息最右边的小旗子，大家需要多留意学校发出的 Notifications，完成相应任务。
 
-## 左侧工具栏
+## 主页面左侧功能选择窗
 
-![左侧工具栏](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_left.png)
+![左侧功能选择窗](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_left.png)
 
 ### NEWS
 
@@ -115,7 +118,7 @@ Holds 右边的小旗子，大家需要多留意学校发出的 Notifications，
 
 ![My Classes](https://github.com/mingcns/mingcns.github.io/raw/master/images/myu_intro/myu_my_classes.png)
 
-在 Academics 界面底部有许多非常有用的链接，比如 [Academic Calendar - UMTC](https://onestop.umn.edu/dates-and-deadlines); [Schedule Builder-UMTC](schedulebuilder.umn.edu); [APAS](https://www.mingcns.org/guidebook/#apas); Enrollmention Verification 等。
+在 Academics 界面底部有许多非常有用的链接，比如 [Academic Calendar - UMTC](https://onestop.umn.edu/dates-and-deadlines); [Schedule Builder-UMTC](schedulebuilder.umn.edu); [APAS](https://www.mingcns.org/guidebook/#apas); Enrollment Verification 等。
 **Orientation 时会详细讲解这部分功能的使用**
 
 #### MY CLASSES  
@@ -208,6 +211,7 @@ Authors, co-editors, and contributors of this documentation:
 
 * Sun, Haoyue
 * Zhan, Jiayu
+* Zhou, Tiannan
 
 ---
 _<font color="grey">Locations of Visitors: </font>_
