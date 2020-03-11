@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MyU简介"
-permalink: /myu-introduction/
+permalink: /myu-intro/
 ---
 
 <div>
