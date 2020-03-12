@@ -1168,8 +1168,7 @@ A: 请查阅学校官方Academic Calendar:
 
 ### 关于住房
 
-**Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？
-<a id="is-dorm-bad-anchor" href="https://www.mingcns.org/guidebook/#is-dorm-bad-anchor">#is-dorm-bad-anchor</a>**  
+**Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？ <a id="is-dorm-bad-anchor" href="https://www.mingcns.org/guidebook/#is-dorm-bad-anchor">#is-dorm-bad-anchor</a>**  
 A: 首先，不同的人对于这个问题有不同的看法。
 住宿舍的主要问题在于没有私人空间（公共卫浴）以及强制购买性价比很低且并不好吃的每周至少11顿食堂的Meal plan。
 没有私人空间可能在舍友做一些国人通常认为非常出格的事情时候造成困扰。另外注意，美国大学的宿舍并不像中国的宿舍那般和谐安全，
@@ -1214,8 +1213,7 @@ A:  没有特别大的区别。大一有很多的通识教育课（Liberal Educa
 **Q: 作为研究生、博士生，我应该住在东岸还是西岸呢？**
 A:  研究生和博士生的上课/工作一般都在自己的学院里进行。请根据自己的办公室或者是院系教学楼地址决定住处。
 
-**Q: 有什么校外公寓推荐吗？
-<a id="live-off-campus-faq" href="https://www.mingcns.org/guidebook/#live-off-campus-faq">#live-off-campus-faq</a>**  
+**Q: 有什么校外公寓推荐吗？ <a id="live-off-campus-faq" href="https://www.mingcns.org/guidebook/#live-off-campus-faq">#live-off-campus-faq</a>**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
 学校周边公寓列表：[listings.umn.edu](https://listings.umn.edu/off-campus-housing/university-of-minnesota/search)  
 以及学校官方做的关于校外公寓的Survey:
@@ -1229,8 +1227,7 @@ A: 通过在 [上一个问题](#live-off-campus-faq) 中介绍的方法和资源
 租房原本就是两方（房东、房客）的事情，明大周围的房源并没多到要靠中介才能理得清楚，在可以获得足够信息的前提下，
 并不建议引入第三方机构来增加自己的资金和合同风险。
 
-**Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？
-<a id="legal-service" href="https://www.mingcns.org/guidebook#legal-service">#legal-service</a>**  
+**Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？ <a id="legal-service" href="https://www.mingcns.org/guidebook#legal-service">#legal-service</a>**  
 A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签字合同的原件</font>
 (无论是电子版PDF还是纸质版)。这也是前一个问题中不建议引入第三方机构的一个原因，会将出现纠纷的情况更加复杂化。  
 学校提供学生法律援助服务 Student Legal Service, 官网为 [sls.umn.edu](http://sls.umn.edu/)，
