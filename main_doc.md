@@ -1215,7 +1215,7 @@ A:  没有特别大的区别。大一有很多的通识教育课（Liberal Educa
 A:  研究生和博士生的上课/工作一般都在自己的学院里进行。请根据自己的办公室或者是院系教学楼地址决定住处。
 
 **Q: 有什么校外公寓推荐吗？
-<a id="live-off-campus-anchor" href="https://www.mingcns.org/guidebook/#live-off-campus-anchor">#live-off-campus-anchor</a>**  
+<a id="live-off-campus-faq" href="https://www.mingcns.org/guidebook/#live-off-campus-faq">#live-off-campus-faq</a>**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
 学校周边公寓列表：[listings.umn.edu](https://listings.umn.edu/off-campus-housing/university-of-minnesota/search)  
 以及学校官方做的关于校外公寓的Survey:
