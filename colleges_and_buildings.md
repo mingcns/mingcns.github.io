@@ -38,7 +38,7 @@ Page Built on:
 学校官方Virtual Tour: [admissions.tc.umn.edu/visit](https://admissions.tc.umn.edu/visit/)
 
 学校官方提供了很多有用或是有趣的地图，可以参阅《明大中国新生核心指南》中的
-[实用链接 - 各式学校地图](https://www.mingcns.org/guidebook#umn-map-links-anchor) 模块。
+[实用链接 - 各式学校地图](https://www.mingcns.org/guidebook/#umn-map-links-anchor) 模块。
 
 <!-- TODO(tnz): Changing this to git version when available. -->
 关于宿舍楼的介绍，可以参阅

@@ -92,7 +92,7 @@ Student Legal Service Address (就在西岸天桥上):
 [160 West Bank Skyway, 219 19th Avenue South,Minneapolis, MN 55455](https://goo.gl/maps/yYgNLktHQoWvyHyR6)  
 
 相关问题 _"Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？"_
-链接: [www.mingcns.org/guidebook#legal-service](https://www.mingcns.org/guidebook#legal-service)
+链接: [www.mingcns.org/guidebook/#legal-service](https://www.mingcns.org/guidebook/#legal-service)
 
 ### Campus Safety
   * [Safe Walk Escort Service](https://www.pts.umn.edu/walk/campus-security-monitor-escort)

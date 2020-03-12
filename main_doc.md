@@ -1230,7 +1230,7 @@ A: 通过在 [上一个问题](#live-off-campus-faq) 中介绍的方法和资源
 并不建议引入第三方机构来增加自己的资金和合同风险。
 
 **Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？
-<a id="legal-service" href="https://www.mingcns.org/guidebook#legal-service">#legal-service</a>**  
+<a id="legal-service" href="https://www.mingcns.org/guidebook/#legal-service">#legal-service</a>**  
 A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签字合同的原件</font>
 (无论是电子版PDF还是纸质版)。这也是前一个问题中不建议引入第三方机构的一个原因，会将出现纠纷的情况更加复杂化。  
 学校提供学生法律援助服务 Student Legal Service, 官网为 [sls.umn.edu](http://sls.umn.edu/)，
