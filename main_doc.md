@@ -1071,7 +1071,7 @@ _2020学年的保险覆盖日期与价格信息将于晚些时候发布。_
 1. **附加内容**  
 紧急旅行协助服务由 Redpoint 提供，[详细内容在此](https://shb.umn.edu/sites/shb.umn.edu/files/redpoint_benefits_chart.pdf)。
 
-1. **关于豁免于购买默认保险**  
+1. **关于豁免于购买默认保险 <a id="waive-shbp-anchor" href="https://www.mingcns.org/guidebook/#waive-shbp-anchor">#waive-shbp-anchor</a>**  
 一般来说，如果没有 **美国绿卡** 或者 **美国公民** 身份，且也没有其他的美国医保覆盖的情况下，
 为了省钱去 waive 掉学校的默认保险的购买要求是几乎不可能的，
 并且也是将自己的健康与经济能力（美国的医疗在没有保险的情况下非常的昂贵）暴露在风险之中。
