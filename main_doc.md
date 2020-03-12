@@ -1153,7 +1153,7 @@ A: DUO全称DUO Security，是一个在你登陆账户时二步验证身份的�
 **Q: 我考了AP, 请问多少分可以换学分？怎么换？截止日期是什么时候？**  
 A: 学校官方介绍如下：[Advanced Placement Course Awards](https://admissions.tc.umn.edu/academics/ap.html)
 
-**<span id="ba-bs-diff-anchor">Q: 同一个专业有BA和BS两种，我应该学习哪一种？</span>**  
+**Q: 同一个专业有BA和BS两种，我应该学习哪一种？ <a id="ba-bs-diff-anchor" href="https://www.mingcns.org/guidebook/#ba-bs-diff-anchor">#ba-bs-diff-anchor</a>**  
 A: BA和BS的全称分别为 Bachelor of Arts (文学学士) 和 Bachelor of Science (理学学士)，
 是学校针对对大学毕业后有不同安排的学生而设计的。  
 对于理科(Hard Science)来说 BA 的专业课要求没有 BS 多，但是会有更多的通识教育要求，适合打算跨学科学习的学生。
