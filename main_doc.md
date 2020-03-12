@@ -1168,7 +1168,8 @@ A: 请查阅学校官方Academic Calendar:
 
 ### 关于住房
 
-**<span id="is-dorm-bad-anchor">Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？</span>**  
+**Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？
+<a id="is-dorm-bad-anchor" href="https://www.mingcns.org/guidebook/#is-dorm-bad-anchor">#is-dorm-bad-anchor</a>**  
 A: 首先，不同的人对于这个问题有不同的看法。
 住宿舍的主要问题在于没有私人空间（公共卫浴）以及强制购买性价比很低且并不好吃的每周至少11顿食堂的Meal plan。
 没有私人空间可能在舍友做一些国人通常认为非常出格的事情时候造成困扰。另外注意，美国大学的宿舍并不像中国的宿舍那般和谐安全，
