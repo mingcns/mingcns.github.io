@@ -1399,7 +1399,7 @@ UMN中国代表处微信公众号：UMNChina
 1. 如果打算住在校外公寓，这里是一些可能用到的资源：[Off Campus Living](http://ocl.umn.edu/)  
 这个是学校官方的找室友网站: [Off Campus Living - Find A Roommate](http://ocl.umn.edu/renting-near-campus/find-a-roommate/)
 
-1. <span id="umn-map-links-anchor">各式学校地图</span>
+1. 各式学校地图 <a id="umn-map-links-anchor" href="https://www.mingcns.org/guidebook/#umn-map-links-anchor">#umn-map-links-anchor</a>
 
     1. 学校官方Virtual Tour: [Campus Visits](https://admissions.tc.umn.edu/visit/) (向下滑点击”Guided Walking Virtual Tour”即可)
 
