@@ -1272,7 +1272,8 @@ A: 从笔者个人的角度来讲，并不推荐携带太多现金。
 所以并没有必要带太多美元现金。而且因为美国并不是一个现金社会，我们强烈推荐来到学校后就到美国的银行开户并将现金存入，
 刷卡使用。随身只需要留有少量现金即可。关于学校周边银行的介绍见本文档 [银行账户与开户流程](#银行账户与开户流程) 章节。
 
-**Q: 在美国可以使用中国国内银行的银行卡吗？**  
+**Q: 在美国可以使用中国国内银行的银行卡吗？
+<a id="chinese-cards-in-us-faq" href="https://www.mingcns.org/guidebook/#chinese-cards-in-us-faq">#chinese-cards-in-us-faq</a>**  
 A: 分情况讨论：
 
 1. 如果卡面上有VISA，MasterCard，Discover，American Express（AMEX）的标志logo，
