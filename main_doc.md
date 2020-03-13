@@ -810,7 +810,7 @@ _同一张 Ucard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若�
 _请注意，威斯康星州 Wisconsin <font color="red">不允许使用中国驾照</font> 进行驾驶，
 使用中国驾照驾驶的同学请勿意外驶入威斯康辛。_
 
-![New version of Chinese Driving License](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/shanghai_driving_license_template.jpg)  
+![New version of Chinese Driving License](https://www.mingcns.org/images/main_doc/shanghai_driving_license_template.jpg)  
 _（新版带英文翻译的中国驾照格式，图片来自网络）_
 
 根据[明尼苏达DVS规定](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=551)，
@@ -974,7 +974,7 @@ _Department of Economics_ )开设的，同一个院系的同一个 **专业 Majo
 [Program Details - Mathematics B.A.](https://onestop2.umn.edu/pcas/viewCatalogProgram.do?programID=141)
 
 首先，是学位项目的介绍：  
-![Mathematics B.A. program summary](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/ba_math_program_summary.png)
+![Mathematics B.A. program summary](https://www.mingcns.org/images/main_doc/ba_math_program_summary.png)
 
 每个学位项目都有两个要求：
 
@@ -1014,7 +1014,7 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 总体来说校园内还是比较安全的，恶性事件已经很久没有发生过了。
 2017年校警局的统计数据表明校内只发生了7起抢劫，18起盗窃案，19起强奸/性骚扰案件。
 
-![safe_maps_image_yang](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/unsafe_roads_map.png)  
+![safe_maps_image_yang](https://www.mingcns.org/images/main_doc/unsafe_roads_map.png)  
 双城的两个校区相比而言，圣保罗校区会比明尼阿波利斯校区更安全一点。  
 明尼校区因为东岸靠近Dinkytown，西岸临近难民营的原因，会比圣保罗校区多一些不安全因素。
 如上方左侧图1所示，标红地区是位于西岸的索马里难民营，建议新生探索学校时尽量不要越过卡尔森商学院，
@@ -1027,7 +1027,7 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 
 1. **蓝灯（Code Blue Emergency Phone）**  
 如下图所示，功能挺明显，遇到紧急情况可一键报警，学校在校区四处安装了20个蓝灯。如果晚上感觉自己被不明人士尾随，可以直接往蓝灯方向走，一是方便报警，二是蓝灯有一定威慑作用。  
-![Code blue emergency phone](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/u_blue_light.png)
+![Code blue emergency phone](https://www.mingcns.org/images/main_doc/u_blue_light.png)
 
 2. **校园保安护送服务（Campus Safe Walk Service）**  
 这是一项全年每天时时都有的免费服务，24/7/365. 不管刮风下雨下暴风雪，不管凌晨几点有多晚。
@@ -1035,8 +1035,8 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 向接线员说明 **自己的姓名**， **目前所在位置** 及 **目的地** 。
 半小时内就会有一名身穿制服的保安来到你面前送你回家/去指定教学楼。
 遗憾的是这项服务只覆盖校区及校区延伸一公里的距离，但是好在大部分学生公寓都在此范围内。
-![University security photo 1](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/u_security_1.png)
-![University security photo 2](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/u_security_2.png)
+![University security photo 1](https://www.mingcns.org/images/main_doc/u_security_1.png)
+![University security photo 2](https://www.mingcns.org/images/main_doc/u_security_2.png)
 
 3. **The Aurora Center**  
 TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨打TAC 24小时热线 **612-626-9111**  
@@ -1311,7 +1311,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### 微信群二维码
 
-![Wechat Group QR code](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/wechat_group_QR.png)
+![Wechat Group QR code](https://www.mingcns.org/images/main_doc/wechat_group_QR.png)
 
 #### 联系人微信
 
@@ -1329,13 +1329,13 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 学校官方QQ家长群如下图所示 (信息可能不实时，请以中国办公室官网信息为准)。
 如果家长希望加入微信家长群，建议直接与学校中国办公室联系：https://china.umn.edu/contact-0
 
-![Parent QQ Group Number](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/parent_qq_group.png)
+![Parent QQ Group Number](https://www.mingcns.org/images/main_doc/parent_qq_group.png)
 
 ### 微信公众号 MinGCNS
 
 为了更好的汇总 Project MinG/CNS 的各类文档并提供索引，我们建立了ID为 MinGCNS 的微信公众号平台。
 
-![WeChat MinG/CNS Channel QR code](https://github.com/mingcns/mingcns.github.io/raw/master/images/main_doc/MinGCNS_wechat_channel_QR.png)
+![WeChat MinG/CNS Channel QR code](https://www.mingcns.org/images/main_doc/MinGCNS_wechat_channel_QR.png)
 
 ### ISSS Preparation 重点
 

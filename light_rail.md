@@ -31,7 +31,7 @@ Page Built on:
 本文讨论范围仅限 Regular Routes Local Buses & Light Rails, Express Buses & NorthStar Commuter Rail 不在讨论范围内。  
 轻轨及BRT线路如下图（图源: [https://www.metrotransit.org/metro](https://www.metrotransit.org/metro)）：
 
-![Light Rail Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/Metro_Map_Dec_2019.jpg)
+![Light Rail Map](https://www.mingcns.org/images/light_rail/Metro_Map_Dec_2019.jpg)
 
 ### 轻轨时刻表
 
@@ -91,7 +91,7 @@ Target Field 发车时间段 | 发车间隔 | Union Depot 发车时间段
 使用此类别付款方式需要每次于乘车前前往轻轨站的售票机购票。  
 售票机如下图所示：
 
-![Ticket Machine](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/Light_Rail_Ticket_Machine.jpg)
+![Ticket Machine](https://www.mingcns.org/images/light_rail/Light_Rail_Ticket_Machine.jpg)
 
 （[图源](http://m.startribune.com/mvta-deploys-first-ticket-vending-machine-at-burnsville-transit-station/274492111/)）
 
@@ -104,7 +104,7 @@ Target Field 发车时间段 | 发车间隔 | Union Depot 发车时间段
 
 刷卡机如下图所示：
 
-![GoTo Card Reader](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/GoToCard_Reader.png)
+![GoTo Card Reader](https://www.mingcns.org/images/light_rail/GoToCard_Reader.png)
 
 （[图源](https://www.metrotransit.org/go-to-card-users-guide)）
 
@@ -195,7 +195,7 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
 
 ### GoTo Card
 
-![GoTo Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/GoTo_Card.png)
+![GoTo Card](https://www.mingcns.org/images/light_rail/GoTo_Card.png)
 
 图自:
 [www.metrotransit.org/go-to-card](https://www.metrotransit.org/go-to-card)
@@ -205,7 +205,7 @@ GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另�
 
 ### U-Pass
 
-![UPass Card](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/UPass.jpg)
+![UPass Card](https://www.mingcns.org/images/light_rail/UPass.jpg)
 
 图自:
 [www.metrotransit.org/upass](https://www.metrotransit.org/upass)
@@ -218,7 +218,7 @@ U-Pass 售价$114/学期，需要在
 
 ### Campus Zone Pass
 
-![Campus Zone Pass](https://github.com/mingcns/mingcns.github.io/raw/master/images/light_rail/Campus_Zone_Pass_Fall2017.png)
+![Campus Zone Pass](https://www.mingcns.org/images/light_rail/Campus_Zone_Pass_Fall2017.png)
 
 图自:
 [www.pts.umn.edu/bus/campus-zone-passu-community](https://www.pts.umn.edu/bus/campus-zone-passu-community)

@@ -89,7 +89,7 @@ HRL在条款中写的很清楚，宿舍的分配会基于各个宿舍楼的可�
 #### Middlebrook hall
 Housing 网页：[https://housing.umn.edu/middlebrook](https://housing.umn.edu/middlebrook)
 
-![Middlebrook](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Middlebrook_Hall.png)
+![Middlebrook](https://www.mingcns.org/images/hrl_dorm_apt/Middlebrook_Hall.png)
 
 * 地理位置:  
 MB是学校里唯一一个位于西岸的宿舍，距离Ferguson音乐学院和Carlson商学院仅2-5分钟步行时间。
@@ -129,7 +129,7 @@ Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaura
 #### Sanford Hall
 Housing 网页：[https://housing.umn.edu/sanford](https://housing.umn.edu/sanford)
 
-![Sanford](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Sanford_Hall.png)
+![Sanford](https://www.mingcns.org/images/hrl_dorm_apt/Sanford_Hall.png)
 
 * 地理位置:  
 Sanford 地处学校东岸西北角，比邻 Dinkytown，可以很方便地抵达 Dinkytown 中各个饭店以及 Target 超市，
@@ -152,7 +152,7 @@ Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaura
 #### Comstock Hall
 Housing 网页：[https://housing.umn.edu/comstock](https://housing.umn.edu/comstock)
 
-![Comstock](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Comstock_Hall.png)
+![Comstock](https://www.mingcns.org/images/hrl_dorm_apt/Comstock_Hall.png)
 
 * 地理位置:  
 地处Coffman旁边，步行1-2分钟即可抵达Coffman，5-9分钟可以抵达Northrop Mall区域的各个教学楼。
@@ -179,7 +179,7 @@ Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaura
 #### 17th Avenue Hall
 Housing 网页：[https://housing.umn.edu/17th](https://housing.umn.edu/17th)
 
-![17th](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Seventeenth_Ave_Hall.png)
+![17th](https://www.mingcns.org/images/hrl_dorm_apt/Seventeenth_Ave_Hall.png)
 
 * 地理位置:  
 17th是学校宿舍中最新的宿舍楼。正如它的名字所说的那样，位于17th Avenue (和University Avenue交界)，
@@ -226,8 +226,8 @@ Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaura
 #### Superblock
 Superblock 区域位于下图画圈处。
 
-![Superblock overview](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/SuperBlock.jpg)  
-![Superblock detail](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/SuperBlock_detail.png)
+![Superblock overview](https://www.mingcns.org/images/hrl_dorm_apt/SuperBlock.jpg)  
+![Superblock detail](https://www.mingcns.org/images/hrl_dorm_apt/SuperBlock_detail.png)
 
 内有四栋宿舍楼：Centennial, Territorial, Frontier 和 Pioneer (按上图顺时针顺序)，下面会一一介绍。
 
@@ -308,8 +308,8 @@ Dining 网页：[http://dining.umn.edu/CampusRestaurants/ResidentialRestaurants/
 #### Bailey Hall
 Housing 网页：[https://housing.umn.edu/bailey](https://housing.umn.edu/bailey)
 
-![Bailey with MPLS](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Bailey_Hall_with_MPLS.png)  
-![Bailey](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Bailey_Hall.png)
+![Bailey with MPLS](https://www.mingcns.org/images/hrl_dorm_apt/Bailey_Hall_with_MPLS.png)  
+![Bailey](https://www.mingcns.org/images/hrl_dorm_apt/Bailey_Hall.png)
 
 * 地理位置:  
 唯一一个位于圣保罗校区的宿舍，与 St. Paul Student Center 相连。
@@ -368,7 +368,7 @@ Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaura
 
 Housing 网页：[https://housing.umn.edu/roy-wilkins-hall](https://housing.umn.edu/roy-wilkins-hall)
 
-![Wilkins](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Wilkins_Hall.png)
+![Wilkins](https://www.mingcns.org/images/hrl_dorm_apt/Wilkins_Hall.png)
 
 * 地理位置及交通：  
 在Sanford Hall旁边，具体请参考[Sanford地理位置及交通的介绍](#Sanford-Hall)。
@@ -387,7 +387,7 @@ Wilkins Hall房间偏小，价格相比于校外没什么优势，公用免费�
 
 Housing 网页：[https://housing.umn.edu/radius](https://housing.umn.edu/radius)
 
-![Radius](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Radius_Apt.png)
+![Radius](https://www.mingcns.org/images/hrl_dorm_apt/Radius_Apt.png)
 
 * 地理位置:  
 位于Dinkytown北方，15th Ave SE与7th st. SE 的交界。
@@ -399,7 +399,7 @@ Housing 网页：[https://housing.umn.edu/radius](https://housing.umn.edu/radius
 
 Housing 网页：[https://housing.umn.edu/yudof](https://housing.umn.edu/yudof)
 
-![Yudof](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Yudof_Hall.png)
+![Yudof](https://www.mingcns.org/images/hrl_dorm_apt/Yudof_Hall.png)
 
 * 地理位置及交通:  
 Comstock/Coffman隔壁，具体请参考[Comstock地理位置及交通介绍](#Comstock-Hall)。
@@ -419,7 +419,7 @@ Yudof昵称鱼豆腐，0-2层是Freshman的 **宿舍**，也只有大一新生�
 
 Housing 网页：[https://housing.umn.edu/keeler](https://housing.umn.edu/keeler)
 
-![Keeler](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl_dorm_apt/Keeler_Apt.png)
+![Keeler](https://www.mingcns.org/images/hrl_dorm_apt/Keeler_Apt.png)
 
 * 地理位置及交通:  
 位于17th Ave Hall对面，具体请参考[17th Ave Hall地理位置及交通介绍](#17th-Avenue-Hall)。

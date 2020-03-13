@@ -49,7 +49,7 @@ Page Built on:
 
 学校官方提供的西岸地图: [PTS - West Bank Map](https://www.pts.umn.edu/sites/pts.umn.edu/files/wbank.pdf)
 
-![West Bank Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/west_bank.png)
+![West Bank Google Map](https://www.mingcns.org/images/colleges_and_buildings/west_bank.png)
 
 上图红圈内即为明大MPLS校区的 West Bank 西岸地区。
 
@@ -100,7 +100,7 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 
 #### DinkyTown
 
-![DinkyTown Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/dinkytown.png)
+![DinkyTown Google Map](https://www.mingcns.org/images/colleges_and_buildings/dinkytown.png)
 
 上图红圈内即为 DinkyTown 地区。位于东岸西北角，是一片校外的居民、商业区。尽管晚上治安不是特别理想，
 但是该地区也拥有不少公寓楼和饭店。
@@ -112,7 +112,7 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 
 #### Eddy Circle 周边
 
-![Eddy Circle Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/eddy_circle.png)
+![Eddy Circle Google Map](https://www.mingcns.org/images/colleges_and_buildings/eddy_circle.png)
 
 位于Pleasant St.与University Ave.的交界处，附近主要是 **CEHD**、**心理系** 和 **儿童心理学** 的教学楼、办公楼。
 Eddy Circle 本身也算是明大的一个公交枢纽。
@@ -135,7 +135,7 @@ Writing Center、ESL项目等语言服务位于Nicholson的一楼，部分文学
 
 #### Mall Area
 
-![Mall Area Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/mall_area.png)
+![Mall Area Google Map](https://www.mingcns.org/images/colleges_and_buildings/mall_area.png)
 
 全称为 Northrop Mall Area，是学校的核心区，其标志是Northrop以南的一片大草坪。
 
@@ -204,7 +204,7 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 
 #### Coffman 及其周边
 
-![Coffman Area Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/coffman_area.png)
+![Coffman Area Google Map](https://www.mingcns.org/images/colleges_and_buildings/coffman_area.png)
 
 **Weisman Art Museum**  
 [333 E River Pkwy, Minneapolis, MN 55455](https://goo.gl/maps/pvEeoP5sLMfZFCa99)  
@@ -227,7 +227,7 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 
 #### Church St. SE 沿线
 
-![Church St Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/on_church.png)
+![Church St Google Map](https://www.mingcns.org/images/colleges_and_buildings/on_church.png)
 
 图中标蓝部分即为Church St. SE
 
@@ -281,7 +281,7 @@ Computer Science/Computer Engineering/Electrical Engineering 主场
 
 #### Pillsbury Dr. SE 沿线
 
-![Pillsbury Dr Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/on_pillsbury.png)
+![Pillsbury Dr Google Map](https://www.mingcns.org/images/colleges_and_buildings/on_pillsbury.png)
 
 图中标蓝部分即为Pillsbury Dr. SE
 
@@ -301,7 +301,7 @@ PAN的东门有两座互相对视的人形雕塑，由于特殊的设计，只�
 
 #### Health Area
 
-![Health Area Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/health_area.png)
+![Health Area Google Map](https://www.mingcns.org/images/colleges_and_buildings/health_area.png)
 
 **Boynton Health Clinic**  
 学校面向学生和职工的诊所。一般情况下生病了来Boynton就可以解决。
@@ -322,7 +322,7 @@ Bio-Medical Library 所在地，通过地下通道与 Health Area 的其他建�
 
 #### SuperBlock
 
-![SuperBlock Google Map](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/super_block.png)
+![SuperBlock Google Map](https://www.mingcns.org/images/colleges_and_buildings/super_block.png)
 
 <!-- TODO(tnz): Add links -->
 该地区为 Centennial Hall, Territorial Hall, Frontier Hall, Pioneer Hall 四栋宿舍楼，
@@ -591,7 +591,7 @@ Rapson Hall 分为 New Rapson Hall 和 Old Rapson Hall （其实还是同一个�
 没有近的公交站，最近的就是DinkyTown的一片的公交站和Coffman Memorial Union门口的公交站。  
 如果是轻轨的话，坐到Green Line 到 East Bank Station，然后大概走7分钟左右即可抵达。
 
-![CDesign T-Shirt](https://github.com/mingcns/mingcns.github.io/raw/master/images/colleges_and_buildings/cdes_tshirt.jpg)
+![CDesign T-Shirt](https://www.mingcns.org/images/colleges_and_buildings/cdes_tshirt.jpg)
 
 Orientation时候送的 CDes 学院专属限定款黑色T恤 （为身上黑色这件，举起来的是
 [CLA](#college-of-liberal-arts-cla) 的T恤）
