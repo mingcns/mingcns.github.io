@@ -27,7 +27,7 @@ _(请使用UMN邮箱登陆)_
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">生活相关 Daily Life Related</h2>
 
-- **UMN宿舍楼及HRL旗下公寓简介: [Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)**
+- **UMN宿舍楼及HRL旗下公寓简介: [mingcns.org/hrl-dorm-apt-intro](https://www.mingcns.org/hrl-dorm-apt-intro/)**
 
 - **Metro Transit 轻轨简介: [mingcns.org/light-rail](https://www.mingcns.org/light-rail/)**
 
