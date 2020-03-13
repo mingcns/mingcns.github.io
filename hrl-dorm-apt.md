@@ -76,6 +76,7 @@ HRL在条款中写的很清楚，宿舍的分配会基于各个宿舍楼的可�
   1. 关于校车站的情况请查阅主文档 [校车系统](https://www.mingcns.org/guidebook/#%E6%A0%A1%E8%BD%A6%E7%B3%BB%E7%BB%9F) 章节。
 
 ### 西岸
+
 #### Middlebrook hall
 Housing 网页：[https://housing.umn.edu/middlebrook](https://housing.umn.edu/middlebrook)
 
@@ -114,6 +115,7 @@ Housing 网页：[https://housing.umn.edu/middlebrook](https://housing.umn.edu/m
 (感谢Sun, Haoyue贡献本段内容)
 
 ### 东岸
+
 #### Sanford Hall
 Housing 网页：[https://housing.umn.edu/sanford](https://housing.umn.edu/sanford)
 
@@ -136,7 +138,6 @@ Housing 网页：[https://housing.umn.edu/sanford](https://housing.umn.edu/sanfo
   * 饭堂：  
   Sanford 的饭堂也算是全校前三的，具体评价和MB类似，位于一楼大厅，Tower和主楼的连接处。  
   Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/sanford-eb.html](http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/sanford-eb.html)
-
 
 #### Comstock Hall
 Housing 网页：[https://housing.umn.edu/comstock](https://housing.umn.edu/comstock)
@@ -211,7 +212,6 @@ Housing 网页：[https://housing.umn.edu/17th](https://housing.umn.edu/17th)
   Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/freshfoodco-eb.html](http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/freshfoodco-eb.html)
 
 (感谢Feng, Anita贡献本段内容)  
-
 
 #### Superblock
 Superblock 区域位于下图画圈处。
@@ -341,12 +341,15 @@ Housing 网页：[https://housing.umn.edu/bailey](https://housing.umn.edu/bailey
 
 (感谢Liu, Jingyan贡献本段内容)
 
+
 ## 学校公寓
+
 注：
   1. HRL原则上不会将大一新生分配进公寓。
   1. 学校公寓(Apartment)与宿舍(Dormitory)不同，不会强制学生购买Meal Plan。
 
 ### Roy Wilkins Hall
+
 Housing 网页：[https://housing.umn.edu/roy-wilkins-hall](https://housing.umn.edu/roy-wilkins-hall)
 
 ![Wilkins](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl-dorm-apt/Wilkins_Hall.png)
@@ -365,6 +368,7 @@ Housing 网页：[https://housing.umn.edu/roy-wilkins-hall](https://housing.umn.
 
 
 ### Radius
+
 Housing 网页：[https://housing.umn.edu/radius](https://housing.umn.edu/radius)
 
 ![Radius](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl-dorm-apt/Radius_Apt.png)
@@ -376,6 +380,7 @@ Housing 网页：[https://housing.umn.edu/radius](https://housing.umn.edu/radius
 
 
 ### Mark G. Yudof Hall
+
 Housing 网页：[https://housing.umn.edu/yudof](https://housing.umn.edu/yudof)
 
 ![Yudof](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl-dorm-apt/Yudof_Hall.png)
@@ -395,6 +400,7 @@ Housing 网页：[https://housing.umn.edu/yudof](https://housing.umn.edu/yudof)
 
 
 ### Keeler
+
 Housing 网页：[https://housing.umn.edu/keeler](https://housing.umn.edu/keeler)
 
 ![Keeler](https://github.com/mingcns/mingcns.github.io/raw/master/images/hrl-dorm-apt/Keeler_Apt.png)
