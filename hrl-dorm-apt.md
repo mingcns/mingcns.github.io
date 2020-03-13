@@ -35,7 +35,7 @@ Page Built on:
 
 ## 宿舍申请
 宿舍申请费 Application Fee $50 (不可退 Non-refundable)，申请成功后需要交$200的押金
-(理论上不可退Non-refundable)。[申请链接](housing.umn.edu/application)
+(理论上不可退Non-refundable)。[申请链接](http://housing.umn.edu/application)
 
 宿舍申请表会要求填写以下内容：  
   1. Living & Learning Community （LLC）
