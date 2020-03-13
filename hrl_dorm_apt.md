@@ -47,7 +47,8 @@ Page Built on:
   1. Mutual Roommate Request
   1. Roommate Preferences
 
-### HRL分配宿舍的逻辑：
+### HRL分配宿舍的逻辑
+
 HRL在条款中写的很清楚，宿舍的分配会基于各个宿舍楼的可行性 (Availability)，所以如果申请没有填好的话，
 很有可能就被丢去冷门的宿舍楼了 (Bailey)。以下我们来介绍HRL分配宿舍的考虑因素：
 
