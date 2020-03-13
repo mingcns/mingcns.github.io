@@ -7,6 +7,15 @@
 由于本项目仍处于起步阶段，很多地方仍需完善，若您有建议、意见或是希望贡献内容，
 非常欢迎您与我们联系或对该Repository发起Pull Request。
 
+“Project MinG/CNS”--Minnesota Guidebook for Chinese New Students--was established in April 2019,
+after a few current students realized the necessity of having a comprehensive, objective,
+and up-to-date guidebook for incoming Chinese students, when they were answering questions posted by newly admitted students.
+This project is based on GNU GPL license, and is intended to be an open and collaborative project.
+The purpose of this project is to provide guides for Chinese-speaking students who are admitted to the University of Minnesota, Twin-cities.
+Directly Contributing to, sharing, distributing, and performing derivative work of any contents in the Project MinG/CNS
+is welcomed under the compliance of the GNU GPL license. This project is still developing and needs improvements.
+Hence, should you have any opinions and suggestions on the project’s contents, or want to contribute directly, please feel free to contact us.
+
 我们的联络邮箱 Email:  
 * [mingcns2019@gmail.com](mailto:MinGCNS2019@gmail.com)
 * [project-ming-cns-admin@googlegroups.com](mailto:project-ming-cns-admin@googlegroups.com)
@@ -15,6 +24,7 @@
 Authors, co-editors, and contributors participating in this project:
 
 * Cai, Wen
+* Cui, Jiahao
 * Ding, Yifan
 * Feng, Anita
 * Law, Chingyau
@@ -26,6 +36,8 @@ Authors, co-editors, and contributors participating in this project:
 * Tao, Leonard
 * Wang, Yushuang
 * Yang, Benyuan
+* Yi, Elaine
+* Yin, Ziniu
 * [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * Zheng, Yue
 * [Zhou, Tiannan](https://github.com/TrotylTN)

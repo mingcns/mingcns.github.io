@@ -12,7 +12,7 @@ permalink: /luggage-prep/
 {:.no_toc}
 
 <div align="right">
-本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+本清单不构成任何法律意见，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
