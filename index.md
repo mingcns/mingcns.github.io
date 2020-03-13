@@ -64,9 +64,10 @@ _<font color="grey">我们的联络邮箱 Contact Email</font>:_
 * [project-ming-cns-admin@googlegroups.com](mailto:project-ming-cns-admin@googlegroups.com)
 
 _<font color="grey">参与本项目的志愿作者团队与共同创作者名单 (排名不分先后):</font>_  
-_<font color="grey">Authors, co-editors, and contributors participating in this project:</font>_
+_<font color="grey">Authors, co-editors, and contributors participating/participated in this project:</font>_
 
 * <font color="grey">Cai, Wen</font>
+* <font color="grey">Cui, Jiahao</font>
 * <font color="grey">Ding, Yifan</font>
 * <font color="grey">Feng, Anita</font>
 * <font color="grey">Law, Chingyau</font>
@@ -78,6 +79,7 @@ _<font color="grey">Authors, co-editors, and contributors participating in this 
 * <font color="grey">Tao, Leonard</font>
 * <font color="grey">Wang, Yushuang</font>
 * <font color="grey">Yang, Benyuan</font>
+* <font color="grey">Yi, Elaine</font>
 * <font color="grey">Yin, Ziniu</font>
 * [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * <font color="grey">Zheng, Yue</font>
