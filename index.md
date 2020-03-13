@@ -18,9 +18,10 @@ Project MinG/CNS
 
 - **学校 MyU 系统简介: [mingcns.org/myu-intro](https://www.mingcns.org/myu-intro/)**
 
-- **图书馆资源简介: _Coming soon_**
+<!-- TODO(tnz): Making it visible again when we're ready. -->
+<!-- - **图书馆资源简介: _Coming soon_** -->
 
-- **二手书信息汇总: [Books.MinGCNS.org](http://books.mingcns.org)**  
+- **二手书信息汇总: [books.mingcns.org](http://books.mingcns.org)**  
 _(请使用UMN邮箱登陆)_
 
 ---
@@ -36,7 +37,8 @@ _(请使用UMN邮箱登陆)_
 - **校外公寓居住体验投稿文档: [Google Docs - 校外公寓住宿体验收集文档](https://docs.google.com/document/d/1ngJgvJHpXnkCUGh_BuKL2OhEj4we9tY6eKFgxbkGQ-0/edit?usp=sharing)**  
 _(请使用UMN邮箱登陆)_
 
-- **校外公寓居住体验汇总: _Coming soon_**
+<!-- TODO(tnz): Making it visible again when we're ready. -->
+<!-- - **校外公寓居住体验汇总: _Coming soon_** -->
 
 ---
 
