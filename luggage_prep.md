@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "赴美行李准备"
+title: "赴美行李准备清单"
 permalink: /luggage-prep/
 ---
 
@@ -8,7 +8,7 @@ permalink: /luggage-prep/
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 赴美行李准备
+# 赴美行李准备清单
 {:.no_toc}
 
 <div align="right">
