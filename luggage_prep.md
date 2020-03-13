@@ -12,7 +12,7 @@ permalink: /luggage-prep/
 {:.no_toc}
 
 <div align="right">
-本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+本清单不构成法律意见，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -67,6 +67,8 @@ _以上内容为参考中国驻美大使馆官网内容后所编写。如有疑�
 * 简体中文版入境单：[Form 6059B Customs Declaration - Simplified Chinese (Fillable)](https://www.cbp.gov/document/forms/form-6059b-customs-declaration-simplified-chinese-fillable)
 
 不过更常见的做法是，在飞机上等待空乘人员发放纸质的海关申报单，然后于落地前填写完成。
+
+部分机场已经开始实施电子化申报，为落地后机器上自助填表，纸质海关申报单在这种情况下不再需要填写。
 
 注意: 不论拿到的是 **英文版还是中文版** 入境申报单，<font color="red">所有内容都需要用英文填写</font>，
 否则CBP边检官员不会认可该表，需要重填。
