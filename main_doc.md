@@ -20,7 +20,7 @@ Page Built on:
 </div><br>
 
 
-本文所有的地址链接均可以直接点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
+本文所有的地址链接均可以在点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。
 
 本文档约4万字，阅读全文约耗时40-60分钟。
 
@@ -365,7 +365,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
             由于TCF是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用TCF Bank](#关于tcf-bank)
             作为主力账户，请大家自行斟酌。
             更多关于银行的讨论，请参阅本文的 [银行账户与开户流程](#银行账户与开户流程) 章节。
-            1. 领取 UCard 时，UCard Office会询问你是否需要充值Gopher Gold，
+            1. 领取 UCard 时，UCard Office会询问你是否需要充值Gopher Gold。
             由于校内打印、复印均需要使用Gopher Gold付款，我们建议大家领取时可以选择充值少量金额
             （譬如10刀）供复印打印 Immigration Check-in 需要的文件 (如果是在Orientation前就领取了UCard的话)
             及日后的文印需求。  
@@ -422,10 +422,10 @@ GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛�
 
 ### UCard校园卡
 
-Ucard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领取了，不用等到Orientation再领取。
+UCard其实到学校就可以去UCard Office (位于Coffman G层) 凭护照领取了，不用等到Orientation再领取。
 
 **关于UCard的介绍:**  
-Ucard，也就是校园卡，是学生在UMN的几年中用于校内身份证明的一个证件。UCard除了做证件以外，还内置了几个账户，
+UCard，也就是校园卡，是学生在UMN的几年中用于校内身份证明的一个证件。UCard除了做证件以外，还内置了几个账户，
 可以用于校内的消费、图书馆借书、甚至搭乘公交（需要充值）:
 * **<span id="gopher-gold-intro-anchor">Gopher Gold</span>**  
 校内的电子货币，可以用于支付校内打印费用等大部分校内消费。  
@@ -441,13 +441,13 @@ FD和Gopher Gold的最大区别就是，使用FD可以不用交税(Sales Tax消�
 充值信息如下：[University of Minnesota Dining Services - FlexDine](http://www.dining.umn.edu/MealPlansFlexDine/FlexDine.html)  
 这里笔者建议大家等开学初期Dining有充值送钱的活动时再充值。
 * **Meal Plan**  
-如果选择住在学校宿舍的话，那么会强制需要购买一个Meal Plan，而Meal Plan的使用也集成在了Ucard上。
-每次进入饭堂的时候向前台（greeter）出示Ucard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
+如果选择住在学校宿舍的话，那么会强制需要购买一个Meal Plan，而Meal Plan的使用也集成在了UCard上。
+每次进入饭堂的时候向前台（greeter）出示UCard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
 学校关于Meal Plan的政策如下：
 [University of Minnesota Dining Services - Meal Plan Policies](http://www.dining.umn.edu/MealPlansFlexDine/MealPlanPolicy.html)
 * **GoTo Card**  
 GoTo Card是Metro Transit，也就是双城区域的交通卡。  
-使用前需要拿Ucard在任意轻轨站的售票机，选择GoTo Card充值进行充值。充值后方可刷卡乘车。
+使用前需要拿UCard在任意轻轨站的售票机，选择GoTo Card充值进行充值。充值后方可刷卡乘车。
 当然，大家也可以在Coffman Info Desk另外领取单独的GoTo Card。
 * **图书馆借书卡**  
 UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部图书借出(请不要这么做哦)，
@@ -778,7 +778,7 @@ A: 无需刷卡，直接上车即可。
 
 #### 轻轨系统
 
-凭Ucard可以在Coffman的Information Desk免费领取Campus Zone Pass，可以在Green Line的校内三站West Bank Station,
+凭UCard可以在Coffman的Information Desk免费领取Campus Zone Pass，可以在Green Line的校内三站West Bank Station,
 East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。注: 需要选课后等待24h才可领取Zone Pass。
 
 #### Metro Transit 公交
@@ -797,8 +797,10 @@ East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。注:
 
 持有U-pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
 
-_同一张 Ucard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若已领取了 Zone Pass，则需要归还 Zone Pass
+_同一张 UCard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若已领取了 Zone Pass，则需要归还 Zone Pass
 后才可以购买U-Pass。如已购买了U-pass则不可以领取Zone Pass。_
+
+更多关于明尼轻轨系统及交通卡的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/)
 
 ### 外国驾照于明尼苏达州使用问题
 
@@ -1199,7 +1201,7 @@ A: 如果选择了宿舍，那么必须购买一个Meal Plan。
 * 无限/周+100Flexdine
 * 无限/周+250Flexdine
 
-关于Flexdine的介绍请参考本文 [Ucard校园卡](#ucard校园卡) 章节。
+关于Flexdine的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。
 这里需要注意的是所谓的无限 Meal Plan 仅为 **在饭堂开门时** 持卡人可以无限次数进出，并不代表可以24x7进入饭堂吃东西。  
 至于如何选择Meal Plan，这个问题非常主观，因此我们仅建议先选择 `11餐/周+100Flexdine` 进行尝试。
 如果开学前两周内
@@ -1247,8 +1249,8 @@ Student Legal Service 地址 (就在西岸天桥上):
 [Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍
 
 **Q: 我住在校外还可以吃饭堂吗？**  
-A: 可以使用Ucard中的Gopher Gold或者Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
-关于Ucard账户的介绍请参考本文 [Ucard校园卡](#ucard校园卡) 章节。  
+A: 可以使用UCard中的Gopher Gold或者Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
+关于UCard账户的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。  
 另外也可以购买Meal Plan以进入饭堂：
 [Apartment/Commuter Meal Plans](http://www.dining.umn.edu/MealPlansFlexDine/CommuterMealPlans.html)
 
