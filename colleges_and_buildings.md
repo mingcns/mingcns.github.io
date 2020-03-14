@@ -42,7 +42,7 @@ Page Built on:
 
 <!-- TODO(tnz): Changing this to git version when available. -->
 关于宿舍楼的介绍，可以参阅
-[Google Docs - 宿舍楼与学校公寓介绍](https://docs.google.com/document/d/1IQTtcAxEwsoyqN_DnkOeoRyfbmOFVCYXtdkKgba6fgk/edit?usp=sharing)
+[《宿舍楼与学校公寓介绍》](https://www.mingcns.org/hrl-dorm-apt-intro/)
 
 
 ### 西岸 West Bank
@@ -91,7 +91,7 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 
 <!-- TODO(tnz): add link -->
 **Middlebrook Hall**  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)  
+宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#middlebrook-hall)  
 地址: [412 22nd Ave S, Minneapolis, MN 55455](https://goo.gl/maps/uSXiNB9okiZrTSsv5)
 
 ### 东岸 East Bank
@@ -108,7 +108,7 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 <!-- TODO(tnz): add link -->
 **Sanford Hall**  
 [1122 University Ave SE, Minneapolis, MN 55455](https://goo.gl/maps/pcJafnNyUuRK1vwZ9)  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
+宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#sanford-hall)
 
 #### Eddy Circle 周边
 
@@ -127,7 +127,7 @@ Eddy Circle 本身也算是明大的一个公交枢纽。
 
 **Williamson Hall**  
 [231 Pillsbury Dr SE, Minneapolis, MN 55455](https://goo.gl/maps/9TRpJngcUsNqPAYw5)  
-这里就是大家申请时寄送材料的目的地-- Admission Office 的办公楼啦。
+这里就是大家申请时寄送材料的目的地-- Undergraduate Admission Office 的办公楼啦。
 
 **Nicholson Hall**  
 [216 Pillsbury Dr SE, Minneapolis, MN 55455](https://goo.gl/maps/13MYYvGyhGLCsBpp9)  
@@ -213,17 +213,18 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 <!-- TODO(tnz): add link -->
 **Comstock Hall**  
 [210 Delaware St SE, Minneapolis, MN 55455](https://goo.gl/maps/hs1NeDUwCwBxMrS1A)  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
+宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#comstock-hall)
 
 <!-- TODO(tnz): add link -->
 **Yudof Hall**  
 [220 Delaware St SE, Minneapolis, MN 55455](https://goo.gl/maps/aMVTT7JUvdUseqHb6)  
-学校公寓楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
+学校公寓楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#mark-g-yudof-hall)
 
 **Coffman Memorial Union**  
 [300 Washington Ave SE, Minneapolis, MN 55455](https://goo.gl/maps/wAGJZpvJAXeziWo36)  
 学校的核心楼之一，可以理解为学生活动/服务中心，是学生会举办活动的主要场所之一。  
-其G层有 University Bookstore、Ucard Office、Food Court、USPS美国邮政、星巴克等。
+其G层有 University Bookstore、Ucard Office、Food Court、USPS美国邮政、星巴克等。  
+详见：[Student Unions & Activities | Coffman Memorial Union](https://sua.umn.edu/visit/locations/coffman-memorial-union#services)
 
 #### Church St. SE 沿线
 
@@ -233,7 +234,7 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 
 <!-- TODO(tnz): add link -->
 **17th Ave Hall**  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
+宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#17th-avenue-hall)
 
 **100, 10th Church St. & Bell Museum (MPLS)**  
 这是一间大型阶梯教室，隔壁是学校的Bell Museum在MPLS校区的分馆。
@@ -245,14 +246,16 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 Writing 老师的办公楼，一楼有一个环境优雅的学习室。
 
 **Pillsbury Hall**  
-学校最古老的教学楼之一，Department of Earth Science 和 English Department 的主场。
+学校最古老的教学楼之一，Department of Earth Science 和 English Department 的主场。（现在正在翻新）
 
 **Rapson Hall**  
 College of Design 以及建筑系的主场。  
 详见 [College of Design (CDes)](#college-of-design-cdes) 章节。
 
 **Mechanical Engineering**  
-如其名，是 Mechanical Engineering 的主场，同时也为工院其他专业的课程提供教学场所。
+如其名，是 Mechanical Engineering 的主场，同时也为工院其他专业的课程提供教学场所。  
+[Anderson Student Innovation Labs](https://cse.umn.edu/andersonlabs) 位于 2-134 房，
+内有3D打印机和激光切割机[等设施](https://cse.umn.edu/andersonlabs/equipment)。
 
 **Akerman Hall**  
 为 Aerospace Engineering 的主场
@@ -306,6 +309,7 @@ PAN的东门有两座互相对视的人形雕塑，由于特殊的设计，只�
 **Boynton Health Clinic**  
 学校面向学生和职工的诊所。一般情况下生病了来Boynton就可以解决。
 Boynton提供的服务有Immunization、Quick Clinic等。
+详见其官网：[Boynton Health](https://boynton.umn.edu/)
 
 **Nils Hasselmo Hall & Jackson Hall**  
 Biomedical Engineering，Physiology和Pharmacology的主场，
@@ -325,8 +329,8 @@ Bio-Medical Library 所在地，通过地下通道与 Health Area 的其他建�
 ![SuperBlock Google Map](https://www.mingcns.org/images/colleges_and_buildings/super_block.png)
 
 <!-- TODO(tnz): Add links -->
-该地区为 Centennial Hall, Territorial Hall, Frontier Hall, Pioneer Hall 四栋宿舍楼，
-详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org)
+该地区有 Centennial Hall, Territorial Hall, Frontier Hall, Pioneer Hall 四栋宿舍楼，
+详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#superblock)
 
 #### MPLS校区其他楼宇（不完全）
 
@@ -345,6 +349,14 @@ Lenny Yu 学姐拍摄的圣保罗校区的介绍视频：
 YouTube链接：[YouTube - 明尼苏达大学双城分校之圣保罗校区游](https://www.youtube.com/watch?v=Wia8EeZTHYU)  
 Bilibili链接：[Bilibili - 明尼苏达大学双城分校之圣保罗校区游](https://www.bilibili.com/video/av50101276/)  
 优酷链接：[Youku - 明尼苏达大学双城分校之圣保罗校区游](https://v.youku.com/v_show/id_XNDE0NzcxMzA3Ng==.html?spm=a2h0k.11417342.soresults.dtitle)  
+
+
+**St. Paul Student Center**  
+圣保罗校区版本的 Coffman，内有电影院、游戏室、便利店等设施。顺便说一下，这里的便利店里有卖学校农学院自己生产的冰淇淋哦。  
+详见：[Student Unions & Activities | St. Paul Student Center](https://sua.umn.edu/visit/locations/st-paul-student-center#services)
+
+**Bailey Hall**  
+宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#bailey-hall)
 
 ### 功能性楼宇汇总
 
