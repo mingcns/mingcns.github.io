@@ -795,10 +795,10 @@ East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。注:
 
 购买U-Pass学生版需要$114/Semester   
 
-持有U-pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
+持有U-Pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
 
-_同一张 UCard 每年只能在 Campus Zone Pass 和 U-pass 中二选一。若已领取了 Zone Pass，则需要归还 Zone Pass
-后才可以购买U-Pass。如已购买了U-pass则不可以领取Zone Pass。_
+_同一张 UCard 每年只能在 Campus Zone Pass 和 U-Pass 中二选一。若已领取了 Zone Pass，则需要归还 Zone Pass
+后才可以购买U-Pass。如已购买了U-Pass则不可以领取Zone Pass。_
 
 更多关于明尼轻轨系统及交通卡的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/)
 
