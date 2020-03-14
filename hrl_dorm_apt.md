@@ -422,7 +422,7 @@ Housing 网页：[https://housing.umn.edu/keeler](https://housing.umn.edu/keeler
 ![Keeler](https://www.mingcns.org/images/hrl_dorm_apt/Keeler_Apt.png)
 
 * 地理位置及交通:  
-位于17th Ave Hall对面，具体请参考[17th Ave Hall地理位置及交通介绍](#17th-Avenue-Hall)。
+位于17th Ave Hall对面，具体请参考[17th Ave Hall地理位置及交通介绍](#17th-avenue-hall)。
 
 * 暂无介绍
 
