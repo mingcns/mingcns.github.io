@@ -9,7 +9,6 @@ permalink: /transfer-credits/
 </div>
 
 # 转学分相关经验分享
-{:.no_toc}
 
 <div align="right">
 本经验分享非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
@@ -18,12 +17,6 @@ Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
 </div>
 </div><br>
-
-## 目录
-{:.no_toc}
-
-* 目录
-{:toc}
 
 
 ## 简介
