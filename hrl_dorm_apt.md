@@ -371,7 +371,7 @@ Housing 网页：[https://housing.umn.edu/roy-wilkins-hall](https://housing.umn.
 ![Wilkins](https://www.mingcns.org/images/hrl_dorm_apt/Wilkins_Hall.png)
 
 * 地理位置及交通：  
-在Sanford Hall旁边，具体请参考[Sanford地理位置及交通的介绍](#Sanford-Hall)。
+在Sanford Hall旁边，具体请参考[Sanford地理位置及交通的介绍](#sanford-hall)。
 
 * 公寓楼：   
 Wilkins Hall 地处东岸，算是东岸地理位置较方便的一所公寓，它在明尼校区的北边。公寓附近就是Dinkytown，
@@ -402,7 +402,7 @@ Housing 网页：[https://housing.umn.edu/yudof](https://housing.umn.edu/yudof)
 ![Yudof](https://www.mingcns.org/images/hrl_dorm_apt/Yudof_Hall.png)
 
 * 地理位置及交通:  
-Comstock/Coffman隔壁，具体请参考[Comstock地理位置及交通介绍](#Comstock-Hall)。
+Comstock/Coffman隔壁，具体请参考[Comstock地理位置及交通介绍](#comstock-hall)。
 
 * 公寓楼:  
 Yudof昵称鱼豆腐，0-2层是Freshman的 **宿舍**，也只有大一新生才可以申请，会被强制要求购买Meal Plan。  
