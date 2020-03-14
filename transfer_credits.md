@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "转学分相关经验分享"
-permalink: /transfer-credits/
+permalink: /transfer-credits-intro/
 ---
 
 <div>
