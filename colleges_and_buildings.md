@@ -40,7 +40,6 @@ Page Built on:
 学校官方提供了很多有用或是有趣的地图，可以参阅《明大中国新生核心指南》中的
 [实用链接 - 各式学校地图](https://www.mingcns.org/guidebook/#umn-map-links-anchor) 模块。
 
-<!-- TODO(tnz): Changing this to git version when available. -->
 关于宿舍楼的介绍，可以参阅
 [《宿舍楼与学校公寓介绍》](https://www.mingcns.org/hrl-dorm-apt-intro/)
 
@@ -89,9 +88,8 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 音乐系主场，里面还有一个音乐厅，经常会有演出举行  
 地址: [2106 S 4th St, Minneapolis, MN 55455](https://goo.gl/maps/MEJaUiKhRZxSfeJ6A)
 
-<!-- TODO(tnz): add link -->
 **Middlebrook Hall**  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#middlebrook-hall)  
+宿舍楼，详见 [宿舍楼与学校公寓介绍 - Middlebrook hall](https://www.mingcns.org/hrl-dorm-apt-intro/#middlebrook-hall) 章节。  
 地址: [412 22nd Ave S, Minneapolis, MN 55455](https://goo.gl/maps/uSXiNB9okiZrTSsv5)
 
 ### 东岸 East Bank
@@ -105,10 +103,9 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 上图红圈内即为 DinkyTown 地区。位于东岸西北角，是一片校外的居民、商业区。尽管晚上治安不是特别理想，
 但是该地区也拥有不少公寓楼和饭店。
 
-<!-- TODO(tnz): add link -->
 **Sanford Hall**  
 [1122 University Ave SE, Minneapolis, MN 55455](https://goo.gl/maps/pcJafnNyUuRK1vwZ9)  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#sanford-hall)
+宿舍楼，详见 [宿舍楼与学校公寓介绍 - Sanford Hall](https://www.mingcns.org/hrl-dorm-apt-intro/#sanford-hall) 章节。
 
 #### Eddy Circle 周边
 
@@ -210,15 +207,13 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 [333 E River Pkwy, Minneapolis, MN 55455](https://goo.gl/maps/pvEeoP5sLMfZFCa99)  
 学校的艺术馆
 
-<!-- TODO(tnz): add link -->
 **Comstock Hall**  
 [210 Delaware St SE, Minneapolis, MN 55455](https://goo.gl/maps/hs1NeDUwCwBxMrS1A)  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#comstock-hall)
+宿舍楼，详见 [宿舍楼与学校公寓介绍 - Comstock Hall](https://www.mingcns.org/hrl-dorm-apt-intro/#comstock-hall) 章节。
 
-<!-- TODO(tnz): add link -->
 **Yudof Hall**  
 [220 Delaware St SE, Minneapolis, MN 55455](https://goo.gl/maps/aMVTT7JUvdUseqHb6)  
-学校公寓楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#mark-g-yudof-hall)
+学校公寓楼，详见 [宿舍楼与学校公寓介绍 - Yudof Hall](https://www.mingcns.org/hrl-dorm-apt-intro/#mark-g-yudof-hall) 章节。
 
 **Coffman Memorial Union**  
 [300 Washington Ave SE, Minneapolis, MN 55455](https://goo.gl/maps/wAGJZpvJAXeziWo36)  
@@ -232,9 +227,8 @@ Writing Center (Walk-in Only), Center for Student Conflicts 等学生资源办�
 
 图中标蓝部分即为Church St. SE
 
-<!-- TODO(tnz): add link -->
 **17th Ave Hall**  
-宿舍楼，详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#17th-avenue-hall)
+宿舍楼，详见 [宿舍楼与学校公寓介绍 - 17th Ave Hall](https://www.mingcns.org/hrl-dorm-apt-intro/#17th-avenue-hall) 章节。
 
 **100, 10th Church St. & Bell Museum (MPLS)**  
 这是一间大型阶梯教室，隔壁是学校的Bell Museum在MPLS校区的分馆。
@@ -328,9 +322,8 @@ Bio-Medical Library 所在地，通过地下通道与 Health Area 的其他建�
 
 ![SuperBlock Google Map](https://www.mingcns.org/images/colleges_and_buildings/super_block.png)
 
-<!-- TODO(tnz): Add links -->
 该地区有 Centennial Hall, Territorial Hall, Frontier Hall, Pioneer Hall 四栋宿舍楼，
-详见 [宿舍楼与学校公寓介绍](https://www.mingcns.org/hrl-dorm-apt-intro/#superblock)
+详见 [宿舍楼与学校公寓介绍 - Superblock](https://www.mingcns.org/hrl-dorm-apt-intro/#superblock) 章节。
 
 #### MPLS校区其他楼宇（不完全）
 
