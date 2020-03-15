@@ -400,8 +400,10 @@ Orientation只有一天，将在一天内完成Immigration Check-in以及面见A
 <!-- TODO(tnz): check the time below later. -->
 时间：2019年8月19 - 27号 (2020年信息待定)
 
-GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍很多的学校资源、逛校园。
-而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源(比如Writing Center，ISSS的各类服务)。当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
+GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍许多学校资源、逛校园。
+而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源 (比如Writing Center，ISSS的各类服务)。  
+由于参加GGE的学生都是国际生，大家飘洋过海求学的心态类似，容易产生共鸣，也就更容易成为朋友。  
+当然，GGE的内容和WW也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟GGE不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
 详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
 
 ### Welcome Week (WW)
@@ -451,8 +453,10 @@ GoTo Card是Metro Transit，也就是双城区域的交通卡。
 当然，大家也可以在Coffman Info Desk另外领取单独的GoTo Card。
 * **图书馆借书卡**  
 UMN图书馆的借书额度没有上限，理论上可以将图书馆内全部图书借出(请不要这么做哦)，
-只需要借书者可以保障书本状态(condition)并按时归还/续租即可。
+只需要借书者可以保障书本状态(condition)并按时归还/续租即可。  
 关于图书馆政策的详细介绍，新生们会在Freshman Writing课(课号WRIT 1301)上得到深入了解。
+图书馆也会派人在ISSS举办的 [Global Gopher Events](#global-gopher-event-gge) 中的 Academic Tour 活动
+里详细讲解学校图书馆的各项政策与福利。因此，我们强烈建议各位新生与转学生朋友参与该项活动。
 
 学校官方对于UCard Account的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
 
@@ -472,7 +476,8 @@ Verizon: band 2/ 4/ 5/ 13/ 66;
 AT&T: band 2/ 4/ 5/ 12/ 17;  
 T-Mobile: band 2/ 4/ 5/ 12/ 66/ 71;  
 Sprint: band 5/ 20/ 25/ 26/ 41/ 46;  
-一般来说，IPhone5s之后的苹果手机，三星Galaxy和Note系列(芯片为骁龙的国行机器)都是支持美国所有运营商的。华为P和Mate系列支持AT&T和T-Mobile。一加6T(含)往后支持全部主流运营商。由于美国的5G网络仍处于建设阶段，本文不予讨论。
+一般来说，IPhone5s之后的苹果手机，三星Galaxy和Note系列(芯片为骁龙的国行机器)都是支持美国所有运营商的。
+华为P和Mate系列支持AT&T和T-Mobile。一加6T(含)往后支持全部主流运营商。由于美国的5G网络仍处于建设阶段，本文不予讨论。
 
 美国三大运营商(Sprint已被T-Mobile并购):
 
@@ -595,7 +600,8 @@ _注：1. Debit Card在银行交易记录中有可能显示为Check Card。2. Ch
 
 美国的银行账户和国内的不太一样，是 **卡户分离** 的。
 
-国内的卡号就是你的银行账户，但是美国的借记卡（Debit Card）只是关联到你的账户（Account）上，可以刷账户里的钱而已，账户是独立于卡存在的，账户号（Account Number）和借记卡卡号（Debit Card Number）是 **不一样** 的。  
+国内的卡号就是你的银行账户，但是美国的借记卡（Debit Card）只是关联到你的账户（Account）上，可以刷账户里的钱而已，
+账户是独立于卡存在的，账户号（Account Number）和借记卡卡号（Debit Card Number）是 **不一样** 的。  
 
 打个比方，你的银行账户是一个存钱罐，钱在账户里面，而借记卡就是一把钥匙，你可以用钥匙把钱放进去、取出来、消费。
 但是钥匙的编号（卡号）只是和存钱罐有对应关系，存钱罐的编号（Account Number）是独立存在的。
@@ -913,7 +919,9 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
     学生可以随意退课(Drop)，但是会在成绩单上留下W记号，标志着Withdrawal。学生不得更改Grading Basis。加课需要填写Petition，在得到许可后才能加课。
 
     1. 第11周至学期结束：  
-    理论上不得进行任何加课、退课以及更改Grading Basis的操作，特殊情况除外(Extenuating Circumstances，具体请联系Advisor)。这里有一个例外，那就是One Time Only Late Withdrawal (OTO)。通过使用OTO，学生可以在Last Day of Instruction之前退掉一门课，但是一个人的大学生涯中有且仅有一次OTO，并且使用OTO要与Advisor联系。使用情况一般为某一门课快要挂科了。
+    理论上不得进行任何加课、退课以及更改Grading Basis的操作，特殊情况除外(Extenuating Circumstances，具体请联系Advisor)。
+    这里有一个例外，那就是One Time Only Late Withdrawal (OTO)。通过使用OTO，学生可以在Last Day of Instruction之前退掉一门课，
+    但是一个人的大学生涯中有且仅有一次OTO，并且使用OTO要与Advisor联系。使用情况一般为某一门课快要挂科了。
 
 更多关于成绩单符号的介绍请访问这个链接：[Academics - Viewing grades](https://onestop.umn.edu/academics/viewing-grades)
 
@@ -927,15 +935,19 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 
 1. 学校建议学生每学期注册至少15分的课程以保证可以4年毕业。
 
-1. 学校虽然没有限定学生一学期内可以选修的学分上限，但是如果学生想要选取超过20分 (不包括20分) 的课程，需要向Advisor咨询并填写申请表，通过后方可注册超过20分的课程 (Overload)。
+1. 学校虽然没有限定学生一学期内可以选修的学分上限，但是如果学生想要选取超过20分 (不包括20分) 的课程，
+需要向Advisor咨询并填写申请表，通过后方可注册超过20分的课程 (Overload)。
 
 1. F-1签证 **网课学分** 数量限制
-    * F-1身份的 **本科生** 每学期至多可以选择3分的网课用来满足12分的最低学分注册要求。如果in-person课程的学分已注册了9分或以上，那么可以注册的网课学分数量不受限制。
-    * F-1身份的 **研究生** 每学期至多可以选择3分的网课用来满足6分的最低学分注册要求。如果in-person课程的学分已注册了6分或以上，那么可以注册的网课学分数量不受限制。
+    * F-1身份的 **本科生** 每学期至多可以选择3分的网课用来满足12分的最低学分注册要求。
+    如果in-person课程的学分已注册了9分或以上，那么可以注册的网课学分数量不受限制。
+    * F-1身份的 **研究生** 每学期至多可以选择3分的网课用来满足6分的最低学分注册要求。
+    如果in-person课程的学分已注册了6分或以上，那么可以注册的网课学分数量不受限制。
 
 ### APAS
 
-Academic Progress Audit System，是学校提供的用于追踪学生学术情况和毕业要求完成情况的一个报告。换句话来说就是某学生完成了什么要求，还需要满足什么要求才能毕业，都可以在该生的APAS中查到。
+Academic Progress Audit System，是学校提供的用于追踪学生学术情况和毕业要求完成情况的一个报告。
+换句话来说就是某学生完成了什么要求，还需要满足什么要求才能毕业，都可以在该生的APAS中查到。
 
 可以点击链接访问你的 APAS：[Academic Progress Audit System](https://onestop.umn.edu/academics/apas)
 
@@ -944,7 +956,9 @@ Academic Progress Audit System，是学校提供的用于追踪学生学术情�
 1. 学分总数至少满足120分。
 
 1. 满足明大的 [Liberal Education 的本科通识教育要求](https://onestop.umn.edu/academics/education-requirements)。
-即为需要满足全部7个 **Diversified core** 要求、在5个 **Designated themes** 中至少满足4个、 **新生写作课**(WRIT 1301, 1401, or equivalent)、以及四门课号带有 **W尾标的Writing Intensive** 课程（其中需要有至少两门课号为3000-level或者更高的 **高阶课程** ，并且至少有一门为 **专业内的高阶课程** ）。  
+即为需要满足全部7个 **Diversified core** 要求、在5个 **Designated themes** 中至少满足4个、
+**新生写作课**(WRIT 1301, 1401, or equivalent)、以及四门课号带有 **W尾标的Writing Intensive** 课程（其中需要有至少两门课号为3000-level或者更高的
+**高阶课程** ，并且至少有一门为 **专业内的高阶课程** ）。  
 <br>这并不代表你需要上7+4+1+4=16节通识课，其实课程之间很多是有在通识教育要求上相互覆盖的。  
 比如 _PHYS 1301W: Introductory Physics for Science and Engineering I_ 这门课，它能满足 _Physical Sciences_
 这个 **Diversified core** 要求，与此同时，它还是一门带有 **W尾标的Writing Intensive** 课程。
@@ -1028,7 +1042,8 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 下面简单介绍一下学校为保障校园安全提供的一些资源：
 
 1. **蓝灯（Code Blue Emergency Phone）**  
-如下图所示，功能挺明显，遇到紧急情况可一键报警，学校在校区四处安装了20个蓝灯。如果晚上感觉自己被不明人士尾随，可以直接往蓝灯方向走，一是方便报警，二是蓝灯有一定威慑作用。  
+如下图所示，功能挺明显，遇到紧急情况可一键报警，学校在校区四处安装了20个蓝灯。如果晚上感觉自己被不明人士尾随，
+可以直接往蓝灯方向走，一是方便报警，二是蓝灯有一定威慑作用。  
 ![Code blue emergency phone](https://www.mingcns.org/images/main_doc/u_blue_light.png)
 
 2. **校园保安护送服务（Campus Safe Walk Service）**  
@@ -1094,6 +1109,8 @@ _2020学年的保险覆盖日期与价格信息将于晚些时候发布。_
     如果选择gap一学期，或者是一学期全是网课(该可能性与国际生的最低现场上课学分要求相悖，
     详见 [每学期选课的学分要求](#每学期选课的学分要求) 章节)，
     适用于此项豁免。
+
+更多关于学校医保的介绍请参考我们的[《学费包含的服务》](https://www.mingcns.org/service-included-in-tuition/#%E5%AD%A6%E7%94%9F%E5%8C%BB%E4%BF%9D-student-health--benefits-plan)文档。
 
 _<font color="red">免责声明：以上关于医保所有内容（包括但不限于保险费用、保险生/失效日期、保险涵盖内容等信息）的介绍仅供参考，
 具体情况请咨询学校Office of Student Health & Benefit确认，并以SHB官方答复为准。
@@ -1213,7 +1230,7 @@ A: 如果选择了宿舍，那么必须购买一个Meal Plan。
 A:  没有特别大的区别。大一有很多的通识教育课（Liberal Education），教室东西岸都有，甚至有可能要去圣保罗校区，
 所以大一住哪里没有特别大的影响。如果非要建议，除了商学院、法学院、音乐学院的同学都建议住东岸。
 
-**Q: 作为研究生、博士生，我应该住在东岸还是西岸呢？**
+**Q: 作为研究生、博士生，我应该住在东岸还是西岸呢？**  
 A:  研究生和博士生的上课/工作一般都在自己的学院里进行。请根据自己的办公室或者是院系教学楼地址决定住处。
 
 **Q: 有什么校外公寓推荐吗？
@@ -1237,7 +1254,8 @@ A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签
 (无论是电子版PDF还是纸质版)。这也是前一个问题中不建议引入第三方机构的一个原因，会将出现纠纷的情况更加复杂化。  
 学校提供学生法律援助服务 Student Legal Service, 官网为 [sls.umn.edu](http://sls.umn.edu/)，
 请联系他们的法律援助志愿者以获取更多信息。  
-他们不止提供关于租客权利的法律援助，这是他们提供的服务的 [完整清单](http://sls.umn.edu/our-services/advice-representation)。这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
+他们不止提供关于租客权利的法律援助，这是他们提供的服务的 [完整清单](http://sls.umn.edu/our-services/advice-representation)。
+这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
 此外，Student Legal Service 还提供免费的公证服务（Notary Service），
 在办理申根签证，第三类入台证(中华民国台湾地区入出境许可证)等证件或签证时，可能可以用到。
 学校内部并没有UPS或者FedEX，且这两家的公证服务往往还必须同时购买非常昂贵的彩色复印服务。
@@ -1318,7 +1336,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 #### 联系人微信
 
 若二维码已失效，或者群人数到达200人，无法使用二维码进入，请联系群主/群管。
-**添加好友请备注身份，无法确认身份的好友请求将不会被通过**。
+**添加好友请备注 身份 + MinG/CNS，无法确认身份的好友请求将不会被通过**。
 
 通过好友验证后希望您可以 **主动提供录取通知书截图、Student ID或Internet ID等UMN学生身份证明** 。感谢您的理解与配合。
 
@@ -1329,7 +1347,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 ### 关于家长群
 学校官方QQ家长群如下图所示 (信息可能不实时，请以中国办公室官网信息为准)。
-如果家长希望加入微信家长群，建议直接与学校中国办公室联系：https://china.umn.edu/contact-0
+如果家长希望加入微信家长群，建议直接与学校中国办公室[联系](https://china.umn.edu/contact-0)
 
 ![Parent QQ Group Number](https://www.mingcns.org/images/main_doc/parent_qq_group.png)
 
@@ -1344,7 +1362,8 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 1. 护照
     1. 必须随时有效
     2. 进入美国时，护照有效期需要不短于6个月。
-    3. 若护照即将过期，可以寻求中国驻芝加哥领事馆帮助进行更换护照。更换护照后，原护照上的签证只要没有被作废，都是可以继续配合新护照一起用。需要使用新老护照一起值机、通过美国CBP。
+    3. 若护照即将过期，可以寻求中国驻芝加哥领事馆帮助进行更换护照。更换护照后，原护照上的签证只要没有被作废，都是可以继续配合新护照一起用。
+    需要使用新老护照一起值机、通过美国CBP。
     4. 只要护照没有过期，不经过（入境）第三国返回中国是没有问题的。
 
 2. 签证知识:
@@ -1356,7 +1375,8 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
     2. 确保I-20上所有的信息是最实时的，当更换专业，declare 新专业等可能会改变I-20表格上信息等行为发生时，请联系ISSS换发新的I-20.
     3. 请 保留 所有历史版本的I-20，当申请OPT时会需要所有的I-20的复印件，弄丢了很麻烦。
     4. 签证时，如果要提供财产证明，请尽量不要少于I-20上所描述的会提供的一年所有费用。
-    5. 如果在第一次入境之后，需要离境再次进入，除了有效的签证之外，还需要在I-20的第二页上有在入境日期的一年以内的Travel Endorsement Signature。这个签名可以找ISSS walk-in更新，立等可取。（P.S. OPT期间需要是半年内的签名)
+    5. 如果在第一次入境之后，需要离境再次进入，除了有效的签证之外，还需要在I-20的第二页上有在入境日期的一年以内的
+    Travel Endorsement Signature。这个签名可以找ISSS walk-in更新，立等可取。（P.S. OPT期间需要是半年内的签名)
     6. 不要试图篡改任何I-20表格上的内容，这只是SEVIS档案的打印件。学校跟CBP执法人员是可以直接调出电子原版资料的。
 
 4. I-94知识:
@@ -1370,7 +1390,8 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 6. 学生身份
     1. 除非特殊情况，否则联邦政府要求每学期至少enroll 12个学分来维持全日制full-time学生身份（研究生为6学分每学期）。
     2. 一般来说，每学期的每一门课的第一节课必须出席，否则教授可以移除没有来上课的人从而把位置空出来给Waitlist上的人。
-    3. 如果无法满足第一条里所说的full-time学生身份要求，若是最后一学期、co-op全职工作、学术困难以及有医学证明的疾病，可以申请从ISSS处Reduced Course Load来降低最低学分限制，从而合法维持学生身份。不同原因的RCL有不同的申请流程。
+    3. 如果无法满足第一条里所说的full-time学生身份要求，若是最后一学期、co-op全职工作、学术困难以及有医学证明的疾病，
+    可以申请从ISSS处Reduced Course Load来降低最低学分限制，从而合法维持学生身份。不同原因的RCL有不同的申请流程。
 
 7. 工作许可
     1. 国际学生永远不允许无工作许可进行工作。非法工作将导致SEVIS关闭、遣返等严重后果。
