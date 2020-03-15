@@ -168,6 +168,25 @@ _(该链接为 Google Docs，国内可能无法正常访问)_
 
 同样地，当你有 petition 的需求时，操作方法与非美国的国际学分转入无异。
 
+### AP、IB等考试转学分
+
+可以参考以下列举的学校最新官方信息:
+
+* **Advanced Placement (AP)** : [Advanced Placement Course Awards](https://admissions.tc.umn.edu/academics/ap.html)
+
+* **International Baccalaureate (IB)** : [International Baccalaureate Course Awards](https://admissions.tc.umn.edu/academics/ib.html)
+
+* **College Level Examination Program (CLEP)** : [College-Level Examination Program Awards](https://admissions.tc.umn.edu/academics/clep.html)
+
+* **A-Level** : [General Certificate of Education Advanced Level (GCE A-Level) Course Awards](https://admissions.tc.umn.edu/academics/alevel.html)
+
+明大各个院系都是提供 **“credit by special examination”** 的。
+简而言之，如果你觉得你对一门课的内容已经掌握的非常好并且不再需要上这门课了，可以在入学后找对应的开课院系，请求
+“proficiency examinations“ 或者是 "special examinations”。
+
+在参加考试之后，如果成绩合格，
+即可将这门课视作转进明大的学分用来满足各项毕业要求，不再需要在明大上这门课
+
 ## 第二部分 FAQ
 
 ### 常见问题
