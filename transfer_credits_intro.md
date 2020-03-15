@@ -9,6 +9,7 @@ permalink: /transfer-credits-intro/
 </div>
 
 # 转学分相关经验分享
+{:.no_toc}
 
 <div align="right">
 本经验分享非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
@@ -20,6 +21,7 @@ Page Built on:
 
 
 ## 简介
+{:.no_toc}
 
 本篇文章主要介绍转学分相关问题。
 
@@ -35,6 +37,7 @@ Page Built on:
 
 
 ### 文章架构
+{:.no_toc}
 
 1. **[前言](#前言)**  
 了解转学分的意义
@@ -48,6 +51,12 @@ Page Built on:
 
 欢迎各位热心同学进行更正或补充。
 
+
+## 目录
+{:.no_toc}
+
+* 目录
+{:toc}
 
 ## 前言
 
