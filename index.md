@@ -14,7 +14,7 @@ Project MinG/CNS
 
 - **明大地理：主要院系和教学楼简介: [mingcns.org/colleges-and-buildings](https://www.mingcns.org/colleges-and-buildings/)**
 
-- **转学分相关经验分享: [Google Docs - 转学分相关介绍](https://docs.google.com/document/d/1XTFisc8i_bUdBH2rpmU2p2Rq8T8johQ0Ca7JgyhLXVI/edit?usp=sharing)**
+- **转学分相关经验分享: [mingcns.org/transfer-credits-intro](https://www.mingcns.org/transfer-credits-intro/)**
 
 - **学校 MyU 系统简介: [mingcns.org/myu-intro](https://www.mingcns.org/myu-intro/)**
 
