@@ -27,6 +27,7 @@ Authors, co-editors, and contributors participating in this project:
 * Cui, Jiahao
 * Ding, Yifan
 * Feng, Anita
+* Hu, Xinyi
 * Law, Chingyau
 * Liu, Jingyan
 * Lu, Han
