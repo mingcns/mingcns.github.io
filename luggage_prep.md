@@ -13,6 +13,7 @@ permalink: /luggage-prep/
 
 <div align="right">
 本清单不构成法律意见，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+(Version: 2020-03-12)
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>

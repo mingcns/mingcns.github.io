@@ -13,6 +13,7 @@ permalink: /transfer-credits-intro/
 
 <div align="right">
 本经验分享非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+(Version: 2020-03-14)
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
