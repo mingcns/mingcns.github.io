@@ -388,7 +388,7 @@ Housing 网页：[https://housing.umn.edu/roy-wilkins-hall](https://housing.umn.
     而且地理位置上已经非常靠近西岸了，所以在地理位置方面我觉得并不占优，不过如果是学语言外语的同学，
     住Wilkins可以说是非常方便的，步行五六分钟，就能到语言楼和主要上文科课的教学楼了。
 
-    (感谢胡学姐贡献本段内容)
+    (感谢Hu, Xinyi贡献本段内容)
    
     * Wilkins Hall 地处东岸，算是东岸地理位置较方便的一所公寓，它在明尼校区的北边。公寓附近就是Dinkytown，
     最近的超市 (Target) 就在这里，走路7min就到，吃饭比较方便，离星巴克也比较近，步行6min的距离。  
@@ -472,6 +472,7 @@ Authors, co-editors, and contributors of this documentation:
 * Cui, Jiahao
 * Ding, Yifan
 * Feng, Anita
+* Hu, Xinyi
 * Liu, Jingyan
 * Lu, Han
 * Sun, Haoyue
