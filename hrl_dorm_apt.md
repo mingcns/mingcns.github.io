@@ -30,7 +30,7 @@ Page Built on:
 因此本文不会对楼宇的地理位置进行详细描述。
 
 ## Housing & Residential Life 与 University Dining Service 简介
-学校负责管理宿舍和学校公寓的部门叫做Housing & Residential Life，简称 HRL 或 Housing。
+学校负责管理宿舍和学校公寓的部门叫做 Housing & Residential Life，简称 HRL 或 Housing。
 负责管理饭堂和校内饭店的部门叫做 University Dining Service，简称 UDS 或 Dining。
 
 ## 宿舍申请
@@ -65,7 +65,7 @@ HRL在条款中写的很清楚，宿舍的分配会基于各个宿舍楼的可�
 
 如果想要提高自己被分配进心仪宿舍楼的概率，我们推荐：
 
-1. 尽可能在3月前提交申请，因为3月1日为宿舍申请的 Priority Deadline。
+1. 尽可能在3月前提交申请，因为2月底为宿舍申请的 Priority Deadline。
 
 1. 填写想去的宿舍楼的LLC，以增加被分配进去的概率。
 
@@ -425,6 +425,11 @@ Housing 网页：[https://housing.umn.edu/keeler](https://housing.umn.edu/keeler
 位于17th Ave Hall对面，具体请参考[17th Ave Hall地理位置及交通介绍](#17th-avenue-hall)。
 
 * 暂无介绍
+
+## 实用信息
+* [HRL | Move-in Guide](https://housing.umn.edu/move-in)
+* [需要带的、可以带的和不能带的物品](https://housing.umn.edu/bring)
+
 
 
 ## 版权与免责协议
