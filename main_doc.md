@@ -42,10 +42,11 @@ Page Built on:
 [https://my-account.umn.edu/claim-acct](https://my-account.umn.edu/claim-acct)
 (Social Security Number一项留空就好了)激活你的Internet ID (X.500)。  
 Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个身份识别号，可以用于登陆MyU以及各类学校网站。
-    - Student ID与Internet ID (X.500)区别辨析：
+    - Student ID 与 Internet ID (X.500) 区别辨析：
         * Student ID 为一串长度为7位数的号码。这个号码会出现在你的成绩单等官方文件中，日常很少使用。
         * Internet ID (X.500) 在一般情况下头四位由四个英文字母组成，后四位则为数字。字母部分一般为你的姓氏的
         前四个字母，如果姓氏不足四个字母，那么将会用字母x或数字0补全。例子：lixx1001、li001001、zhan1001。
+    - 关于MyU的介绍请参考我们的[《学校MyU系统简介》](https://www.mingcns.org/myu-intro/)。
 
 1. <span id="about-duo-security-anchor">关于DUO Security</span>：DUO Security
 是一个在登陆学校账户时进行二步验证身份的软件，是学校为了更高等级的账号保护而
@@ -53,7 +54,7 @@ Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个
 [Duo Two Factor Authentication](https://it.umn.edu/technology/duo-two-factor-authentication)  
 据明大ISSS消息，**理论上** 国际生在抵达学校前不会被强制要求注册DUO，但是如果你在抵达学校前忘记了你的账号密码，那么你就
 必须激活DUO以修改密码。所以为了自己的便利，**请避免在抵校前忘记账户密码** 。   
-大家在抵校后会被要求激活DUO以保证账户安全，如果你在设置DUO账号的过程中遇到了技术问题，请联系学校IT部门(联系方式在网页底部左下角):
+大家在抵校后会被要求激活DUO以保证账户安全，**如果你在设置DUO账号的过程中遇到了技术问题，请联系学校IT部门** (联系方式在网页底部左下角):
 [IT @ UMN](https://it.umn.edu/)
 
 1. <span id="activate-umn-email-anchor">激活你的UMN邮箱：</span>
@@ -276,6 +277,7 @@ _（有TA、RA职位或者Fellowship的Master、Ph.D.项目）_ 请确保至少�
     [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
     [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
     [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
+    * 更多关于明尼轻轨系统的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/) 文档。
 1. **学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，地点在Terminal 1的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
