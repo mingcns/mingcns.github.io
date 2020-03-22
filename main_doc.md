@@ -1358,7 +1358,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 ### 微信公众号 MinGCNS
 
-为了更好的汇总 Project MinG/CNS 的各类文档并提供索引，我们建立了ID为 MinGCNS 的微信公众号平台。
+为了可以发布具有时效性的消息并与大家进行互动，我们建立了ID为 **MinGCNS** 的微信公众号平台。
 
 ![WeChat MinG/CNS Channel QR code](https://www.mingcns.org/images/main_doc/MinGCNS_wechat_channel_QR.png)
 
