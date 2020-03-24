@@ -441,7 +441,7 @@ Housing 网页：[https://housing.umn.edu/keeler](https://housing.umn.edu/keeler
 * 暂无介绍
 
 ## 实用信息
-* [HRL | Move-in Guide](https://housing.umn.edu/move-in)
+* [Move-in Guide](https://housing.umn.edu/move-in)
 * [需要带的、可以带的和不能带的物品](https://housing.umn.edu/bring)
 
 
