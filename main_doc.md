@@ -1450,6 +1450,9 @@ UMN中国代表处微信公众号：UMNChina
 并建立互帮互助的朋友关系。  
 ISSS对其介绍如下：[ISSS - International Buddy Program](https://isss.umn.edu/programs/interbuddy/)
 
+1. 校内工作一览：[Find a Student Job](https://humanresources.umn.edu/student-jobs/find-student-job)
+
+
 ### “Project MinG/CNS” 项目简介
 
 “Project MinG/CNS - 明大中国新生核心指南" 是于2019年4月几位学长在新生群中答疑时，
