@@ -1154,9 +1154,6 @@ A: 当然可以，具体情况联系Advisor。一般来说在pre-major阶段，�
 具体请参考以下链接：
 [Change your major, minor, college, or campus](https://onestop.umn.edu/academics/change-your-major-minor-college-or-campus)
 
-**Q: 明大是否强制要求本科大一新生住在宿舍？**  
-A: 明大不强制要求任何学生住在宿舍，大一即可出去租房住。
-
 **Q: 我收到了一封有关学校在五月份的一个Pre-departure Orientation （PDO）的邮件，请问这是什么？必须去吗？**  
 A: PDO 是学校 ISSS 和 [OTE](https://ote.umn.edu/) 为了方便广大中国学生可以更多的了解中美教育、生活、法律上的不同，
 而特地派人前往中国的北京、上海开展的一个关于UMN的综合介绍会。会上的内容基于 Checklist 而多于Checklist
@@ -1189,6 +1186,9 @@ A: 请查阅学校官方Academic Calendar:
 一般来说，在秋季学期，我们只有感恩节放假两天；而在春季学期，则在三月会有一个礼拜的春假。
 
 ### 关于住房
+
+**Q: 明大是否强制要求本科大一新生住在宿舍？**  
+A: 明大不强制要求任何学生住在宿舍，大一即可出去租房住。
 
 **Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？
 <a id="is-dorm-bad-anchor" href="https://www.mingcns.org/guidebook/#is-dorm-bad-anchor">#is-dorm-bad-anchor</a>**  
