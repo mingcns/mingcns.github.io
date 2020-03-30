@@ -1336,7 +1336,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### 微信群二维码
 
-![Wechat Group QR code](https://www.mingcns.org/images/main_doc/wechat_group_QR.jpg)
+![Wechat Group QR code](https://www.mingcns.org/images/main_doc/WeChat_Group_Fall2020_QR_Code_Valid_2020_04_06.png)
 
 #### 联系人微信
 
