@@ -12,8 +12,6 @@
     const urlParams = new URLSearchParams(queryString);
     const name = urlParams.get("name");
     const link = urlParams.get("link");
-
-    setTimeout("window.location.replace(link);", 5000);
 </script>
 
 <p>
@@ -22,7 +20,7 @@
     <script type="text/javascript">
         document.write(name);
     </script>
-</strong>，五秒后将自动跳转。
+</strong>，三秒后将自动跳转。
 </p>
 
 <p>
@@ -37,5 +35,9 @@
 <div style="width: 50%; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
 </div>
+
+<script type="text/javascript">
+    setTimeout("window.location.replace(link);", 3000);
+</script>
 
 </body>
