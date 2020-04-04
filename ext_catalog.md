@@ -63,6 +63,10 @@ Page Built on:
         ["[2019-08-01] CSSA新生手册 | 入学指南篇", "https://mp.weixin.qq.com/s/aEsBME0jCzmGFe3-61sY1w"],
         ["[2019-08-01] CSSA新生手册 | 学术篇", "https://mp.weixin.qq.com/s/-sqeHMCQqd2XbfThFKvz8g"],
         ["[2019-08-01] CSSA新生手册 | 生活篇", "https://mp.weixin.qq.com/s/rvpDTiANDHR2ZN7iLkwRVQ"],
+        ["[2019-04-18] CSSA干货 | LE课程都选啥？拯救你的GPA就看这一篇", "https://mp.weixin.qq.com/s/ME9Kggxbc8rsI8qybp9_-g"],
+        ["[2019-04-25] CSSA干货 | 选课指南第二弹！承包你的LE～", "https://mp.weixin.qq.com/s/7gdKZqSKAvDn4MhmMVEUdg"],
+        ["[2019-05-01] CSSA干货 | 选课指南第三弹来袭！", "https://mp.weixin.qq.com/s/N0wyTHZfxY_gD7gyz13MPw"],
+        ["[2019-05-05] CSSA干货 | 请接收！选课指南第四期", "https://mp.weixin.qq.com/s/JOQLXEdmrhs1345kQv30eA"],
 
     ];
 
