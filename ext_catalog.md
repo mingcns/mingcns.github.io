@@ -12,7 +12,7 @@ permalink: /ext-catalog/
 {:.no_toc}
 
 <div align="right">
-本目录仅为整理，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+本目录为不属于本项目的精华内容汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -25,13 +25,16 @@ Page Built on:
 * 目录
 {:toc}
 
+
 <script type="text/javascript">
+    // Redirects reader to an external site via util/redirector
     function redirect(name, link) {
         const redirectorPrefix = "https://www.mingcns.org/utils/redirector?";
         window.location.replace(
             redirectorPrefix + "name=" + encodeURI(name) + "&link=" + encodeURI(link));
     }
 
+    // Renders single article item
     function renderListItem(item) {
         document.write(
             "<li> <p> <a href=\"#\" onclick=\"redirect('"
@@ -43,6 +46,7 @@ Page Built on:
             + "</a> </p> </li>\n");
     }
 
+    // Renders a list of articles
     function renderList(extCatlogList) {
         document.write("<ul>\n");
         extCatlogList.forEach(renderListItem)
@@ -52,9 +56,13 @@ Page Built on:
 
 ## CSSA
 
-<script>
+<script type="text/javascript">
     const cssaList = [
-        ["[2019-08-01] CSSA新生大礼包｜99%的新生点开都流泪了", "https://mp.weixin.qq.com/s/-HDsSr8rUTzIy2HEuZZ5wg"],
+        ["[2019-08-01] CSSA新生大礼包 | 99%的新生点开都流泪了", "https://mp.weixin.qq.com/s/-HDsSr8rUTzIy2HEuZZ5wg"],
+        ["[2019-08-01] CSSA新生手册 | 行前准备篇", "https://mp.weixin.qq.com/s/vuSXbp57tlhQL7O3udxgHA"],
+        ["[2019-08-01] CSSA新生手册 | 入学指南篇", "https://mp.weixin.qq.com/s/aEsBME0jCzmGFe3-61sY1w"],
+        ["[2019-08-01] CSSA新生手册 | 学术篇", "https://mp.weixin.qq.com/s/-sqeHMCQqd2XbfThFKvz8g"],
+        ["[2019-08-01] CSSA新生手册 | 生活篇", "https://mp.weixin.qq.com/s/rvpDTiANDHR2ZN7iLkwRVQ"],
 
     ];
 
