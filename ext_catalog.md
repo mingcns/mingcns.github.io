@@ -12,7 +12,7 @@ permalink: /ext-catalog/
 {:.no_toc}
 
 <div align="right">
-本目录为非本项目精华汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+本目录为非本项目精华的汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -84,7 +84,7 @@ Page Built on:
 
 本页面所有链接均指向外部网站，仅供参考，Project MinG/CNS 不对其内容负任何责任。
 
-All links on this page are referred to external siteswo. Project MinG/CNS does not take any
+All links on this page are referred to external sites. Project MinG/CNS does not take any
 responsibility for any information and content after the redirection.
 
 ---
