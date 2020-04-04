@@ -1,8 +1,11 @@
----
-layout: page
-title: "Redirecting..."
-permalink: /redirector/
----
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Redirecting...</title>
+</head>
+
+<body>
 
 <script type="text/javascript">
     const queryString = window.location.search;
@@ -13,9 +16,16 @@ permalink: /redirector/
 
 </script>
 
-正在重定向至 **<script type="text/javascript"> document.write(name); </script>**，五秒后将自动跳转。
+正在重定向至
+<span style="font-weight: bold">
+    <script type="text/javascript">
+        document.write(name);
+    </script>
+</span>，五秒后将自动跳转。
 
 如果没有自动跳转，请点击
 <script type="text/javascript">
     document.write("<a href=\"" + link + "\">" + link + "</a>");
 </script>
+
+</body>
