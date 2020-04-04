@@ -1,0 +1,76 @@
+---
+layout: page
+title: "外部精华内容汇总目录"
+permalink: /ext-catalog/
+---
+
+<div>
+<a href="http://www.mingcns.org">返回文档索引主页</a>
+</div>
+
+# 外部精华内容汇总目录
+{:.no_toc}
+
+<div align="right">
+本目录仅为整理，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+<div style="color: grey">
+Page Built on:
+<i><script type="text/javascript"> document.write(document.lastModified); </script></i>
+</div>
+</div><br>
+
+## 目录
+{:.no_toc}
+
+* 目录
+{:toc}
+
+<script type="text/javascript">
+    function redirect(name, link) {
+        const redirectorPrefix = "https://www.mingcns.org/utils/redirector?";
+        window.location.replace(
+            redirectorPrefix + "name=" + encodeURI(name) + "&link=" + encodeURI(link));
+    }
+
+    function renderListItem(item) {
+        document.write(
+            "<li> <p> <a href=\"#\" onclick=\"redirect('"
+            + item[0]
+            + "', '"
+            + item[1]
+            + "')\">"
+            + item[0]
+            + "</a> </p> </li>\n");
+    }
+
+    function renderList(extCatlogList) {
+        document.write("<ul>\n");
+        extCatlogList.forEach(renderListItem)
+        document.write("</ul>\n");
+    }
+</script>
+
+## CSSA
+
+<script>
+    const cssaList = [
+        ["[2019-08-01] CSSA新生大礼包｜99%的新生点开都流泪了", "https://mp.weixin.qq.com/s/-HDsSr8rUTzIy2HEuZZ5wg"],
+
+    ];
+
+    renderList(cssaList);
+</script>
+
+
+## 版权与免责协议
+
+本页面所有链接均指向外部网站，Project MinG/CNS 不对其内容负任何责任。
+
+All links on this page are referred to external sites. Project MinG/CNS does not take any
+responsibility for any information and content after the redirection.
+
+---
+_<font color="grey">Locations of Visitors: </font>_
+<div style="width: 50%; ">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
+</div>
