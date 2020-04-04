@@ -50,6 +50,8 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 - **学费包含的服务: [mingcns.org/service-included-in-tuition](https://www.mingcns.org/service-included-in-tuition/)**
 
+- **外部精华内容汇总目录: [mingcns.org/ext-catalog](https://www.mingcns.org/ext-catalog/)**
+
 ---
 
 <p style="margin: 20px auto 15px auto; text-align: center; font-style: italic; font-weight: bold;" id="about-us">
