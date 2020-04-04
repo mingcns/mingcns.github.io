@@ -13,19 +13,23 @@
     const name = urlParams.get("name");
     const link = urlParams.get("link");
 
-
+    setTimeout("window.location.replace(link);", 5000);
 </script>
 
+<p>
 正在重定向至
-<span style="font-weight: bold">
+<strong>
     <script type="text/javascript">
         document.write(name);
     </script>
-</span>，五秒后将自动跳转。
+</strong>，五秒后将自动跳转。
+</p>
 
-如果没有自动跳转，请点击
+<p>
+如果您禁用了 JavaScript 亦或者是没有自动跳转，请点击
 <script type="text/javascript">
     document.write("<a href=\"" + link + "\">" + link + "</a>");
 </script>
+</p>
 
 </body>
