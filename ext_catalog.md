@@ -12,7 +12,7 @@ permalink: /ext-catalog/
 {:.no_toc}
 
 <div align="right">
-本目录为非本项目的精华汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+本目录为非本项目精华汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
