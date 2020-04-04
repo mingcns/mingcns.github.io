@@ -55,7 +55,6 @@ Page Built on:
 </script>
 
 ## CSSA
-
 <script type="text/javascript">
     const cssaList = [
         ["[2019-08-01] CSSA新生大礼包 | 99%的新生点开都流泪了", "https://mp.weixin.qq.com/s/-HDsSr8rUTzIy2HEuZZ5wg"],
@@ -67,18 +66,25 @@ Page Built on:
         ["[2019-04-25] CSSA干货 | 选课指南第二弹！承包你的LE～", "https://mp.weixin.qq.com/s/7gdKZqSKAvDn4MhmMVEUdg"],
         ["[2019-05-01] CSSA干货 | 选课指南第三弹来袭！", "https://mp.weixin.qq.com/s/N0wyTHZfxY_gD7gyz13MPw"],
         ["[2019-05-05] CSSA干货 | 请接收！选课指南第四期", "https://mp.weixin.qq.com/s/JOQLXEdmrhs1345kQv30eA"],
-
     ];
 
     renderList(cssaList);
 </script>
 
+## GCC UMTC
+<script type="text/javascript">
+    const gccList = [
+        ["[2019-07-18] 明尼美食种草之“炸鸡”！", "https://mp.weixin.qq.com/s/eIuWcqxf19G2hhQl6NtbaQ"],
+    ];
+
+    renderList(gccList);
+</script>
 
 ## 版权与免责协议
 
-本页面所有链接均指向外部网站，Project MinG/CNS 不对其内容负任何责任。
+本页面所有链接均指向外部网站，仅供参考，Project MinG/CNS 不对其内容负任何责任。
 
-All links on this page are referred to external sites. Project MinG/CNS does not take any
+All links on this page are referred to external siteswo. Project MinG/CNS does not take any
 responsibility for any information and content after the redirection.
 
 ---
