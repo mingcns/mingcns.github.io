@@ -83,7 +83,6 @@ Page Built on:
 ## 北美生活
 <script type="text/javascript">
     const lifeList = [
-        ["[xxxx-xx-xx][Amazon] Amazon Student Prime 福利：EDU邮箱注册即可享受180天免费 Student Prime", "https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011"],
         ["[2020-03-08][吃货小分队] 美国足不出户买菜图鉴", "https://mp.weixin.qq.com/s/ACx6m4NPONNKqPI5-hMo6Q"],    
     ];
 
