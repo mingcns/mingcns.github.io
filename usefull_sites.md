@@ -13,7 +13,7 @@ permalink: /usefull-sites/
 
 <div align="right">
 本清单不构成任何推荐建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-10)
+(Version: 2020-04-05)
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -50,7 +50,8 @@ Page Built on:
 
 ### 购物
 
-  * 亚马逊 [Amazon](https://www.amazon.com/)
+  * 亚马逊 [Amazon](https://www.amazon.com/)  
+  使用EDU邮箱注册即可免费体验180天的 Student Prime, 此后年费$59.99，或月费$6.49。
   * 亚米网 [Yamibuy](https://www.yamibuy.com/zh)
   * 塔吉特 [Target](https://www.target.com/)
   * 沃尔玛 [Walmart](https://www.walmart.com/)
