@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "外部精华内容汇总目录"
+title: "外部精华内容汇总"
 permalink: /ext-catalog/
 ---
 
@@ -12,7 +12,7 @@ permalink: /ext-catalog/
 {:.no_toc}
 
 <div align="right">
-本目录为非本项目精华的汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
+此目录仅为非本项目的精品文汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -82,7 +82,8 @@ Page Built on:
 ## 北美生活
 <script type="text/javascript">
     const lifeList = [
-        ["[2020-03-08][吃货小分队] 美国足不出户买菜图鉴", "https://mp.weixin.qq.com/s/ACx6m4NPONNKqPI5-hMo6Q"],
+        ["[xxxx-xx-xx][Amazon] Amazon Student Prime 福利：EDU邮箱注册即可享受180天免费 Student Prime", "https://www.amazon.com/Amazon-Student/"],
+        ["[2020-03-08][吃货小分队] 美国足不出户买菜图鉴", "https://mp.weixin.qq.com/s/ACx6m4NPONNKqPI5-hMo6Q"],    
     ];
 
     renderList(lifeList);
