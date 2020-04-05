@@ -13,7 +13,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-17)
+(Version: 2020-04-05)
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -67,10 +67,12 @@ Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个
     * 在拥有X.500后可以通过以下链接登陆进行激活:
         * [mail.umn.edu](https://mail.umn.edu) 或
         * [myu.umn.edu](https://myu.umn.edu) 随后点击右上角的信封logo。  
-    * 激活后会得到一个UMN邮箱地址，格式为X.500@umn.edu，关于如何使用移动或桌面客户端登陆邮箱：
+    * 激活后会得到一个UMN邮箱地址，格式为X.500@umn.edu。
+    * 关于如何使用移动或桌面客户端登陆邮箱：
         * 使用Gmail客户端登陆UMN邮箱：
-        选择添加Gmail Account然后在输入完整的邮箱地址后点击下一步，Google会重新定向登陆页面至学校网站进行身份验证，
-        输入X.500和密码登陆成功后即完成。
+        选择 **添加 Gmail Account** 然后在输入 **完整的邮箱地址** 后点击下一步，Google会重新定向登陆页面至学校网站进行身份验证，
+        输入X.500和密码登陆成功后即完成。  
+        注：是添加 Gmail Account! Gamil Account! Gmail Account! 不是其他！不是其他！不是其他！
         * 使用第三方客户端：请参考学校IT部门的[介绍](https://it.umn.edu/using-gmail)。
 
 ### Checklist
