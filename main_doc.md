@@ -72,7 +72,7 @@ Internet ID，也就是X.500，将会是你在UMN除了Student ID外的另一个
         * 使用Gmail客户端登陆UMN邮箱：
         选择 **添加 Gmail Account** 然后在输入 **完整的邮箱地址** 后点击下一步，Google会重新定向登陆页面至学校网站进行身份验证，
         输入X.500和密码登陆成功后即完成。  
-        注：是添加 Gmail Account! Gamil Account! Gmail Account! 不是其他！不是其他！不是其他！
+        注：是添加 Gmail Account! Gmail Account! Gmail Account! 不是其他！不是其他！不是其他！
         * 使用第三方客户端：请参考学校IT部门的[介绍](https://it.umn.edu/using-gmail)。
 
 ### Checklist
