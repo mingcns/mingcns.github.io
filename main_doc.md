@@ -1336,6 +1336,13 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 **<font color="red">仔细阅读群公告</font>** <font color="red">并主动修改备注。</font>
 推荐格式：名字-预计毕业年份-学院/专业。名字可用昵称。
 
+#### QQ群信息
+群号：706643618
+
+点击链接加入群聊【UMN MinG/CNS 学生群】：[https://jq.qq.com/?_wv=1027&k=5ZED31v](https://jq.qq.com/?_wv=1027&k=5ZED31v)
+
+<img alt="QQ Group QR code" src="https://www.mingcns.org/images/qq_group_qr.jpg" style="max-width: 80%">
+
 #### 微信群二维码
 
 <img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.jpeg" style="max-width: 80%">
