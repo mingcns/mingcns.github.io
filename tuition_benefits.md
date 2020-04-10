@@ -13,7 +13,7 @@ permalink: /service-included-in-tuition/
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-15)
+(Version: 2020-04-09)
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>
@@ -74,7 +74,11 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 7. 使用医保服务提供商Blue Cross and Blue Shield Minnesota的服务网络
 8. 医保包含了[Redpoint紧急旅行支援项目](https://shb.umn.edu/emergency-travel-assistance)
 
-这里是基础医保的[官方小册子](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_shbp_brochure_web.pdf)  
+这里是基础医保的[官方小册子(2019-2020)](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_shbp_brochure_web.pdf)  
+这里是 Blue Cross Minnesota 的介绍：
+* [Students Health & Benefit Plan](https://www.bluecrossmn.com/uofmn)
+* [Graduate Assistant Health Plan](https://www.bluecrossmn.com/umnga)
+* [Residents, Fellow and Interns Health Plan](https://www.bluecrossmn.com/umnrfi)
 
 关于附加牙保 (Dental Buy-up Plan) 的信息如下 (2019-2020)：
 * [2019-2020 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_sdp_buy-up_plan_spd.pdf)
