@@ -1339,11 +1339,11 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 点击链接加入群聊【UMN MinG/CNS 学生群】：[https://jq.qq.com/?_wv=1027&k=5ZED31v](https://jq.qq.com/?_wv=1027&k=5ZED31v)
 
-<img alt="QQ Group QR code" src="https://www.mingcns.org/images/qq_group_qr.jpg" style="max-width: 50%">
+<img alt="QQ Group QR code" src="https://www.mingcns.org/images/qq_group_qr.jpg" style="max-width: 75%">
 
 #### 微信群二维码
 
-<img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.png" style="max-width: 50%">
+<img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.png" style="max-width: 75%">
 
 #### 联系人微信
 
