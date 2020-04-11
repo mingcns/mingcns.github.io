@@ -105,7 +105,7 @@ responsibility for any information and content after the redirection.
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
-</div>
+</div><br>
 
 <div align="right" style="color: grey">
 Page Built on:
