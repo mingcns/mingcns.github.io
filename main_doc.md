@@ -1489,7 +1489,7 @@ Authors, co-editors, and contributors of this documentation:
 * [Sun, Haoyue](https://github.com/H-Yue-Sun)
 * Tao, Leonard
 * Yang, Benyuan
-* [Zhou, Tiannan](https://github.com/TrotylTN)
+* [Zhou, Tiannan](https://www.linkedin.com/in/tiannanzhou)
 
 ---
 _<font color="grey">Locations of Visitors: </font>_
