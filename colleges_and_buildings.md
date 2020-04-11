@@ -14,10 +14,6 @@ permalink: /colleges-and-buildings/
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
 (Version: 2020-03-14)
-<div style="color: grey">
-Page Built on:
-<i><script type="text/javascript"> document.write(document.lastModified); </script></i>
-</div>
 </div><br>
 
 
@@ -636,4 +632,9 @@ Authors, co-editors, and contributors of this documentation:
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
+</div>
+
+<div align="right" style="color: grey">
+Page Built on:
+<i><script type="text/javascript"> document.write(document.lastModified); </script></i>
 </div>

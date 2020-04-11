@@ -13,10 +13,6 @@ permalink: /ext-catalog/
 
 <div align="right">
 此目录仅为非本项目的精品文汇总，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-<div style="color: grey">
-Page Built on:
-<i><script type="text/javascript"> document.write(document.lastModified); </script></i>
-</div>
 </div><br>
 
 ## 目录
@@ -83,7 +79,7 @@ Page Built on:
 ## 北美生活
 <script type="text/javascript">
     const lifeList = [
-        ["[2020-03-08][吃货小分队] 美国足不出户买菜图鉴", "https://mp.weixin.qq.com/s/ACx6m4NPONNKqPI5-hMo6Q"],    
+        ["[2020-03-08][吃货小分队] 美国足不出户买菜图鉴", "https://mp.weixin.qq.com/s/ACx6m4NPONNKqPI5-hMo6Q"],
     ];
 
     renderList(lifeList);
@@ -109,4 +105,9 @@ responsibility for any information and content after the redirection.
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
+</div>
+
+<div align="right" style="color: grey">
+Page Built on:
+<i><script type="text/javascript"> document.write(document.lastModified); </script></i>
 </div>
