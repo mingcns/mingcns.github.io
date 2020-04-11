@@ -89,7 +89,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
 User Options 右边的信封图标，点击此图标可以访问学校邮箱，
 效果等同于登录 [mail.umn.edu](http://mail.umn.edu)。
 
-1. <span id="holds-anchor"></span>**Holds**  
+1. **Holds**<a id="holds-anchor" href="https://www.mingcns.org/myu-intro/#holds-anchor">#holds-anchor</span>  
 Email 右边的警告符号，使用人所有的 Hold(s) 都会于此显示。  
 Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold 都会有详细的信息说明这个 Hold 是为什么被放置在你的账户上，
 以及该如何移除/联系谁移除。  
