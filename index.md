@@ -1,3 +1,5 @@
+<script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
 Project MinG/CNS
 </h1>
@@ -89,8 +91,6 @@ _<font color="grey">Authors, co-editors, and contributors participating/particip
 * [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * <font color="grey">Zheng, Yue</font>
 * [Zhou, Tiannan](https://www.linkedin.com/in/tiannanzhou)
-
-<script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ---
 _<font color="grey">Locations of Visitors: </font>_
