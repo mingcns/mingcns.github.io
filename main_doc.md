@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-05)
+(Version: 2020-04-19)
 </div><br>
 
 
@@ -1155,13 +1155,24 @@ A: 当然可以，具体情况联系Advisor。一般来说在pre-major阶段，�
 具体请参考以下链接：
 [Change your major, minor, college, or campus](https://onestop.umn.edu/academics/change-your-major-minor-college-or-campus)
 
+**Q：转专业/学院难吗？GPA有要求吗？**  
+A：总体来说不难，在满足[本链接](https://onestop.umn.edu/academics/change-your-major-minor-college-or-campus)中要求的情况下，
+一般都可以成功。GPA最低要求3.0，但是从实践角度来看3.6以上会比较稳妥。需要注意的是，某些学院（如CSE）的转学生不允许二次转换专业。
+即转学生需要就读并完成转学院时所填写的预期专业。
+
+**Q：明大的GPA好拿吗？**  
+A：完全取决于个人能力。从明大的课程设置来看，**大部分** 课程的平均分是B左右，即GPA 3.0。
+因此，对于大部分中国学生来说，拿到3.0以上的GPA并不是什么难事。更多关于GPA的介绍请参考本文的
+[“GPA”平均学分绩点简介](#“GPA”平均学分绩点简介) 章节。
+
 **Q: 我收到了一封有关学校在五月份的一个Pre-departure Orientation （PDO）的邮件，请问这是什么？必须去吗？**  
 A: PDO 是学校 ISSS 和 [OTE](https://ote.umn.edu/) 为了方便广大中国学生可以更多的了解中美教育、生活、法律上的不同，
 而特地派人前往中国的北京、上海开展的一个关于UMN的综合介绍会。会上的内容基于 Checklist 而多于Checklist
 （可以理解为一个对入学流程的介绍会），同时会有学校邀请的中国学长学姐现场为大家解答问题。
-PDO **不是强制** 的，可以不去，不去也不会对你入学造成影响。  
-学校中国办公室官方介绍以及2019年的报名链接:
-[报名开始 2019明大本科新生及家长行前准备会](https://mp.weixin.qq.com/s/l9anotvw1InCYz4O7BDyxQ)
+PDO **不是强制** 的，可以不去，不去也不会对入学造成影响。  
+~~学校中国办公室官方介绍以及2019年的报名链接:
+[报名开始 2019明大本科新生及家长行前准备会](https://mp.weixin.qq.com/s/l9anotvw1InCYz4O7BDyxQ)~~  
+2020年的PDO很大概率在线上进行。
 
 **Q: 学校要求我设置DUO, 这是什么？**   
 A: DUO全称DUO Security，是一个在你登陆账户时二步验证身份的软件。具体作用可以类比国内银行的U-盾。  
@@ -1278,7 +1289,7 @@ A: 可以使用UCard中的Gopher Gold或者Flexdine 消费进入饭堂，早餐9
 
 ### 在明大的日常生活
 
-**Q: 我是南方人，来明尼苏达会冻死吗？**  
+**Q: 我是南方人，来明尼苏达会被冻死吗？**  
 A:  室内都有暖气，温度稳定在70-80华氏度（21.1-26.7摄氏度）。室外穿好羽绒服做好防风即可。
 平心而论，明尼的干冷比起湿冷，还是“舒服”一点的。
 
