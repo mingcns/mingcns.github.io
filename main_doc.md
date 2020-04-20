@@ -852,7 +852,7 @@ GPA越高代表该学生在课程中的表现越为优异。GPA 分为 Accumulat
 Accumulated是总GPA，其计算包括了学生在UMN的全部成绩，而Technical GPA的计算只包括了专业课的成绩。
 
 如果想要从UMN毕业，需要保持至少 **2.0以上** 的 Accumulated GPA。GPA的计算只舍不入。
-大家可以通过学校官方提供的GPA Calculator来计算自己的GPA：https://gpacalc.umn.edu/
+大家可以通过学校官方提供的GPA Calculator来计算自己的GPA：[GPA Calculators](https://gpacalc.umn.edu/)
 
 ### Grading Basis简介
 
