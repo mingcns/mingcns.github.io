@@ -1170,7 +1170,7 @@ A:  因为美国大学和国内大学不一样，美国大学基本上都是先�
 然后在你修完先修课程（pre-requisite）满足专业的admission要求后（一般在大二下学期）才申请declare专业。
 具体可以参阅本文 [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。
 
-**Q: 我现在录取到了A专业/学院，以后可以转去B专业/学院吗？**  
+**Q: 我现在录取到了A专业/学院，以后可以转去B专业/学院吗？<a id="transfer-college-faq" href="https://www.mingcns.org/guidebook/#transfer-college-faq">#transfer-college-faq</a> **  
 A: 当然可以，具体情况联系Advisor。一般来说在pre-major阶段，同学院转专业只需要跟Advisor联系，
 跨学院转专业需要在满足目标专业的Declaration要求后，提交一张非常简单的在线申请表申请转院。  
 具体请参考以下链接：
