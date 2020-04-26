@@ -574,7 +574,7 @@ _申请囊括了 Ecolab 和 Goldman 提供的校外奖学金，有参加过环�
 UMN自己的“智联招聘”，小到各类 start-up 大到 Top 10 投行都会在上面发布招聘信息，可以多在上面浏览。
 3. Interview Stream  
 [https://umn.interviewstream.com/](https://umn.interviewstream.com/)  
-模拟视频面试，为往后求职过程中正式视频面试做充分联系。
+模拟视频面试，为往后求职过程中正式视频面试做充分练习。
 
 #### Recommended Resources
 1. Carlson Global Institute  
