@@ -525,7 +525,7 @@ Carlson的career center为商学院学生学生提供专业的resume和Cover Let
 1. Business Law 为小众专业，如果有官网 FAQ 没有回答的问题，请直接邮件联系
 [lawminor@umn.edu](mailto:lawminor@umn.edu)
 
-#### Carlson 课程设置 Curriculum
+#### 课程设置 Curriculum
 1. Immersion Core (I-Core)  
     * Carlson 学生在上专业课前必须完成的四门课程，包含：
         * MGMT 3004
@@ -557,6 +557,7 @@ Carlson的career center为商学院学生学生提供专业的resume和Cover Let
     * BA 1001：非必修，教授 Excel 基本技能的应用课。
     * BA 3000：必修课，建议 Sophomore 上学期修，教授找工作中需要用到的基本技能和注意事项。
     * MGMT 1001 & MGMT 1005：Carlson 学生必修的 Management 课程，毕业前修完即可。（MGMT 1005 金牌教授：Rand Park）
+    * PSY1001：必修课，毕业前修完即可。
 
 #### Scholarship Opportunities
 每年Carlson有针对本院学生发放的scholarship，奖学金申请于每年的3月5日开放，4月15日中部时间 (CDT/CST) 17:00中止。
