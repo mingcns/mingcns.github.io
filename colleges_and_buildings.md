@@ -13,7 +13,7 @@ permalink: /colleges-and-buildings/
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-14)
+(Version: 2020-04-25)
 </div><br>
 
 
@@ -431,7 +431,8 @@ CLA开设了60余个专业，其中就包括了UMN最出名的心理专业(心�
 
 CSE 行政楼: Lind Hall
 
-主要区域（包括但不限于）：Lind Hall, Tate Hall, Ford Hall, Vincent Hall, Akerman Hall, Keller Hall, Amundson Hall, Smith Hall, Kolthoff Hall, Shepherd Laboratories, etc.
+主要区域（包括但不限于）：Lind Hall, Tate Hall, Ford Hall, Vincent Hall, Akerman Hall, Keller Hall,
+Amundson Hall, Smith Hall, Kolthoff Hall, Shepherd Laboratories, etc.
 
 CSE主要开设工程和科学类课程，本科提供有19个工程和科学类专业，下辖12个院系(Schools/Departments)，
 与CFANS有一个合作项目--BBE，详见:
@@ -462,7 +463,8 @@ Carlson School of Management和Hanson Hall由Skyway相连， 所以就一起介�
 1. 乘坐校车121线到达Blegan Hall站，走进目之所及最近的学校建筑 Blegan Hall内，**按照路牌指示** 穿过Tunnel。
 1. 乘坐轻轨Green Line 到达 West Bank Station, 走上轻轨站靠近密西西比河一侧(东侧)的天桥楼梯，
 往南(上天桥后左转步行约80米即可到达。
-1. 步行穿过Washington Avenue Bridge（校内连接东西两岸的主要桥梁），左转沿Blagan Hall至一片小广场（可见到Humphrey School），绕过Wilson Library，就能见到CSOM。CSOM的马路对面就是Hanson Hall。
+1. 步行穿过Washington Avenue Bridge（校内连接东西两岸的主要桥梁），左转沿Blagan Hall至一片小广场（可见到Humphrey School），
+绕过Wilson Library，就能见到CSOM。CSOM的马路对面就是Hanson Hall。
 
 **主要功能**：
 
@@ -488,7 +490,103 @@ Carlson的career center为商学院学生学生提供专业的resume和Cover Let
 1. 商学院或者商科社团定期举办帮助学生找到工作，提升技能或者networking的活动，
 地点一般都设在CSOM或者Hanson Hall，特大型活动详见通知。
 
+#### 专业和辅修 Majors & Minors
+学院现有如下 Majors & Minors (可主修也可辅修)
+* Accounting
+* Finance
+* Finance & Risk Management Insurance
+* Marketing
+* Entrepreneurial Management
+* Human Resources and Industrial Relations
+* International Business ⭐
+* Management Information Systems
+* Public & Nonprofit Management ⭐
+* Supply Chain and Operations Management
+
+注:
+1. 以上专业均只允许 Carlson 本院学生主修及辅修，没有例外。
+1. 有⭐的为 Co-major/minor。此类科目不能够单独作为主修专业，须要与独立专业一起组成 double major
+（i.e. 如果你想要主修 International Business，那么你必须同时 declare 一个无星号专业）
+1. International Business 有特定语言要求，一般来说，中国学生因为来自非英语地区，语言要求自动满足，
+但是如果在 declare 该专业之后有倾向从业于非中文地区，我建议在学校语言系完成两年相应语言的基础课程。
+另外，International Business 专业有强制的 Study Abroad 要求，国际学生自动满足这一个要求，
+但是具体情况需要进一步咨询 Advisor。详见：
+[https://carlsonschool.umn.edu/degrees/undergraduate/majors-and-minors/international-business](https://carlsonschool.umn.edu/degrees/undergraduate/majors-and-minors/international-business)
+
+学院目前有以下的辅修 Minors (只能辅修)
+* Business Analytics
+* Business of Healthcare
+* Strategic Management
+* Business Law ⭐
+* Management ⭐
+
+注：
+1. 非 Carlson 的学生可以辅修标 ⭐ Minor，详见 Carlson 官网
+1. Business Law 为小众专业，如果有官网 FAQ 没有回答的问题，请直接邮件联系
+[lawminor@umn.edu](mailto:lawminor@umn.edu)
+
+#### Carlson 课程设置 Curriculum
+1. Immersion Core (I-Core)  
+    * Carlson 学生在上专业课前必须完成的四门课程，包含：
+        * MGMT 3004
+        * MKTG 3001
+        * SCO 3001
+        * FINA 3001
+    * I-Core 四门课不能分开选，课程的时间及教授全都由学院统一安排，一次选完四门课。
+    * I-Core 的先修课程 (Prerequisites) 有：
+        * ECON 1101
+        * ECON 1102
+        * SCO 2550/STAT 3011
+        * ACCT 2050
+        * 相应的微积分 (Calculus) 课程  
+    * 在完成上述先修课程前学生无法成功录入 I-Core，请各位 Freshman 合理安排课程及时间。正常情况下，
+    建议在 Junior 之前完成 I-Core 以防影响毕业。
+2. Additional Core
+    * Additional Core是Carlson学生毕业前必须修完的四门课程
+        * MGMT 3033W
+        * HRIR 3021
+        * IDSC 3001
+        * ACCT 3001
+    * 有意【主修 Management of Information System】<sup>a</sup> 或者【辅修 Business Analytics】<sup>b</sup>
+    的同学需尽早修完IDSC 3001
+    * MGMT 3033W 可满足 Carlson 学生的一个 Writing Intensive 要求。
+    详见 [《新生指南》](https://www.mingcns.org/guidebook/)中的
+    [《本科毕业要求》](https://www.mingcns.org/guidebook/#%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%A6%81%E6%B1%82)章节。
+    * 除了情况a和b描述的学生，Additional Core 没有限制完成时间，在毕业前修完即可。
+3. 其他要求
+    * BA 1001：非必修，教授 Excel 基本技能的应用课。
+    * BA 3000：必修课，建议 Sophomore 上学期修，教授找工作中需要用到的基本技能和注意事项。
+    * MGMT 1001 & MGMT 1005：Carlson 学生必修的 Management 课程，毕业前修完即可。（MGMT 1005 金牌教授：Rand Park）
+
+#### Scholarship Opportunities
+每年Carlson有针对本院学生发放的scholarship，奖学金申请于每年的3月5日开放，4月15日中部时间 (CDT/CST) 17:00中止。
+所有 Sophomore，Junior，Senior 都有资格申请。
+[https://sites.google.com/umn.edu/carlsonug/student-life/scholarships](https://sites.google.com/umn.edu/carlsonug/student-life/scholarships)  
+_Notes:_  
+_申请囊括了 Ecolab 和 Goldman 提供的校外奖学金，有参加过环保项目或者对资本主义发展史及美国金融史有深刻了解的同学可以提前准备申请文书 Bullet Points。_
+
+#### Career Service Resources
+1. Undergraduate Business Career Center (UBCC)  
+[https://sites.google.com/umn.edu/carlsonug/career-center](https://sites.google.com/umn.edu/carlsonug/career-center)  
+可预约模拟面试、future career planning、resume/CV 及 cover letter 修改，每周会有 walk-in hours。
+2. GoldPass powered by Handshake  
+[http://goldpass.umn.edu/](http://goldpass.umn.edu/)  
+UMN自己的“智联招聘”，小到各类 start-up 大到 Top 10 投行都会在上面发布招聘信息，可以多在上面浏览。
+3. Interview Stream  
+[https://umn.interviewstream.com/](https://umn.interviewstream.com/)  
+模拟视频面试，为往后求职过程中正式视频面试做充分联系。
+
+#### Recommended Resources
+1. Carlson Global Institute  
+[https://carlsonschool.umn.edu/faculty-research/carlson-global-institute/education-abroad](https://carlsonschool.umn.edu/faculty-research/carlson-global-institute/education-abroad)  
+有意愿参加交流项目的同学可以关注 Carlson Global Institute 的网页更新，详尽的项目细节和 Scholarship 申请 deadlines 和 eligibility 都会及时更新。同时，Carlson 学生也可以参加 UMN Learning Abroad Center 推出的 [交换项目](https://umabroad.umn.edu/)
+2. Wellness@Carlson  
+Carlson 有专门的 Counselor 帮助学生应对繁重的学业压力及其它轻微的心理状况。如有需要，请直接邮件联系 Donna Kulakowski：
+[kulak001@umn.edu](mailto:kulak001@umn.edu)
+
+
 _(感谢 Zhan, Jiayu 提供本章节的内容)_
+
 
 ### College of Education & Human Development (CEHD)
 
@@ -539,14 +637,20 @@ CEHD的教学楼在离学生中心(Coffman Union)走路大概5-8min的地方，�
 ##### 同学们和老师/教授们
 
 **问: 老师/教授们友善吗？**  
-答：当然是非！常！友！善！啊！（学教育学人类发展的怎么可能不友善！除了友善还非常好说话，非常耐心，非常会照顾你的情绪啊）所以同学们千万别慌，有不懂的就问，有觉得力所不能及的就跟教授反馈，千万不要硬着头皮上，他们一定会非常乐意帮助你的。（利用office hour的时间去跟教授们交流，他们会非常欢迎你的）
+答：当然是非！常！友！善！啊！（学教育学人类发展的怎么可能不友善！除了友善还非常好说话，非常耐心，非常会照顾你的情绪啊）
+所以同学们千万别慌，有不懂的就问，有觉得力所不能及的就跟教授反馈，千万不要硬着头皮上，他们一定会非常乐意帮助你的。
+（利用office hour的时间去跟教授们交流，他们会非常欢迎你的）
 
 **问: 同学们友善吗？**  
-答：坦白说，CEHD真的没出现过很mean的人。想想学教育学人类发展的能mean吗！都是小天使啊。但是如果同学们想要结交朋友还需要自己主动去跟他们打招呼，参与他们的对话（大家都是第一年进入大学，都是很害羞的，在这里非常建议同学们勇敢地踏出第一步，主动跟周围的同学打招呼！）CEHD的同学们都是一些很愿意与人交往，了解不同地区文化的人，千万不要因为觉得自己“英语不好”就自闭呀！对于”英文不好”的外国人，CEHD的同学都是非常友善的（想想你听到外国人努力说中文的时候你善意的微笑和帮助，同理，美国人听到你用他们的语言跟他们交流的时候也是一样的👌🏻）  
+答：坦白说，CEHD真的没出现过很mean的人。想想学教育学人类发展的能mean吗！都是小天使啊。但是如果同学们想要结交朋友还需要自己主动去跟他们打招呼，
+参与他们的对话（大家都是第一年进入大学，都是很害羞的，在这里非常建议同学们勇敢地踏出第一步，主动跟周围的同学打招呼！）
+CEHD的同学们都是一些很愿意与人交往，了解不同地区文化的人，千万不要因为觉得自己“英语不好”就自闭呀！对于”英文不好”的外国人，
+CEHD的同学都是非常友善的（想想你听到外国人努力说中文的时候你善意的微笑和帮助，同理，美国人听到你用他们的语言跟他们交流的时候也是一样的👌🏻）  
 小组活动的时候，组员们也很喜欢互相鼓励夸奖，会让人觉得非常有成就感！
 
 **问: Advisor们负责吗？**  
-答：CEHD的AD们真的都算蛮负责任，会提出相当有建设性的意见，但也不会强迫你完全听取他们的意见。他们会综合你的想法和他们的经验在选课选专业上给你有用的指导。有空的时候和他们预约聊半小时天，讲讲你最近遇到的问题（学习、生活上的问题都可以问，咨询一下他们的建议，他们都会尽他们的最大能力帮助你的）
+答：CEHD的AD们真的都算蛮负责任，会提出相当有建设性的意见，但也不会强迫你完全听取他们的意见。他们会综合你的想法和他们的经验在选课选专业上给你有用的指导。
+有空的时候和他们预约聊半小时天，讲讲你最近遇到的问题（学习、生活上的问题都可以问，咨询一下他们的建议，他们都会尽他们的最大能力帮助你的）
 
 
 #### 课堂组成
@@ -583,9 +687,12 @@ CDes 主页: [design.umn.edu](https://design.umn.edu/)
 
 Rapson Hall 分为 New Rapson Hall 和 Old Rapson Hall （其实还是同一个建筑物）
  
-- 新的Rapson hall 是指的地图上长得像十字架部分的建筑，视觉向外开放，落地大窗，通光性强。没有大门一说，四面八方都有门。一楼包括了设计学院的办公室，大多数需要Lecture的课都会在New Rapson hall进行，读书馆在三楼空间利用率较高。
+- 新的Rapson hall 是指的地图上长得像十字架部分的建筑，视觉向外开放，落地大窗，通光性强。没有大门一说，四面八方都有门。
+一楼包括了设计学院的办公室，大多数需要Lecture的课都会在New Rapson hall进行，读书馆在三楼空间利用率较高。
  
-- 旧的Rapson hall是指的在地图上显示为正方形的建筑，具体很迷，一楼是空大的场地用来展示各种学生作品和现场活动的地方，并且有着VR实验室，激光打印室，二楼是学生用的studio，大部分的课都是在地下一层完成。最头疼的地方在于你不管对Rapson有多熟，总会有迷路绕远道的麻烦。（如果不看那小到不行的指示牌）。
+- 旧的Rapson hall是指的在地图上显示为正方形的建筑，具体很迷，一楼是空大的场地用来展示各种学生作品和现场活动的地方，
+并且有着VR实验室，激光打印室，二楼是学生用的studio，大部分的课都是在地下一层完成。最头疼的地方在于你不管对Rapson有多熟，
+总会有迷路绕远道的麻烦。（如果不看那小到不行的指示牌）。
  
 - Computer lab在新老建筑的交接口处地下一层。
  
