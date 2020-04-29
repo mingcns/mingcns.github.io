@@ -33,10 +33,15 @@ A：学校将于2020年6月做出决定，请耐心等待学校通知。
 
 **Q：如果新冠疫情持续，我能否选择延迟入学？**  
 A：学校正在研究相关选择，但是据目前了解，大部分院系均已给出 推迟入学 (Defer Enrollment)
-至 Spring 2021 的选项。
+至 Spring 2021 或 Fall 2021 的选项。
 
 **Q：如果我在8月都申请不到签证怎么办？**  
 A：学校国际生办公室 (ISSS) 正在讨论，在他们得出结果后，我们会第一时间告知大家。
+
+**Q：如果我现在申请了签证，后面又决定推迟入学了，到时候需要重新签证吗？**  
+A：根据目前我们在新生群中收集到的信息，如果学生使用手上现有的 I-20 表格申请了签证，
+但是最终决定推迟入学至2021年。这种情况下，现有签证仍然有效，不过在入境的时候需要申请一张新的 I-20，
+在入境时使用【旧 I-20 申请的签证】+【新 I-20】入境美国。详细情况请咨询 ISSS。
 
 ### 对在读生
 
@@ -66,6 +71,14 @@ A：请联系您中意的公寓。今年由于新冠疫情，不确定因素过�
 [群组信息](https://www.mingcns.org/guidebook/#%E6%98%8E%E5%A4%A7%E6%96%B0%E7%94%9F%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A9%E7%BE%A4-mingcns)
 
 ## 版权与免责协议
+本文全部内容均为 MinG/CNS 通过邮件咨询学校 ISSS 或 收集新生群内的各种数据点汇编而成。
+因此，本文任何内容都不应该被当作学校官方回复来使用。由于每个人的情况存在差异，具体情况还请读者直接与学校 ISSS 联系。
+
+All information contained in this FAQ document is based on Email communications with ISSS
+and data points collected from MinG/CNS group chats. For this reason, this document shall
+not be treated as an official response from the U of M. Every person has unique situations,
+and therefore, please contact ISSS directly with your questions should you have any.
+
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
 关于税务、移民身份相关问题的法律上的建议，请咨询专业会计师、律师或者UMN ISSS官方。
 由于信息变化较快以及作者能力所限，本文内容无法保证100%的准确性，敬请谅解。
