@@ -13,7 +13,7 @@ permalink: /faq-fall2020/
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-25)
+(Version: 2020-04-29)
 </div><br>
 
 ## 目录
