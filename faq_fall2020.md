@@ -13,7 +13,7 @@ permalink: /faq-fall2020/
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-29)
+(Version: 2020-04-30)
 </div><br>
 
 ## 目录
@@ -42,6 +42,14 @@ A：学校国际生办公室 (ISSS) 正在讨论，在他们得出结果后，�
 A：根据目前我们在新生群中收集到的信息，如果学生使用手上现有的 I-20 表格申请了签证，
 但是最终决定推迟入学至2021年。这种情况下，现有签证仍然有效，不过在入境的时候需要申请一张新的 I-20，
 在入境时使用【旧 I-20 申请的签证】+【新 I-20】入境美国。详细情况请咨询 ISSS。
+
+**Q：文档中说 Orientation 时间需要选择8月份的，但是今年改网上 Orientation 了，会有不同吗？**  
+A：首先上 [文档原文](https://www.mingcns.org/guidebook/#checklist)。 在往年正常情况下，
+Immigration Check-in 和 Orientation 在同一天进行，但是由于今年的情况特殊，Orientation 改为线上，
+时间缩短至一天，选课时间自然也变为与 Orientation 同一天。
+我们正在和 ISSS 核实国际生新生是否可以在没有进行 Immigration Check-in 的情况下进行 Online Orientation。
+我们的猜测是可以的，所以在我们得到确切回复前，请各位按自己的时间便利情况随意选取一个日期，我们会在 ISSS
+做出回复后告知大家。当然，我们更 **建议您与 ISSS 直接联系** 。
 
 ### 对在读生
 
