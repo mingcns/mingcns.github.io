@@ -59,6 +59,7 @@ permalink: /ext-catalog/
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 入学指南篇", "https://mp.weixin.qq.com/s/aEsBME0jCzmGFe3-61sY1w"],
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 学术篇", "https://mp.weixin.qq.com/s/-sqeHMCQqd2XbfThFKvz8g"],
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 生活篇", "https://mp.weixin.qq.com/s/rvpDTiANDHR2ZN7iLkwRVQ"],
+        ["[2020-00-00][UMNCSSA] CSSA新生手册 | 新生手册", "https://share.weiyun.com/5pVgcAL"],
     ];
 
     renderList(generalList);
