@@ -49,7 +49,7 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/TnFd88MZbnaRvKDt9)  
 [官网](https://www.riverton.org/community/chateau-student-housing)
 
-### The Marshall, Minneapolis apartments
+### The Marshall, Minneapolis Apartments
 [Google Maps](https://g.page/TheMarshallApartments?share)  
 [官网](http://www.livethemarshall.com/)
 
@@ -93,7 +93,7 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/jUtxeMnt5Ub4qZwTA)  
 [官网](https://www.liveatwahu.com/)
 
-### Solhaus Apartments
+### Solhaus Apartments & Towers
 [Google Maps](https://g.page/SolhausApartments?share)  
 [官网](https://www.solhausmpls.com/)
 
@@ -101,7 +101,7 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/hDPHLqAekUsEFdL26)  
 [官网](https://www.quadondelaware.com/)
 
-### University Commons
+### University Commons (UC)
 [Google Maps](https://g.page/UCommonsUMN?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/university-commons)
 
@@ -113,7 +113,7 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/bjo3K3gWJEfhvNxG6)  
 [官网](http://www.urbanminneapolishomes.com/u-flats.php)
 
-### University Village Apartments
+### University Village Apartments (UV)
 [Google Maps](https://goo.gl/maps/2Kbh8Nyi5544gfkM7)  
 [官网](https://www.umnvillage.com/)
 
