@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-22)
+(Version: 2020-05-01)
 </div><br>
 
 
@@ -1272,9 +1272,10 @@ A:  研究生和博士生的上课/工作一般都在自己的学院里进行。
 **Q: 有什么校外公寓推荐吗？
 <a id="live-off-campus-faq" href="https://www.mingcns.org/guidebook/#live-off-campus-faq">#live-off-campus-faq</a>**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
-学校周边公寓列表：[listings.umn.edu](https://listings.umn.edu/off-campus-housing/university-of-minnesota/search)  
+学校周边公寓列表：[listings.umn.edu](https://listings.umn.edu/)  
 以及学校官方做的关于校外公寓的Survey:
 [Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)  
+MinG/CNS 汇总的校外公寓清单：[www.mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)  
 有条件访问Google服务的话，可以使用Google Maps来更直观的查询学校周围公寓的官网和评分。
 
 **Q: 在租校外公寓的时候，有必要找第三方中介机构吗？**  
@@ -1461,7 +1462,9 @@ UMN中国代表处微信公众号：UMNChina
 
 1. 如果对学校宿舍有兴趣的话: [housing.umn.edu](https://housing.umn.edu/)
 
-1. 校外公寓一览: [listings.umn.edu](http://listings.umn.edu)
+1. 校外公寓一览:
+    * [listings.umn.edu](http://listings.umn.edu)
+    * [www.mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)
 
 1. 学校官方VPN:
 [Virtual Private Network (VPN) | IT@UMN](https://it.umn.edu/service-details/virtual-private-network-vpn)
