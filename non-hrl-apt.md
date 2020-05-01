@@ -26,6 +26,13 @@ permalink: /non-hrl-apt/
 本文是在基于读者对明大地理环境已经有初步了解的情况下所编写，如果您对楼宇的地理位置存在疑问，请先阅读我们的
 [《明大地理》](https://www.mingcns.org/colleges-and-buildings/) 简介。我们建议您配合 Google Maps 阅读本文。
 
+本文内的一些缩写、记号和注释：
+* 房型缩写：2B2B 的意思为 2 Bedroom 2 Bathroom；2B2B Shared 的意思是 2B2B 房型内每个房间住两人，一个
+2B2B Unit 总共住4人。以此类推。
+* 价格记号：$1000+ 代表 1000 美元起。
+* 房租价格不含电费，至于是否包含水费等其他费用，请自行联系公寓。
+
+
 ## 西岸
 ### Seven Corners Apartments
 [Google Maps](https://goo.gl/maps/WuNVPvbTMZtrxhw4A)  
@@ -39,6 +46,12 @@ permalink: /non-hrl-apt/
 [Google Maps](https://g.page/GrandMarcSeven?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners)
 
+房型
+* 1B1B $1300+
+* 2B2B $950+
+* 4B4B $899+
+* 2B2B Shared $499+
+* 2B2B Shared with Study Room $569+
 
 ## Dinkytown
 ### The Bridges Apartments
@@ -176,14 +189,15 @@ Student Legal Service 地址 (就在西岸天桥上):
 [《新生指南》](https://www.mingcns.org/guidebook/)中的
 [《关于住房》](https://www.mingcns.org/guidebook/#%E5%85%B3%E4%BA%8E%E4%BD%8F%E6%88%BF)章节。
 
+
 ## 版权与免责协议
 本文仅为一份学校周边校外公寓的不完全清单，不构成 MinG/CNS 任何形式的推荐。本清单内的全部官网网址为 Google Maps
-中所显示，或 Google 搜索所得，请各位读者自行甄别。如果您对某公寓有任何疑问，请直接联系对方客服。
+中所显示，或 Google 搜索所得，请各位读者自行甄别。房租价格时效性较强，仅供参考。如果您对某公寓有任何疑问，请直接联系对方客服。
 
 This is only a listing of Non-UMN-owned apartments, and it should not be considered as a recommendation from
 MinG/CNS in any form. All "Official Websites" listed in this document are from Google Maps or Google Search;
-please do use your own judement on these links. If you have any questions regarding any of these apartments,
-please contact them directly.
+please do use your own judement on these links. Rents listed are for reference only.
+If you have any questions regarding any of these apartments, please contact them directly.
 
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
 关于税务、移民身份相关问题的法律上的建议，请咨询专业会计师、律师或者UMN ISSS官方。
