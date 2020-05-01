@@ -142,6 +142,40 @@ permalink: /non-hrl-apt/
 [官网](https://www.paviliononberry.com/)
 
 
+## 常见问题 FAQ
+**Q: 有什么校外公寓推荐吗？**
+A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
+* 学校官方做的关于校外公寓的 Survey:
+[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)  
+
+**Q: 在租校外公寓的时候，有必要找第三方中介机构吗？**  
+A: 通过在上一个问题中介绍的方法和资源，可以很直观的找到学校附近每一个校外公寓的地址、官网、电话以及评价。  
+一般来说，学校附近的公寓都会在其官网上提供现在拥有的房型的价格跟户型，同时也支持网上直接申请。
+租房原本就是两方（房东、房客）的事情，明大周围的房源并没多到要靠中介才能理得清楚，在可以获得足够信息的前提下，
+并不建议引入第三方机构来增加自己的资金和合同风险。
+
+**Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？
+<a id="legal-service" href="https://www.mingcns.org/guidebook/#legal-service">#legal-service</a>**  
+A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签字合同的原件</font>
+(无论是电子版PDF还是纸质版)。这也是前一个问题中不建议引入第三方机构的一个原因，会将出现纠纷的情况更加复杂化。  
+学校提供学生法律援助服务 Student Legal Service, 官网为 [sls.umn.edu](http://sls.umn.edu/)，
+请联系他们的法律援助志愿者以获取更多信息。  
+他们不止提供关于租客权利的法律援助，这是他们提供的服务的 [完整清单](http://sls.umn.edu/our-services/advice-representation)。
+这些服务都是包括在学生交的Student Services Fee中的，也就是说绝大多情况是不收费的。  
+此外，Student Legal Service 还提供免费的公证服务（Notary Service），
+在办理申根签证，第三类入台证(中华民国台湾地区入出境许可证)等证件或签证时，可能可以用到。
+学校内部并没有UPS或者FedEX，且这两家的公证服务往往还必须同时购买非常昂贵的彩色复印服务。
+因此，Student Legal Service 的免费 Notary Service 对于办证件或者签证并且需要公证文件的同学来说，是非常方便的。
+关于公证服务详见网站: [Student Legal Service - Notary Services](http://sls.umn.edu/our-services/notary-services)  
+Student Legal Service 地址 (就在西岸天桥上):  
+[160 West Bank Skyway, 219 19th Avenue South,Minneapolis, MN 55455](https://goo.gl/maps/yYgNLktHQoWvyHyR6)  
+同时也可以参考 《Resources on Campus》 文档中
+[Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍。
+
+更多有关住房的常见问题请参考我们
+[《新生指南》](https://www.mingcns.org/guidebook/)中的
+[《关于住房》](https://www.mingcns.org/guidebook/#%E5%85%B3%E4%BA%8E%E4%BD%8F%E6%88%BF)章节。
+
 ## 版权与免责协议
 本文仅为一份学校周边校外公寓的不完全清单，不构成 MinG/CNS 任何形式的推荐。本清单内的全部官网网址为 Google Maps
 中所显示，或 Google 搜索所得，请各位读者自行甄别。如果您对某公寓有任何疑问，请直接联系对方客服。
