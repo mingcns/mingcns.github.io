@@ -1272,10 +1272,11 @@ A:  研究生和博士生的上课/工作一般都在自己的学院里进行。
 **Q: 有什么校外公寓推荐吗？
 <a id="live-off-campus-faq" href="https://www.mingcns.org/guidebook/#live-off-campus-faq">#live-off-campus-faq</a>**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
-学校周边公寓列表：[listings.umn.edu](https://listings.umn.edu/)  
-以及学校官方做的关于校外公寓的Survey:
+* 学校周边公寓列表：[listings.umn.edu](https://listings.umn.edu/)  
+* 以及学校官方做的关于校外公寓的Survey:
 [Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)  
-MinG/CNS 汇总的校外公寓清单：[www.mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)  
+* MinG/CNS 汇总的校外公寓清单：[www.mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)  
+
 有条件访问Google服务的话，可以使用Google Maps来更直观的查询学校周围公寓的官网和评分。
 
 **Q: 在租校外公寓的时候，有必要找第三方中介机构吗？**  
@@ -1301,7 +1302,7 @@ A: 首先，请 <font color="red" style="font-weight: bold; ">保留好双方签
 Student Legal Service 地址 (就在西岸天桥上):  
 [160 West Bank Skyway, 219 19th Avenue South,Minneapolis, MN 55455](https://goo.gl/maps/yYgNLktHQoWvyHyR6)  
 同时也可以参考 《Resources on Campus》 文档中
-[Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍
+[Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍。
 
 **Q: 我住在校外还可以吃饭堂吗？**  
 A: 可以使用UCard中的Gopher Gold或者Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
