@@ -29,8 +29,9 @@ permalink: /non-hrl-apt/
 本文内的一些缩写、记号和注释：
 * 房型缩写：2B2B 的意思为 2 Bedroom 2 Bathroom；2B2B Shared 的意思是 2B2B 房型内每个房间住两人，一个
 2B2B Unit 总共住4人。以此类推。
-* 价格记号：$1000+ 代表 1000 美元起。
+* 价格记号：$1000+ 代表每人每月 1000 美元起；$1000± 代表每人每月 1000 美元左右。(特别标明的除外)
 * 房租价格不含电费，至于是否包含水费等其他费用，请自行联系公寓。
+* **没有房型和价格的表示我们目前没有收集到相关信息，请自行联系公寓。**
 
 
 ## 西岸
@@ -38,37 +39,86 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/WuNVPvbTMZtrxhw4A)  
 [官网](http://www.bdcmgmt.com/)
 
+房型和价格：
+* 1B1B $909+
+* 2B1B $1195+
+* 3B2B $1634+
+* Studio $745+
+* 全部可以 Share Room
+* 以上价格为整个 Unit 的价格
+
 ### 7 West Apartment Homes
 [Google Maps](https://goo.gl/maps/vauY1U4eRvFm6G4u7)  
 [官网](https://minnesota.weidner.com/apartments/mn/minneapolis/7west/)
+
+房型和价格：
+* 1B1B $1525+
+* 2B2B $1985+
+* 2B1B $1695+
+* Studio $1350+
+* 全部可以 Share Room
+* 以上价格为整个 Unit 的价格
 
 ### GrandMarc Seven Corners
 [Google Maps](https://g.page/GrandMarcSeven?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners)
 
-房型
-* 1B1B $1300+
-* 2B2B $950+
-* 4B4B $899+
+房型和价格：
+* 1B1B $1369+
+* 2B2B $949+
+* 4B4B $849+
+* Studio $1269+
+* 1B1B Shared $719+
 * 2B2B Shared $499+
-* 2B2B Shared with Study Room $569+
+* 2B2B Shared with Study Room $579+
+* Parking $100
 
 ## Dinkytown
 ### The Bridges Apartments
 [Google Maps](https://goo.gl/maps/i37sVkj3GSuE6ZFu8)  
 [官网](http://thebridgesdinkytown.com/)
 
+房型和价格：
+* 1B1B $705+
+* 2B2B $635+
+* 4B4B $445+
+
 ### Chateau Student Housing Co-op
 [Google Maps](https://goo.gl/maps/TnFd88MZbnaRvKDt9)  
 [官网](https://www.riverton.org/community/chateau-student-housing)
+
+房型和价格：
+* 1B1B $955+
+* 2B1B $1360+
+* 3B1B $1560+
+* 4B2B $1996+
+* Studio $835+
+* 全部可以 Share Room
+* 以上价格为整个 Unit 的价格
 
 ### The Marshall, Minneapolis Apartments
 [Google Maps](https://g.page/TheMarshallApartments?share)  
 [官网](http://www.livethemarshall.com/)
 
+房型和价格：
+* 1B1B $1290+
+* 2B2B $959+
+* 3B3B $820+
+* 3B3.5B $890+
+* 4B4B $920+
+* 4B4.5B $920+
+* 1B1B Shared $730+
+* 2B2B Shared $599+
+
 ### Sydney Hall
 [Google Maps](https://goo.gl/maps/aJVASwPyJJzXWkbD8)  
 [官网](https://www.eastbankcommunities.com/minneapolis/sydney-hall-and-dinkydome)
+
+房型和价格：
+* 1B1B $1400+
+* 2B2B $949+
+* Studio $1200+
+* 2B2B Shared $629+
 
 
 ## Superblock 周边
@@ -76,39 +126,110 @@ permalink: /non-hrl-apt/
 [Google Maps](https://g.page/HubMinneapolis?share)  
 [官网](http://www.hubminneapolis.com/)
 
+房型和价格：
+* 1B1B $1545+
+* 1B1B Penthouse $1740+
+* 2B2B $910+
+* 2B2B Penthouse $1255+
+* 2B1B $1005+
+* 3B3B Penthouse $1140+
+* 3B2B Penthouse $1140+
+* 4B2B $920+
+* Micro Studio $1250+
+* Studio $1325+
+* Studio Large $1390+
+* 2B2B Shared $785+
+* 3B2B Penthouse Shared $1075+
+
 ### The Station on Washington Apartments
 [Google Maps](https://goo.gl/maps/7F4sEkHizCLkqikZ7)  
 [官网](https://liveatthestation.com/)
+
+房型和价格：
+* 1B1B $1550+
+* 2B2B $1000±
+* Studio
+* 2B2B Shared $650±
+
 
 ### 700 Washington Apartments
 [Google Maps](https://goo.gl/maps/Z7VN2iHTNWgW94CGA)  
 [官网](https://www.700washington.com/)
 
+房型和价格：
+* 1B1B $1475±
+* 2B2B $990±
+* Studio $1299+
+* 2B2B Shared $650±
+
+
 ### The Edge on Oak
 [Google Maps](https://goo.gl/maps/TKSAmWnkM652qeCX6)  
 [官网](https://www.eastbankcommunities.com/minneapolis/edge-on-oak)
 
+房型和价格：
+* 1B1B $1449+
+* 2B2B $989+
+* 2B2B Deluxe $1049+
+* Studio $1300+
+* 2B2B Shared $629+
+
 ### Tairrie House
 [Google Maps](https://goo.gl/maps/cZ5rmhSMwbqM6DqG9)  
-[官网](https://www.dinnaken.com/page/show/714221)
+[官网](https://www.dinnaken.com/page/show/714221--tairrie-house)
 
 ### Stadium Village Flats (SVF)
 [Google Maps](https://goo.gl/maps/oBH3bgpBnXNDd1F4A)  
 [官网](https://stadiumvillageflats.com/)
 
+房型和价格：
+* 1B1B $1524+
+* 2B2B $1004±
+* 2B1B $914+
+* 3B3B $964+
+* 4B4B $874+
+* 4B2B $844+
+* Studio $1324+
+* 1B1B Shared $874+
+* 2B2B Shared $634+
+* Parking $150
+
 
 ## Stadium Village 轻轨站周边
-### 900 Dinnaken
+### 900 Dinnaken House
 [Google Maps](https://goo.gl/maps/KFtqU2nuCEwcgnWt6)  
-[官网](https://www.dinnaken.com/page/show/714216-contact-us)
+[官网](https://www.dinnaken.com/page/show/714218-dinnaken-house)
+
+### Argyle House
+[Google Maps](https://goo.gl/maps/KFtqU2nuCEwcgnWt6)  
+[官网](https://www.dinnaken.com/page/show/714224--argyle-house)
 
 ### WaHu Apartments
 [Google Maps](https://goo.gl/maps/jUtxeMnt5Ub4qZwTA)  
 [官网](https://www.liveatwahu.com/)
 
+房型和价格：
+* 1B1B $1415+
+* 2B2B $999+
+* 2B1B $885+
+* 3B3B $895+
+* 3B2B $855+
+* 4B4B $825+
+* 4B3B $805+
+* 4B2B $785+
+* Studio $1199+
+* 部分可 Share Room
+
 ### Solhaus Apartments & Towers
 [Google Maps](https://g.page/SolhausApartments?share)  
 [官网](https://www.solhausmpls.com/)
+
+房型和价格：
+* 1B1B $1450+
+* 2B2B $975+
+* 2B1B $960+
+* Studio $1375+
+* 部分可 Share Room
 
 ### The Quad On Delaware
 [Google Maps](https://goo.gl/maps/hDPHLqAekUsEFdL26)  
@@ -118,9 +239,25 @@ permalink: /non-hrl-apt/
 [Google Maps](https://g.page/UCommonsUMN?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/university-commons)
 
+房型和价格：
+* 1B1B $1339+
+* 2B2B $849+
+* 4B4B $739+
+* 4B2B $679+
+* 1B1B Shared $684+
+* 2B2B Shared $499+
+* 4B2B Shared $494+
+
 ### The Arrow Apartments
 [Google Maps](https://g.page/thearrowapartments?share)  
 [官网](https://www.arrowapartments.com/)
+
+房型和价格：
+* 1B1B $1299+
+* 2B2B $799+
+* 3B3B $729+
+* 3B2B $669+
+* 4B4B $669+
 
 ### Uflats
 [Google Maps](https://goo.gl/maps/bjo3K3gWJEfhvNxG6)  
@@ -130,9 +267,23 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/2Kbh8Nyi5544gfkM7)  
 [官网](https://www.umnvillage.com/)
 
+房型和价格：
+* 2B2B $540±
+* 4B2B $640+
+* Parking $75
+
 ### 44 North
 [Google Maps](https://goo.gl/maps/vKhg64fzjA9gGQHT8)  
 [官网](https://www.44northapartments.com/)
+
+房型和价格：
+* 1B1B $1420+
+* 2B2B $980+
+* 2B1B $925+
+* 4B4B $850±
+* 4B2B $730+
+* 1B1B Shared $800+
+* 2B2B Shared $615+
 
 
 ## Prospect Park 轻轨站周边
@@ -140,9 +291,21 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/7pcRTbw7QWYU1UKn6)  
 [官网](https://linkliving.com/)
 
+房型和价格：
+* 1B1B $1649+
+* 2B2B
+* 4B4B $950±
+* Studio $1429+
+* 部分可以 Share Room
+
 ### Green on 4th
 [Google Maps](https://g.page/green-on-4th?share)  
 [官网](https://www.greenon4th.com/)
+
+房型和价格：
+* 1B1B $1668+
+* 2B2B
+* Studio $1469+
 
 
 ## Westgate 轻轨站周边
@@ -153,6 +316,11 @@ permalink: /non-hrl-apt/
 ### The Pavilion on Berry Apartments (PB)
 [Google Maps](https://goo.gl/maps/izZZsUyf91trUjeX6)  
 [官网](https://www.paviliononberry.com/)
+
+房型和价格：
+* 2B2B $879+
+* 4B4B $730±
+* 4B2B $679+
 
 
 ## 常见问题 FAQ
