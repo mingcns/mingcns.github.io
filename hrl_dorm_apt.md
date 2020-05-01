@@ -13,7 +13,7 @@ permalink: /hrl-dorm-apt-intro/
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-17)
+(Version: 2020-05-01)
 </div><br>
 
 ## 目录
@@ -440,6 +440,14 @@ Housing 网页：[https://housing.umn.edu/keeler](https://housing.umn.edu/keeler
 * [Move-in Guide](https://housing.umn.edu/move-in)
 * [需要带的、可以带的和不能带的物品](https://housing.umn.edu/bring)
 
+## 常见问题 FAQ
+**Q：是不是早于 Priority Deadline 申请，我就可以保证被分配到第一志愿了？**  
+A：不是，但是 Priority Deadline 前的申请会得到更高的优先级，因此被分配到第一志愿的概率还是比较大的。
+具体分配结果取决于宿舍申请是如何填写的，请仔细阅读本文的 [宿舍申请](#宿舍申请) 章节。
+
+**Q：我申请宿舍晚于 Priority Deadline，我有可能被分配到我的第一志愿吗？**   
+A：有可能，具体取决于你的宿舍申请是如何填写的，但是也不要抱有太大希望。
+关于宿舍的分配逻辑请仔细阅读本文的 [宿舍申请](#宿舍申请) 章节。
 
 
 ## 版权与免责协议
