@@ -324,7 +324,7 @@ permalink: /non-hrl-apt/
 
 
 ## 常见问题 FAQ
-**Q: 有什么校外公寓推荐吗？**
+**Q: 有什么校外公寓推荐吗？**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
 * 学校官方做的关于校外公寓的 Survey:
 [Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)  
