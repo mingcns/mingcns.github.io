@@ -316,7 +316,7 @@ Centennial Hall:
 **[选课 HOLD](https://www.mingcns.org/myu-intro/#holds-anchor)**。  
 如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
 否则将无法正常进行对第二学期的选课。
-**具体情况请留意你的 [UMN邮箱](#UMN学生账号的激活与使用) 和 Application Tracker。**
+**具体情况请留意你的 [UMN邮箱](#umn学生账号的激活与使用) 和 Application Tracker。**
 
 UMN 官方对于国际生 成绩单/学位证明 的要求以及例子：
 [https://admissions.tc.umn.edu/international/docs.html](https://admissions.tc.umn.edu/international/docs.html)
