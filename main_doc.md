@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-01)
+(Version: 2020-05-03)
 </div><br>
 
 
@@ -316,8 +316,20 @@ Centennial Hall:
 **[选课 HOLD](https://www.mingcns.org/myu-intro/#holds-anchor)**。  
 如果无法在开始选课/第一学期开学前提交，需要找对应机构说明情况并申请缓交，然后在选第二学期课的选课时间前提交，
 否则将无法正常进行对第二学期的选课。
+**具体情况请留意你的 [UMN邮箱](#UMN学生账号的激活与使用) 和 Application Tracker。**
 
-* Admission Office 地址 (适用于本科生):  
+UMN 官方对于国际生 成绩单/学位证明 的要求以及例子：
+[https://admissions.tc.umn.edu/international/docs.html](https://admissions.tc.umn.edu/international/docs.html)
+* 不接受电子或扫描件。
+* 原件不是英文的须要附上【官方文件】和【认证过的英文翻译件】。
+    * 【官方文件】(Official Documents) 的定义：【文件原件】或【盖有学校公章的原件复印件】。  
+    我们不建议邮寄毕业证原件，因为 Admissions Office 并不会将其归还。
+    * 【认证的英文翻译件】：盖有学校公章的原件英文翻译件。
+* 所有文件须要装在密封好的、盖有骑缝章的学校信封中邮寄。
+* 对于本段解释有疑问的请详细阅读 [上述链接](https://admissions.tc.umn.edu/international/docs.html)。
+
+
+* Admissions Office 地址 (适用于本科生):  
 [240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
 Phone #: (612) 625-2008  
 E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
