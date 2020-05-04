@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-03)
+(Version: 2020-05-04)
 </div><br>
 
 
@@ -766,6 +766,27 @@ Kbop Korean Bistro | 韩餐 | [425 13th Ave SE, Minneapolis, MN 55414](https://g
 乐涮 Le Pot | 小火锅 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/R6SZUJ4LvFjFkjsM6)
 Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/7AfEBYgmCq662aCf9)
 
+
+
+### 学校周边奶茶、甜品店不完全清单
+
+以下所有排名不分先后：
+
+#### Stadium Village 地区
+店名 | 经营类别 | 地址
+ --- | --- | ---
+沐沐茶 Mu Mu Tea | 奶茶、甜品 | [313 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/3YRCdWi1KXFhwxT7A)
+功夫茶 Kung Fu Tea | 奶茶 | [923 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/2AFj3c9w5xUZ1uHH7)
+
+#### Dinkytown 地区
+店名 | 经营类别 | 地址
+ --- | --- | ---
+功夫茶 Kung Fu Tea | 奶茶 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/9GVmHJb6okNMCAgV7)
+Mango Mango Dessert | 甜品 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/H8ZqryzJ2ktjU7Wq7)
+奉茶 Feng Cha | 奶茶、甜品 | [1417 4th St SE, Minneapolis, MN 55414](https://g.page/fengchamn?share)
+Chatime | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vC1ZwxPJv1gyPRnU9)
+
+
 ### 亚洲超市不完全清单
 
 以下排名不分先后：
@@ -779,6 +800,7 @@ Shanghai Wholesale 上海批发 | [451 Industrial Blvd NE E, Minneapolis, MN 554
 Dragon Star 龙星 | [633 W Minnehaha Ave, St Paul, MN 55104](https://goo.gl/maps/d82jfe3gRzPQzXJv8)
 Shuang Hur 双和Mpls Uptown店 | [2712 Nicollet Ave, Minneapolis, MN 55408](https://goo.gl/maps/N7mgcuHBewznK5K17)
 Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/maps/K7VhHA7YmicXabUy7)
+
 
 ### 校内地面公共交通
 
@@ -1473,14 +1495,14 @@ UMN中国代表处微信公众号：UMNChina
 
 1. MinG/CNS 项目主页：[mingcns.org](https://www.mingcns.org/)
 
+1. 学校官方VPN:
+[Virtual Private Network (VPN) | IT@UMN](https://it.umn.edu/service-details/virtual-private-network-vpn)
+
 1. 如果对学校宿舍有兴趣的话: [housing.umn.edu](https://housing.umn.edu/)
 
 1. 校外公寓一览:
     * [listings.umn.edu](http://listings.umn.edu)
     * [www.mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)
-
-1. 学校官方VPN:
-[Virtual Private Network (VPN) | IT@UMN](https://it.umn.edu/service-details/virtual-private-network-vpn)
 
 1. 如果打算住在校外公寓，这里是一些可能用到的资源：[Off Campus Living](http://ocl.umn.edu/)  
 这个是学校官方的找室友网站: [Off Campus Living - Find A Roommate](http://ocl.umn.edu/renting-near-campus/find-a-roommate/)
