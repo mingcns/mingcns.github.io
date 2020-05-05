@@ -1314,11 +1314,13 @@ A: 每个人对公寓的价格、条件及地理位置的要求都不相同，�
 有条件访问Google服务的话，可以使用Google Maps来更直观的查询学校周围公寓的官网和评分。
 
 **Q: 在租校外公寓的时候，有必要找第三方中介机构吗？**  
-A: 通过在 [上一个问题](#live-off-campus-faq) 中介绍的方法和资源，可以很直观的找到学校附近每一个校外公寓的地址、
+A: **太长不看版本：直接找公寓，拒绝中介。**   
+通过在 [上一个问题](#live-off-campus-faq) 中介绍的方法和资源，可以很直观的找到学校附近每一个校外公寓的地址、
 官网、电话以及评价。  
 一般来说，学校附近的公寓都会在其官网上提供现在拥有的房型的价格跟户型，同时也支持网上直接申请。
 租房原本就是两方（房东、房客）的事情，明大周围的房源并没多到要靠中介才能理得清楚，在可以获得足够信息的前提下，
-并不建议引入第三方机构来增加自己的资金和合同风险。
+并不建议引入第三方机构来增加自己的资金和合同风险。  
+
 
 **Q: 在校外公寓租住过程中，与房东发生了合同上的矛盾怎么办？
 <a id="legal-service" href="https://www.mingcns.org/guidebook/#legal-service">#legal-service</a>**  
@@ -1339,7 +1341,7 @@ Student Legal Service 地址 (就在西岸天桥上):
 [Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍。
 
 **Q: 我住在校外还可以吃饭堂吗？**  
-A: 可以使用UCard中的Gopher Gold或者Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
+A: 可以使用 UCard 中的 Gopher Gold 或者 Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
 关于UCard账户的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。  
 另外也可以购买Meal Plan以进入饭堂：
 [Apartment/Commuter Meal Plans](http://www.dining.umn.edu/MealPlansFlexDine/CommuterMealPlans.html)
