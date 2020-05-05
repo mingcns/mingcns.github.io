@@ -56,12 +56,12 @@ permalink: /ext-catalog/
         ["[2020][UMNCSSA] CSSA新生手册 | 新生手册", "https://share.weiyun.com/5pVgcAL"],
         ["[2020-05-04][collegelife] 2020赴美必备第一弹 | 出入境体检？疫苗接种？看这一篇就够啦！", "https://mp.weixin.qq.com/s/BlMmzT9kMCCelPp3W3YFqg"],
         ["[2019-05-08][CUSAUMN] 新生指南 | Off-campus Housing", "https://mp.weixin.qq.com/s/_K-cgWjMPSH8_dD-KZyZHQ"],
+        ["[2020-04-30][明尼苏达大学驻华代表处UMN] 2020迎新 | 校园导览 - 明大双子城", "https://mp.weixin.qq.com/s/XuDafFhDTcOBGtg1Fz9w_A"],        
         ["[2019-08-01][UMNCSSA] CSSA新生大礼包 | 99%的新生点开都流泪了", "https://mp.weixin.qq.com/s/-HDsSr8rUTzIy2HEuZZ5wg"],
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 行前准备篇", "https://mp.weixin.qq.com/s/vuSXbp57tlhQL7O3udxgHA"],
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 入学指南篇", "https://mp.weixin.qq.com/s/aEsBME0jCzmGFe3-61sY1w"],
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 学术篇", "https://mp.weixin.qq.com/s/-sqeHMCQqd2XbfThFKvz8g"],
         ["[2019-08-01][UMNCSSA] CSSA新生手册 | 生活篇", "https://mp.weixin.qq.com/s/rvpDTiANDHR2ZN7iLkwRVQ"],
-
     ];
 
     renderList(generalList);
