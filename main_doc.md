@@ -413,7 +413,7 @@ Orientation只有一天，将在一天内完成Immigration Check-in以及面见A
 ### Global Gopher Event (GGE)
 
 <!-- TODO(tnz): check the time below later. -->
-时间：2019年8月19 - 27号 (2020年信息待定)
+时间：2020年8月27日 - 9月1日 
 
 GGE可以理解为是一个针对国际生的welcome week (WW)。WW里会很泛的介绍许多学校资源、逛校园。
 而GGE则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源 (比如Writing Center，ISSS的各类服务)。  
