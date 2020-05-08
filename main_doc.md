@@ -792,6 +792,7 @@ Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https
 沐沐茶 Mu Mu Tea | 奶茶、甜品 | [313 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/3YRCdWi1KXFhwxT7A)
 功夫茶 Kung Fu Tea | 奶茶 | [923 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/2AFj3c9w5xUZ1uHH7)
 
+
 #### Dinkytown 地区
 店名 | 经营类别 | 地址
  --- | --- | ---
