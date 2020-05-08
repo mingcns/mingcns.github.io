@@ -567,7 +567,7 @@ _注：如果参与1美元优惠活动，该号码需要在网3个月以上才�
 相比我国才开始实施携号转网技术，美国已经使用多年了。
 大家如果对目前使用的运营商服务不满意或有任意个人原因想要转网，仅需要拨通 **当前运营商** 的客服热线，
 向客服询问当前手机号的 **Account Number** 和 **PIN Code** 即可。
-在获取这两个号码后，你便可以凭Account Number 和 PIN Code 在 **新的运营商客服** 处办理携号转网业务。
+在获取这两个号码后，你便可以凭 Account Number 和 PIN Code 在 **新的运营商客服** 处办理携号转网业务。
 
 #### 关于停机保号
 当暑假回国，或者短期内离开美国的时候，可以向自己使用的运营商申请停机保号以节省一些费用。
@@ -781,21 +781,19 @@ Kbop Korean Bistro | 韩餐 | [425 13th Ave SE, Minneapolis, MN 55414](https://g
 Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/7AfEBYgmCq662aCf9)
 
 
-
 ### 学校周边奶茶、甜品店不完全清单
 
 以下所有排名不分先后：
 
 #### Stadium Village 地区
 店名 | 经营类别 | 地址
- --- | --- | ---
+ --- | --- | ---  
 沐沐茶 Mu Mu Tea | 奶茶、甜品 | [313 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/3YRCdWi1KXFhwxT7A)
 功夫茶 Kung Fu Tea | 奶茶 | [923 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/2AFj3c9w5xUZ1uHH7)
 
-
 #### Dinkytown 地区
 店名 | 经营类别 | 地址
- --- | --- | ---
+ --- | --- | ---  
 功夫茶 Kung Fu Tea | 奶茶 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/9GVmHJb6okNMCAgV7)
 Mango Mango Dessert | 甜品 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/H8ZqryzJ2ktjU7Wq7)
 奉茶 Feng Cha | 奶茶、甜品 | [1417 4th St SE, Minneapolis, MN 55414](https://g.page/fengchamn?share)
