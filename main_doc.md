@@ -83,7 +83,7 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
 
 ### Checklist
 
-_(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.checklist.umn.edu)，请按步骤依次完成这个 Checklist，
+_(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.checklist.umn.edu)，请按步骤依次完成这个 Checklist。
 完成第一步的 Survey 后，可以在第二或第三步选取 Orientation 日期。
 
 * 如果国际生新生 Orientation 只显示5到7月的日期，请发邮件联系对应学院的新生联络邮箱来选择8月的 Orientation 日期。
@@ -95,9 +95,9 @@ _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.chec
     右侧对应学院的链接里自己专业的 Placement test 要求。  
     【太长不看版本（请以上述链接为准）：如果你将来的专业要求里没有化学，
     你可以选择不考化学。】  
-        * 化学 Placement test 如果第一次考到80分以上，直接分配到 CHEM1061，为该测试的最高水平。
-    如果第一次没有考到80分，会被分配到 CHEM1015，为高中水平的化学课；
-    如果第一次没有考到80分也无需气馁，可以通过刷分至100分来获取上 CHEM1065 的资格。
+        * 化学 Placement test 如果第一次考到80分以上，直接分配到 CHEM1061 ，为该测试的最高水平。
+        如果第一次没有考到80分，会被分配到 CHEM1015，为高中水平的化学课；
+        如果第一次没有考到80分也无需气馁，可以通过刷分至100分来获取上 CHEM1061 的资格。
     * Placement test 中 Language 部分，有能力阅读此文档的（中文使用者）皆<font color="red">不需要</font>考。
 
 _(研究生/博士生)_ 没有统一的 Checklist，请联系自己的院系获取相关事宜。
