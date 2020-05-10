@@ -13,7 +13,7 @@ permalink: /faq-fall2020/
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-30)
+(Version: 2020-05-09)
 </div><br>
 
 ## 目录
@@ -32,8 +32,8 @@ permalink: /faq-fall2020/
 A：学校将于2020年6月做出决定，请耐心等待学校通知。
 
 **Q：如果新冠疫情持续，我能否选择延迟入学？**  
-A：学校正在研究相关选择，但是据目前了解，大部分院系均已给出 推迟入学 (Defer Enrollment)
-至 Spring 2021 或 Fall 2021 的选项。
+A：可以延期入学 (Defer Enrollment)。
+大一新生可以延期至 Fall 2021，本科转学生和研究生可以延期至 Spring 2021。
 
 **Q：如果我在8月都申请不到签证怎么办？**  
 A：学校国际生办公室 (ISSS) 正在讨论，在他们得出结果后，我们会第一时间告知大家。
@@ -68,6 +68,10 @@ A：请联系您中意的公寓。今年由于新冠疫情，不确定因素过�
 
 
 ## 其他相关介绍
+学校 **本科** 招生办关于 COVID-19 的公告与 FAQ：[https://admissions.tc.umn.edu/events/alert.html](https://admissions.tc.umn.edu/events/alert.html)  
+
+学校 **研究生** 招生办关于 COVID-19 的公告与 FAQ：[https://grad.umn.edu/covid19](https://grad.umn.edu/covid19)
+
 学校国际生办公室 (ISSS) 关于 COVID-19 的公告：[https://isss.umn.edu/office/announcements/covid19.html](https://isss.umn.edu/office/announcements/covid19.html)  
 ISSS COVID-19 FAQ (Google Docs): [http://z.umn.edu/issscovidfaq](http://z.umn.edu/issscovidfaq)  
 强烈建议所有人订阅 ISSS Weekly Update: [https://isss.umn.edu/weeklyupdate/default.html](https://isss.umn.edu/weeklyupdate/default.html)
