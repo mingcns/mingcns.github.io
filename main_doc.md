@@ -218,6 +218,7 @@ _（全部研究生）_ 强烈建议在院系安排的 Orientation 以及 Events
 _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保至少在既定的 work start date 前10天以前入境，
 原则上首次入境十天后方可按流程从院系到 ISSS 到 Social Security Administration (SSA) 去申请 SSN (Social Security Number)。  
 在申请 SSN 并且拿到 SSN Receipt 之后，方可去 Payroll 处填写 I-9 表格入职开始工作。
+详见：[https://isss.umn.edu/INSGen/ssn.html](https://isss.umn.edu/INSGen/ssn.html)
 
 #### 航班入境美国须知
 
@@ -305,6 +306,7 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 地点在 Terminal 1 的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
+1. 其他交通方式：[https://isss.umn.edu/new/transportation.html](https://isss.umn.edu/new/transportation.html)
 
 ### 临时宿舍
 
@@ -1026,7 +1028,7 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
     * F-1 身份的 **本科生** 每学期至多可以选择3分的网课用来满足12分的最低学分注册要求。
     如果in-person课程的学分已注册了9分或以上，那么可以注册的网课学分数量不受限制。
     * F-1 身份的 **研究生** 每学期至多可以选择3分的网课用来满足6分的最低学分注册要求。
-    如果in-person课程的学分已注册了6分或以上，那么可以注册的网课学分数量不受限制。
+    如果in-person课程的学分已注册了3分或以上，那么可以注册的网课学分数量不受限制。
 
 ### APAS
 
@@ -1493,7 +1495,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
     网站提取到最近一次入境的I-94打印。
     2. 入境章和I-94上的停留时间许可写的“D/S”是指Duration of Status，只要I-20有效，即可合法停留在美国
 
-5.  在入境后，请尽快在[myu.umn.edu](https://myu.umn.edu) 的 **MY INFO** 页面里更新实时的地址信息，联系方式等。
+5. 在入境后，请尽快在[myu.umn.edu](https://myu.umn.edu) 的 **MY INFO** 页面里更新实时的地址信息，联系方式等。
 
 6. 学生身份
     1. 除非特殊情况，否则联邦政府要求每学期至少enroll 12个学分来维持全日制full-time学生身份（研究生为6学分每学期）。
