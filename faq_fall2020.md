@@ -67,8 +67,11 @@ A：学校将于6月做出关于 Fall 2020 学期的具体计划，请耐心等�
 A：请联系您中意的公寓。今年由于新冠疫情，不确定因素过多，我们也无法给出更优的回答。
 
 
-
 ## 其他相关介绍
+学校国际生办公室 (ISSS) 关于 COVID-19 的公告：[https://isss.umn.edu/office/announcements/covid19.html](https://isss.umn.edu/office/announcements/covid19.html)  
+ISSS COVID-19 FAQ (Google Docs): [http://z.umn.edu/issscovidfaq](http://z.umn.edu/issscovidfaq)  
+强烈建议所有人订阅 ISSS Weekly Update: [https://isss.umn.edu/weeklyupdate/default.html](https://isss.umn.edu/weeklyupdate/default.html)
+
 如果您还有上述 FAQ 未提及的疑问，请参考我们的 [新生指南主文档](https://www.mingcns.org/guidebook/)，
 特别是其 [FAQ 章节](https://www.mingcns.org/guidebook/#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98faq)。
 
