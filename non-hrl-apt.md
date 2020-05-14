@@ -13,7 +13,7 @@ permalink: /non-hrl-apt/
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-01)
+(Version: 2020-05-14)
 </div><br>
 
 ## 目录
@@ -32,6 +32,8 @@ permalink: /non-hrl-apt/
 * 价格记号：$1000+ 代表每人每月 1000 美元起；$1000± 代表每人每月 1000 美元左右。(特别标明的除外)
 * 房租价格不含电费，至于是否包含水费等其他费用，请自行联系公寓。
 * **没有房型和价格的表示我们目前没有收集到相关信息，请自行联系公寓。**
+* **没有公寓介绍的表示我们目前没有收集到相关信息，
+请于我们的[新生群](https://www.mingcns.org/guidebook/#%E6%98%8E%E5%A4%A7%E6%96%B0%E7%94%9F%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A9%E7%BE%A4-mingcns)内提问。**
 
 
 ## 西岸
@@ -47,6 +49,22 @@ permalink: /non-hrl-apt/
 * 全部可以 Share Room
 * 以上价格为整个 Unit 的价格
 
+交通：
+* 校车121步行约8分钟，122步行约3分钟，123步行约8分钟
+* 轻轨绿线 West Bank Station 步行约6分钟
+
+周边：
+* Chipotle 快餐
+* 7 Corner Coffee
+* Republic 酒吧
+
+优势：
+* 性价比高
+
+劣势：
+* 房间较小且比较老旧
+* 附近没有中餐厅和超市
+
 ### 7 West Apartment Homes
 [Google Maps](https://goo.gl/maps/vauY1U4eRvFm6G4u7)  
 [官网](https://minnesota.weidner.com/apartments/mn/minneapolis/7west/)
@@ -58,6 +76,25 @@ permalink: /non-hrl-apt/
 * Studio $1350+
 * 全部可以 Share Room
 * 以上价格为整个 Unit 的价格
+
+交通：
+* 校车121步行约7分钟，122步行约2分钟，123步行约7分钟
+* 轻轨绿线 West Bank Station 步行约5分钟
+
+周边：
+* 楼对面有 Chipotle 快餐
+* 楼对面有 7 Corner Coffee
+* 楼对面有 Republic 酒吧
+
+优势：
+* 公寓管理优秀
+* 快递送到家门口
+* 有快递柜
+* 设施很新
+
+劣势：
+* 房间较小
+* 附近没有中餐厅和超市
 
 ### GrandMarc Seven Corners
 [Google Maps](https://g.page/GrandMarcSeven?share)  
@@ -72,6 +109,29 @@ permalink: /non-hrl-apt/
 * 2B2B Shared $499+
 * 2B2B Shared with Study Room $579+
 * Parking $100
+
+交通：
+* 校车121步行约6分钟，122步行约2分钟，123步行约6分钟
+* 轻轨绿线 West Bank Station 步行约3分钟
+
+设施：
+* 健身房
+* 游戏室：内有PS4、台球桌、电视、桌面足球等
+* Computer Lab：内设Mac电脑和黑白打印机
+* Private Study Room
+
+周边：
+* 楼下有 Chipotle 快餐
+* 楼下有 7 Corner Coffee
+* 楼下有 Republic 酒吧
+
+优势：
+* 性价比高
+* 房间在同价位里比较大
+
+劣势：
+* 设施偏旧
+* 附近没有中餐厅和超市
 
 ## Dinkytown
 ### The Bridges Apartments
@@ -141,6 +201,31 @@ permalink: /non-hrl-apt/
 * 2B2B Shared $785+
 * 3B2B Penthouse Shared $1075+
 
+交通：
+* 轻轨绿线 East Bank Station 就在楼下
+* 校车121、122、123步行约7分钟；工作日18:30后和周末122会在HUB楼下停靠
+
+设施：
+* 游泳池
+* 健身房
+* Lounge
+* 游戏室
+* 桑拿房
+
+周边：
+* 楼下就是 Chase Bank
+* 楼下就有 Caribou 咖啡，对面有星巴克
+* 隔壁楼下有 Corner by Walgreens 便利店
+* 学校健身房在步行5分钟的地方
+* Bio-Medical Library 在步行5分钟的地方
+
+优势：
+* 于18年建成，整体很新
+* 就在学校内，地理位置优越
+
+劣势：
+* 房间在同价位较小
+
 ### The Station on Washington Apartments
 [Google Maps](https://goo.gl/maps/7F4sEkHizCLkqikZ7)  
 [官网](https://liveatthestation.com/)
@@ -151,6 +236,16 @@ permalink: /non-hrl-apt/
 * Studio
 * 2B2B Shared $650±
 
+交通：位于 Hub 隔壁，与 Hub 相同 ↑  
+
+周边：位于 Hub 隔壁，与 Hub 相同 ↑  
+
+优势：
+* 房间比 Hub 大且便宜
+* 就在学校内，地理位置优越
+
+劣势：
+* 西面的阳光被 Hub 挡住了
 
 ### 700 Washington Apartments
 [Google Maps](https://goo.gl/maps/Z7VN2iHTNWgW94CGA)  
@@ -161,7 +256,6 @@ permalink: /non-hrl-apt/
 * 2B2B $990±
 * Studio $1299+
 * 2B2B Shared $650±
-
 
 ### The Edge on Oak
 [Google Maps](https://goo.gl/maps/TKSAmWnkM652qeCX6)  
@@ -322,6 +416,24 @@ permalink: /non-hrl-apt/
 * 4B4B $730±
 * 4B2B $679+
 
+
+## Saint Paul Campus 附近
+### Commonwealth Terrace Cooperative (CTC)
+[官网](https://www.umnctc.org/live-at-ctc.html)
+
+Eligibility:
+* 仅接受 UMN 在读 Graduate Students (Master 和 Ph.D.)
+* 家庭申请有优先权（情侣也算）
+* 申请需要排队
+* 详见：[https://www.umnctc.org/live-at-ctc/eligibility.html](https://www.umnctc.org/live-at-ctc/eligibility.html)
+
+房型：
+* 1B1B $798±
+* 2B1B $1046±
+* 3B1B $1280±
+* Parking Free
+* 全部可以 Share Room
+* 以上价格为整个 Unit 的价格
 
 ## 常见问题 FAQ
 **Q: 有什么校外公寓推荐吗？**  
