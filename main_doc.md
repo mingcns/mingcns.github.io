@@ -1171,7 +1171,7 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
     （如果学生同时enroll春季秋季学期，费用将会以每学期$163的形式出现在账单上）
     1. 详见：[https://shb.umn.edu/students-and-scholars/shbp-dates-cost](https://shb.umn.edu/students-and-scholars/shbp-dates-cost)  <br><br>
 _2020-2021学年的保险覆盖日期与价格信息将于晚些时候发布。_
-<br><br>
+
 1. **附加内容**  
 紧急旅行协助服务由 Redpoint 提供，[详细内容在此](https://shb.umn.edu/sites/shb.umn.edu/files/redpoint_benefits_chart.pdf)。
 
