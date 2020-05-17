@@ -92,7 +92,7 @@ _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.chec
 * 如果国际生新生 Orientation 只显示5到7月的日期，请发邮件联系对应学院的新生联络邮箱来选择8月的 Orientation 日期。
 
 * Placement Test
-    * Placement test 中<font color="red">数学必考</font>，分配结果 MATH1271/1371 为该测试的最高水平。
+    * Placement test 中<font color="red">数学必考</font>，分配结果 MATH1241/1271/1371 为该测试的最高水平。
     * 关于是否需要考化学请参照
     [Chemistry and Math Placement](http://placement.umn.edu/)
     右侧对应学院的链接里自己专业的 Placement test 要求。  
