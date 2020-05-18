@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-08)
+(Version: 2020-05-18)
 </div><br>
 
 
@@ -89,7 +89,7 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
 _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.checklist.umn.edu)，请按步骤依次完成这个 Checklist。
 完成第一步的 Survey 后，可以在第二或第三步选取 Orientation 日期。
 
-* 如果国际生新生 Orientation 只显示5到7月的日期，请发邮件联系对应学院的新生联络邮箱来选择8月的 Orientation 日期。
+* 如果国际生新生 Orientation 只显示5到7月的日期，请发邮件联系对应学院的新生联络邮箱来选择8月的 Orientation 日期。在第一次做出选择后，Orientation 的日期后续 **可以** 在 Checklist 里更改。
 
 * Placement Test
     * Placement test 中<font color="red">数学必考</font>，分配结果 MATH1241/1271/1371 为该测试的最高水平。
