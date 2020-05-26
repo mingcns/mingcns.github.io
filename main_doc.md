@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-18)
+(Version: 2020-05-26)
 </div><br>
 
 
@@ -181,7 +181,8 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 学校医保一般在8月25左右生效（具体时间每年不一样，请参照本文 [医保](#医疗保险) 章节以及
 [Office of Student Health Benefits](https://shb.umn.edu/)，
 届时就可以预约 Boynton Health 的疫苗服务了。  
-打疫苗的时间很随意，只要在春季选课前打完并填好疫苗表给学校即可，表格不需要医生签名。  
+打疫苗的 **时间** 很随意，只要在 **春季选课前 (11月前)** 打完并填好疫苗表给学校即可，表格不需要医生签名。
+（春季入学的需要在4月选取秋季课程前提交疫苗表）  
 疫苗表可以通过 Google Form 网上电子填写：
 [Online Immunization Form](https://docs.google.com/forms/d/e/1FAIpQLSepNBnCb-weLc5smkNpsIOb_P_b3daUR7M3zQv0fzF2yGqMFw/viewform),
 也可以打印
