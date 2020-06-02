@@ -111,7 +111,7 @@ PRC驾照持有人可以在自抵达明尼苏达州起60天内合法上路，但
 
 ## 驾照分类
 
-详见：[MnDVS|License Options](https://dps.mn.gov/divisions/dvs/real-id/Pages/license-id-options.aspx)
+详见：[License Options](https://dps.mn.gov/divisions/dvs/real-id/Pages/license-id-options.aspx)
 
 1. Standard Driver's License (SDL)
     * 普通驾照，将于2021年10月1日起不做联邦证件使用，届时持有人将不能使用SDL登机美国国内航班。
@@ -127,7 +127,7 @@ PRC驾照持有人可以在自抵达明尼苏达州起60天内合法上路，但
         * 加勒比
     * EDL 为 Real ID Compliant
     * 需要在 (2) 所需的证件外额外提交美国公民身份证明文件。
-    * 详见：[MnDPS|EDL](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=683&pageTitle=Driver%E2%80%99s%20License%20%E2%80%93%20Enhanced%20Driver%E2%80%99s%20License%20(EDL))
+    * 详见：[EDL](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=683&pageTitle=Driver%E2%80%99s%20License%20%E2%80%93%20Enhanced%20Driver%E2%80%99s%20License%20(EDL))
 
 ## 相关信息
 [ISSS | Driver's License](https://isss.umn.edu/resources/Dlicense.html)
