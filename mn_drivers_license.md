@@ -66,7 +66,8 @@ permalink: /mn-drivers-license/
         * I-94 入境记录
         * UMN **官方** 成绩单 (Official Transcript)
         * UMN 在读证明 (Verification of Enrollment)
-    1. 关于其他证件选项请直接咨询 [MnDVS](https://dps.mn.gov/divisions/dvs/contact/Pages/default.aspx)
+    1. 关于其他证件选项请直接咨询 [MnDVS](https://dps.mn.gov/divisions/dvs/contact/Pages/default.aspx)   
+    或参考：[ID Requirements](https://dps.mn.gov/divisions/dvs/forms-documents/Documents/IdentificationRequirements_English.pdf)
 * Permit 卡片需要邮寄，所以在收到实体卡片前 DVS 会签发一张临时 Permit。
 * 在获取 Permit 后就可以在副驾驶有一位持有明州驾照并且年龄大于21岁的大人陪同的情况下合法上路练车了。
 
