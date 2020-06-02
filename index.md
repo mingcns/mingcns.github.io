@@ -40,6 +40,10 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 - **Metro Transit 轻轨简介: [mingcns.org/light-rail](https://www.mingcns.org/light-rail/)**
 
+- **如何获取明州驾照：[mingcns.org/mn-drivers-license](https://www.mingcns.org/mn-drivers-license/)**
+
+- **Social Security Number (SSN): [mingcns.org/ssn](https://www.mingcns.org/ssn/)**
+
 - **在美实用网站/软件不完全清单: [mingcns.org/usefull-sites](https://www.mingcns.org/usefull-sites/)**
 
 - **校外公寓居住体验投稿文档: [Google Docs - 校外公寓住宿体验收集文档](https://docs.google.com/document/d/1ngJgvJHpXnkCUGh_BuKL2OhEj4we9tY6eKFgxbkGQ-0/edit?usp=sharing)**  
