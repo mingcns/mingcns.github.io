@@ -57,8 +57,8 @@ SSN 的用途如下：
 
 申请完 SSN 以后会收到一份回执，证明你已经申请了 SSN，此时需要联系雇主部门办理入职手续。
 
-<font color="red">_再次声明，本文仅为一份概况介绍文档，不构成任何法律上的意见建议，如果您有任何的疑问，
-请联系 [UMN ISSS](https://isss.umn.edu/office/hours.html) 官方。_</font>
+_<font color="red">再次声明，本文仅为一份概况介绍文档，不构成任何法律上的意见建议，如果您有任何的疑问，
+请联系 [UMN ISSS](https://isss.umn.edu/office/hours.html) 官方。</font>_
 
 
 ## 版权与免责协议
