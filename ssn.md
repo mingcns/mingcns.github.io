@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SSN"
+title: "SSN 介绍"
 permalink: /ssn/
 ---
 
