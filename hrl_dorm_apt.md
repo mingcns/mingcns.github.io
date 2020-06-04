@@ -298,7 +298,7 @@ LLC推荐global gopher，定期会组织一些活动比如吃吃东西聊聊天�
 （个人认为与17街的饭堂并列全校最好吃）  
 Dining 网页：[http://dining.umn.edu/CampusRestaurants/ResidentialRestaurants/pioneer-eb.html](http://dining.umn.edu/CampusRestaurants/ResidentialRestaurants/pioneer-eb.html)
 
-(感谢Yi, Elaine贡献本段内容)
+(感谢Peng, Elaine贡献本段内容)
 
 
 ### 圣保罗校区
@@ -477,8 +477,9 @@ Authors, co-editors, and contributors of this documentation:
 * Hu, Xinyi
 * Liu, Jingyan
 * Lu, Han
+* Peng, Elaine
 * Sun, Haoyue
-* Yi, Elaine
+
 
 ---
 _<font color="grey">Locations of Visitors: </font>_

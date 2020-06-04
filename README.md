@@ -31,13 +31,13 @@ Authors, co-editors, and contributors participating in this project:
 * Law, Chingyau
 * Liu, Jingyan
 * Lu, Han
+* Peng, Elaine
 * Shen, Thomas
 * Su, Yuhao
 * [Sun, Haoyue](https://github.com/H-Yue-Sun)
 * Tao, Leonard
 * Wang, Yushuang
 * Yang, Benyuan
-* Yi, Elaine
 * Yin, Ziniu
 * [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * Zheng, Yue

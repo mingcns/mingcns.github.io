@@ -92,13 +92,13 @@ _<font color="grey">Authors, co-editors, and contributors participating/particip
 * <font color="grey">Law, Chingyau</font>
 * <font color="grey">Liu, Jingyan</font>
 * <font color="grey">Lu, Han</font>
+* <font color="grey">Peng, Elaine</font>
 * <font color="grey">Shen, Thomas</font>
 * <font color="grey">Su, Yuhao</font>
 * [Sun, Haoyue](https://github.com/H-Yue-Sun)
 * <font color="grey">Tao, Leonard</font>
 * <font color="grey">Wang, Yushuang</font>
 * <font color="grey">Yang, Benyuan</font>
-* <font color="grey">Yi, Elaine</font>
 * <font color="grey">Yin, Ziniu</font>
 * [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * <font color="grey">Zheng, Yue</font>
