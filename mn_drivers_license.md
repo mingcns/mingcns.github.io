@@ -13,7 +13,7 @@ permalink: /mn-drivers-license/
 
 <div align="right">
 本文档仅供参考，不构成任何法律上的意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-06-02)
+(Version: 2020-06-05)
 </div><br>
 
 ## 目录
@@ -113,6 +113,8 @@ PRC驾照持有人可以在自抵达明尼苏达州起60天内合法上路，但
 ## 驾照分类
 
 详见：[License Options](https://dps.mn.gov/divisions/dvs/real-id/Pages/license-id-options.aspx)
+
+所有种类的驾照都需要工本费，请携带支票或至少50刀的现金前往 DVS。
 
 1. Standard Driver's License (SDL)
     * 普通驾照，将于2021年10月1日起不做联邦证件使用，届时持有人将不能使用SDL登机美国国内航班。
