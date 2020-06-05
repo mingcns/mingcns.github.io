@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-26)
+(Version: 2020-06-05)
 </div><br>
 
 
@@ -47,7 +47,7 @@ permalink: /guidebook/
 
 1. 在 Confirm Enrollment 后就可以凭录取通知书上**7位数**的 Student ID 去
 [https://my-account.umn.edu/claim-acct](https://my-account.umn.edu/claim-acct)
-(Social Security Number一项留空就好) 激活你的Internet ID (X.500)。  
+([Social Security Number](https://www.mingcns.org/ssn/) 一项留空就好) 激活你的 Internet ID (X.500)。  
 Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另一个身份识别号，可以用于登陆 MyU 以及各类学校网站。
     - Student ID 与 Internet ID (X.500) 区别辨析：
         * Student ID 为一串长度为7位数的号码。这个号码会出现在你的成绩单等官方文件中，日常很少使用。
@@ -924,6 +924,7 @@ _（新版带英文翻译的中国驾照格式，图片来自网络）_
 整理的[《中国驾照在美国各州开车的规定》](https://gonglue.us/16355)中的表格。   
 _请注意：是否能持中国驾照在当地开车是以当地DMV规定与执法部门实际执行为准，该文章来源于网络，仅供参考。_
 
+关于考取明州驾照的流程请参阅我们的[《如何获取明州驾照》](https://www.mingcns.org/mn-drivers-license/)文档。
 
 ## 明大学术要求与专业项目
 
