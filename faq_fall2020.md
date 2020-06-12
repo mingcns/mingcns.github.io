@@ -13,7 +13,7 @@ permalink: /faq-fall2020/
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-09)
+(Version: 2020-06-12)
 </div><br>
 
 ## 目录
@@ -29,7 +29,8 @@ permalink: /faq-fall2020/
 ### 对新生
 
 **Q：Fall 2020 学期是网课还是实体课？**  
-A：学校将于2020年6月做出决定，请耐心等待学校通知。
+A：网课、实体课、混合课程都有，详见：
+[6月12日校长办公室发出的邮件](http://view.ecommunications2.umn.edu/?qs=ac43d5a60f5442d6164b30ed2aa717776d93846f657c26c3c1c117d997f640198a4417e1b48cea160db386d0f00168cdb2f2d248d5db7814c4f6ad8b02643079f8e0d693a58812ed8aa388c3ebae95aa)
 
 **Q：如果新冠疫情持续，我能否选择延迟入学？**  
 A：可以延期入学 (Defer Enrollment)。
@@ -48,7 +49,7 @@ A：首先上 [文档原文](https://www.mingcns.org/guidebook/#checklist)。 �
 Immigration Check-in 和 Orientation 在同一天进行，但是由于今年的情况特殊，Orientation 改为线上，
 时间缩短至一天，选课时间自然也变为与 Orientation 同一天。
 我们正在和 ISSS 核实国际生新生是否可以在没有进行 Immigration Check-in 的情况下进行 Online Orientation。
-我们的猜测是可以的，所以在我们得到确切回复前，请各位按自己的时间便利情况随意选取一个日期，我们会在 ISSS
+我们的猜测是 **可以** 的，所以在我们得到确切回复前，请各位按自己的时间便利情况随意选取一个日期，我们会在 ISSS
 做出回复后告知大家。当然，我们更 **建议您与 ISSS 直接联系** 。
 
 ### 对在读生
