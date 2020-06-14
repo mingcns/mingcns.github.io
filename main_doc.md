@@ -1562,6 +1562,8 @@ ISSS对其介绍如下：[ISSS - International Buddy Program](https://isss.umn.e
 
 1. 校内工作一览：[Find a Student Job](https://humanresources.umn.edu/student-jobs/find-student-job)
 
+1. 校内活动、学生组织查询：[The GopherLink](https://gopherlink.umn.edu/)
+
 
 ### “Project MinG/CNS” 项目简介
 
