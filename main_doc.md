@@ -1444,6 +1444,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### 微信群二维码
 
+**已满200人，加群请添加群管微信**  （见下一个Tab）
 <img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.png" style="max-width: 75%">
 
 #### 联系人微信
