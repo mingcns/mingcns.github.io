@@ -15,7 +15,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-06-05)
+(Version: 2020-06-15)
 </div><br>
 
 
@@ -45,12 +45,13 @@ permalink: /guidebook/
 
 ### UMN学生账号的激活与使用
 
-1. 在 Confirm Enrollment 后就可以凭录取通知书上**7位数**的 Student ID 去
+1. 在 Confirm Enrollment 后就可以凭录取通知书上 **7位阿拉伯数字** 的 Student ID 去
 [https://my-account.umn.edu/claim-acct](https://my-account.umn.edu/claim-acct)
 ([Social Security Number](https://www.mingcns.org/ssn/) 一项留空就好) 激活你的 Internet ID (X.500)。  
 Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另一个身份识别号，可以用于登陆 MyU 以及各类学校网站。
     - Student ID 与 Internet ID (X.500) 区别辨析：
-        * Student ID 为一串长度为7位数的号码。这个号码会出现在你的成绩单等官方文件中，日常很少使用。
+        * Student ID 是一串长度为7的、由阿拉伯数字组成的号码。这个号码会出现在你的成绩单等官方文件中，日常很少使用。
+        例子：1234567
         * Internet ID (X.500) 在一般情况下头四位由四个英文字母组成，后四位则为数字。字母部分一般为你的姓氏的
         前四个字母，如果姓氏不足四个字母，那么将会用字母x或数字0补全。例子：lixx1001、li001001、zhan1001。
     - 关于MyU的介绍请参考我们的 [《学校MyU系统简介》](https://www.mingcns.org/myu-intro/)。
