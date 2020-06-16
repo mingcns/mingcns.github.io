@@ -13,7 +13,7 @@ permalink: /faq-fall2020/
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-06-12)
+(Version: 2020-06-16)
 </div><br>
 
 ## 目录
@@ -34,10 +34,13 @@ A：网课、实体课、混合课程都有，详见：
 
 **Q：如果新冠疫情持续，我能否选择延迟入学？**  
 A：可以延期入学 (Defer Enrollment)。
-大一新生可以延期至 Fall 2021，本科转学生和研究生可以延期至 Spring 2021。
+大一新生可以延期至 Fall 2021，本科转学生和研究生可以延期至 Spring 2021。  
+具体请询问 Academic Advisor 和 ISSS。
+Admission Office 的说明：[Gap Year Request](https://admissions.tc.umn.edu/apply/gap_year.html)
 
 **Q：如果我在8月都申请不到签证怎么办？**  
 A：学校国际生办公室 (ISSS) 正在讨论，在他们得出结果后，我们会第一时间告知大家。
+基于目前的情况，留在国内上网课或者申请推迟一年入学是比较靠谱的选择。
 
 **Q：如果我现在申请了签证，后面又决定推迟入学了，到时候需要重新签证吗？**  
 A：根据目前我们在新生群中收集到的信息，如果学生使用手上现有的 I-20 表格申请了签证，
