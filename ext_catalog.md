@@ -70,6 +70,7 @@ permalink: /ext-catalog/
 ## 学术相关
 <script type="text/javascript">
     const academyList = [
+        ["[2020-06-15][ABESAUMN] 新生大礼包 | 下一个GPA上分小天才就是你","https://mp.weixin.qq.com/s/-7YuZnutHk0D-__VLa8GRA"],
         ["[2019-04-18][UMNCSSA] CSSA干货 | LE课程都选啥？拯救你的GPA就看这一篇", "https://mp.weixin.qq.com/s/ME9Kggxbc8rsI8qybp9_-g"],
         ["[2019-04-25][UMNCSSA] CSSA干货 | 选课指南第二弹！承包你的LE～", "https://mp.weixin.qq.com/s/7gdKZqSKAvDn4MhmMVEUdg"],
         ["[2019-05-01][UMNCSSA] CSSA干货 | 选课指南第三弹来袭！", "https://mp.weixin.qq.com/s/N0wyTHZfxY_gD7gyz13MPw"],
