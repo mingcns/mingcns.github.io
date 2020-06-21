@@ -1094,8 +1094,9 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 1. **Program Requirements**  
 在全部满足一个学位项目的 Program Requirements 之后，即便视作满足了这个学位项目的要求。可以以这个学位毕业。
 
-可以于 [University Catalogs: Search for Programs](https://onestop2.umn.edu/pcas/viewCatalogSearchForm.do)
+**可以于 [University Catalogs: Search for Programs](https://onestop2.umn.edu/pcas/viewCatalogSearchForm.do)
 搜索到所有学位级别所有专业的学位项目要求。
+也可以参考[Twin Cities Programs](https://catalogs.umn.edu/twin-cities-programs)**
 
 ### 多学位(专业)毕业
 
