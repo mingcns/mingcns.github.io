@@ -28,7 +28,7 @@ permalink: /faq-fall2020/
 
 国际生办公室 (ISSS) 的回应: [7月8日邮件](http://view.ecommunications2.umn.edu/?qs=ad62cf92e2fd8753d787b102385b7cbb17f137bf76efc7bb520898500643fa778b75e53a7aee34f646b484cf2f53e43ca3486973235286c56e940a2f9a7f615dcaa5ba186e1aa7a1354e14b102e8c280)
 
-7月20日更新：ICE新政策已于7月14日在全美范围内撤销：[ISSS | Government Action](https://isss.umn.edu/office/announcements/government-action.html)
+7月20日更新：ICE新政策已于7月14日在全美范围内撤销：[ISSS: Government Action](https://isss.umn.edu/office/announcements/government-action.html)
 
 ## 学术相关
 
