@@ -13,7 +13,7 @@ permalink: /faq-fall2020/
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-07-13)
+(Version: 2020-07-20)
 </div><br>
 
 ## 目录
@@ -28,6 +28,7 @@ permalink: /faq-fall2020/
 
 国际生办公室 (ISSS) 的回应: [7月8日邮件](http://view.ecommunications2.umn.edu/?qs=ad62cf92e2fd8753d787b102385b7cbb17f137bf76efc7bb520898500643fa778b75e53a7aee34f646b484cf2f53e43ca3486973235286c56e940a2f9a7f615dcaa5ba186e1aa7a1354e14b102e8c280)
 
+7月20日更新：ICE新政策已于7月14日在全美范围内撤销：[ISSS | Government Action](https://isss.umn.edu/office/announcements/government-action.html)
 
 ## 学术相关
 
@@ -51,8 +52,9 @@ A：学校国际生办公室 (ISSS) 正在讨论，在他们得出结果后，�
 **Q：如果我现在申请了签证，后面又决定推迟入学了，到时候需要重新签证吗？**  
 A：~~根据目前我们在新生群中收集到的信息，如果学生使用手上现有的 I-20 表格申请了签证，
 但是最终决定推迟入学至2021年。这种情况下，现有签证仍然有效，不过在入境的时候需要申请一张新的 I-20，
-在入境时使用【旧 I-20 申请的签证】+【新 I-20】入境美国。详细情况请咨询 ISSS。~~  
-受 ICE 新政策影响，此答案失效，新政策的情况 ISSS 正在讨论。
+在入境时使用【旧 I-20 申请的签证】+【新 I-20】入境美国。详细情况请咨询 ISSS。  
+受 ICE 新政策影响，此答案失效，新政策的情况 ISSS 正在讨论。~~   
+【7月20日更新】ICE新政策取消，未来签证的具体情况未知。
 
 **Q：文档中说 Orientation 时间需要选择8月份的，但是今年改网上 Orientation 了，会有不同吗？**  
 A：首先上 [文档原文](https://www.mingcns.org/guidebook/#checklist)。 在往年正常情况下，
