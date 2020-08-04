@@ -64,6 +64,10 @@ Immigration Check-in 和 Orientation 在同一天进行，但是由于今年的�
 我们的猜测是 **可以** 的，所以在我们得到确切回复前，请各位按自己的时间便利情况随意选取一个日期，我们会在 ISSS
 做出回复后告知大家。当然，我们更 **建议您与 ISSS 直接联系** 。
 
+**Q：如何查看我的课是网课还是线下？**  
+A：可以于 [schedulebuilder.umn.edu](schedulebuilder.umn.edu) 或者 [Myu.umn.edu](myu.umn.edu) 内的 Academic 部分查看。  
+关于网课是直播课还是不定时课程的定义请查阅学校官方说明: [z.umn.edu/classformatguide](z.umn.edu/classformatguide)。(Remote: 直播课；Online: 不定时网课；In-person: 线下课)
+
 ### 对在读生
 
 **Q：如果疫情持续，学校决定网课了，我能不能申请 Gap 一年？**  
