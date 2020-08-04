@@ -1,5 +1,3 @@
-<script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 <h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
 Project MinG/CNS
 </h1>
