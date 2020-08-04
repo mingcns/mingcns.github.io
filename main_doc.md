@@ -4,8 +4,6 @@ title: "明大中国新生核心指南"
 permalink: /guidebook/
 ---
 
-<script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 <div>
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
