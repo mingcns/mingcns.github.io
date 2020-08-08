@@ -1464,7 +1464,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 通过好友验证后希望您可以 **主动提供录取通知书截图、Student ID 或 Internet ID 等 UMN 学生身份证明** 。感谢您的理解与配合。
 
 管理员微信ID:
-* nb_tpy2215367513 (MinG/CNS、二手群、租房群等群组都可以向他咨询) Preferred
+* wxidyangtuopeng1203 (MinG/CNS、二手群、租房群等群组都可以向他咨询) Preferred
 * h-yue- (仅负责 MinG/CNS 群组)
 * jcztn0519 (仅负责 MinG/CNS 群组)
 
