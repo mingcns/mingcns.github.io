@@ -13,7 +13,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-06-15)
+(Version: 2020-08-21)
 </div><br>
 
 
