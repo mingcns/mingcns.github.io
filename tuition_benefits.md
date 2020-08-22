@@ -78,8 +78,8 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 * [Residents, Fellow and Interns Health Plan](https://www.bluecrossmn.com/umnrfi)
 
 关于附加牙保 (Dental Buy-up Plan) 的信息如下 (2020-2021)：
-* [2019-2020 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_sbc.pdf)
-* [2019-2020 Dental Plans Network](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_spd.pdf)
+* [2020-2021 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_sbc.pdf)
+* [2020-2021 Dental Plans Network](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_spd.pdf)
 
 关于医保的通用简介请参考：[《核心指南--医疗保险》](https://www.mingcns.org/guidebook/#%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9)  
 
