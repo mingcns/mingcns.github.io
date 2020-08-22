@@ -13,7 +13,7 @@ permalink: /service-included-in-tuition/
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-09)
+(Version: 2020-08-21)
 </div><br>
 
 ## 目录
@@ -70,15 +70,18 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 7. 使用医保服务提供商Blue Cross and Blue Shield Minnesota的服务网络
 8. 医保包含了[Redpoint紧急旅行支援项目](https://shb.umn.edu/emergency-travel-assistance)
 
-这里是基础医保的[官方小册子(2019-2020)](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_shbp_brochure_web.pdf)  
+这里是基础医保的[官方小册子(2020-2021)](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_shbp_brochure_web_final.pdf)  
+这里是基础牙保的[官方小册子(2020-2021)](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_preventive_plan_spd.pdf)
 这里是 Blue Cross Minnesota 的介绍：
 * [Students Health & Benefit Plan](https://www.bluecrossmn.com/uofmn)
 * [Graduate Assistant Health Plan](https://www.bluecrossmn.com/umnga)
 * [Residents, Fellow and Interns Health Plan](https://www.bluecrossmn.com/umnrfi)
 
-关于附加牙保 (Dental Buy-up Plan) 的信息如下 (2019-2020)：
-* [2019-2020 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_sdp_buy-up_plan_spd.pdf)
-* [2019-2020 Dental Plans Network](https://shb.umn.edu/sites/shb.umn.edu/files/2019-2020_sdp_buy_up_sbc.pdf)
+关于附加牙保 (Dental Buy-up Plan) 的信息如下 (2020-2021)：
+* [2019-2020 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_sbc.pdf)
+* [2019-2020 Dental Plans Network](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_spd.pdf)
+
+关于医保的通用简介请参考：[《核心指南--医疗保险》](https://www.mingcns.org/guidebook/#%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9)  
 
 _免责声明：由于医保信息的时效性很强，本文关于医保的介绍仅供参考。如有疑问请咨询[学校医保办公室](https://shb.umn.edu/contact)并以其官方回复为准。_
 
