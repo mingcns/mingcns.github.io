@@ -1453,8 +1453,8 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### 微信群二维码
 
-**已满200人，加群请添加群管微信**  （见下一个Tab）
-<img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.png" style="max-width: 75%">
+**因代写广告猖獗，已开启群主验证，加群请添加群管微信**  （见下一个Tab）
+<img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.jpg" style="max-width: 75%">
 
 #### 联系人微信
 
@@ -1465,6 +1465,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 管理员微信ID:
 * wxidyangtuopeng1203 (MinG/CNS、二手群、租房群等群组都可以向他咨询) Preferred
+* ZPPGloria (MinG/CNS、Carlson)
 * h-yue- (仅负责 MinG/CNS 群组)
 * jcztn0519 (仅负责 MinG/CNS 群组)
 
