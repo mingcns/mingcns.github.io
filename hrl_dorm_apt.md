@@ -4,6 +4,16 @@ title: "宿舍楼及学校公寓介绍"
 permalink: /hrl-dorm-apt-intro/
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4DT3EE5Z3Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4DT3EE5Z3Q');
+</script>
+
 <div>
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>

@@ -4,6 +4,16 @@ title: "外部精华内容汇总"
 permalink: /ext-catalog/
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4DT3EE5Z3Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4DT3EE5Z3Q');
+</script>
+
 <div>
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>

@@ -4,6 +4,16 @@ title: "明大地理：主要院系和教学楼简介"
 permalink: /colleges-and-buildings/
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4DT3EE5Z3Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4DT3EE5Z3Q');
+</script>
+
 <div>
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
