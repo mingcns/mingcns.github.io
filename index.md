@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4DT3EE5Z3Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4DT3EE5Z3Q');
+</script>
+
 <h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
 Project MinG/CNS
 </h1>
