@@ -23,7 +23,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-08-21)
+(Version: 2021-05-11)
 </div><br>
 
 
@@ -619,19 +619,18 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
 #### 学校附近主流银行
 
 * **Chase Bank 摩根大通**  
-地址: [311 SE Harvard St Minneapolis, MN](https://goo.gl/maps/fF6noDLSNKbkkQkK9) (Hub公寓楼下)
-* **Bank of America 美国银行**  
-最近Branch地址:   
-[80 S 8th St STE 266, Minneapolis, MN 55402](https://goo.gl/maps/9rYiBQuCrffaoUpv5)
-(轻轨Green Line坐到Nicollet Mall后步行6-8分钟，位于IDS Center 2楼)  
+地址: [606 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/9jFAj4yG1VDhhk4F7) (Hub公寓楼下)
+    * ATM位于Branch内。
+* **Bank of America 美国银行**    
+地址：[80 S 8th St STE 266, Minneapolis, MN 55402](https://goo.gl/maps/9rYiBQuCrffaoUpv5)
+(位于Downtown，轻轨Green Line坐到Nicollet Mall后步行6-8分钟，位于IDS Center 2楼)  
 校内ATM地址:
     * [1000 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/XQPqyfTy9PWZEfzN6) (WaHu公寓楼下)
     * [1312 4th St SE, Minneapolis, MN 55414](https://goo.gl/maps/DE3p69DSZHkVUn4e7) (Dinkytown)
-* **Wells Fargo 富国银行**  
-最近的Branch在上述BOA的隔壁:  
-[80 S 8th St STE 281, Minneapolis, MN 55402](https://goo.gl/maps/F1mMC6EixWuvyhKJ7)  
-另一个附近地址:   
-[3430 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/1vqaZJZsw6g7r9Bz9)
+* **Wells Fargo 富国银行**    
+地址1：[612 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vWM9J5obWTJLeiPi9) (Hub公寓楼下)  
+地址2：[80 S 8th St STE 281, Minneapolis, MN 55402](https://goo.gl/maps/F1mMC6EixWuvyhKJ7)  (上述BOA隔壁)  
+地址3：[3430 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/iwNUyUcTqk7AM4j66)
 （位于轻轨[Green Line - West Gate Station](https://goo.gl/maps/BnUwN7KKGAKA3ogy9)站旁）  
 校内ATM:
     * Willey Hall 大厅
@@ -642,6 +641,7 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
     * 在Alumni Center对面(Superblock)也有一家Branch。地址：
     [720 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/AS69MniAiGV7xXg89)  
     * 校内ATM各个Branch内均有ATM。
+    * Coffman Memorial Union G层(Ground Floor)。
 
 #### 关于TCF Bank
 
@@ -813,6 +813,7 @@ University Food Hall | 中餐、韩餐大排档 | [330 15th Ave SE, Minneapolis,
  --- | --- | ---  
 沐沐茶 Mu Mu Tea | 奶茶、甜品 | [313 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/3YRCdWi1KXFhwxT7A)
 功夫茶 Kung Fu Tea | 奶茶 | [923 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/2AFj3c9w5xUZ1uHH7)
+奉茶 Feng Cha | 奶茶、甜品 | [2929 University Ave SE, Minneapolis, MN 55414](https://g.page/fengchamn?share)
 
 #### Dinkytown 地区
 
@@ -820,7 +821,6 @@ University Food Hall | 中餐、韩餐大排档 | [330 15th Ave SE, Minneapolis,
  --- | --- | ---  
 功夫茶 Kung Fu Tea | 奶茶 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/9GVmHJb6okNMCAgV7)
 Mango Mango Dessert | 甜品 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/H8ZqryzJ2ktjU7Wq7)
-奉茶 Feng Cha | 奶茶、甜品 | [1417 4th St SE, Minneapolis, MN 55414](https://g.page/fengchamn?share)
 Chatime | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vC1ZwxPJv1gyPRnU9)
 弥茶 Mi Tea | 奶茶 | [330 15th Ave SE suite 10, Minneapolis, MN 55414](https://goo.gl/maps/z7F5KbNgkg2TXsEU8)
 
@@ -966,16 +966,16 @@ Accumulated 是总 GPA，其计算包括了学生在 UMN 的全部成绩，而 T
     D -> 1.0
     F -> 0
 ```
-得到 C 以上 (包含 C-) 的成绩则代表通过这门课，可以获得该课的全部学分，并该课可以用来满足通识教育或(和)专业课要求。  
+一般情况下得到 C- 或以上的成绩则代表通过这门课，可以获得该课的全部学分，并该课可以用来满足通识教育或(和)专业课要求。有些课要求 C 或以上，或某一单项成绩不低于某一数值。具体情况请参阅课程大纲 Syllabus。  
 如果获得 D ，有可能会得到学分，但是该课不能用来满足任何学位要求。  
 F 即不合格。  
 学校官方解释如下:
 [Grading and Transcripts: Twin Cities, Crookston, Morris, Rochester](https://policy.umn.edu/education/gradingtranscripts)
 
 1. **S/N**  
-Satisfactory or Non-stasifactory，既满足或不满足。  
+Satisfactory or Non-stasifactory，既满足或不满足（通过或不通过）。  
 使用 S/N Grade Basis 的课在结课后会收到S或者N的 Letter Grade。
-S 对等于 A-F Grade Basis 中的C-以上 (或C, 不同课的要求不一样)，表示通过该课。N即为不通过。  
+S 对等于 A-F Grade Basis 中的 C- 或以上 (或 C, 不同课的要求不一样)，表示通过该课。N 即为不通过。  
 S/N 相对于 A-F 的区别是 S/N 的课并不会影响你的 GPA (不会拉低也不会提高)，但是任何选择了 S/N
 评分标准的课都 **不会被计入专业课要求** 中。
 因此，所有的专业课必须使用 A-F Grade Basis，S/N 则适用于通识教育课或者其他自己感兴趣但是又不想担太多压力的课程（
@@ -1014,12 +1014,12 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
     1. 开学第二周内：  
     在开学第二周内学生可以随意退课 (Drop) 和更改 Grading Basis，但是加课需要授课者的许可 (Instructor’s Consent)。同样也不会在成绩单上留下痕迹。
 
-    1. 第3周至第10周：  
+    1. 第三周至第十周：  
     学生可以随意退课 (Drop)，但是会在成绩单上留下W记号，标志着 Withdrawal。学生不得更改 Grading Basis。加课需要填写 Petition，在得到许可后才能加课。
 
-    1. 第11周至学期结束：  
+    1. 第十一周至学期结束：  
     理论上不得进行任何加课、退课以及更改 Grading Basis 的操作，特殊情况除外 (Extenuating Circumstances，具体请联系Advisor)。
-    这里有一个例外，那就是 One Time Only Late Withdrawal (OTO)。通过使用 OTO，学生可以在 Last Day of Instruction 之前退掉一门课，
+    这里有一个例外，那就是 **One Time Only Late Withdrawal (OTO)**。通过使用 OTO，学生可以在 **Last Day of Instruction** 之前退掉一门课，
     但是一个人的大学生涯中有且仅有一次 OTO，并且使用 OTO 要与 Advisor 联系。使用情况一般为某一门课快要挂科了。
 
 更多关于成绩单符号的介绍请访问这个链接：[Academics - Viewing grades](https://onestop.umn.edu/academics/viewing-grades)
@@ -1185,6 +1185,7 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
     1. SHBP包含洗牙等基础预防性牙科服务，但是不覆盖拔牙等其他牙医服务。牙医保险是需要另外购买的，价格为$498/每年
     （如果学生同时enroll春季秋季学期，费用将会以每学期$249的形式出现在账单上）
     1. 详见：[https://shb.umn.edu/students-and-scholars/shbp-dates-cost](https://shb.umn.edu/students-and-scholars/shbp-dates-cost)  <br><br>
+    1. 如果研究生（硕士和博士）有学院提供的 Graduate Assistant Health Plan，其覆盖范围一般为常规医保+牙医保险。详情请参考以下链接：[Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)
 
 1. **附加内容**  
 紧急旅行协助服务由 Redpoint 提供，[详细内容在此](https://shb.umn.edu/sites/shb.umn.edu/files/redpoint_benefits_chart.pdf)。
@@ -1267,9 +1268,6 @@ A: PDO 是学校 ISSS 和 [OTE](https://ote.umn.edu/) 为了方便广大中国�
 而特地派人前往中国的北京、上海开展的一个关于UMN的综合介绍会。会上的内容基于 Checklist 而多于Checklist
 （可以理解为一个对入学流程的介绍会），同时会有学校邀请的中国学长学姐现场为大家解答问题。
 PDO **不是强制** 的，可以不去，不去也不会对入学造成影响。  
-~~学校中国办公室官方介绍以及2019年的报名链接:
-[报名开始 2019明大本科新生及家长行前准备会](https://mp.weixin.qq.com/s/l9anotvw1InCYz4O7BDyxQ)~~  
-2020年的PDO很大概率在线上进行。
 
 **Q: 学校要求我设置DUO, 这是什么？**   
 A: DUO全称DUO Security，是一个在你登陆账户时二步验证身份的软件。具体作用可以类比国内银行的U-盾。  
@@ -1336,7 +1334,7 @@ A: 如果选择了宿舍，那么必须购买一个Meal Plan。
 如果开学前两周内
 ([点击这里](https://dining.umn.edu/meal-plan-policy)查看具体时间)
 发现不够，可以联系Dining进行更换。联系方式：
-[https://dining.umn.edu/](http://dining.umn.edu/)
+[https://dining.umn.edu/](https://dining.umn.edu/)
 
 **Q: 作为大一新生，是住在东岸好还是西岸好呢？**  
 A:  没有特别大的区别。大一有很多的通识教育课（Liberal Education），教室东西岸都有，甚至有可能要去圣保罗校区，
