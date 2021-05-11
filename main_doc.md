@@ -491,13 +491,13 @@ UCard，也就是校园卡，是学生在 UMN 的几年中用于校内身份证�
 Freshii at Moos Tower, On-campus Starbucks and Caribou Coffee.
 FD 和 Gopher Gold 最大区别就是，使用 FD 可以不用交税（明尼 Sales Tax 消费税为商品价格的8.025%, 美国的消费税是不含在商品标价里的），
 而 Gopher Gold 需要交税。  
-充值信息如下：[University of Minnesota Dining Services - FlexDine](http://www.dining.umn.edu/MealPlansFlexDine/FlexDine.html)  
+充值信息如下：[University of Minnesota Dining Services - FlexDine](https://dining.umn.edu/flexdine)  
 这里笔者建议大家等开学初期 Dining 有充值送钱的活动时再充值。
 * **Meal Plan**  
 如果选择住在学校宿舍的话，那么会强制需要购买一个 Meal Plan，而 Meal Plan 的使用也集成在了 UCard 上。
 每次进入饭堂的时候向前台 (greeter) 出示 UCard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
 学校关于 Meal Plan 的政策如下：
-[University of Minnesota Dining Services - Meal Plan Policies](http://www.dining.umn.edu/MealPlansFlexDine/MealPlanPolicy.html)
+[University of Minnesota Dining Services - Meal Plan Policies](https://housing.umn.edu/live-here/dining)
 * **GoTo Card**  
 GoTo Card 是 Metro Transit，也就是双城区域的交通卡。  
 使用前需要拿 UCard 在任意轻轨站的售票机，选择 GoTo Card 充值进行充值。充值后方可刷卡乘车。
@@ -641,8 +641,6 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
     [219 19th Ave S #140, Minneapolis, MN 55455](https://goo.gl/maps/wLUeUeqHC9F43KjF9)  
     * 在Alumni Center对面(Superblock)也有一家Branch。地址：
     [720 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/AS69MniAiGV7xXg89)  
-    * Dinkytown Branch 地址：
-    [401 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/uwKgmSCrq2i1Kncg6)
     * 校内ATM各个Branch内均有ATM。
 
 #### 关于TCF Bank
@@ -801,6 +799,8 @@ Camdi | 越南、粤菜 | [1325 SE 4th St, Minneapolis, MN 55414](https://goo.gl
 Kbop Korean Bistro | 韩餐 | [425 13th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/z28zwpGbhf9TU32Z6)
 乐涮 Le Pot | 小火锅 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/R6SZUJ4LvFjFkjsM6)
 Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/7AfEBYgmCq662aCf9)
+JJ's Poke | 日餐| [509 14th Ave SE, Minneapolis, MN 55414](https://g.page/jjspokedinkytown?share)
+University Food Hall | 中餐、韩餐大排档 | [330 15th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/VuFx2fYQUN669zqU8)
 
 
 ### 学校周边奶茶、甜品店不完全清单
@@ -822,6 +822,7 @@ Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https
 Mango Mango Dessert | 甜品 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/H8ZqryzJ2ktjU7Wq7)
 奉茶 Feng Cha | 奶茶、甜品 | [1417 4th St SE, Minneapolis, MN 55414](https://g.page/fengchamn?share)
 Chatime | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vC1ZwxPJv1gyPRnU9)
+弥茶 Mi Tea | 奶茶 | [330 15th Ave SE suite 10, Minneapolis, MN 55414](https://goo.gl/maps/z7F5KbNgkg2TXsEU8)
 
 
 ### 亚洲超市不完全清单
@@ -965,7 +966,7 @@ Accumulated 是总 GPA，其计算包括了学生在 UMN 的全部成绩，而 T
     D -> 1.0
     F -> 0
 ```
-得到 C 以上 (包含 C) 的成绩则代表通过这门课，可以获得该课的全部学分，并该课可以用来满足通识教育或(和)专业课要求。  
+得到 C 以上 (包含 C-) 的成绩则代表通过这门课，可以获得该课的全部学分，并该课可以用来满足通识教育或(和)专业课要求。  
 如果获得 D ，有可能会得到学分，但是该课不能用来满足任何学位要求。  
 F 即不合格。  
 学校官方解释如下:
@@ -1163,7 +1164,7 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
 1. [实时更新明尼犯罪地图，掌握区域一手安全情况](https://communitycrimemap.com/?rms=Minneapolis_Crime_Map&type=simple&address=Minneapolis%20MN)
 1. [校园护送服务官方介绍 & QA](https://publicsafety.umn.edu/home/security)
 1. [校园护送服务覆盖地区地图](https://umn-egis.maps.arcgis.com/apps/webappviewer/index.html?id=0594a3d7511846e0beda80a724353eba)
-1. [2018年度校园安全报告](https://publicsafety.umn.edu/sites/publicsafety.umn.edu/files/2018_asr.pdf)
+1. [2018年度校园安全报告](https://champ.d.umn.edu/sites/champ.d.umn.edu/files/umd_asr_2018.pdf)
 1. [如果你被骚扰了该如何应对](http://aurora.umn.edu/sites/g/files/pua3546/f/options_for_individuals_experiencing_harassment.pdf)
 1. [The Aurora Center 官网](http://aurora.umn.edu/)
 1. [明大学生规范对性骚扰的定义](https://regents.umn.edu/sites/regents.umn.edu/files/policies/Sexual_Harassment_Sexual_Assault_Stalking_Relationship_Violence.pdf)
@@ -1335,7 +1336,7 @@ A: 如果选择了宿舍，那么必须购买一个Meal Plan。
 如果开学前两周内
 ([点击这里](https://dining.umn.edu/meal-plan-policy)查看具体时间)
 发现不够，可以联系Dining进行更换。联系方式：
-[dining.umn.edu](http://dining.umn.edu/)
+[https://dining.umn.edu/](http://dining.umn.edu/)
 
 **Q: 作为大一新生，是住在东岸好还是西岸好呢？**  
 A:  没有特别大的区别。大一有很多的通识教育课（Liberal Education），教室东西岸都有，甚至有可能要去圣保罗校区，
@@ -1385,7 +1386,7 @@ Student Legal Service 地址 (就在西岸天桥上):
 A: 可以使用 UCard 中的 Gopher Gold 或者 Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
 关于UCard账户的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。  
 另外也可以购买Meal Plan以进入饭堂：
-[Apartment/Commuter Meal Plans](https://dining.umn.edu/mealplans)
+[Apartment/Commuter Meal Plans](https://housing.umn.edu/live-here/dining)
 
 ### 在明大的日常生活
 
