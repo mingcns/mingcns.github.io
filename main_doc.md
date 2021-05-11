@@ -1385,7 +1385,7 @@ Student Legal Service 地址 (就在西岸天桥上):
 A: 可以使用 UCard 中的 Gopher Gold 或者 Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
 关于UCard账户的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。  
 另外也可以购买Meal Plan以进入饭堂：
-[Apartment/Commuter Meal Plans](http://www.dining.umn.edu/MealPlansFlexDine/CommuterMealPlans.html)
+[Apartment/Commuter Meal Plans](https://dining.umn.edu/mealplans)
 
 ### 在明大的日常生活
 
