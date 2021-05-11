@@ -422,7 +422,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
             及日后的文印需求。  
             _注意: **Carlson 学生** 与 **工院 CSELab 用户** 在 **选课后** 将分别拥有
             [无限免费文印](https://carlsonschool.umn.edu/degrees/undergraduate/student-life/advising-coaching-and-technology) 和
-            [CSELab $60 免费文印额度](https://cseit.umn.edu/knowledge-help/learn-more-about-cse-labs-print-quotas)，
+            [CSELab $60 免费文印额度](https://cseit.umn.edu/knowledge-help/learn-more-about-cse-labs-print-quotas) (此链接暂时维护)，
             若是 Carlson 的学生或者是 CSELab 用户（比如工院 CSE 学生、CLA CS 学生、和选了入门 CS 课的其他学院学生）
             ，如果不需要在学校文印系统内复印打印 Immigration Check-in 需要的文件，
             可以利用该项福利从而选择不充值 Gopher Gold。_  
@@ -1333,7 +1333,7 @@ A: 如果选择了宿舍，那么必须购买一个Meal Plan。
 这里需要注意的是所谓的无限 Meal Plan 仅为 **在饭堂开门时** 持卡人可以无限次数进出，并不代表可以24x7进入饭堂吃东西。  
 至于如何选择Meal Plan，这个问题非常主观，因此我们仅建议先选择 `11餐/周+100Flexdine` 进行尝试。
 如果开学前两周内
-([点击这里](http://www.dining.umn.edu/MealPlansFlexDine/MealPlanPolicy.html)查看具体时间)
+([点击这里](https://dining.umn.edu/meal-plan-policy)查看具体时间)
 发现不够，可以联系Dining进行更换。联系方式：
 [dining.umn.edu](http://dining.umn.edu/)
 
