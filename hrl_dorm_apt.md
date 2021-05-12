@@ -127,7 +127,7 @@ MB由Tower和East Building (也有人习惯称为East Wing) 组成。单人间�
 
 * 饭堂:  
 MB的饭堂算是校内饭堂前三名了（然而吃了一两个月还是会吃腻），位于 East Building 负一楼。  
-Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/middlebrook-wb.html](https://dining.umn.edu/dininghalls/middlebrook)
+Dining 网页：[https://dining.umn.edu/dininghalls/middlebrook](https://dining.umn.edu/dininghalls/middlebrook)
 
 (感谢Sun, Haoyue贡献本段内容)
 
@@ -154,7 +154,7 @@ Tower 一侧是男女分开的，一层男一层女（卫生间门有密码，�
 
 * 饭堂:  
 Sanford 的饭堂也算是全校前三的，具体评价和MB类似，位于一楼大厅，Tower和主楼的连接处。  
-Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/sanford-eb.html](https://dining.umn.edu/dininghalls/sanford)
+Dining 网页：[https://dining.umn.edu/dininghalls/sanford](https://dining.umn.edu/dininghalls/sanford)
 
 #### Comstock Hall
 Housing 网页：[https://housing.umn.edu/comstock](https://housing.umn.edu/comstock)
@@ -179,7 +179,7 @@ Comstock每层都是男女混住，且均设有男、女及无性别卫生间。
 食堂位于G层（一层往下两层）需刷卡进入West Wing下楼才能到达，所以蹭饭不是很方便。由于优越的地理位置，
 工作日的中午就餐人数往往会非常非常多。食堂比较小，可选择的主菜会比其他食堂少一两种。
 周末只提供Brunch和Dinner，选择空间会比平时更小。总体来说很难算好吃。
-Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/comstock-eb.html](https://dining.umn.edu/dininghalls/comstock)
+Dining 网页：[https://dining.umn.edu/dininghalls/comstock](https://dining.umn.edu/dininghalls/comstock)
 
 (感谢Lu, Han贡献本段内容)
 
@@ -226,7 +226,7 @@ Greek Unity House，Chinese Language & Cultural House，Charlotte's Home for Bla
 * 饭堂:  
 17th 的食堂是公认全校最好吃的食堂，品种相对来说也的确是比较全。但即便如此，仍需要做好重复半个学期后就再也不想吃的准备。
 唯一的缺点可能就是晚饭会比早饭与午饭丰盛很多，尤其是周末的brunch菜品完全是少得可怜，不吃晚饭的小伙伴们可能就是的确会错过很多了。  
-Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/freshfoodco-eb.html](https://dining.umn.edu/dininghalls/fresh-food-company)
+Dining 网页：[https://dining.umn.edu/dininghalls/fresh-food-company](https://dining.umn.edu/dininghalls/fresh-food-company)
 
 (感谢Feng, Anita贡献本段内容)  
 
@@ -306,7 +306,7 @@ LLC推荐global gopher，定期会组织一些活动比如吃吃东西聊聊天�
 * 饭堂:  
 位于一楼，是Superblock中唯一的饭堂，也是全校最新最大的。因此，饭堂的食物品种比大部分饭堂丰富。
 （个人认为与17街的饭堂并列全校最好吃）  
-Dining 网页：[http://dining.umn.edu/CampusRestaurants/ResidentialRestaurants/pioneer-eb.html](https://dining.umn.edu/dininghalls/pioneer)
+Dining 网页：[https://dining.umn.edu/dininghalls/pioneer](https://dining.umn.edu/dininghalls/pioneer)
 
 (感谢Peng, Elaine贡献本段内容)
 
@@ -359,7 +359,7 @@ Bailey 的优缺点都很明显，优点就是离农业等学院的教学楼近�
 
 * 饭堂:  
 Bailey饭堂的好处之一就是周末餐标是按照工作日的，不会像MPLS校区的饭堂在周末会降低标准。真心实意地说，刚开学还觉得食堂餐OK，能吃（只保证能吃），但菜式常年不换，很容易吃腻。  
-Dining 网页：[http://www.dining.umn.edu/CampusRestaurants/ResidentialRestaurants/bailey-stp.html](https://dining.umn.edu/dininghalls/bailey)
+Dining 网页：[https://dining.umn.edu/dininghalls/bailey](https://dining.umn.edu/dininghalls/bailey)
 
 (感谢Liu, Jingyan贡献本段内容)
 
