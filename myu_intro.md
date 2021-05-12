@@ -64,7 +64,7 @@ MyU系统是University of Minnesota官方集教务、金融于一体的服务系
     * Student Center 是查找各种与学业相关信息的重要窗口，包括但不限于成绩单(Transcript)、
     课程注册(Course Registration)、Financial Support等。
     * Canvas 属于课程管理系统，教授会在开课前把和课程大纲等相关信息
-    上传至 [Canvas](canvas.umn.edu)。
+    上传至 [Canvas](https://canvas.umn.edu/)。
     * Moodle 和 Canvas 性质相同，但是双城校区自2019年秋季 (Fall2019) 起只使用 Canvas，不再使用 Moodle。
     * Training Hub - 如果学校对学生有相关的培训要求会使用到，一般情况下无需使用。
 
