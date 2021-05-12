@@ -78,14 +78,14 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 5. 常规治疗和预防性诊断 100% 报销
 6. 报销 80% 的救护车费用
 7. 使用医保服务提供商Blue Cross and Blue Shield Minnesota的服务网络
-8. 医保包含了[Redpoint紧急旅行支援项目](https://shb.umn.edu/emergency-travel-assistance)
+8. 医保包含了[Redpoint紧急旅行支援项目](https://boynton.umn.edu/clinics/urgent-care)
 
 这里是基础医保的[官方小册子(2020-2021)](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_shbp_brochure_web_final.pdf)  
 这里是基础牙保的[官方小册子(2020-2021)](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_preventive_plan_spd.pdf)
 这里是 Blue Cross Minnesota 的介绍：
-* [Students Health & Benefit Plan](https://www.bluecrossmn.com/uofmn)
-* [Graduate Assistant Health Plan](https://www.bluecrossmn.com/umnga)
-* [Residents, Fellow and Interns Health Plan](https://www.bluecrossmn.com/umnrfi)
+* [Students Health & Benefit Plan](https://shb.umn.edu/health-plans/shbp-home)
+* [Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)
+* [Residents, Fellow and Interns Health Plan](https://shb.umn.edu/health-plans/rfi)
 
 关于附加牙保 (Dental Buy-up Plan) 的信息如下 (2020-2021)：
 * [2020-2021 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_spd.pdf)
