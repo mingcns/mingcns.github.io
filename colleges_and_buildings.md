@@ -53,7 +53,7 @@ permalink: /colleges-and-buildings/
 
 ### 西岸 West Bank
 
-学校官方提供的西岸地图: [PTS - West Bank Map](https://www.pts.umn.edu/sites/pts.umn.edu/files/wbank.pdf)
+学校官方提供的西岸地图: [PTS - West Bank Map](http://www.pts.umn.edu/sites/pts.umn.edu/files/west_bank_map_9-17-20.pdf)
 
 ![West Bank Google Map](https://www.mingcns.org/images/colleges_and_buildings/west_bank.png)
 
@@ -343,7 +343,7 @@ Bio-Medical Library 所在地，通过地下通道与 Health Area 的其他建�
 
 ### 圣保罗校区
 
-圣保罗校区地图：[PTS - St Paul Campus](https://www.pts.umn.edu/sites/pts.umn.edu/files/stpaul.pdf)
+圣保罗校区地图：[PTS - St Paul Campus](https://www.pts.umn.edu/sites/pts.umn.edu/files/st_paul_map_8-31-20.pdf)
 
 Lenny Yu 学姐拍摄的圣保罗校区的介绍视频：  
 YouTube链接：[YouTube - 明尼苏达大学双城分校之圣保罗校区游](https://www.youtube.com/watch?v=Wia8EeZTHYU)  
@@ -395,11 +395,23 @@ International Student and Scholar Services 位于其190室
 
 * CBS: Molecular & Cellular Biology
 
+* CFANS：Coffey Hall
+
+* CDes：Rapson Hall
+
+* Law School: Walter F. Mondale Hall
+
 * 音乐学院: Ferguson Hall
 
 * 心理系: Elliott Hall
 
 * 数学系: Vincent Hall
+
+* 经济系: Hanson Hall
+
+* 计算机系&电子工程系: Keller Hall
+
+* 生物工程系：Nils Hasselmo Hall
 
 
 ## UMN 学院简介
@@ -572,7 +584,7 @@ Carlson的career center为商学院学生学生提供专业的resume和Cover Let
 #### Scholarship Opportunities
 每年Carlson有针对本院学生发放的scholarship，奖学金申请于每年的3月5日开放，4月15日中部时间 (CDT/CST) 17:00中止。
 所有 Sophomore，Junior，Senior 都有资格申请。
-[https://sites.google.com/umn.edu/carlsonug/student-life/scholarships](https://sites.google.com/umn.edu/carlsonug/student-life/scholarships)  
+[https://sites.google.com/umn.edu/carlsonug/student-life/scholarships](https://carlsonschool.umn.edu/degrees/undergraduate/admissions/paying-school/scholarships)  
 _Notes:_  
 _申请囊括了 Ecolab 和 Goldman 提供的校外奖学金，有参加过环保项目或者对资本主义发展史及美国金融史有深刻了解的同学可以提前准备申请文书 Bullet Points。_
 
