@@ -49,7 +49,7 @@ permalink: /non-hrl-apt/
 ## 西岸
 ### Seven Corners Apartments
 [Google Maps](https://goo.gl/maps/WuNVPvbTMZtrxhw4A)  
-[官网](http://www.bdcmgmt.com/)
+[官网](https://sevencorners.trellismn.org/)
 
 房型和价格：
 * 1B1B $909+
