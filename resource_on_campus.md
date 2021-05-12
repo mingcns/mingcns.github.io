@@ -49,14 +49,16 @@ permalink: /resources-on-campus/
   * Other research projects can be found by searching "UMN student research" + "Name of your college/program" using Google or other search engines.
 
 ### Library
-  * [Peer Research Consultant](https://www.lib.umn.edu/services/prc)
+  * [Peer Research Consultant](https://www.lib.umn.edu/smart/prc)
   * [Interlibrary Loan](https://www.lib.umn.edu/interlibraryloan)
 
 ### Tutoring
   * [Writing Center](http://writing.umn.edu/)
+  * [Student English Language Support](https://ccaps.umn.edu/minnesota-english-language-program/student-english-language-support)
   * [SMART Learning Commons](https://www.lib.umn.edu/smart/tutor-schedules)
-  * [Chemistry Tutoring](http://genchem.chem.umn.edu/)
+  * [Multicultural Center for Academic Excellence](https://mcae.umn.edu/academic-support/academic-support)
   * [CSE Taylor Tutoring Center](https://housing.umn.edu/llcs/taylor)
+  * [University Honors Program Tutoring](https://honors.umn.edu/current-students/courses-experiences/courses-tutoring)
 
 ### Career Planning
   * [Career Services](http://career.umn.edu/)
@@ -107,8 +109,7 @@ Student Legal Service Address (就在西岸天桥上):
 
 ### Transportation
   * [Gopher Chauffeur](https://boynton.umn.edu/gopher-chauffeur)
-  * [Bailey Shopping Shuttle](https://housing.umn.edu/bailey-shuttle)
-
+ 
 ### Health
   * [Mental Health](http://www.mentalhealth.umn.edu/)
   * [Paws](https://boynton.umn.edu/paws)
