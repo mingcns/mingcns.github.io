@@ -23,7 +23,7 @@ permalink: /colleges-and-buildings/
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-25)
+(Version: 2021-05-12)
 </div><br>
 
 
@@ -321,9 +321,12 @@ Biomedical Engineering，Physiology和Pharmacology的主场，
 CBS微生物学的实验室也位于Moos Tower地下。
 
 **Diehl Hall**  
-Bio-Medical Library 所在地，通过地下通道与 Health Area 的其他建筑相连。
-（因此其实是可以通过Moos Tower的地下通道入口直接走到Bio-Medical Library的）
+神经科学/精神病学与儿科的主场，通过地下通道与 Health Area 的其他建筑相连。
+（因此其实是可以通过Moos Tower的地下通道入口直接走到Diehl Hall的）
 
+**Health Sciences Education Center**
+Health Sciences Library 的所在地（原Bio-Medical Library的新地址, 该图书馆提供自习或者小组学习的场所。)
+Health Science相关的课程大部分在此上课，里面包含很多医学专业的教室和实验室。该楼同样也通过地道与 Health Area 其他建筑连接。
 
 #### SuperBlock
 
