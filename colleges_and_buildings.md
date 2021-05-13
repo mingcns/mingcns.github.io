@@ -325,8 +325,8 @@ CBS微生物学的实验室也位于Moos Tower地下。
 （因此其实是可以通过Moos Tower的地下通道入口直接走到Diehl Hall的）
 
 **Health Sciences Education Center**
-Health Sciences Library 的所在地（原Bio-Medical Library的新地址, 该图书馆提供自习或者小组学习的场所。
-Health Science相关的课程大部分在此上课，里面包含很多医学专业的教室和实验室。
+Health Sciences Library 的所在地（原Bio-Medical Library的新地址, 该图书馆提供自习或者小组学习的场所。)
+Health Science相关的课程大部分在此上课，里面包含很多医学专业的教室和实验室。该楼同样也通过地道与 Health Area 其他建筑连接。
 
 #### SuperBlock
 
