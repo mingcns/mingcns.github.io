@@ -93,6 +93,7 @@ _<font color="grey">参与本项目的志愿作者团队与共同创作者名单
 _<font color="grey">Authors, co-editors, and contributors participating/participated in this project:</font>_
 
 * <font color="grey">Cai, Wen</font>
+* <font color="grey">Chang, Yibo</font>
 * <font color="grey">Cui, Jiahao</font>
 * <font color="grey">Ding, Yifan</font>
 * <font color="grey">Feng, Anita</font>
