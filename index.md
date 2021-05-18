@@ -20,9 +20,11 @@ Project MinG/CNS
 
 ---
 
-<h2 style="margin: 0 auto 10px auto; text-align: center; color: #cc0000;">关于 COVID-19 以及 Fall 2020 学期</h2>
+<h2 style="margin: 0 auto 10px auto; text-align: center; color: #cc0000;">关于 COVID-19、 Fall 2020 与Fall 2021 学期</h2>
 
 - **关于 Fall 2020 学期的常见问题 (FAQ): [mingcns.org/faq-fall2020](https://www.mingcns.org/faq-fall2020/)**
+
+- **关于 Fall 2021 学期的常见问题 (FAQ): [mingcns.org/faq-fall2020](https://www.mingcns.org/faq-fall2021/)**
 
 ---
 
