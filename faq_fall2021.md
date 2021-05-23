@@ -87,6 +87,17 @@ Housing
 
 [PDF版文件点这里](https://isss.umn.edu/office/announcements/f21/f21new.pdf)
 
+**以下问题节选自ISSS的Fall 2021 学期的常见问题回答**
+
+**Q：面签时能否用电子版I-20/DS-2019文件代替纸质版文件？**
+A：学校可以为办理F-1签证的同学可以使用电子版的I-20文件；如果选择使用电子版的I-20文件，需在面签时携带已签字的打印版I-20文件；
+   学校不会为办理J-1签证的同学提供电子版的DS-2019文件；请学生于办理J-1签证前向学校申请寄送DS-2019文件；
+
+**Q：学校要求2021 Fall开学前接种新冠疫苗吗？请问我可以到校之后注射新冠疫苗吗？**
+A：学校现在不强制要求学生到校前注射新冠疫苗，具体要求将于2021 Fall开学前更新，请耐心等待学校发出邮件通知或查询[Safe Campus](https://safe-campus.umn.edu/return-campus/covid-19-updates)和[Student FAQs](https://drive.google.com/file/d/1xhlAXKkDVp9nSY-w7UA28OENpn0CfD_f/view).
+随着疫苗的普及，学校现在为所有的学生、员工和教授免费注射新冠疫苗。具体信息请查看[COVID-19 Vaccine FAQs](https://drive.google.com/file/d/1xhlAXKkDVp9nSY-w7UA28OENpn0CfD_f/view)并查看学校发出的邮件预约注射疫苗.
+
+
 ## 其他相关介绍
 学校 **本科** 招生办关于 COVID-19 的公告与 FAQ：[https://admissions.tc.umn.edu/events/alert.html](https://admissions.tc.umn.edu/events/alert.html)  
 
