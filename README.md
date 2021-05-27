@@ -24,6 +24,7 @@ Hence, should you have any opinions and suggestions on the project’s contents,
 Authors, co-editors, and contributors participating in this project:
 
 * Cai, Wen
+* Chang, Yibo
 * Cui, Jiahao
 * Ding, Yifan
 * Feng, Anita
@@ -41,4 +42,4 @@ Authors, co-editors, and contributors participating in this project:
 * Yin, Ziniu
 * [Zhan, Jiayu](https://www.linkedin.com/in/jiayu-zhan-b62a4714a/)
 * Zheng, Yue
-* [Zhou, Tiannan](https://github.com/TrotylTN)
+* [Zhou, Tiannan](https://www.linkedin.com/in/tiannanzhou)
