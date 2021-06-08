@@ -23,7 +23,7 @@ permalink: /non-hrl-apt/
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-05-14)
+(Version: 2021-06-07)
 </div><br>
 
 ## 目录
@@ -52,9 +52,9 @@ permalink: /non-hrl-apt/
 [官网](https://sevencorners.trellismn.org/)
 
 房型和价格：
-* 1B1B $909+
-* 2B1B $1195+
-* 3B2B $1634+
+* 1B1B $802+
+* 2B1B $1025+
+* 3B2B $1659+
 * Studio $745+
 * 全部可以 Share Room
 * 以上价格为整个 Unit 的价格
@@ -80,10 +80,10 @@ permalink: /non-hrl-apt/
 [官网](https://minnesota.weidner.com/apartments/mn/minneapolis/7west/)
 
 房型和价格：
-* 1B1B $1525+
+* 1B1B $1520+
 * 2B2B $1985+
-* 2B1B $1695+
-* Studio $1350+
+* 2B1B $1625+
+* Studio $1220+
 * 全部可以 Share Room
 * 以上价格为整个 Unit 的价格
 
@@ -111,13 +111,13 @@ permalink: /non-hrl-apt/
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners)
 
 房型和价格：
-* 1B1B $1369+
-* 2B2B $949+
-* 4B4B $849+
-* Studio $1269+
+* 1B1B $1399+
+* 2B2B $899+
+* 4B4B $809+
+* Studio $1329+
 * 1B1B Shared $719+
-* 2B2B Shared $499+
-* 2B2B Shared with Study Room $579+
+* 2B2B Shared $444+
+* 2B2B Shared with Study Room $499+
 * Parking $100
 
 交通：
@@ -149,9 +149,28 @@ permalink: /non-hrl-apt/
 [官网](http://thebridgesdinkytown.com/)
 
 房型和价格：
-* 1B1B $705+
-* 2B2B $635+
-* 4B4B $445+
+* 1B1B $1120+
+* 2B2B $625+
+* 3B3B $535+
+* 4B4B $460+
+* Studio $1200+
+
+交通：
+* 校车122、公交车2路和6路步行约3分钟
+
+设施：
+* 健身房
+* 游戏室
+* 电影院
+* 公共学习区域
+
+优势：
+* 性价比较高
+* 密西西比河边风景好
+
+劣势：
+* 离学校的中心区域较远，对校车的依赖性强
+* 附近街区为抢劫高发区
 
 ### Chateau Student Housing Co-op
 [Google Maps](https://goo.gl/maps/TnFd88MZbnaRvKDt9)  
@@ -160,36 +179,112 @@ permalink: /non-hrl-apt/
 房型和价格：
 * 1B1B $955+
 * 2B1B $1360+
-* 3B1B $1560+
-* 4B2B $1996+
-* Studio $835+
+* 3B1B $1561+
+* 4B2B $2128+
+* Studio $857+
+* Parking $80+
 * 全部可以 Share Room
 * 以上价格为整个 Unit 的价格
+* 房租包含水费，电费，燃气费和网费
+
+交通：
+* 校车122、公交2路和6路步行5分钟，校车121、公交3路步行6分钟，校车123步行3分钟
+
+设施：
+* 健身房
+* 公共自习室
+
+优势：
+* 性价比非常高
+* 公寓位于Dinkytown附近，生活便利，有多家中餐馆和Target超市
+
+劣势：
+* 公寓比较旧
+* 房间不含洗衣机，公寓提供公共洗衣房
+* Dinktytown有很多homeless和瘾君子，不建议太晚回家
+
+### Fourth Street Housing Co-op
+[Google Maps](https://goo.gl/maps/UN8xx2C9e2UJ3g9M7)  
+[官网](https://www.riverton.org/community/fourth-street)
+
+房型和价格：
+* 1B1B $1143+
+* 2B2B $1953+
+* 3B3B $2287+
+* Studio $1004+
+* Parking $110
+* 全部可以 Share Room
+* 以上价格为整个 Unit 的价格
+
+交通：
+* 位于Chateau隔壁，与Chateau相同 ↑
+
+设施：
+* 健身房
+* 公共自习室
+* 电脑房
+
+优势：
+* 公寓相对较新
+* 公寓位于Dinkytown附件，生活便利，有多家中餐馆和Target超市
+
+劣势：
+* 公寓性价比一般
 
 ### The Marshall, Minneapolis Apartments
 [Google Maps](https://g.page/TheMarshallApartments?share)  
 [官网](http://www.livethemarshall.com/)
 
 房型和价格：
-* 1B1B $1290+
-* 2B2B $959+
-* 3B3B $820+
-* 3B3.5B $890+
-* 4B4B $920+
-* 4B4.5B $920+
-* 1B1B Shared $730+
-* 2B2B Shared $599+
+* 2B2B $615+
+* 3B3B $940+
+* 3B3.5B $950+
+* 4B4B $960+
+* 4B4.5B $960+
 
-### Sydney Hall
+交通：
+* 校车122、公交2路和6路步行6分钟，校车121、公交3路步行7分钟，校车123步行4分钟
+
+设施：
+* 健身房
+* 游泳池
+* 计算机房
+
+优势：
+* 公寓条件佳，设施齐全
+* 公寓位于Dinkytown附近，生活便利，有多家中餐馆和Target超市
+
+劣势：
+* Dinktytown中心有很多homeless和瘾君子，不建议太晚回家
+* 由于公寓位于商业区中心，白天较吵
+
+### Sydney Hall & Dinkydome
 [Google Maps](https://goo.gl/maps/aJVASwPyJJzXWkbD8)  
 [官网](https://www.eastbankcommunities.com/minneapolis/sydney-hall-and-dinkydome)
 
 房型和价格：
-* 1B1B $1400+
-* 2B2B $949+
-* Studio $1200+
-* 2B2B Shared $629+
+* 1B1B $1419+
+* 2B2B $969+
+* 2B2B Shared $679+
+* 3B3B $949+
+* 4B2B $939+
+* Studio $1379+
 
+交通：
+* 校车122、公交2路和6路步行2分钟，校车121、公交3路步行3分钟，校车123步行2分钟
+
+设施：
+* 健身房
+* 公共自习室和打印机
+
+优点：
+* 相同价格下房间较大
+* 公寓临近Dinkytown旁边，生活便利，楼下有多家饭店
+* 公寓的维修很快
+
+缺点：
+* 公寓的人文管理很差
+* 房间的性价比不高
 
 ## Superblock 周边
 ### Hub Minneapolis Apartments
@@ -197,17 +292,17 @@ permalink: /non-hrl-apt/
 [官网](http://www.hubminneapolis.com/)
 
 房型和价格：
-* 1B1B $1545+
-* 1B1B Penthouse $1740+
-* 2B2B $910+
-* 2B2B Penthouse $1255+
-* 2B1B $1005+
-* 3B3B Penthouse $1140+
-* 3B2B Penthouse $1140+
-* 4B2B $920+
-* Micro Studio $1250+
-* Studio $1325+
-* Studio Large $1390+
+* 1B1B $1480+
+* 1B1B Penthouse $1700+
+* 2B2B $1055+
+* 2B2B Double $645+
+* 2B2B Penthouse $1250+
+* 2B1B $1010+
+* 3B3B Penthouse $1165+
+* 3B2B Penthouse $1050+
+* 4B2B $840+
+* Micro Studio $1210+
+* Studio $1285+
 * 2B2B Shared $785+
 * 3B2B Penthouse Shared $1075+
 
@@ -227,7 +322,7 @@ permalink: /non-hrl-apt/
 * 楼下就有 Caribou 咖啡，对面有星巴克
 * 隔壁楼下有 Corner by Walgreens 便利店
 * 学校健身房在步行5分钟的地方
-* Bio-Medical Library 在步行5分钟的地方
+* Health Science Education Center (新Bio-med Library) 在步行2分钟的地方;
 
 优势：
 * 于18年建成，整体很新
@@ -241,10 +336,12 @@ permalink: /non-hrl-apt/
 [官网](https://liveatthestation.com/)
 
 房型和价格：
-* 1B1B $1550+
+* 1B1B $1635+
+* 1B1B Shared $918±
 * 2B2B $1000±
-* Studio
 * 2B2B Shared $650±
+* Studio $1405±
+
 
 交通：位于 Hub 隔壁，与 Hub 相同 ↑  
 
@@ -262,41 +359,82 @@ permalink: /non-hrl-apt/
 [官网](https://www.700washington.com/)
 
 房型和价格：
-* 1B1B $1475±
-* 2B2B $990±
-* Studio $1299+
-* 2B2B Shared $650±
+* 1B1B $1500±
+* 2B2B $1000±
+* Studio $1295+
+
+交通：位于 Station 隔壁，与 Station 相同 ↑  
+
+周边：位于 Station 隔壁，与 Station 相同 ↑  
+
+优势：
+* 与 Station 相似 ↑ ；
+
+劣势：
+* 楼下有一家酒吧，如果住在酒吧正上方（北侧）晚上会很吵；
 
 ### The Edge on Oak
 [Google Maps](https://goo.gl/maps/TKSAmWnkM652qeCX6)  
 [官网](https://www.eastbankcommunities.com/minneapolis/edge-on-oak)
 
 房型和价格：
-* 1B1B $1449+
-* 2B2B $989+
+* 1B1B $1479+
+* 2B2B $999+
 * 2B2B Deluxe $1049+
-* Studio $1300+
-* 2B2B Shared $629+
+* 2B2B Shared $649+
+* Studio $1329+
 
-### Tairrie House
-[Google Maps](https://goo.gl/maps/cZ5rmhSMwbqM6DqG9)  
-[官网](https://www.dinnaken.com/page/show/714221--tairrie-house)
+交通：
+* 轻轨绿线 East Bank Station 走路3分钟
+* 校车122步行、公交车2路约2分钟，校车121，123步行约4分钟；
+
+周边：
+* 楼下有老四川、tofu house、chipotle等多家餐馆；
+* 楼下就有usbank;
+* 隔壁楼下有 Corner by Walgreens 便利店；
+
+优势：
+* 交通和生活方便；
+* 公寓房间较大；
 
 ### Stadium Village Flats (SVF)
 [Google Maps](https://goo.gl/maps/oBH3bgpBnXNDd1F4A)  
 [官网](https://stadiumvillageflats.com/)
 
 房型和价格：
-* 1B1B $1524+
-* 2B2B $1004±
-* 2B1B $914+
-* 3B3B $964+
-* 4B4B $874+
-* 4B2B $844+
-* Studio $1324+
-* 1B1B Shared $874+
-* 2B2B Shared $634+
+* 1B1B $1575+
+* 2B2B $±970
+* 2B1B $950+
+* 3B3B $909+
+* 4B4B $889+
+* 4B2B $869+
+* Studio $1375+
+* 1B1B Shared $889+
+* 2B2B Shared $609+
 * Parking $150
+
+交通：位于 Edge 隔壁，与 Edge 相同 ↑  
+
+周边：位于 Edge 隔壁，与 Edge 相同 ↑  
+
+设施：
+* 健身房
+* 学习室
+* 游戏房
+
+优势：
+* 交通和生活方便；
+
+劣势：
+* 房型之间差别较大，记得和公寓确实一下；
+
+### Tairrie House
+[Google Maps](https://goo.gl/maps/cZ5rmhSMwbqM6DqG9)  
+[官网](https://www.dinnaken.com/page/show/714221--tairrie-house)
+
+交通：
+* 轻轨绿线 East Bank Station 走路8分钟
+* 校车122步行、公交车2路约6分钟，校车121，123步行约8分钟；
 
 
 ## Stadium Village 轻轨站周边
@@ -313,25 +451,40 @@ permalink: /non-hrl-apt/
 [官网](https://www.liveatwahu.com/)
 
 房型和价格：
-* 1B1B $1415+
-* 2B2B $999+
-* 2B1B $885+
-* 3B3B $895+
-* 3B2B $855+
-* 4B4B $825+
+* 1B1B $1390+
+* 2B2B $850+
+* 2B1B $840+
+* 3B3B $860+
+* 3B2B $850+
+* 4B4B $805+
 * 4B3B $805+
-* 4B2B $785+
-* Studio $1199+
+* 4B2B $770+
+* Studio $1205+
 * 部分可 Share Room
+
+交通：
+* 轻轨绿线 Stadium Village Station 和6路公交站走路2分钟；
+
+周边：
+* 宽窄、香园等多家饭店就在楼下；
+* 步行5分钟到CVS;
+
+优点：
+* 周边生活便利
+
+缺点：
+* 物业管理较差；
+* 有些房型设计不合理；
+
 
 ### Solhaus Apartments & Towers
 [Google Maps](https://g.page/SolhausApartments?share)  
 [官网](https://www.solhausmpls.com/)
 
 房型和价格：
-* 1B1B $1450+
-* 2B2B $975+
-* 2B1B $960+
+* 1B1B $1325+
+* 2B2B $865+
+* 2B1B $800+
 * Studio $1375+
 * 部分可 Share Room
 
@@ -339,17 +492,34 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/hDPHLqAekUsEFdL26)  
 [官网](https://www.quadondelaware.com/)
 
+房型和价格：
+* 2B2B $850+
+* 2B2B Shared $560+
+* 3B3B $730+
+* 4B4B $715+
+
+交通：
+* 轻轨绿线 Stadium Village Station 和6路公交站走路5分钟；
+
+优势：
+* 价格偏低
+* 周围饭店多，生活比较便利
+
+劣势：
+* 公寓比较旧，性价比不高；
+* 公寓房间偏小，没有窗户，总体来讲不太推荐；
+
 ### University Commons (UC)
 [Google Maps](https://g.page/UCommonsUMN?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/university-commons)
 
 房型和价格：
-* 1B1B $1339+
-* 2B2B $849+
-* 4B4B $739+
-* 4B2B $679+
-* 1B1B Shared $684+
-* 2B2B Shared $499+
+* 1B1B $1399+
+* 2B2B $834+
+* 4B4B $729+
+* 4B2B $659+
+* 1B1B Shared $699+
+* 2B2B Shared $469+
 * 4B2B Shared $494+
 
 ### The Arrow Apartments
@@ -362,6 +532,7 @@ permalink: /non-hrl-apt/
 * 3B3B $729+
 * 3B2B $669+
 * 4B4B $669+
+* 公寓可以选择有家具/无家具的房型，有家具的房间大概贵20-40刀/月；
 
 ### Uflats
 [Google Maps](https://goo.gl/maps/bjo3K3gWJEfhvNxG6)  
@@ -372,50 +543,148 @@ permalink: /non-hrl-apt/
 [官网](https://www.umnvillage.com/)
 
 房型和价格：
-* 2B2B $540±
+* 2B2B $499±
 * 4B2B $640+
 * Parking $75
 
+交通：
+* 轻轨绿线 Stadium Village Station 和6路公交站走路5分钟；
+
+设施：
+* 健身房
+* 公共自习室
+* 打印机和复印机
+
+周边：
+* 宽窄、香园和聚烤屋等多家饭店就在楼下；
+* 步行5分钟到超市fresh thyme;
+
+优点：
+* 性价比较高；
+* 房间大小和布局合适；
+* 周边生活比较方便；
+
+劣势：
+* 公寓房间偏旧，采光一般；
+* 物业回复慢；
+
+
+## Prospect Park 轻轨站周边
 ### 44 North
 [Google Maps](https://goo.gl/maps/vKhg64fzjA9gGQHT8)  
 [官网](https://www.44northapartments.com/)
 
 房型和价格：
-* 1B1B $1420+
+* 1B1B $1430+
 * 2B2B $980+
 * 2B1B $925+
 * 4B4B $850±
-* 4B2B $730+
-* 1B1B Shared $800+
+* 4B2B $740+
+* 1B1B Shared $810+
 * 2B2B Shared $615+
 
+交通：
+* 轻轨绿线 Prospect Park Station 走路3分钟；
 
-## Prospect Park 轻轨站周边
+设施：
+* 健身房；
+* 计算机房和打印机；
+* 公共和私人学习室；
+
+优势：
+* 公寓房型不错，包含家具；
+* 物业靠谱；
+
+劣势：
+* 公寓的网不稳定；
+* 公寓临近轻轨，对噪音敏感的同学可能会觉得吵；
+
+
+### Here Apartment Minneapolis
+[Google Maps](https://g.page/hereminneapolis?share)  
+[官网](https://www.hereminneapolis.com/)
+
+房型和价格：
+* 1B1B $1479+
+* 2B2B $2159+
+* Studio $1169+
+* Parking $175
+* 在房租的基础上每个月需要交给公寓90刀的utility fee (包含电费外的一切杂费)
+
+交通：
+* 位于 44 North 隔壁，与 44 North 相同 ↑  
+
+设施：
+* 健身房；
+* 计算机房和打印机；
+* 公共和私人学习室；
+* 室外花园和烧烤架；
+
+优势：
+* 公寓比较新，建成于2019年，条件较好；
+* 公寓包含家具；
+* 物业靠谱；
+
+劣势：
+* 公寓临近轻轨，对噪音敏感的同学可能会觉得吵；
+* 房间较小；
+* 价格偏贵，性价比偏低；
+
+
 ### The Link
 [Google Maps](https://goo.gl/maps/7pcRTbw7QWYU1UKn6)  
 [官网](https://linkliving.com/)
 
 房型和价格：
 * 1B1B $1649+
-* 2B2B
+* 2B2B $1000±
 * 4B4B $950±
 * Studio $1429+
 * 部分可以 Share Room
 
+交通：
+* 轻轨绿线 Prospect Park Station 就在楼下；
+
+设施：
+* 健身房（包括瑜伽房和桑拿房）；
+* 游戏房；
+* 公共和私人学习室；
+
+优势：
+* 公寓和房间条件不错；
+* 物业管理靠谱；
+* 位于轻轨站旁边那交通便利；
+
+劣势：
+* 公寓位于轻轨线上有噪音；
+
+
 ### Green on 4th
 [Google Maps](https://g.page/green-on-4th?share)  
 [官网](https://www.greenon4th.com/)
-
-房型和价格：
-* 1B1B $1668+
-* 2B2B
-* Studio $1469+
 
 
 ## Westgate 轻轨站周边
 ### 2700 University
 [Google Maps](https://goo.gl/maps/a5HgeCyKVqeu6hoG9)  
 [官网](http://2700university.com/)
+
+房型和价格：
+* 2B2B $2000±
+* 1B1B $1425±
+* Studio $1165± 
+* 价格为整套公寓的价格
+
+交通：
+* 轻轨绿线 Westgate Station就在公寓楼下；
+
+优势：
+* 公寓比较新，设施齐全，房间条件好；
+* 公寓位于轻轨站旁边，交通方便；
+
+劣势：
+* 离学校稍微有点远，不在走路距离以内；
+* 公寓旁边没有中国餐馆/超市；
 
 ### The Pavilion on Berry Apartments (PB)
 [Google Maps](https://goo.gl/maps/izZZsUyf91trUjeX6)  
@@ -449,7 +718,13 @@ Eligibility:
 **Q: 有什么校外公寓推荐吗？**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
 * 学校官方做的关于校外公寓的 Survey:
-[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)  
+[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results) 
+
+**Q: 有什么校外公寓可以短租吗？**    
+A：学校周围提供短租的公寓有：  
+以学期为单位的短租：[Solhaus](https://www.solhausmpls.com/), [Grand Marc](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners), [Seven Corners](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners), [Seven West](https://minnesota.weidner.com/apartments/mn/minneapolis/7west/) ;  
+以6个月租期为单位的短租：[Chateau](https://www.riverton.org/community/chateau-student-housing);  
+租期灵活的短租：[Here](https://www.hereminneapolis.com/);
 
 **Q: 在租校外公寓的时候，有必要找第三方中介机构吗？**  
 A: 通过在上一个问题中介绍的方法和资源，可以很直观的找到学校附近每一个校外公寓的地址、官网、电话以及评价。  
@@ -507,6 +782,8 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 
 参与本文编撰的作者与共同创作者名单(排名不分先后):  
 Authors, co-editors, and contributors of this documentation:
+
+* Chang, Yibo
 
 * Sun, Haoyue
 
