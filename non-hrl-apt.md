@@ -462,14 +462,29 @@ permalink: /non-hrl-apt/
 * Studio $1205+
 * 部分可 Share Room
 
+交通：
+* 轻轨绿线 Stadium Village Station 和6路公交站走路2分钟；
+
+周边：
+* 宽窄、香园等多家饭店就在楼下；
+* 步行5分钟到CVS;
+
+优点：
+* 周边生活便利
+
+缺点：
+* 物业管理较差；
+* 有些房型设计不合理；
+
+
 ### Solhaus Apartments & Towers
 [Google Maps](https://g.page/SolhausApartments?share)  
 [官网](https://www.solhausmpls.com/)
 
 房型和价格：
-* 1B1B $1450+
-* 2B2B $975+
-* 2B1B $960+
+* 1B1B $1325+
+* 2B2B $865+
+* 2B1B $800+
 * Studio $1375+
 * 部分可 Share Room
 
@@ -477,17 +492,34 @@ permalink: /non-hrl-apt/
 [Google Maps](https://goo.gl/maps/hDPHLqAekUsEFdL26)  
 [官网](https://www.quadondelaware.com/)
 
+房型和价格：
+* 2B2B $850+
+* 2B2B Shared $560+
+* 3B3B $730+
+* 4B4B $715+
+
+交通：
+* 轻轨绿线 Stadium Village Station 和6路公交站走路5分钟；
+
+优势：
+* 价格偏低
+* 周围饭店多，生活比较便利
+
+劣势：
+* 公寓比较旧，性价比不高；
+* 公寓房间偏小，没有窗户，总体来讲不太推荐；
+
 ### University Commons (UC)
 [Google Maps](https://g.page/UCommonsUMN?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/university-commons)
 
 房型和价格：
-* 1B1B $1339+
-* 2B2B $849+
-* 4B4B $739+
-* 4B2B $679+
-* 1B1B Shared $684+
-* 2B2B Shared $499+
+* 1B1B $1399+
+* 2B2B $834+
+* 4B4B $729+
+* 4B2B $659+
+* 1B1B Shared $699+
+* 2B2B Shared $469+
 * 4B2B Shared $494+
 
 ### The Arrow Apartments
@@ -500,6 +532,7 @@ permalink: /non-hrl-apt/
 * 3B3B $729+
 * 3B2B $669+
 * 4B4B $669+
+* 公寓可以选择有家具/无家具的房型，有家具的房间大概贵20-40刀/月；
 
 ### Uflats
 [Google Maps](https://goo.gl/maps/bjo3K3gWJEfhvNxG6)  
@@ -510,50 +543,148 @@ permalink: /non-hrl-apt/
 [官网](https://www.umnvillage.com/)
 
 房型和价格：
-* 2B2B $540±
+* 2B2B $499±
 * 4B2B $640+
 * Parking $75
 
+交通：
+* 轻轨绿线 Stadium Village Station 和6路公交站走路5分钟；
+
+设施：
+* 健身房
+* 公共自习室
+* 打印机和复印机
+
+周边：
+* 宽窄、香园和聚烤屋等多家饭店就在楼下；
+* 步行5分钟到超市fresh thyme;
+
+优点：
+* 性价比较高；
+* 房间大小和布局合适；
+* 周边生活比较方便；
+
+劣势：
+* 公寓房间偏旧，采光一般；
+* 物业回复慢；
+
+
+## Prospect Park 轻轨站周边
 ### 44 North
 [Google Maps](https://goo.gl/maps/vKhg64fzjA9gGQHT8)  
 [官网](https://www.44northapartments.com/)
 
 房型和价格：
-* 1B1B $1420+
+* 1B1B $1430+
 * 2B2B $980+
 * 2B1B $925+
 * 4B4B $850±
-* 4B2B $730+
-* 1B1B Shared $800+
+* 4B2B $740+
+* 1B1B Shared $810+
 * 2B2B Shared $615+
 
+交通：
+* 轻轨绿线 Prospect Park Station 走路3分钟；
 
-## Prospect Park 轻轨站周边
+设施：
+* 健身房；
+* 计算机房和打印机；
+* 公共和私人学习室；
+
+优势：
+* 公寓房型不错，包含家具；
+* 物业靠谱；
+
+劣势：
+* 公寓的网不稳定；
+* 公寓临近轻轨，对噪音敏感的同学可能会觉得吵；
+
+
+### Here Apartment Minneapolis
+[Google Maps](https://g.page/hereminneapolis?share)  
+[官网](https://www.hereminneapolis.com/)
+
+房型和价格：
+* 1B1B $1479+
+* 2B2B $2159+
+* Studio $1169+
+* Parking $175
+* 在房租的基础上每个月需要交给公寓90刀的utility fee (包含电费外的一切杂费)
+
+交通：
+* 位于 44 North 隔壁，与 44 North 相同 ↑  
+
+设施：
+* 健身房；
+* 计算机房和打印机；
+* 公共和私人学习室；
+* 室外花园和烧烤架；
+
+优势：
+* 公寓比较新，建成于2019年，条件较好；
+* 公寓包含家具；
+* 物业靠谱；
+
+劣势：
+* 公寓临近轻轨，对噪音敏感的同学可能会觉得吵；
+* 房间较小；
+* 价格偏贵，性价比偏低；
+
+
 ### The Link
 [Google Maps](https://goo.gl/maps/7pcRTbw7QWYU1UKn6)  
 [官网](https://linkliving.com/)
 
 房型和价格：
 * 1B1B $1649+
-* 2B2B
+* 2B2B $1000±
 * 4B4B $950±
 * Studio $1429+
 * 部分可以 Share Room
 
+交通：
+* 轻轨绿线 Prospect Park Station 就在楼下；
+
+设施：
+* 健身房（包括瑜伽房和桑拿房）；
+* 游戏房；
+* 公共和私人学习室；
+
+优势：
+* 公寓和房间条件不错；
+* 物业管理靠谱；
+* 位于轻轨站旁边那交通便利；
+
+劣势：
+* 公寓位于轻轨线上有噪音；
+
+
 ### Green on 4th
 [Google Maps](https://g.page/green-on-4th?share)  
 [官网](https://www.greenon4th.com/)
-
-房型和价格：
-* 1B1B $1668+
-* 2B2B
-* Studio $1469+
 
 
 ## Westgate 轻轨站周边
 ### 2700 University
 [Google Maps](https://goo.gl/maps/a5HgeCyKVqeu6hoG9)  
 [官网](http://2700university.com/)
+
+房型和价格：
+* 2B2B $2000±
+* 1B1B $1425±
+* Studio $1165± 
+* 价格为整套公寓的价格
+
+交通：
+* 轻轨绿线 Westgate Station就在公寓楼下；
+
+优势：
+* 公寓比较新，设施齐全，房间条件好；
+* 公寓位于轻轨站旁边，交通方便；
+
+劣势：
+* 离学校稍微有点远，不在走路距离以内；
+* 公寓旁边没有中国餐馆/超市；
 
 ### The Pavilion on Berry Apartments (PB)
 [Google Maps](https://goo.gl/maps/izZZsUyf91trUjeX6)  
@@ -587,7 +718,13 @@ Eligibility:
 **Q: 有什么校外公寓推荐吗？**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
 * 学校官方做的关于校外公寓的 Survey:
-[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)  
+[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results) 
+
+**Q: 有什么校外公寓可以短租吗？**    
+A：学校周围提供短租的公寓有：  
+以学期为单位的短租：[Solhaus](https://www.solhausmpls.com/), [Grand Marc](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners), [Seven Corners](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners), [Seven West](https://minnesota.weidner.com/apartments/mn/minneapolis/7west/) ;  
+以6个月租期为单位的短租：[Chateau](https://www.riverton.org/community/chateau-student-housing);  
+租期灵活的短租：[Here](https://www.hereminneapolis.com/);
 
 **Q: 在租校外公寓的时候，有必要找第三方中介机构吗？**  
 A: 通过在上一个问题中介绍的方法和资源，可以很直观的找到学校附近每一个校外公寓的地址、官网、电话以及评价。  
