@@ -145,6 +145,7 @@ _<font color="grey">Locations of Visitors: </font>_
 </div><br>
 
 <div id="google_translate_element" style="float:left"></div>
+<br>
 <div style="color: grey">
 Page Built on:
 <i><script type="text/javascript"> document.write(document.lastModified); </script></i>

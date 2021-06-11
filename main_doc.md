@@ -23,7 +23,7 @@ function googleTranslateElementInit() {
 </script>
 <script async src="//translate.google.cn/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<div style="padding-bottom: 20px">
+<div style="padding-bottom: 22px">
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
