@@ -9,7 +9,7 @@
 </script>
 <script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<div id="google_translate_element" style="float:right"></div>
+<div id="google_translate_element" style="float:right; position: absolute;"></div>
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'zh'}, 'google_translate_element');
@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
 </script>
 <script async src="//translate.google.cn/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<h1 style="margin: 0 auto; text-align: center; font-weight: bold; position: absolute;">
+<h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
 Project MinG/CNS
 </h1>
 
