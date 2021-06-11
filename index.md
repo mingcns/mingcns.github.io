@@ -116,7 +116,7 @@ _<font color="grey">Authors, co-editors, and contributors participating/particip
 ---
 
 <div id="disqus_thread"></div>
-<script>
+<script async>
     var disqus_config = function () {
     this.page.url = 'https://www.mingcns.org/';
     this.page.identifier = 'index';
