@@ -672,7 +672,7 @@ permalink: /non-hrl-apt/
 房型和价格：
 * 2B2B $2000±
 * 1B1B $1425±
-* Studio $1165± 
+* Studio $1165±
 * 价格为整套公寓的价格
 
 交通：
@@ -718,7 +718,7 @@ Eligibility:
 **Q: 有什么校外公寓推荐吗？**  
 A: 每个人对公寓的价格、条件及地理位置的要求都不相同，无法进行推荐，但是可以参考以下链接进行筛选。  
 * 学校官方做的关于校外公寓的 Survey:
-[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results) 
+[Twin Cities Off-Campus Housing Survey Results](http://usenate.umn.edu/campus-housing-survey-results/twin-cities-campus-housing-survey-results)
 
 **Q: 有什么校外公寓可以短租吗？**    
 A：学校周围提供短租的公寓有：  
@@ -784,10 +784,26 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 Authors, co-editors, and contributors of this documentation:
 
 * Chang, Yibo
-
 * Sun, Haoyue
 
 ---
+
+<div id="disqus_thread"></div>
+<script async>
+    var disqus_config = function () {
+    this.page.url = 'https://www.mingcns.org/non-hrl-apt/';
+    this.page.identifier = 'non-hrl-apt';
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://mingcns.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
