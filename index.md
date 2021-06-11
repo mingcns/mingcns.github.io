@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
 </script>
 <script async src="//translate.google.cn/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
+<h1 style="margin: 0 auto; text-align: center; font-weight: bold; position: absolute;">
 Project MinG/CNS
 </h1>
 
