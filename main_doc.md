@@ -18,7 +18,7 @@ permalink: /guidebook/
 <div id="google_translate_element" style="float:right"></div><script>
 function googleTranslateElementInit() {
 new google.translate.TranslateElement({
-pageLanguage: 'en'
+pageLanguage: 'zh'
 }, 'google_translate_element');
 }
 </script>
