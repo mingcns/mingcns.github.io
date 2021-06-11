@@ -144,7 +144,7 @@ _<font color="grey">Locations of Visitors: </font>_
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
 </div><br>
 
-<div style="float:left"><div id="google_translate_element"></div></div>
+<div><div id="google_translate_element" style="float:left"></div></div>
 
 <div style="color: grey">
 Page Built on:
