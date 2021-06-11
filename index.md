@@ -9,7 +9,7 @@
 </script>
 <script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<div id="google_translate_element" style="float:right; position: absolute;"></div>
+<div id="google_translate_element" style="text-align: right; margin:0px auto 0px auto; position: absolute;"></div>
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'zh'}, 'google_translate_element');
