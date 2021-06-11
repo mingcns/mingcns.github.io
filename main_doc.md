@@ -14,6 +14,15 @@ permalink: /guidebook/
   gtag('config', 'G-4DT3EE5Z3Q');
 </script>
 <script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div id="google_translate_element"></div><script>
+
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({
+pageLanguage: 'zh'
+}, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 
 <div>
 <a href="http://www.mingcns.org">返回文档索引主页</a>
