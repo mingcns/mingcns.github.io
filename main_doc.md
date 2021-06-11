@@ -13,6 +13,7 @@ permalink: /guidebook/
 
   gtag('config', 'G-4DT3EE5Z3Q');
 </script>
+<script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <div>
 <a href="http://www.mingcns.org">返回文档索引主页</a>
