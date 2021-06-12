@@ -123,6 +123,18 @@ _<font color="grey">Authors, co-editors, and contributors participating/particip
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar Ad Window -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3457849876540251"
+     data-ad-slot="4851896809"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div id="disqus_thread"></div>
 <script async>
     var disqus_config = function () {
