@@ -103,7 +103,7 @@ A：学校可以为办理F-1签证的同学可以使用电子版的I-20文件；
 学校不会为办理J-1签证的同学提供电子版的DS-2019文件；请学生于办理J-1签证前向学校申请寄送DS-2019文件；
 
 **Q：学校要求2021 Fall开学前接种新冠疫苗吗？请问我可以到校之后注射新冠疫苗吗？**  
-A：学校Fall 2021不强制要求学生、员工和教授到校前注射新冠疫苗, 具体信息请参考 06/14/2021发送的[校长邮件](https://view.ecommunications2.umn.edu/?qs=65f3f83fbbf47b6e1d8207cfae57c288f6a11d857c12e2ef9914fb48f25744c7c712f04ad93bab7eb1dd7b21e5c491cafafbb5d918e6c3bc9fd4f24e127a0bfbebadb23dddbe4dd9408478344ca1e711)
+A：学校Fall 2021不强制要求学生、员工和教授到校前注射新冠疫苗, 具体信息请参考 06/14/2021发送的[校长邮件](https://view.ecommunications2.umn.edu/?qs=65f3f83fbbf47b6e1d8207cfae57c288f6a11d857c12e2ef9914fb48f25744c7c712f04ad93bab7eb1dd7b21e5c491cafafbb5d918e6c3bc9fd4f24e127a0bfbebadb23dddbe4dd9408478344ca1e711)  
 随着疫苗的普及，学校现在为所有的学生、员工和教授免费注射新冠疫苗。具体信息请查看[COVID-19 Vaccine FAQs](https://drive.google.com/file/d/1xhlAXKkDVp9nSY-w7UA28OENpn0CfD_f/view)并查看学校的官方邮件预约注射疫苗.
 
 
