@@ -171,7 +171,9 @@ ANA 官宣微博: [ANA上线了中国→美国路线，转机无需入境，轻�
 * 满足 China Transit Program 的所有条件: [China Transit Program: Find out if you're eligible - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-eligibility.html).\
 具体解读可以参阅 **北美票帝** 微信公众号文章: [赴美中转：加拿大转机指南，免签政策+香港出发的疑惑](https://mp.weixin.qq.com/s/aRaAFMUCpZu-hIl065Spnw)
 
-加拿大并不要求经过加拿大转机的机票为联程，但请注意 China Transit Program 的航司限制以及出发城市限制（譬如国航的 HGH-YVR 后面接加航即不满足CTP，因为杭州不是CTP eligible city）。一般来说，我们建议购买加航 (Air Canada) 的联程机票。
+加拿大并不要求经过加拿大转机的机票必须要为联程，但请注意 China Transit Program 的 **出入境航司限制** 以及 **出发城市限制** （譬如国航的 HGH-YVR 后接加航即不满足CTP，因为杭州不是CTP eligible city）。
+
+一般来说，我们建议官网购买加航 (Air Canada) 的联程机票: [aircanada.com](https://www.aircanada.com/cn/zh/aco/home.html)
 
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
