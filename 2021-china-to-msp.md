@@ -42,7 +42,7 @@ function googleTranslateElementInit() {
 {:toc}
 
 
-## 到达机场
+## 目的地机场
 
 University of Minnesota Twin Cities 位于美国明尼苏达州 Minneapolis 和 St. Paul 双子城地区，最近的有固定航班的商业机场为
 Minneapolis–Saint Paul International Airport，三字代码为 **MSP** 。
@@ -134,7 +134,7 @@ Minneapolis–Saint Paul International Airport，三字代码为 **MSP** 。
 
 如果有行李托运且机票为 **分开购买**，不建议购买东方航空以及廉价航空从国内飞往首尔仁川的飞机。因为地勤原因以及航司规定，即使在存在 interline 行李协议的情况下，这些航司仍可能无法在分开购买的两张票上直挂行李。
 
-关于 Interline 行李直挂协议是什么，可以参考 **北美票帝** 微信公众号 2021年6月14日的推文：[赴美|机票知识：常见航司的行李直挂协议](https://mp.weixin.qq.com/s/zX8tH_ali1HUIBnyfiusVw)。
+关于 Interline 行李直挂协议是什么，可以参考 **北美票帝** 微信公众号 2021年6月14日的推文：[赴美｜机票知识：常见航司的行李直挂协议](https://mp.weixin.qq.com/s/zX8tH_ali1HUIBnyfiusVw)。
 
 ### 日本转机
 
