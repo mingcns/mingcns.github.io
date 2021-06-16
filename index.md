@@ -33,6 +33,7 @@ Project MinG/CNS
 - **关于 Fall 2021 学期的常见问题 (FAQ): [mingcns.org/faq-fall2020](https://www.mingcns.org/faq-fall2021/)**
 
 - **2021 疫情下赴明大航线指南: [mingcns.org/2021-china-to-msp](https://www.mingcns.org/2021-china-to-msp/)**
+
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
