@@ -107,6 +107,7 @@ _<font color="grey">Authors, co-editors, and contributors participating/particip
 * <font color="grey">Cui, Jiahao</font>
 * <font color="grey">Ding, Yifan</font>
 * <font color="grey">Feng, Anita</font>
+* <font color="grey">Ge, Yinhan</font>
 * <font color="grey">Hu, Xinyi</font>
 * <font color="grey">Law, Chingyau</font>
 * <font color="grey">Liu, Jingyan</font>
