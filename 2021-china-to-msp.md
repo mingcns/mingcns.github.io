@@ -42,15 +42,25 @@ function googleTranslateElementInit() {
 {:toc}
 
 
-## 使用说明
-1. 将此文件 **duplicate** 到Repo的根目录，并且重命名为一个合适的名字（不要删除原template）。
-1. 替换第三第四行的 网页title 和 permalink 成对应新文档的合适名字。
-1. Markdown源代码每行原则上不超过100个字符，最多不超过120个字符，添加链接时除外。
-1. 所有增加新文档的操作请在 **Branch** 上编写，完成后于GitHub上发起Pull Request，
-请保证至少添加了 TrotylTN 作为该PR的reviewer。 **请不要** 直接commit新文档到master。
+## 到达机场
 
-## 删除[使用说明](#使用说明)跟这一行后，从这里开始编写正文，目录将根据Headings自动生成。
+University of Minnesota Twin Cities 位于美国明尼苏达州 Minneapolis 和 St. Paul 双子城地区，最近的有固定航班的商业机场为
+Minneapolis–Saint Paul International Airport，三字代码为 **MSP** 。
 
+从到达机场前往学校的方式请参见 [核心指南-从MSP机场到学校](https://www.mingcns.org/guidebook/#%E4%BB%8Emsp%E6%9C%BA%E5%9C%BA%E5%88%B0%E5%AD%A6%E6%A0%A1) 一章。
+
+## 疫情下中国大陆出境保留航班列表
+请参考各家航空公司官方公布的保留航班列表，或参考微博 @北美票帝 的置顶微博：
+[保留航班列表（不含港澳台）](https://m.weibo.cn/status/4600789575933284)。
+
+请注意，航司正在售卖的机票并不代表一定能飞，请再三确认航司现在正在执行的保留航班列表以防买不到不能飞的机票耽误行程。
+
+## 机票购买思路
+由于目前中国大陆仍在实行严格的航班限制政策，可以出境的航班非常的有限，
+不像以往可以轻松直接买到各大城市机场直接到达MSP的联程机票。
+与此同时由于疫情，美国的国内航班价格目前处于相对便宜的价位。
+因此，可以考虑先购买一张到达美国主要门户城市的机票，随后单独购买一张预留了 **足够入境转机时间** 的前往MSP的机票。
+关于这样分开购票潜在的风险，可以参考核心指南中 [分票组合/Hacker Fare](https://www.mingcns.org/guidebook/#%E5%85%B3%E4%BA%8E%E5%88%86%E7%A5%A8%E7%BB%84%E5%90%88hacker-fare) 的缺点一章
 
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
