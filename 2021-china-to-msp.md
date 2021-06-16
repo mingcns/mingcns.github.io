@@ -198,6 +198,8 @@ ANA 官宣微博: [ANA上线了中国→美国路线，转机无需入境，轻�
   * SQ24 SIN-JFK Daily
   * SQ12 SIN-NRT-LAX 周一 周三 周六 周日
 
+新加坡航空官网: [Singapore Airlines Official Website](https://www.singaporeair.com/zh_CN/cn/home#/book/bookflight)
+
 
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
