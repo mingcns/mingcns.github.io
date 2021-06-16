@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2021 赴明大航线指南"
+title: "2021 疫情下赴明大航线指南"
 permalink: /2021-china-to-msp/
 ---
 
@@ -27,7 +27,7 @@ function googleTranslateElementInit() {
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 2021 赴明大航线指南
+# 2021 疫情下赴明大航线指南
 {:.no_toc}
 
 <div align="right">
