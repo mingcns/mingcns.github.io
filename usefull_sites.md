@@ -59,7 +59,7 @@ function googleTranslateElementInit() {
 ## 生活类
 
 ### 公交
-  * [Metro Transit](https://www.uber.com/)
+  * [Metro Transit](https://www.metrotransit.org/home)
   * [Transit](https://transitapp.com/)
   * [Gopher Trip](https://www.pts.umn.edu/bus/gophertrip)
 
