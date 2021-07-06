@@ -330,9 +330,9 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 
 ### 临时宿舍
 
-学校对国际生提供临时宿舍服务（需付费，$30/night），具体情况以可以参照此链接:
+学校对国际生提供临时宿舍服务（需付费，$35/night），具体情况以可以参照此链接:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
-于2020年6月2日开始接受预定，最早2020年7月27日可以入住。  
+最早于2021年7月25日可以入住，8月27日必须搬出。  
 
 Check-in 时间及地址：  
 前台24x7有人  
@@ -458,7 +458,7 @@ Orientation 只有一天，将在一天内完成 Immigration Check-in 以及面�
 ### Global Gopher Event (GGE)
 
 <!-- TODO(tnz): check the time below later. -->
-时间：2020年8月27日 - 9月1日
+时间：2021年8月25日 - 8月27日(线上)，9月1日 - 9月6日(线下，与WW同时进行)
 
 GGE 可以理解为是一个针对国际生的 Welcome Week (WW)。WW 里会很泛的介绍许多学校资源、逛校园。
 而 GGE 则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源（比如 Writing Center，ISSS 的各类服务）。  
