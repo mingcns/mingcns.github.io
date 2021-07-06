@@ -127,7 +127,7 @@ Student Legal Service Address (就在西岸天桥上):
   * [Student Engagement](http://engage.umn.edu/)
 
 ## Provided by ISSS
-  * [Academic Counseling](https://isss.umn.edu/Academics/academic-counseling.html)
+  * ~~[Academic Counseling](https://isss.umn.edu/Academics/academic-counseling.html)~~
 
   * [International Buddy Program](https://isss.umn.edu/programs/interbuddy/)
 
