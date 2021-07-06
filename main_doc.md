@@ -322,11 +322,11 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
     [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
     [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
     * 更多关于明尼轻轨系统的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/) 文档。
-1. **学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，
+1. ~~**学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，
 地点在 Terminal 1 的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
-[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
+[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)~~ 因为疫情暂停服务了。
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
-1. 其他交通方式：[https://isss.umn.edu/new/transportation.html](https://isss.umn.edu/new/transportation.html)
+1. ~~其他交通方式：[https://isss.umn.edu/new/transportation.html](https://isss.umn.edu/new/transportation.html)~~
 
 ### 临时宿舍
 
