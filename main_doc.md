@@ -99,7 +99,7 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
         注：是添加 Gmail Account! Gmail Account! Gmail Account! 不是其他！不是其他！不是其他！
         * 使用第三方客户端：请参考学校IT部门的 [介绍](https://it.umn.edu/using-gmail)。  
     * 激活邮箱后，我们 **强烈建议** 所有人订阅 ISSS Weekly Update:
-    [https://isss.umn.edu/weeklyupdate/default.html](https://isss.umn.edu/weeklyupdate/default.html)
+    [https://isss.umn.edu/isss-weekly-update](https://isss.umn.edu/isss-weekly-update)
 
 
 ### Checklist
