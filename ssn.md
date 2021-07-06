@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本文仅供参考，不构成任何法律上的意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-06-05)
+(Version: 2021-07-06)
 </div><br>
 
 ## 目录
@@ -61,14 +61,14 @@ SSN 的用途如下：
 
 如上述所说的，如果你需要在美国合法工作，你就必须拥有一个 SSN。
 
-学校 ISSS 对申领 SSN 有详细的介绍：[https://isss.umn.edu/INSGen/ssn.html](https://isss.umn.edu/INSGen/ssn.html)
+学校 ISSS 对申领 SSN 有详细的介绍：[https://isss.umn.edu/resources/social-security-number](https://isss.umn.edu/resources/social-security-number)
 
-申请 SSN 的大致流程如下（请以[上述链接](https://isss.umn.edu/INSGen/ssn.html)为准）：
+申请 SSN 的大致流程如下（请以[上述链接](https://isss.umn.edu/resources/social-security-number)为准）：
 1. 找一份工作
     * 校内工作需要向雇主部门领取一份 Verification of Employment:
-        * F-1 身份需要一份由雇主部门抬头纸打印的 [Verification of F-1 Student's On-Campus Job](https://isss.umn.edu/forms/pdf/other/SSletter.pdf)
+        * F-1 身份需要一份由雇主部门抬头纸打印的 [Verification of F-1 Student's On-Campus Job](https://isss.umn.edu/sites/isss.umn.edu/files/documents/SSletter.pdf)
         * J-1 身份同样也需要一份由雇主部门开具的 Employmnet Authorization Letter。详情请咨询 ISSS。
-    * 校外工作需要申请 [CPT](https://isss.umn.edu/fstudent/cpt/) 或者 [OPT](https://isss.umn.edu/fstudent/opt/)
+    * 校外工作需要申请 [CPT](https://isss.umn.edu/fstudents/employment/cpt) 或者 [OPT](https://isss.umn.edu/fstudents/employment/opt)
 2. 携带适当的证件前往 [Social Security Administration Office](https://goo.gl/maps/FabsSgzpzy6CtYXz5)
     * F-1：相应的工作证明文件（Offer Letter）、Verication of Employment、护照、I-20、**I-94**
     * J-1：相应的工作证明文件（Offer Letter）、Verication of Employment、护照、DS-2019、**I-94**
