@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-12)
+(Version: 2021-07-06)
 </div><br>
 
 ## 目录 Table of Contents
@@ -127,7 +127,7 @@ Student Legal Service Address (就在西岸天桥上):
   * [Student Engagement](http://engage.umn.edu/)
 
 ## Provided by ISSS
-  * [Academic Counseling](https://isss.umn.edu/Academics/academic-counseling.html)
+  * ~~[Academic Counseling](https://isss.umn.edu/Academics/academic-counseling.html)~~
 
   * [International Buddy Program](https://isss.umn.edu/programs/interbuddy/)
 

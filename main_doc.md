@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-05-11)
+(Version: 2021-07-06)
 </div><br>
 
 
@@ -99,7 +99,7 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
         注：是添加 Gmail Account! Gmail Account! Gmail Account! 不是其他！不是其他！不是其他！
         * 使用第三方客户端：请参考学校IT部门的 [介绍](https://it.umn.edu/using-gmail)。  
     * 激活邮箱后，我们 **强烈建议** 所有人订阅 ISSS Weekly Update:
-    [https://isss.umn.edu/weeklyupdate/default.html](https://isss.umn.edu/weeklyupdate/default.html)
+    [https://isss.umn.edu/isss-weekly-update](https://isss.umn.edu/isss-weekly-update)
 
 
 ### Checklist
@@ -322,11 +322,11 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
     [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
     [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
     * 更多关于明尼轻轨系统的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/) 文档。
-1. **学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，
+1. ~~**学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，
 地点在 Terminal 1 的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
-[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)
+[Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)~~ 因为疫情暂停服务了。
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
-1. 其他交通方式：[https://isss.umn.edu/new/transportation.html](https://isss.umn.edu/new/transportation.html)
+1. ~~其他交通方式：[https://isss.umn.edu/new/transportation.html](https://isss.umn.edu/new/transportation.html)~~
 
 ### 临时宿舍
 
@@ -1188,11 +1188,11 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
 [Student Health Benefit Plan](https://shb.umn.edu/health-plans/shbp-home)。
 
 1. **日期与价格**  
-    1. 2020秋季学期医保周期自08/24/2020开始至01/18/2021结束，牙医保险于09/01/2020起至01/31/2021结束。
-    1. 2021春季学期医保周期自01/19/2021开始至08/22/2021结束，牙医保险于02/01/2021起至08/31/2021结束。
-    1. 常规医保价格为$1272/每学期（Summer Term包含在春季学期内，单独购买为$648每学期）。
-    1. SHBP包含洗牙等基础预防性牙科服务，但是不覆盖拔牙等其他牙医服务。牙医保险是需要另外购买的，价格为$498/每年
-    （如果学生同时enroll春季秋季学期，费用将会以每学期$249的形式出现在账单上）
+    1. 2021秋季学期医保周期自08/23/2021开始至01/17/2022结束，牙医保险于09/01/2021起至01/31/2022结束。
+    1. 2022春季学期医保周期自01/18/2022开始至08/21/2022结束，牙医保险于02/01/2022起至08/31/2022结束。
+    1. 常规医保价格为$1398/每学期（Summer Term包含在春季学期内，单独购买为$690每学期）。
+    1. SHBP包含洗牙等基础预防性牙科服务，但是不覆盖拔牙等其他牙医服务。牙医保险是需要另外购买的，价格为$663.12/每年
+    （如果学生同时enroll春季秋季学期，费用将会以每学期$331.56的形式出现在账单上）
     1. 详见：[https://shb.umn.edu/students-and-scholars/shbp-dates-cost](https://shb.umn.edu/students-and-scholars/shbp-dates-cost)  <br><br>
     1. 如果研究生（硕士和博士）有学院提供的 Graduate Assistant Health Plan，其覆盖范围一般为常规医保+牙医保险。详情请参考以下链接：[Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)
 
