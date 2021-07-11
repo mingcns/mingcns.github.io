@@ -32,7 +32,9 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本FAQ非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-06-16)
+
+(Version: 2021-07-6)
+
 </div><br>
 
 ## 目录
@@ -67,7 +69,8 @@ A: 可以，需要学生持有Program Start Date在2021年8月1日后的I20表�
 
 ## ISSS的FAQ
 
-ISSS 编写了一份详细的关于 Fall 2021 学期的常见问题回答。原文：[Information About Fall 2021 for New International Students](https://isss.umn.edu/office/announcements/f21/)  
+ISSS 编写了一份详细的关于 Fall 2021 学期的常见问题回答。原文：[Information About Fall 2021 for New International Students](https://isss.umn.edu/news/fall-2021-information-new-international-students)    
+[Information About Fall 2021 for continuing International Students](https://isss.umn.edu/news/faq-fall21-continuing)
 
 以下是其于本文编写时的目录：  
 General questions  
@@ -94,7 +97,6 @@ Housing
 * On-Campus Housing
 * Off-Campus Housing
 
-[PDF版文件点这里](https://isss.umn.edu/office/announcements/f21/f21new.pdf)
 
 **以下问题节选自ISSS的Fall 2021 学期的常见问题回答**
 
@@ -112,9 +114,8 @@ A：学校Fall 2021不强制要求学生、员工和教授到校前注射新冠�
 
 学校 **研究生** 招生办关于 COVID-19 的公告与 FAQ：[https://grad.umn.edu/covid19](https://grad.umn.edu/covid19)
 
-学校国际生办公室 (ISSS) 关于 COVID-19 的公告：[https://isss.umn.edu/office/announcements/covid19.html](https://isss.umn.edu/office/announcements/covid19.html)  
 ISSS COVID-19 FAQ (Google Docs): [http://z.umn.edu/issscovidfaq](http://z.umn.edu/issscovidfaq)  
-强烈建议所有人订阅 ISSS Weekly Update: [https://isss.umn.edu/weeklyupdate/default.html](https://isss.umn.edu/weeklyupdate/default.html)
+强烈建议所有人订阅 ISSS Weekly Update: [https://isss.umn.edu/isss-weekly-update](https://isss.umn.edu/isss-weekly-update)
 
 如果您还有上述 FAQ 未提及的疑问，请参考我们的 [新生指南主文档](https://www.mingcns.org/guidebook/)，
 特别是其 [FAQ 章节](https://www.mingcns.org/guidebook/#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98faq)。

@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本清单不构成任何推荐建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-05)
+(Version: 2021-07-04)
 </div><br>
 
 ## 目录
@@ -59,7 +59,7 @@ function googleTranslateElementInit() {
 ## 生活类
 
 ### 公交
-  * [Metro Transit](https://www.uber.com/)
+  * [Metro Transit](https://www.metrotransit.org/home)
   * [Transit](https://transitapp.com/)
   * [Gopher Trip](https://www.pts.umn.edu/bus/gophertrip)
 
