@@ -326,7 +326,8 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 地点在 Terminal 1 的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)~~ 因为疫情暂停服务了。
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
-1. ~~其他交通方式：[https://isss.umn.edu/new/transportation.html](https://isss.umn.edu/new/transportation.html)~~
+1. 其他交通方式：[https://isss.umn.edu/new-students/prepare/transportation](https://isss.umn.edu/new-students/prepare/transportation)  
+[https://www.mspairport.com/directions/ground-transportation](https://www.mspairport.com/directions/ground-transportation)
 
 ### 临时宿舍
 
