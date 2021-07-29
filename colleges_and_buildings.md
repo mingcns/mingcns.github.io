@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-05-12)
+(Version: 2021-07-29)
 </div><br>
 
 
@@ -346,8 +346,8 @@ Health Science相关的课程大部分在此上课，里面包含很多医学专
 
 #### MPLS校区其他楼宇（不完全）
 
-**TCF Bank Stadium**  
-学校橄榄球队Golden Gopher的主场。新生在Welcome Week的时候可以获得一张免费的门票，用来进入看球赛，并拍集体照留念。
+**Huntington Stadium**  
+前TCF Stadium，因TCF Bank与Huntington Bank合并更名为Huntington Stadium。学校橄榄球队Golden Gopher的主场。新生在Welcome Week的时候可以获得一张免费的门票，用来进入看球赛，并拍集体照留念。
 
 **CCRB，CMRR等**  
 位于TCF Bank Stadium后方，学校新建的生命科学及医学研究设施，也有教授的办公室坐落于此，
