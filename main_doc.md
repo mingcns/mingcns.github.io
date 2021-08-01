@@ -805,7 +805,6 @@ Kimchi Tofu House | 韩餐 | [307 SE Oak St, Minneapolis, MN 55414](https://goo.
 Bona Vietnamese Restaurant | 越南粉 | [815 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/edGNRc213XbY1zHf9)
 Korea Restaurant | 韩餐 | [211 SE Oak St, Minneapolis, MN 55414](https://goo.gl/maps/MdGxjvQMpbfTwMTG6)
 大排档 Sidewalk Kitchen | 粤菜 | [817 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/RkRo9UNWW2Yaz14fA)
-Haiku Japanese Bistro | 美式日料 | [620 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/a4V7i6o9FfxGxvfs6)
 聚烤屋 The Cajun House | 烧烤、海鲜 | [2600 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/CqLXpda8EbK9jZ3b7)
 宽窄串串火锅 Legendary Spice Hotpot | 烧烤、火锅 | [2501 University Avenue Southeast, Minneapolis, MN](https://goo.gl/maps/FW7vRzmE7Bdc9Dtm6)
 
