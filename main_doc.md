@@ -770,7 +770,7 @@ _<font color="red"> 免责声明：以上关于银行所有内容（包括但不
 1. **电子支票（e-check）**  
 这个是最方便也最多人用的一种方法，E-check 并不需要你有实体支票，只要有 Checking/Savings Account 就可以使用。
 具体操作如下：
-    1. 访问 [MyU](myu.umn.edu)
+    1. 访问 [MyU](https://myu.umn.edu)
     2. 点击 Finance 标签
     3. 点击 Bill 按钮，随后点击 Make a payment （请注意此处需要你的浏览器 **允许弹出窗口** ）。
     否则支付界面将无法弹出
