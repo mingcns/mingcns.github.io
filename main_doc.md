@@ -812,7 +812,7 @@ Korea Restaurant | 韩餐 | [211 SE Oak St, Minneapolis, MN 55414](https://goo.g
 
 饭店名 | 主打菜系 | 地址
  --- | --- | ---
-忘不了 Pagoda | 中餐 | [1417 4th St SE, Minneapolis, MN 55414](https://goo.gl/maps/QYJSkj9L3ZZZSWSV7)
+~~忘不了 Pagoda~~ | ~~中餐~~ | [~~1417 4th St SE, Minneapolis, MN 55414~~](https://goo.gl/maps/QYJSkj9L3ZZZSWSV7)
 Camdi | 越南、粤菜 | [1325 SE 4th St, Minneapolis, MN 55414](https://goo.gl/maps/kW1cFCfyMiLPg8Y79)
 味鼎 Tasty Pot | 台湾臭臭锅 | [423 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/YZeM9wCS1NYpyBnJ6)
 Kbop Korean Bistro | 韩餐 | [425 13th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/z28zwpGbhf9TU32Z6)
