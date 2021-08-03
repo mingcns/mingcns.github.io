@@ -92,7 +92,7 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 
 这里是基础医保的[官方小册子(2021-2022)](https://shb.umn.edu/sites/shb.umn.edu/files/2021-2022_shbp_brochure_web_final.pdf)  
 这里是基础牙保的[官方小册子(2021-2022)](https://shb.umn.edu/sites/shb.umn.edu/files/2021-2022_sdp_preventive_plan_spd.pdf)  
-这里是 Blue Cross Minnesota 的介绍：
+这里是学校对于各种Plan的介绍：
 * [Students Health & Benefit Plan](https://shb.umn.edu/health-plans/shbp-home)
 * [Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)
 * [Residents, Fellow and Interns Health Plan](https://shb.umn.edu/health-plans/rfi)
