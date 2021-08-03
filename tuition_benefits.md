@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-08-02)
+(Version: 2021-08-03)
 </div><br>
 
 ## 目录
@@ -90,16 +90,16 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 1. 医保包含了[Redpoint紧急旅行支援项目](https://boynton.umn.edu/clinics/urgent-care)
 1. 免费翻译服务。如果对自己的语言能力不够自信的，在 Boynton 前台 Check-in 的时候可以要求一名翻译 (Interpreter) 陪同就诊。  
 
-这里是基础医保的[官方小册子(2020-2021)](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_shbp_brochure_web_final.pdf)  
-这里是基础牙保的[官方小册子(2020-2021)](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_preventive_plan_spd.pdf)
+这里是基础医保的[官方小册子(2021-2022)](https://shb.umn.edu/sites/shb.umn.edu/files/2021-2022_shbp_brochure_web_final.pdf)  
+这里是基础牙保的[官方小册子(2021-2022)](https://shb.umn.edu/sites/shb.umn.edu/files/2021-2022_sdp_preventive_plan_spd.pdf)  
 这里是 Blue Cross Minnesota 的介绍：
 * [Students Health & Benefit Plan](https://shb.umn.edu/health-plans/shbp-home)
 * [Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)
 * [Residents, Fellow and Interns Health Plan](https://shb.umn.edu/health-plans/rfi)
 
 关于附加牙保 (Dental Buy-up Plan) 的信息如下 (2020-2021)：
-* [2020-2021 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_spd.pdf)
-* [2020-2021 Dental Plans Coverage](https://shb.umn.edu/sites/shb.umn.edu/files/2020-2021_sdp_buy-up_plan_sbc.pdf)
+* [2021-2022 Student Dental Plans](https://shb.umn.edu/sites/shb.umn.edu/files/2021-2022_sdp_buy-up_plan_spd.pdf)
+* [2021-2022 Dental Plans Coverage](https://shb.umn.edu/sites/shb.umn.edu/files/2021-2022_sdp_buy-up_plan_sbc.pdf)
 
 关于医保的通用简介请参考：[《核心指南--医疗保险》](https://www.mingcns.org/guidebook/#%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9)  
 
