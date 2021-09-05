@@ -919,7 +919,7 @@ East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。
 
 #### U-Pass
 
-购买 U-Pass 学生版需要 $114/Semester   
+购买 [U-Pass](https://www.mingcns.org/light-rail/#u-pass) 学生版需要 $114/Semester (Fall 2021 Semester仅需要$57)。   
 
 持有 U-Pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
 
