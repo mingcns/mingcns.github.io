@@ -485,7 +485,7 @@ GGE 可以理解为是一个针对国际生的 Welcome Week (WW)。WW 里会很�
 
 ### UCard校园卡
 
-UCard 其实到学校就可以去 UCard Office (位于Coffman G层) 凭护照领取了，不用等到 Orientation 再领取。
+UCard 其实到学校就可以去 UCard Office (位于Coffman G层) 凭护照领取了，不用等到 Orientation 再领取。UCard 照片可以自己上传或当场拍摄。我们建议大家自己上传心仪的照片，以避免当场拍照时因为摄影技术问题带来的烦恼。上传链接：[Upload a Photo of Your Choice for Your UCard!](https://ucard.umn.edu/umtc/photo-upload)。注意，如果选择自己上传照片，请于预计领取日期前至少5个工作日上传，以避免延迟领取。
 
 **关于UCard的介绍:**  
 UCard，也就是校园卡，是学生在 UMN 的几年中用于校内身份证明的一个证件。UCard 除了做证件以外，还内置了几个账户，
