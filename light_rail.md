@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-03-12)
+(Version: 2021-09-05)
 </div><br>
 
 ## 目录
@@ -129,6 +129,8 @@ Metro Transit 官方使用说明：
   1. 关于GoTo Card：[Metro Transit - Go-To Card User's Guide](https://www.metrotransit.org/go-to-card-users-guide)
 
 ## 费用
+
+【Time Sensitive！】据 MetroTransit [官网消息](https://www.metrotransit.org/DollarRides)，2021年9月和10月所有的公交（包括轻轨）费用均为1美元。
 
 轻轨费用分有普通费用和高峰期费用两种。
   1. 高峰期 (Rush Hours) 费用$2.5/票，时间为周一至周五6:00-9:00和15:00-18:30。
@@ -229,7 +231,7 @@ GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另�
 持有 U-Pass 可以在其有效期内无限次数乘坐 Metro Transit 旗下的所有公交和轻轨，
 不包括Express Bus和NorthStar。
 U-Pass 售价$114/学期，需要在
-[UMN PTS - U-Pass - discounted student unlimited transit pass](https://www.pts.umn.edu/bus/upass)
+[UMN PTS - U-Pass - discounted student unlimited transit pass](https://pts.umn.edu/transit/transit-passes/upass-students)
 购买后于 Coffman Information Desk 或 St. Paul Student Center 凭 UCard 领取。
 
 ### Campus Zone Pass
@@ -237,7 +239,7 @@ U-Pass 售价$114/学期，需要在
 ![Campus Zone Pass](https://www.mingcns.org/images/light_rail/Campus_Zone_Pass_Fall2017.png)
 
 图自:
-[www.pts.umn.edu/bus/campus-zone-passu-community](https://www.pts.umn.edu/bus/campus-zone-passu-community)
+[https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community](https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community)
 
 持有Campus Zone Pass可以在绿线的校内三站——West Bank Station, East Bank Station,
 Stadium Village Station——区间内免费乘坐轻轨。Zone Pass 可以在
@@ -247,8 +249,12 @@ Coffman 一层 Information Desk 凭 UCard 领取。
   1. 如遇到警察查票，需要同时出示 U-Pass/Zone Pass 和 UCard。
   1. 同一张UCard每年只能在 Campus Zone Pass 和 U-Pass 中二选一。若已领取了 Zone Pass
   则需要归还 Zone Pass 后才可以购买 U-Pass；如已购买了 U-Pass 则不可以领取 Zone Pass。
-  1. Campus Zone Pass 无法补办。如有丢失则只能等到次年再次领取新的 Zone Pass。
+  1. Campus Zone Pass 如果丢失需要交钱补办
+    * 于 Fall Semester 补办需要24美元
+    * 于 Spring Semester 补办需要16美元
+    * 于 Summer Semester 补办需要8美元
   1. 需要选课后等待24h才可领取 Zone Pass。
+  1. 详情请见: [https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community](https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community)
 
 ## 关于公交
 
