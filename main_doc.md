@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-08-04)
+(Version: 2021-09-05)
 </div><br>
 
 
@@ -903,7 +903,7 @@ A: 无需刷卡，直接上车即可。
 
 #### 轻轨系统
 
-凭 UCard 可以在 Coffman 的 Information Desk 免费领取 Campus Zone Pass，可以在 Green Line 的校内三站 West Bank Station,
+凭 UCard 可以在 Coffman 的 Information Desk 免费领取 [Campus Zone Pass](https://www.mingcns.org/light-rail/#campus-zone-pass)，可以在 Green Line 的校内三站 West Bank Station,
 East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。  
 注: 需要选课后等待24h才可领取 Zone Pass。
 
