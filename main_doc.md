@@ -881,7 +881,7 @@ Willey Hall, Middlebrook Hall (工作日18点30后/周末全天停靠)
 
 - **4th St. Circulator 123**  
 在 MPLS 校区东西岸逆时针绕圈，可以看作是122的逆向。经停 Carlson School, Blegen Hall, Coffman Union, Alumni Center,
-Ridder Arena, 4th St. SE & 15th Ave (Pagoda门口), ~~10th Ave SE & University Ave (The Bridges Apartment 楼下),
+Ridder Arena, 4th St. SE & 15th Ave, ~~10th Ave SE & University Ave (The Bridges Apartment 楼下),
 Law School,~~ <font color="red">新增了 Sanford Hall, Willey Hall</font>
 
 - **St. Paul Campus Circulator 124**  
