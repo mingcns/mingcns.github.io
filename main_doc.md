@@ -856,7 +856,7 @@ Chatime | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/
 Shuang Hur Supermarket 双和St Paul店 | [654 University Ave W, St Paul, MN 55104](https://goo.gl/maps/CAmFQ8pjXgkv8T698)
 United Noodles 联合超市 | [2015 E 24th St, Minneapolis, MN 55404](https://goo.gl/maps/VhPUetG9jFCYfBMy8)
 Shanghai Market 上海超市 | [1546 Como Ave, St Paul, MN 55108](https://goo.gl/maps/G3gRKUtwDKrpTsz18)
-Shanghai Wholesale 上海批发 | [451 Industrial Blvd NE E, Minneapolis, MN 55413](https://goo.gl/maps/hcpS4PwqodcoMqQs7)
+Market Fresh 上海批发 | [1800 Highway 36 West, Roseville, MN 55113](https://goo.gl/maps/e8oDupA3DR37BsFz8)
 Dragon Star 龙星 | [633 W Minnehaha Ave, St Paul, MN 55104](https://goo.gl/maps/d82jfe3gRzPQzXJv8)
 Shuang Hur 双和Mpls Uptown店 | [2712 Nicollet Ave, Minneapolis, MN 55408](https://goo.gl/maps/N7mgcuHBewznK5K17)
 Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/maps/K7VhHA7YmicXabUy7)
