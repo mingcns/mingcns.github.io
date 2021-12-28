@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-06-07)
+(Version: 2021-12-27)
 </div><br>
 
 ## 目录
