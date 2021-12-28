@@ -1591,10 +1591,10 @@ UMN中国代表处微信公众号：UMNChina
     [PTS Walking Guide](https://www.pts.umn.edu/sites/pts.umn.edu/files/walking_guide.pdf)
 
     1. Biking Routes:
-    [Biking & Gopher Way System](https://www.pts.umn.edu/sites/pts.umn.edu/files/bikego.pdf)
+    [Biking & Gopher Way System](https://pts.umn.edu/sites/pts.umn.edu/files/2021-08/bikego.pdf)
 
     1. 校车地图:
-    [PTS Bus Outline Map](https://www.pts.umn.edu/sites/pts.umn.edu/files/styles/panopoly_image_original/public/bus_outline_map_printable.jpg)
+    [PTS Bus Outline Map](https://pts.umn.edu/sites/pts.umn.edu/files/2020-07/bus_outline_map_printable.jpg)
 
     1. All Other Maps: [www.pts.umn.edu/maps](https://www.pts.umn.edu/maps)
 
