@@ -888,7 +888,7 @@ Law School,~~ <font color="red">新增了 Sanford Hall, Willey Hall</font>
 在 St. Paul 校区顺时针绕圈。经停 St. Paul Student Center, Bell Museum, Christensen Lab,
 Veterinary Medical Center, Food Science & Nutrition
 
-[图片版校车地图](https://pts.umn.edu/sites/pts.umn.edu/files/2021-03/903128-PTS-Bus-Route-MODIFIED.jpg)
+[校车线路地图及详情](https://pts.umn.edu/transit/transit-services/campus-buses)
 
 更多学校的地图请查阅本文档末端的 [实用链接 - 各式学校地图](#umn-map-links-anchor)。
 
