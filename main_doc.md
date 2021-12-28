@@ -588,7 +588,7 @@ CTExcel 每年开学季都会有第一个月1美元的优惠活动，找学长�
 _注：如果参与1美元优惠活动，该号码需要在网3个月以上才可以携号转网 (详见下文) 去其他运营商。_~~
 [美国通讯部 FCC](https://www.fcc.gov/consumers/guides/xin-xi-yu-zi-yuan-zhong-guo-dian-xin-mei-zhou-gong-si-jiang-ting-zhi-zai-mei-guo-ti) 于2021年10月通知撤销中国电信美洲公司的通讯类营业执照。中国电信美洲公司于2022年1月3日终止其在美国的业务。
 
-更多关于运营商的评测视频: [Best Cell Phone Plans 2020](https://www.bestphoneplans.net/)  (网站内视频为YouTube)
+更多关于运营商的评测视频: [Best Cell Phone Plans](https://www.bestphoneplans.net/)  (网站内视频为YouTube)
 
 #### 关于携号转网
 
