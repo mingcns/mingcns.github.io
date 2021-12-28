@@ -1594,9 +1594,9 @@ UMN中国代表处微信公众号：UMNChina
     [Biking & Gopher Way System](https://pts.umn.edu/sites/pts.umn.edu/files/2021-08/bikego.pdf)
 
     1. 校车地图:
-    [PTS Bus Outline Map](https://pts.umn.edu/sites/pts.umn.edu/files/2020-07/bus_outline_map_printable.jpg)
+    [PTS Campus Buses](https://pts.umn.edu/transit/transit-services/campus-buses)
 
-    1. All Other Maps: [www.pts.umn.edu/maps](https://www.pts.umn.edu/maps)
+    1. All Other Maps: [https://pts.umn.edu/pts-campus-maps/maps-navigate-campus](https://pts.umn.edu/pts-campus-maps/maps-navigate-campus)
 
 1. 学校ISSS有一个配对在校国际生和新国际生的项目叫做International Buddy Program。IBP旨在让匹配到的在校生为新生提供必要的入学事项引导，
 并建立互帮互助的朋友关系。  
