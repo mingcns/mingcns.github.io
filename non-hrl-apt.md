@@ -153,6 +153,8 @@ function googleTranslateElementInit() {
 * 附近没有中餐厅和超市
 
 ## Dinkytown
+温情提示：Dinkytown 是学校周边最危险的地区之一，是抢劫案的高发区。
+
 ### The Bridges Apartments
 [Google Maps](https://goo.gl/maps/i37sVkj3GSuE6ZFu8)  
 [官网](http://thebridgesdinkytown.com/)
@@ -180,6 +182,96 @@ function googleTranslateElementInit() {
 劣势：
 * 离学校的中心区域较远，对校车的依赖性强
 * 附近街区为抢劫高发区
+
+### Trademark Apartments
+[Google Maps](https://g.page/trademark-apartments?share)  
+[官网](https://www.trademarkdinkytown.com/)
+
+房型和价格：
+* Studio $1300+
+
+交通：
+* 校车122、公交车2路和6路步行约3分钟
+
+优势:
+* 房间新、设施全
+* 公寓服务可以、收快递安全
+* 周边餐馆多
+
+劣势：
+* 房型只有小型studio，同等住宿面积下价格偏高。
+* 周围party聚集点太多周末有时很吵
+
+### The Knoll Apartments
+[Google Maps](https://goo.gl/maps/UnMg8Xs4prf2f2eV6)  
+[官网](https://www.theknolldinkytown.com/)
+
+房型和价格：
+
+* 1B1B $1400+
+* 2B2B $1200+
+* 4B4B $960+
+* Studio $1300+
+* 1B1B Shared $715+
+* 2B2B Shared $625+
+* 4B4B Shared $480+
+* Studio Shared $520+
+
+交通：校车122、公交车2路和6路步行约1分钟
+
+优势:
+* 在宿舍楼Sanford对面，乘坐校车方便
+* 周边餐馆多
+
+劣势：
+* 周围party聚集点太多周末有时很吵
+
+### Uncommon Dinkytown
+[Google Maps](https://goo.gl/maps/MZqiND3eKPYvopX77)  
+[官网](https://www.uncommondinkytown.com/)
+
+房型和价格：
+
+* 1B1B
+* 2B2B
+* 3B3B
+* 4B4B
+* Studio
+* 1B1B Shared
+* 2B2B Shared
+* 3B3B Shared
+* 4B4B Shared
+* Studio Shared
+
+交通：
+* 校车122、公交车2路和6路步行约1分钟
+
+优势:
+* 在宿舍楼Sanford对面，乘坐校车方便
+* 周边餐馆多
+
+劣势：
+* 周围party聚集点太多周末有时很吵
+
+### 412 Lofts
+[Google Maps](https://goo.gl/maps/vxK5WVDVULk19kSt5)  
+[官网](http://www.eastbankcommunities.com/)
+
+房型和价格：
+
+* 1B1B $1449
+* 2B2B $979+
+* 3B2B $929+
+* Studio $1289
+
+交通：
+* 校车122、公交车2路和6路步行约3分钟
+
+优势:
+* 周边餐馆多
+
+劣势：
+* 周围party聚集点太多周末有时很吵
 
 ### Chateau Student Housing Co-op
 [Google Maps](https://goo.gl/maps/TnFd88MZbnaRvKDt9)  
@@ -267,9 +359,33 @@ function googleTranslateElementInit() {
 * Dinktytown中心有很多homeless和瘾君子，不建议太晚回家
 * 由于公寓位于商业区中心，白天较吵
 
+### 1301 University
+[Google Maps](https://goo.gl/maps/uiRWFZipTNojpNyi7)  
+[官网](http://www.1301university.com/)
+
+房型和价格：
+
+* 1B1B
+* 2B2B
+* 2B1B
+* 3B2B
+* 4B2B
+* Studio
+
+交通：
+* 校车121、122、公交车2路、3路和6路步行约3分钟
+
+优势:
+* 距离CEHD很近
+* 周边餐馆多
+
+劣势：
+* 周围party聚集点太多周末有时很吵
+* 周边街道为抢劫案高发区
+
 ### Sydney Hall & Dinkydome
 [Google Maps](https://goo.gl/maps/aJVASwPyJJzXWkbD8)  
-[官网](https://www.eastbankcommunities.com/minneapolis/sydney-hall-and-dinkydome)
+[官网](https://www.eastbankcommunities.com)
 
 房型和价格：
 * 1B1B $1419+
@@ -384,7 +500,7 @@ function googleTranslateElementInit() {
 
 ### The Edge on Oak
 [Google Maps](https://goo.gl/maps/TKSAmWnkM652qeCX6)  
-[官网](https://www.eastbankcommunities.com/minneapolis/edge-on-oak)
+[官网](https://www.eastbankcommunities.com)
 
 房型和价格：
 * 1B1B $1479+
