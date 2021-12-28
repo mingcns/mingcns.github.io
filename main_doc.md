@@ -1226,7 +1226,7 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
 
     1. Enrolled in the University-sponsored **Graduate Assistant Health Plan (GAHP)**  
     所有拥有 TAship、RAship 的Master，Ph.D同学，你们适用于此项豁免。
-    关于提供给拥有 Assistanceship 的研究生的GAHP计划，请参阅
+    关于提供给拥有 Assistantship 的研究生的GAHP计划，请参阅
     [Graduate Assistant Health Plan](https://shb.umn.edu/health-plans/gahp-home)。
 
     1. Residing in your **home country**  
