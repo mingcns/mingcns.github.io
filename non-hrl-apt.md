@@ -127,7 +127,7 @@ function googleTranslateElementInit() {
 * 1B1B Shared $719+
 * 2B2B Shared $444+
 * 2B2B Shared with Study Room $499+
-* Parking $100
+* Parking $100 (Compact), $125 (Full Size)
 
 交通：
 * 校车121步行约6分钟，122步行约2分钟，123步行约6分钟
