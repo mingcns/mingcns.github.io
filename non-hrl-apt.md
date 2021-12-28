@@ -75,7 +75,6 @@ function googleTranslateElementInit() {
 周边：
 * Chipotle 快餐
 * 7 Corner Coffee
-* Republic 酒吧
 
 优势：
 * 性价比高
@@ -103,7 +102,6 @@ function googleTranslateElementInit() {
 周边：
 * 楼对面有 Chipotle 快餐
 * 楼对面有 7 Corner Coffee
-* 楼对面有 Republic 酒吧
 
 优势：
 * 公寓管理优秀
@@ -142,7 +140,6 @@ function googleTranslateElementInit() {
 周边：
 * 楼下有 Chipotle 快餐
 * 楼下有 7 Corner Coffee
-* 楼下有 Republic 酒吧
 
 优势：
 * 性价比高
