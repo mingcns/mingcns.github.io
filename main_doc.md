@@ -423,7 +423,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         1. 学校虽然安排新生于选课后前往 UCard Office 领取 UCard，
         但是其实新生到校后便可前往 UCard Office 凭护照领取 UCard 了， **并无时间限制** 。
             1. 领取 UCard 时会有 Huntington (Former TCF) Bank 的员工询问你是否需要开一个 Huntington Bank 的银行账户。
-            由于 Huntington 是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用Huntington Bank](#关于Huntington-bank)
+            由于 Huntington 是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用Huntington Bank](#关于huntington-bank)
             作为主力账户，请大家自行斟酌。
             更多关于银行的讨论，请参阅本文的 [银行账户与开户流程](#银行账户与开户流程) 章节。
             1. 领取 UCard 时，UCard Office 会询问你是否需要充值 Gopher Gold。
