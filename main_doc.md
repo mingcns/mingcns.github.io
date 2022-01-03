@@ -664,7 +664,13 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
 
 #### 关于Huntington Bank
 
-虽然 Huntington (Former TCF) Bank 是学校所谓的 Official Bank，但是因为其主要服务范围只有双城地区跟部分中西部城市,以 Huntington Bank 作为主力账户会有很多不必要的麻烦。
+虽然 Huntington (Former TCF) Bank 是学校所谓的 Official Bank，但是因为其主要服务范围只有双城地区跟部分中西部城市，且其网银系统十分纤弱，以 Huntington Bank 作为主力账户会有很多不必要的麻烦。从日常使用的角度来看，我们并不推荐。
+
+* Huntington U of M Checking: [https://www.huntington.com/Personal/checking/uofmn](https://www.huntington.com/Personal/checking/uofmn)
+    * 开户时存款$25以上可获得印有学校Logo的卫衣一件。
+    * 可获得印有学校Logo的借记卡。
+    * 以明大学生身份开户可以免除 Month Maintenance Fee。（大部分银行的 Student Checking 都可以免月费）
+
 
 #### 开户流程：
 
