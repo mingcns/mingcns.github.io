@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-12-27)
+(Version: 2022-01-02)
 </div><br>
 
 ## 目录
@@ -794,7 +794,7 @@ function googleTranslateElementInit() {
 房型和价格：
 * 2B2B $2000±
 * 1B1B $1425±
-* Studio $1165±
+* Studio $1300±
 * 价格为整套公寓的价格
 
 交通：
@@ -817,9 +817,31 @@ function googleTranslateElementInit() {
 * 4B4B $730±
 * 4B2B $679+
 
+优势：
+* 性价比较高，但房子比较老；
+* 公寓位于轻轨站附近，交通方便；
+
+劣势：
+* 离学校稍微有点远，不在走路距离以内；
+* 公寓旁边没有中国餐馆/超市；
+* 只有露天车位。
+
+
+### 808 Berry Place apartments
+[Google Maps](https://goo.gl/maps/5ZPKdFbDziXbR4Jk9)  
+[官网](https://www.808berry.com)
+
+房型和价格：
+* 1B1B $1700±
+* 2B2B $2000±
+* 3B2B $2500±
+* Studio $1300±
+* 价格为整套公寓的价格
+
 
 ## Saint Paul Campus 附近
 ### Commonwealth Terrace Cooperative (CTC)
+[Google Maps](https://g.page/UMNCTC?share)  
 [官网](https://www.umnctc.org/live-at-ctc.html)
 
 Eligibility:
@@ -835,6 +857,25 @@ Eligibility:
 * Parking Free
 * 全部可以 Share Room
 * 以上价格为整个 Unit 的价格
+
+
+## 其他地区
+### Como Student Community Cooperative (CSCC)
+[Google Maps](https://g.page/UMNCSCC?share)  
+[官网](https://cscc.umn.edu/)
+
+Eligibility:
+* 仅接受 UMN 在读 Graduate Students (Master 和 Ph.D.) 以及 Upper-level Undergraduate Students (大三以上)
+* 家庭申请有优先权（情侣也算）
+* 申请需要排队
+
+房型：
+* 2B1B $1000±
+* 3B1B $1185
+* Parking Free
+* 全部可以 Share Room
+* 以上价格为整个 Unit 的价格
+
 
 ## 常见问题 FAQ
 **Q: 有什么校外公寓推荐吗？**  
