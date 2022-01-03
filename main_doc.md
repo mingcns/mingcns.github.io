@@ -656,7 +656,7 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
     * ATM位置
         * 校内ATM各个Branch内均有ATM。
         * Coffman Memorial Union G层(Ground Floor)。
-    * 开户奖励：[US Bank Checking $100/$200/$400 开户奖励](https://www.usbank.com/splash/checking/2021Q3C.html)
+    * 开户奖励：[US Bank Checking $300/$500 开户奖励](https://www.uscreditcardguide.com/us-bank-checking/)
 
 以上所提及的银行账户 **开户奖励均需要报税**  
 * 关于税务身份的辨析请阅读：[美国信用卡指南--报税身份辨析](https://www.uscreditcardguide.com/resident-alien-non-resident-alien-us-person-green-card/)
