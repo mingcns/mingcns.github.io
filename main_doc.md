@@ -422,8 +422,8 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         _(使用 Schedule Builder 排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
         1. 学校虽然安排新生于选课后前往 UCard Office 领取 UCard，
         但是其实新生到校后便可前往 UCard Office 凭护照领取 UCard 了， **并无时间限制** 。
-            1. 领取 UCard 时会有 TCF Bank 的员工询问你是否需要开一个 TCF Bank 的银行账户。
-            由于 TCF 是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用TCF Bank](#关于tcf-bank)
+            1. 领取 UCard 时会有 Huntington (Former TCF) Bank 的员工询问你是否需要开一个 Huntington Bank 的银行账户。
+            由于 Huntington 是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用Huntington Bank](#关于Huntington-bank)
             作为主力账户，请大家自行斟酌。
             更多关于银行的讨论，请参阅本文的 [银行账户与开户流程](#银行账户与开户流程) 章节。
             1. 领取 UCard 时，UCard Office 会询问你是否需要充值 Gopher Gold。
@@ -662,11 +662,9 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
 * 关于税务身份的辨析请阅读：[美国信用卡指南--报税身份辨析](https://www.uscreditcardguide.com/resident-alien-non-resident-alien-us-person-green-card/)
 * 这里是ISSS提供的税务相关信息：[ISSS -- Taxes](https://isss.umn.edu/students/support-services/taxes)
 
-#### 关于TCF Bank
+#### 关于Huntington Bank
 
-虽然 TCF Bank 是学校所谓的 Official Bank，但是因为其没有自己独立的 SWIFT CODE 国际汇款 ID (详见下文国际汇款章节介绍)，
-非常不推荐有国际汇款需求的同学开户办理。另外，TCF 的主要服务范围只有双城地区跟部分中西部城市，且网银服务非常纤弱，
-以 TCF Bank 作为主力账户会有很多不必要的麻烦。
+虽然 Huntington (Former TCF) Bank 是学校所谓的 Official Bank，但是因为其主要服务范围只有双城地区跟部分中西部城市,以 Huntington Bank 作为主力账户会有很多不必要的麻烦。
 
 #### 开户流程：
 
@@ -863,11 +861,11 @@ Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/map
 #### 校车系统
 
 - **East Bank Circulator 120**  
-在学校东岸逆时针绕圈。经停 SuperBlock, Clinic & Surgery Center, TCF Bank Stadium, Civil Engineering Building
+在学校东岸逆时针绕圈。经停 SuperBlock, Clinic & Surgery Center, Huntington (Former TCF) Bank Stadium, Civil Engineering Building
 
 - **Campus Connector 121**  
 连接 Minneapolis (MPLS) 和 St. Paul 校区，逆时针行驶。经停 St. Paul Student Center (Bailey Hall), Buford & Gortner Aves,
-State Fair Ground, TCF Stadium, Ridder Arena, Eddy Circle, Bruininks Hall, Blegen Hall, Coffman Union, Alumni Center
+State Fair Ground, Huntington (Former TCF) Stadium, Ridder Arena, Eddy Circle, Bruininks Hall, Blegen Hall, Coffman Union, Alumni Center
 
 - **University Ave Circulator 122**  
 在 MPLS 校区东西岸顺时针绕圈。经停 Carlson School, Law School, Sanford Hall, Eddy Circle, Rec Center (健身房),
