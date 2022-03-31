@@ -56,7 +56,7 @@ function googleTranslateElementInit() {
 1. _(本科新生/转学生)_ 学校国际生办公室 (ISSS) 制作的流程图：
 [https://isss.umn.edu/new/pdf/newugmap.pdf](https://isss.umn.edu/new/pdf/newugmap.pdf)
 
-1. _(研究生)_ 学校国际生办公室 (ISSS) 制作的流程图：
+1. _(研究生，含硕士和博士)_ 学校国际生办公室 (ISSS) 制作的流程图：
 [https://isss.umn.edu/new/pdf/newgradmap.pdf](https://isss.umn.edu/new/pdf/newgradmap.pdf)
 
 
@@ -121,7 +121,7 @@ _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.chec
         如果第一次没有考到80分也无需气馁，可以通过刷分至100分来获取上 CHEM1061 的资格。
     * Placement test 中 Language 部分，有能力阅读此文档的（中文使用者）皆<font color="red">不需要</font>考。
 
-_(研究生/博士生)_ 没有统一的 Checklist，请联系自己的院系获取相关事宜。
+_(硕士生/博士生)_ 没有统一的 Checklist，请联系自己的院系获取相关事宜。
 
 ### ISSS International Student Preparation 国际生入境前准备
 
@@ -1261,8 +1261,8 @@ A: 学校官方提供有VPN，虽然网速偏慢，但是做个Checklist还是�
 A: 不是，确保Orientation前到学校即可。
 学校推荐24号前到校的原因参考本文 [Orientation相关问题](#orientation相关问题) 章节。
 
-**Q: 我是研究生/博士生，为什么我没有Checklist？**  
-A: 研究生和博士生没有Checklist，具体入学事项请联系你的Department。
+**Q: 我是硕士生/博士生，为什么我没有Checklist？**  
+A: 硕士生和博士生没有Checklist，具体入学事项请联系你的Department。
 
 **Q: 为什么我申请的时候填了专业，但是录取通知书上只有学院的名字？**  
 A:  因为美国大学和国内大学不一样，美国大学基本上都是先录取到学院，或者pre-major，
@@ -1362,8 +1362,8 @@ A: 如果选择了宿舍，那么必须购买一个Meal Plan。
 A:  没有特别大的区别。大一有很多的通识教育课（Liberal Education），教室东西岸都有，甚至有可能要去圣保罗校区，
 所以大一住哪里没有特别大的影响。如果非要建议，除了商学院、法学院、音乐学院的同学都建议住东岸。
 
-**Q: 作为研究生、博士生，我应该住在东岸还是西岸呢？**  
-A:  研究生和博士生的上课/工作一般都在自己的学院里进行。请根据自己的办公室或者是院系教学楼地址决定住处。
+**Q: 作为硕士生、博士生，我应该住在东岸还是西岸呢？**  
+A:  硕士生和博士生的上课/工作一般都在自己的学院里进行。请根据自己的办公室或者是院系教学楼地址决定住处。
 
 **Q: 有什么校外公寓推荐吗？
 <a id="live-off-campus-faq" href="https://www.mingcns.org/guidebook/#live-off-campus-faq">#live-off-campus-faq</a>**  
