@@ -1467,13 +1467,21 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 **<font color="red">仔细阅读群公告</font>** <font color="red">并主动修改备注。</font>
 推荐格式：名字-预计毕业年份-学院/专业。名字可用昵称。
 
+#### Discord  群信息
+
+请您按以下格式发送邮件至 [mingcns2019@gmail.com](mailto:MinGCNS2019@gmail.com) 获取入群链接：  
+邮件标题 (Title): 【Discord入群】  
+内容：UMN Student ID 或 UMN Internet ID。
+
+由于作者精力有限，我们会尽量在一周内回复您的邮件，感谢您的理解与配合。
+
 #### Telegram 群信息
 
 请您按以下格式发送邮件至 [mingcns2019@gmail.com](mailto:MinGCNS2019@gmail.com) 获取入群链接：  
 邮件标题 (Title): 【Telegram 入群】  
 内容：Telegram ID + UMN Student ID 或 UMN Internet ID。
 
-由于作者精力有限，我们会尽量在72小时内回复您的邮件，感谢您的理解与配合。
+由于作者精力有限，我们会尽量在一周内回复您的邮件，感谢您的理解与配合。
 
 #### QQ群信息
 群号：706643618
