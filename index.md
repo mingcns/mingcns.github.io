@@ -86,6 +86,14 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 ---
 
+<h2 style="margin: 0 auto 10px auto; text-align: center;">明大学生会组织相关 UMN Student Groups Related</h2>
+
+- **中国学生学者联谊会 Chinese Students and Scholars Association (CSSA): [mingcns.org/cssa](https://www.mingcns.org/cssa/)**
+
+- **中国学生联盟 Chinese Student Union (CSU): [mingcns.org/csu](https://www.mingcns.org/csu/)**
+
+---
+
 <p style="margin: 20px auto 15px auto; text-align: center; font-style: italic; font-weight: bold;" id="about-us">
 关于我们 <span style="margin-left: 10px">About us</span>
 </p>
