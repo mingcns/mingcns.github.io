@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "中国学生联盟 (CSU)"
+title: "中国学生会 (CSU)"
 permalink: /csu/
 ---
 
@@ -27,7 +27,7 @@ function googleTranslateElementInit() {
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 中国学生联盟 Chinese Students Union 相关内容
+# 中国学生会 Chinese Students Union 相关内容
 {:.no_toc}
 
 <div align="right">
@@ -42,18 +42,32 @@ function googleTranslateElementInit() {
 {:toc}
 
 
-## 使用说明
-1. 将此文件 **duplicate** 到Repo的根目录，并且重命名为一个合适的名字（不要删除原template）。
-1. 替换第三第四行的 网页title 和 permalink 成对应新文档的合适名字。
-1. Markdown源代码每行原则上不超过100个字符，最多不超过120个字符，添加链接时除外。
-1. 所有增加新文档的操作请在 **Branch** 上编写，完成后于GitHub上发起Pull Request，
-请保证至少添加了 TrotylTN 作为该PR的reviewer。 **请不要** 直接commit新文档到master。
+## CSU 简介
+1. 简介
 
-## 删除[使用说明](#使用说明)跟这一行后，从这里开始编写正文，目录将根据Headings自动生成。
+## CSU 微信公众号
+1. 公众号ID：umn_csu
+1. 公众号二维码
+
+## CSU 随航 微信小程序
+1.  该小程序内含以下模块：
+    * UMN 交友
+    * 二手交易信息发布
+    * 公寓转租信息发布
+    * 游戏俱乐部
+    * 厨艺交流
+    * 健身交友
+    * 摄影
+    * 找课友信息发布
+    * etc...
+
+1. 小程序二维码： ![CSU Mini Program](https://www.mingcns.org/images/csu/CSU_MiniProgram.jpg)
+
+
 
 
 ## 版权与免责协议
-本网页内的所有内容均由中国学生联盟 (CSU) 提供，MinG/CNS 仅在此列出以便读者查阅，
+本网页内的所有内容均由中国学生会 (CSU) 提供，MinG/CNS 仅在此列出以便读者查阅，
 CSU 对其内容负责并享有最终解释权。
 由于信息变化较快以及作者能力所限，本文内容无法保证100%的准确性，敬请谅解。
 欢迎通过 Github Pull Request 来对本文档的更改做出建议。
