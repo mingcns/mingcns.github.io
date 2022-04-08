@@ -90,7 +90,7 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 - **中国学生学者联谊会 Chinese Students and Scholars Association (CSSA): [mingcns.org/cssa](https://www.mingcns.org/cssa/)**
 
-- **中国学生联盟 Chinese Student Union (CSU): [mingcns.org/csu](https://www.mingcns.org/csu/)**
+- **中国学生会 Chinese Student Union (CSU): [mingcns.org/csu](https://www.mingcns.org/csu/)**
 
 ---
 
