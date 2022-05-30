@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2022-01-02)
+(Version: 2022-05-30)
 </div><br>
 
 
@@ -333,7 +333,7 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 
 学校对国际生提供临时宿舍服务（需付费，$35/night），具体情况以可以参照此链接:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
-最早于2021年7月25日可以入住，8月27日必须搬出。  
+最早于2022年7月24日可以入住，8月26日必须搬出。  
 
 Check-in 时间及地址：  
 前台24x7有人  
@@ -347,10 +347,8 @@ Centennial Hall:
 听从临时宿舍的安排即可。详见:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
 * Check-out 时间:
-    * Comstock, Middlebrook, Sanford, 17th & Bailey: 8月28日
-    * Frontier: 8月30日
-    * 其他学校宿舍: 8月27日
-    * 不住在学校公寓(校外租房)的学生需要于8月28日19点前退房。
+    * 学校宿舍&公寓：8月23日可以开始自行搬家，也可以等待学校在8月26日提供车辆辅助搬家。
+    * 不住在学校公寓（校外租房）的学生需要于8月26日19点前退房。
 
 
 ## 初至明尼
@@ -421,7 +419,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         [schedulebuilder.umn.edu](https://schedulebuilder.umn.edu/)  
         _(使用 Schedule Builder 排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
         1. 学校虽然安排新生于选课后前往 UCard Office 领取 UCard，
-        但是其实新生到校后便可前往 UCard Office 凭护照领取 UCard 了， **并无时间限制** 。
+        但是其实新生到校后便可前往 UCard Office 凭 **护照** 领取 UCard 了， **并无时间限制** 。（也可以使用其他由政府签发的含有英文名字与照片的证件）
             1. 领取 UCard 时会有 Huntington (Former TCF) Bank 的员工询问你是否需要开一个 Huntington Bank 的银行账户。
             由于 Huntington 是区域性小银行，国际汇款时会有不便，所以我们并[不推荐使用Huntington Bank](#关于huntington-bank)
             作为主力账户，请大家自行斟酌。
@@ -456,16 +454,16 @@ Orientation 只有一天，将在一天内完成 Immigration Check-in 以及面�
 （包括评分标准、Paper 篇幅要求、MLA 或 APA 写作风格等）会因不同老师的要求不同而存在差异，
 所以我们强烈建议大家选课前向学长学姐打听清楚每位老师的教学风格与要求，避免不必要的麻烦。
 
-### Global Gopher Event (GGE)
+### Global Gopher Experiences (GGE)
 
 <!-- TODO(tnz): check the time below later. -->
-时间：2021年8月25日 - 8月27日(线上)，9月1日 - 9月6日(线下，与WW同时进行)
+时间：2022年5月起便有一系列的活动（线上和线下都有）。详见下述链接。
 
 GGE 可以理解为是一个针对国际生的 Welcome Week (WW)。WW 里会很泛的介绍许多学校资源、逛校园。
 而 GGE 则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源（比如 Writing Center，ISSS 的各类服务）。  
 由于参加 GGE 的学生都是国际生，大家飘洋过海求学的心态类似，容易产生共鸣，也就更容易成为朋友。  
 当然，GGE 的内容和 WW 也有重合，这个大家根据自己的兴趣爱好选择项目前往就行，毕竟 GGE 不是必须参加的（笔者强烈推荐参加），只需选择自己喜欢的就好。  
-详见：[You Are Invited to Global Gopher Events!](https://isss.umn.edu/programs/ggumn/)
+详见：[Global Gopher Experiences](https://isss.umn.edu/programs/global-gopher-experiences)
 
 ### Welcome Week (WW)
 
@@ -516,7 +514,7 @@ GoTo Card 是 Metro Transit，也就是双城区域的交通卡。
 UMN 图书馆的借书额度没有上限，理论上可以将图书馆内全部图书借出（请不要这么做哦），
 只需要借书者可以保障书本状态 (condition) 并按时归还/续租即可。  
 关于图书馆政策的详细介绍，新生们会在 Freshman Writing 课 (课号WRIT 1301) 上得到深入了解。
-图书馆也会派人在 ISSS 举办的 [Global Gopher Events](#global-gopher-event-gge) 中的 Academic Tour 活动
+图书馆也会派人在 ISSS 举办的 [Global Gopher Experiences](#global-gopher-event-gge) 中的 Academic Tour 活动
 里详细讲解学校图书馆的各项政策与福利。因此，我们强烈建议各位新生与转学生朋友参与该项活动。
 
 学校官方对于 UCard Account 的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
@@ -799,7 +797,7 @@ _<font color="red"> 免责声明：以上关于银行所有内容（包括但不
 
 饭店名 | 主打菜系 | 地址
  --- | --- | ---
-九龙饭店 Kowloon Restaurant | 粤菜 | [935 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/bjH19aH6SsqYJQcj8)
+九龙饭店 Kowloon Restaurant (老板自述将于23年3月停业) | 粤菜 | [935 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/bjH19aH6SsqYJQcj8)
 香园 Tea House | 北方菜、川菜 | [2425 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/Yi8oegwxLVhvFCEA6)
 宽窄 Legendary Spice | 川菜 | [317 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/yvqeAM8kxpXZwpUL6)
 香港面家 Hong Kong Noodles | 粤菜 | [901 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/XFJWBRJtn9z3M3V87)
@@ -922,7 +920,7 @@ East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。
 
 #### U-Pass
 
-购买 [U-Pass](https://www.mingcns.org/light-rail/#u-pass) 学生版需要 $114/Semester (Fall 2021 Semester仅需要$57)。   
+购买 [U-Pass](https://www.mingcns.org/light-rail/#u-pass) 学生版需要 $114/Semester。   
 
 持有 U-Pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
 
