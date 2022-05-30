@@ -249,10 +249,10 @@ Coffman 一层 Information Desk 凭 UCard 领取。
   1. 如遇到警察查票，需要同时出示 U-Pass/Zone Pass 和 UCard。
   1. 同一张UCard每年只能在 Campus Zone Pass 和 U-Pass 中二选一。若已领取了 Zone Pass
   则需要归还 Zone Pass 后才可以购买 U-Pass；如已购买了 U-Pass 则不可以领取 Zone Pass。
-  1. Campus Zone Pass 如果丢失需要交钱补办
-    * 于 Fall Semester 补办需要24美元
-    * 于 Spring Semester 补办需要16美元
-    * 于 Summer Semester 补办需要8美元
+  1. Campus Zone Pass 如果丢失需要交钱补办  
+    * 于 Fall Semester 补办需要24美元  
+    * 于 Spring Semester 补办需要16美元  
+    * 于 Summer Semester 补办需要8美元  
   1. 需要选课后等待24h才可领取 Zone Pass。
   1. 详情请见: [https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community](https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community)
 
