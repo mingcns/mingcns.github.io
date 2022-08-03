@@ -183,7 +183,7 @@ _此段仅为通用介绍以及个人解读，**不构成任何法律上的建�
 * 明大对于疫苗的要求在这里:
 [Boynton Health Immunization Requirements](https://boynton.umn.edu/immunization-requirement)
 
-* 除了几个特殊的专业外，正常来说只要求有两针 **一周岁后** 接种的 MMR（麻腮风）和一针最近 **十年之内** 接种的 TD（百白破）就行了。
+* 除了几个特殊的专业外，正常来说只要求有两针 **一周岁后** 接种的 MMR（麻腮风）和一针最近 **十年之内** 接种的 TD（百白破）就行了。由于新冠疫情，学校现在新增了对Covid-19的疫苗要求。
 TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font color="red">完全报销</font>这些疫苗的。
 
 * 在国内打疫苗和出国体检:  
@@ -227,7 +227,7 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 
 #### 到达机场与到校时间
 
-离学校最近的商用机场为 **Minneapolis−Saint Paul International Airport 明尼阿波利斯-圣保罗国际机场** IATA代码: **MSP** 。美国各大主要航空公司、荷兰皇家航空、法国航空、加拿大航空、爱尔兰航空等均于此运营商业航班，为达美航空 (Delta Air Lines) 第二大枢纽，前西北航空 (Northwest Airlines NWA) 总部，全美客流第17忙碌的机场、次于波士顿高于底特律。拥有定期航班的目的地超过230个，于美国境内的航线覆盖非常好，主要次要城市均可直飞到达。远洋国际直飞航线主要目的地包括: 阿姆斯特丹史基浦(AMS)、巴黎戴高乐(CDG)、伦敦希思罗(LHR)、雷克雅未克(KEF)、都柏林(DUB)、法兰克福(FRA)、东京羽田(HND)、首尔(汉城)仁川(ICN)。并且达美航空已经提交了航权申请，如果一切顺利将会在2020年开航上海浦东(PVG)直航。
+离学校最近的商用机场为 **Minneapolis−Saint Paul International Airport 明尼阿波利斯-圣保罗国际机场** IATA代码: **MSP** 。美国各大主要航空公司、荷兰皇家航空、法国航空、加拿大航空、爱尔兰航空等均于此运营商业航班，为达美航空 (Delta Air Lines) 第二大枢纽，前西北航空 (Northwest Airlines NWA) 总部，全美客流第17忙碌的机场、次于波士顿高于底特律。拥有定期航班的目的地超过230个，于美国境内的航线覆盖非常好，主要次要城市均可直飞到达。远洋国际直飞航线主要目的地包括: 阿姆斯特丹史基浦(AMS)、巴黎戴高乐(CDG)、伦敦希思罗(LHR)、雷克雅未克(KEF)、都柏林(DUB)、法兰克福(FRA)、东京羽田(HND)、首尔(汉城)仁川(ICN)。~~并且达美航空已经提交了航权申请，如果一切顺利将会在2020年开航上海浦东(PVG)直航。~~
 
 <!-- TODO(tnz): check the recommended arrival date from ISSS -->
 _（仅限本科新生、本科转学新生）_ 一般来说，虽然 ISSS 要求8月25日前到达学校，但是实际上只需要保证在 Orientation 前到达学校即可。
@@ -302,7 +302,7 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 
 ### 从MSP机场到学校
 
-1. Uber、Lyft 打车软件：白天从机场打车到学校大概资费为15-25 USD，晚上或凌晨为20-40 USD，根据当时打车人的多少，价格会有上下浮动。
+1. Uber、Lyft 打车软件：白天从机场打车到学校大概资费为15-25 USD，晚上或凌晨为20-40 USD，根据当时打车人的多少，价格会有浮动。
     * Terminal 1: 绝大多数航班（除去 Sun Country, JetBlue, Southwest, Condor, Icelandair 以外）都会降落在Terminal 1 - Lindbergh,
     在抵达到达层（行李转盘层）之后，跟着 App-based Ride Service 的牌子走，坐电梯下降到地下层，随后跟着牌子直走，
     直到再次看到 App-based Ride Service 的牌子后左转，坐电梯上两层楼后，即为机场 Pick-up 乘车点。Terminal 1 - Zone A 和 Zone B 都在这一层。
@@ -313,7 +313,7 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
     乘坐机场内部轨道交通到另一头，乘坐扶手电梯或者直梯下楼即可抵达轻轨 Terminal 1 - Lindbergh 站。
     * Terminal 2: 在抵达到达层（行李转盘层）之后，跟随 LRT/Light Rail Transportation 的标志一直走大约4-6分钟，
     即可到达轻轨 Terminal 2 - Humphrey 站。
-    * 乘坐轻轨前请记得由左侧售票机售票，每张票有效期2小时30分钟，有效期内换乘不需要额外购票，
+    * 乘坐轻轨前请记得由左侧售票机购票，每张票有效期2小时30分钟，有效期内换乘不需要额外购票，
     从两个航站楼均为乘坐 Blue Line - **Northbound to Downtown Minneapolis** 的列车，
     到达换乘站 U.S. Bank Stadium Station 后，至对面站台换乘 Green Line - **Eastbound to Downtown St Paul**
     的列车（一定要注意车的头灯颜色以及报站，因为去学校的 Green Line 与 Blue Line - Southbound to Mall of America
@@ -347,7 +347,9 @@ Centennial Hall:
 听从临时宿舍的安排即可。详见:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
 * Check-out 时间:
-    * 学校宿舍&公寓：8月23日可以开始自行搬家，也可以等待学校在8月26日提供车辆辅助搬家。
+    * 学校宿舍（除了Frontier Hall）：8月23日可以开始自行搬家。
+    * Frontier Hall：8月28日。
+    * 学校公寓（Keller, Wilkins, Yudof, Radius）：8月15日即可搬入正式住所。
     * 不住在学校公寓（校外租房）的学生需要于8月26日19点前退房。
 
 
@@ -404,9 +406,6 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         [ISSS - Submit Your Documents on MyISSS](https://isss.umn.edu/new/docs.html)
         1. Coffman G 层 UCard Office 与 星巴克 中间有一家 **Printing Service** 可以复印以上材料。
         Printing Service **仅接受 [Gopher Gold](#gopher-gold-intro-anchor)** 付款。
-        如果暂时没有领取 UCard，亦或者还没有充值或不准备充值 Gopher Gold，
-        可以选择前往 700 Washington Apartments 公寓楼下的 **Paradigm Copies** 打印店复印材料。地址为:  
-        [720 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/Dc7ZrmKas9cbQDnR6)
     1. 第二天为面见 Advisor 以及选课，
     请确保在此时你 MyU 上的 **[Hold(s) 已经全部消除](https://www.mingcns.org/myu-intro/#holds-anchor)** ，
     否则你将无法选课。
@@ -430,7 +429,7 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
             及日后的文印需求。  
             _注意: **Carlson 学生** 与 **工院 CSELab 用户** 在 **选课后** 将分别拥有
             [无限免费文印](https://carlsonschool.umn.edu/degrees/undergraduate/student-life/advising-coaching-and-technology) 和
-            [CSELab $60 免费文印额度](https://cseit.umn.edu/knowledge-help/learn-more-about-cse-labs-print-quotas) (此链接暂时维护)，
+            [CSELab 每学期 $75 免费文印额度](https://cse.umn.edu/cseit/self-help-guides/cse-labs-printing)，
             若是 Carlson 的学生或者是 CSELab 用户（比如工院 CSE 学生、CLA CS 学生、和选了入门 CS 课的其他学院学生）
             ，如果不需要在学校文印系统内复印打印 Immigration Check-in 需要的文件，
             可以利用该项福利从而选择不充值 Gopher Gold。_  
@@ -506,20 +505,20 @@ FD 和 Gopher Gold 最大区别就是，使用 FD 可以不用交税（明尼 Sa
 每次进入饭堂的时候向前台 (greeter) 出示 UCard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
 学校关于 Meal Plan 的政策如下：
 [University of Minnesota Dining Services - Meal Plan Policies](https://housing.umn.edu/live-here/dining)
-* **GoTo Card**  
-GoTo Card 是 Metro Transit，也就是双城区域的交通卡。  
-使用前需要拿 UCard 在任意轻轨站的售票机，选择 GoTo Card 充值进行充值。充值后方可刷卡乘车。
-当然，大家也可以在 Coffman Info Desk 另外领取单独 GoTo Card。
+* **Universal Transit Pass**  
+简称UTP。使用UTP可以无限量免费乘坐 Metro Transit 旗下所有轻轨和公交，以及部分临近城市的公交系统。关于学校周边公交系统的介绍详见：[pending link]()
 * **图书馆借书卡**  
 UMN 图书馆的借书额度没有上限，理论上可以将图书馆内全部图书借出（请不要这么做哦），
 只需要借书者可以保障书本状态 (condition) 并按时归还/续租即可。  
 关于图书馆政策的详细介绍，新生们会在 Freshman Writing 课 (课号WRIT 1301) 上得到深入了解。
 图书馆也会派人在 ISSS 举办的 [Global Gopher Experiences](#global-gopher-event-gge) 中的 Academic Tour 活动
 里详细讲解学校图书馆的各项政策与福利。因此，我们强烈建议各位新生与转学生朋友参与该项活动。
+* **学校健身房会员**  
+所有交过学杂费的学生都可以免费使用学校健身房。
 
-学校官方对于 UCard Account 的介绍如下：[The U Card - Accounts](https://ucard.umn.edu/umtc/accounts)
+学校官方对于 UCard Account 的介绍如下：[The U Card - Accounts](https://ucard.tc.umn.edu/u-card/accounts)
 
-_注：以上提及的 Gopher Gold, Flexdine和 GoTo Card等账户为多个 **独立账户** ，虽然集成在同一张卡上，
+_注：以上提及的 Gopher Gold 和 Flexdine 等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
 
 
@@ -536,8 +535,8 @@ AT&T: band 2/ 4/ 5/ 12/ 17;
 T-Mobile: band 2/ 4/ 5/ 12/ 66/ 71;  
 Sprint: band 5/ 20/ 25/ 26/ 41/ 46;  
 一般来说，IPhone5s 之后的苹果手机，三星 Galaxy 和 Note 系列（芯片为骁龙的国行机器）都是支持美国所有运营商的。
-华为 P 和 Mate 系列支持 AT&T 和 T-Mobile。一加6T（含）往后支持全部主流运营商。由于美国的5G网络仍处于建设阶段，目前的主力网络仍是4G，
-故请各位有5G需求的朋友自行搜索对应运营商的5G频段。
+华为 P 和 Mate 系列支持 AT&T 和 T-Mobile。一加6T（含）往后支持全部主流运营商。由于美国的5G网络仍处于建设阶段，目前的主力网络仍是4G，故请各位有5G需求的朋友自行搜索对应运营商的5G频段。
+
 
 美国三大运营商(Sprint已被T-Mobile并购):
 
@@ -555,6 +554,8 @@ Sprint: band 5/ 20/ 25/ 26/ 41/ 46;
 很多运营商的无限流量都是指4G流量用完后降速到2G网速，然后无限2G流量），国际100多个国家和地区免费2G网速流量。
 T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。  
 官网链接：[T-Mobile](https://www.t-mobile.com/cell-phone-plans)
+
+_注：AT&T停止了对未在美国销售的手机型号的通讯支持，使用国内安卓手机的朋友需要注意一下。_
 
 信号方面的话在 **双城区域** 三家都是没问题的，没问题指的是有信号的时候大家都有，没信号的时候大家都没有。
 毕竟美国是资本主义，基站都是按需建设。像国内那种深山老林甚至南海都有信号就不可能了。总之对这边信号的期待不要太高就好。
@@ -575,8 +576,18 @@ T-Mobile 的信号覆盖在城乡结合部有时候会比较捉急。
 
 如果大家觉得30刀的月费还是贵的话，不妨考虑一下虚拟运营商 (MVNO—Mobile Virtual Network Operator)。  
 虚拟运营商（自己不建设基站）是指向刚刚提到的三大实体运营商（拥有自己的基站）购买富余的带宽以建设自己的服务的运营商。
-虚拟运营商的最大优势是成本低，所以有很多优惠的套餐可以选择，最低甚至可以到5刀月费。
-由于虚拟运营商太多，这里就不详细介绍了。有兴趣的可以加入我们的微信群进行讨论。
+虚拟运营商的最大优势是成本低，所以有很多优惠的套餐可以选择，最低甚至可以到5刀月费。由于是租借带宽，所以一旦当实体运营商的网络出现资源不足的情况，虚拟运营商的用户就会被限速，甚至断网。
+由于虚拟运营商太多，这里就不详细介绍了，有兴趣的可以加入我们的微信群进行讨论。
+
+以下是几家比较大的虚拟运营商：
+
+* Metro by T-Mobile (Based on T-Mobile)
+* Tello (Based on T-Mobile)
+* Mint Mobile (Based on T-Mobile)
+* US Mobile (Based on T-Mobile and Verizon)
+* Visible (Based on Verizon)
+* Xfinity Mobile (Based on Verizon)
+* Cricket Wireless (Based on AT&T)
 
 ~~* CTExcel: 在众多的虚拟运营商中有一家还是值得讲一下的，那就是中国电信美洲公司 (CTExcel，官网 [www.ctexcel.us](https://www.ctexcel.us/index_pc.jsp?language=zh)).  
 CTExcel 使用的是 T-Mobile 的基站，因此信号覆盖和 T-Mobile 一致。
@@ -585,6 +596,8 @@ CTExcel 使用的是 T-Mobile 的基站，因此信号覆盖和 T-Mobile 一致�
 CTExcel 每年开学季都会有第一个月1美元的优惠活动，找学长学姐要一个推荐码注册，还可以得到10刀的话费。  
 _注：如果参与1美元优惠活动，该号码需要在网3个月以上才可以携号转网 (详见下文) 去其他运营商。_~~
 [美国通讯部 FCC](https://www.fcc.gov/consumers/guides/xin-xi-yu-zi-yuan-zhong-guo-dian-xin-mei-zhou-gong-si-jiang-ting-zhi-zai-mei-guo-ti) 于2021年10月通知撤销中国电信美洲公司的通讯类营业执照。中国电信美洲公司于2022年1月3日终止其在美国的业务。
+
+
 
 更多关于运营商的评测视频: [Best Cell Phone Plans](https://www.bestphoneplans.net/)  (网站内视频为YouTube)
 
@@ -628,7 +641,7 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
     * ATM位于Branch内。
     * 开户奖励：
         * [Chase College Checking $100 开户奖励](https://www.uscreditcardguide.com/chase-college-checking/)
-        * 有工资的朋友可以考虑 [Chase Total Checking $225 开户奖励](https://www.uscreditcardguide.com/chase-total-checking/)
+        * 有工资的朋友可以考虑 [Chase Total Checking $300 开户奖励](https://www.uscreditcardguide.com/chase-total-checking/)
 * **Bank of America 美国银行**    
 地址：[80 S 8th St STE 266, Minneapolis, MN 55402](https://goo.gl/maps/9rYiBQuCrffaoUpv5)
 (位于Downtown，轻轨Green Line坐到Nicollet Mall后步行6-8分钟，位于IDS Center 2楼)  
@@ -654,7 +667,7 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
     * ATM位置
         * 校内ATM各个Branch内均有ATM。
         * Coffman Memorial Union G层(Ground Floor)。
-    * 开户奖励：[US Bank Checking $300/$500 开户奖励](https://www.uscreditcardguide.com/us-bank-checking/)
+    * 开户奖励：[US Bank Checking $400 开户奖励](https://www.uscreditcardguide.com/us-bank-checking/)
 
 以上所提及的银行账户 **开户奖励均需要报税**  
 * 关于税务身份的辨析请阅读：[美国信用卡指南--报税身份辨析](https://www.uscreditcardguide.com/resident-alien-non-resident-alien-us-person-green-card/)
