@@ -233,7 +233,7 @@ A 线北起于 Rosedale Transit Center，南终于蓝线 46th St 站。是一条
 ## 交通卡简介
 
 ### Universal Transit Pass
-![Universal Transit Pass](https://www.mingcns.org/images/light_rail/UTP.jpg)
+<img alt="Universal Transit Pass" src="https://www.mingcns.org/images/light_rail/UTP.jpg" style="max-width: 75%">
 
 图自：[pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass](https://pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass)
 
