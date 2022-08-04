@@ -70,7 +70,7 @@ Wolfram Alpha 是一个在线数学引擎，可以计算很多东西，包括绘
 8. LinkedIn Learning (Lynda.com): [链接](https://it.umn.edu/technology/linkedin-learning)
 
 9. 其它软件
-    * [IT @ UMN \| Software](https://it.umn.edu/service-details/software)
+    * [IT @ UMN \| Software](https://it.umn.edu/services-technologies/software)
 
 
 ## 学生医保 Student Health & Benefits Plan

@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2021-09-05)
+(Version: 2022-08-04)
 </div><br>
 
 ## 目录
@@ -47,7 +47,7 @@ function googleTranslateElementInit() {
 本文讨论范围仅限 Regular Routes Local Buses & Light Rails, Express Buses & NorthStar Commuter Rail 不在讨论范围内。  
 轻轨及BRT线路如下图（图源: [https://www.metrotransit.org/metro](https://www.metrotransit.org/metro)）：
 
-![Light Rail Map](https://www.mingcns.org/images/light_rail/Metro_Map_Dec_2019.jpg)
+![Light Rail Map](https://www.mingcns.org/images/light_rail/LRT_BRT.png)
 
 ### 轻轨时刻表
 
@@ -100,7 +100,7 @@ Target Field 发车时间段 | 发车间隔 | Union Depot 发车时间段
 注：
   1. 普通公交线路不接受上述【类别2】付款，但是可以通过购买轻轨票来乘坐公交。
   部分快速公交站点提供售票机可以使用信用卡/借记卡。
-  1. 本文中的 Campus Zone Pass 和 U-Pass 属于上述【类别4】。
+  1. 本文中的 UTP 属于上述【类别4】。
 
 #### 【类别1&2】付款方式
 
@@ -129,8 +129,6 @@ Metro Transit 官方使用说明：
   1. 关于GoTo Card：[Metro Transit - Go-To Card User's Guide](https://www.metrotransit.org/go-to-card-users-guide)
 
 ## 费用
-
-【Time Sensitive！】据 MetroTransit [官网消息](https://www.metrotransit.org/DollarRides)，2021年9月和10月所有的公交（包括轻轨）费用均为1美元。
 
 轻轨费用分有普通费用和高峰期费用两种。
   1. 高峰期 (Rush Hours) 费用$2.5/票，时间为周一至周五6:00-9:00和15:00-18:30。
@@ -209,7 +207,40 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
 **注：蓝线和绿线在Downtown Minneapolis区域内共享轨道，搭乘时需要注意列车显示屏上的颜色标识。
 在Downtown Minneapolis换乘轻轨时仅需下车前往对面站台等候相应列车即可。**
 
+### BRT红线
+红线北接蓝线于 Mall of America，南止于 Apple Valley Transit Station。
+
+#### 实用站点
+
+  * Cedar Grove Busway & Highway 77
+    * 可以抵达 Twin Cities Premium Outlets。
+    * 如果从学校东岸出发的话，可以在 Oak St SE & Washington Ave SE 乘坐475路公交前往，耗时约40分钟。
+
+### BRT A LINE
+A 线北起于 Rosedale Transit Center，南终于蓝线 46th St 站。是一条沿着 Snelling Avenue 走的快速公交线路。
+
+#### 实用站点
+
+  * Rosedale Transit Center
+    * 可达 Rosedale Shopping Mall。内有 Apple Store, Best Buy, Sephora, T-Mobile 和 AT&T 等。
+  * Snelling Avenue
+    * 可换乘绿线。
+  * 46th St & Minnehaha Station
+    * 明尼哈哈公园
+
+
+
 ## 交通卡简介
+
+### Universal Transit Pass
+![Universal Transit Pass](https://www.mingcns.org/images/light_rail/UTP.jpg)
+
+图自：[pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass](https://pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass)
+
+自2022年8月起，只要缴纳了学杂费中的 Transportation & Safety Fee 的学生都可以激活 Universal Transit Pass (UTP)。于2022年9月3日前激活仅需要拿 **UCard** 在任意 Metro Transit 的轻轨站或公交读卡机上刷一下即可。激活后，你的 UCard 就是交通卡。
+
+凭 UTP 可以免费无限乘坐 Metro Transit 旗下全部轻轨和公交，以及大部分双城周边区域的交通系统。  
+详见：[PTS - Universal Transit Pass](https://pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass)
 
 ### GoTo Card
 
@@ -218,7 +249,7 @@ _注：以上关于轻轨与公交的介绍（包括但不限于费用以及换�
 图自:
 [www.metrotransit.org/go-to-card](https://www.metrotransit.org/go-to-card)
 
-GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另外，2017年后的 UCard 都内置了GoTo Card 功能。
+GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另外，2017年到2021年的 UCard 都内置了GoTo Card 功能。
 拿 UCard 在轻轨站售票机按充值 GoTo Card 的流程进行充值后即可将 UCard 当作 GoTo Card 来使用。
 
 ### U-Pass
@@ -228,11 +259,12 @@ GoTo Card 可以在学校 Coffman 一楼的 Information Desk 免费领取。另�
 图自:
 [www.metrotransit.org/upass](https://www.metrotransit.org/upass)
 
-持有 U-Pass 可以在其有效期内无限次数乘坐 Metro Transit 旗下的所有公交和轻轨，
+~~持有 U-Pass 可以在其有效期内无限次数乘坐 Metro Transit 旗下的所有公交和轻轨，
 不包括Express Bus和NorthStar。
 U-Pass 售价$114/学期，需要在
 [UMN PTS - U-Pass - discounted student unlimited transit pass](https://pts.umn.edu/transit/transit-passes/upass-students)
-购买后于 Coffman Information Desk 或 St. Paul Student Center 凭 UCard 领取。
+购买后于 Coffman Information Desk 或 St. Paul Student Center 凭 UCard 领取。~~
+U-Pass 于2022年9月在 UTP 生效后停止使用。
 
 ### Campus Zone Pass
 
@@ -241,20 +273,22 @@ U-Pass 售价$114/学期，需要在
 图自:
 [https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community](https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community)
 
-持有Campus Zone Pass可以在绿线的校内三站——West Bank Station, East Bank Station,
+~~持有Campus Zone Pass可以在绿线的校内三站——West Bank Station, East Bank Station,
 Stadium Village Station——区间内免费乘坐轻轨。Zone Pass 可以在
-Coffman 一层 Information Desk 凭 UCard 领取。
+Coffman 一层 Information Desk 凭 UCard 领取。~~
 
-注：
-  1. 如遇到警察查票，需要同时出示 U-Pass/Zone Pass 和 UCard。
-  1. 同一张UCard每年只能在 Campus Zone Pass 和 U-Pass 中二选一。若已领取了 Zone Pass
-  则需要归还 Zone Pass 后才可以购买 U-Pass；如已购买了 U-Pass 则不可以领取 Zone Pass。
-  1. Campus Zone Pass 如果丢失需要交钱补办  
-    * 于 Fall Semester 补办需要24美元  
-    * 于 Spring Semester 补办需要16美元  
-    * 于 Summer Semester 补办需要8美元  
-  1. 需要选课后等待24h才可领取 Zone Pass。
-  1. 详情请见: [https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community](https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community)
+~~注：~~
+  1. ~~如遇到警察查票，需要同时出示 U-Pass/Zone Pass 和 UCard。~~
+  1. ~~同一张UCard每年只能在 Campus Zone Pass 和 U-Pass 中二选一。若已领取了 Zone Pass
+  则需要归还 Zone Pass 后才可以购买 U-Pass；如已购买了 U-Pass 则不可以领取 Zone Pass。~~
+  1. ~~Campus Zone Pass 如果丢失需要交钱补办~~  
+    * ~~于 Fall Semester 补办需要24美元~~  
+    * ~~于 Spring Semester 补办需要16美元~~  
+    * ~~于 Summer Semester 补办需要8美元~~  
+  1. ~~需要选课后等待24h才可领取 Zone Pass。~~
+  1. ~~详情请见: [https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community](https://pts.umn.edu/transit/transit-passes/campus-zone-pass-u-community)~~
+
+  Campus Zone Pass 于2022年9月在 UTP 生效后停止使用。
 
 ## 关于公交
 
