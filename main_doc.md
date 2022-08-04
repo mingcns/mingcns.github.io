@@ -506,7 +506,7 @@ FD 和 Gopher Gold 最大区别就是，使用 FD 可以不用交税（明尼 Sa
 学校关于 Meal Plan 的政策如下：
 [University of Minnesota Dining Services - Meal Plan Policies](https://housing.umn.edu/live-here/dining)
 * **Universal Transit Pass**  
-简称UTP。使用UTP可以无限量免费乘坐 Metro Transit 旗下所有轻轨和公交，以及部分临近城市的公交系统。关于学校周边公交系统的介绍详见：[pending link]()
+简称UTP。使用UTP可以无限量免费乘坐 Metro Transit 旗下所有轻轨和公交，以及部分临近城市的公交系统。关于学校周边公交系统的介绍详见：[轻轨和公交系统](#轻轨和公交系统)
 * **图书馆借书卡**  
 UMN 图书馆的借书额度没有上限，理论上可以将图书馆内全部图书借出（请不要这么做哦），
 只需要借书者可以保障书本状态 (condition) 并按时归还/续租即可。  
@@ -915,15 +915,16 @@ Gopher Trip软件:
 **Q: 如何乘坐校车？**  
 A: 无需刷卡，直接上车即可。
 
-#### 轻轨系统
+#### 轻轨和公交系统
 
-凭 UCard 可以在 Coffman 的 Information Desk 免费领取 [Campus Zone Pass](https://www.mingcns.org/light-rail/#campus-zone-pass)，可以在 Green Line 的校内三站 West Bank Station,
-East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。  
-注: 需要选课后等待24h才可领取 Zone Pass。
+自2022年8月起，所有缴纳学杂费的学生可以激活 UCard 上的 [Universal Transit Pass](https://pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass) 以免费无限乘坐双城区域的轻轨和公交。
 
-#### Metro Transit 公交
+校内有三个轻轨站，分别是
+[West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
+[East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
+[Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6)。
 
-2路，3路，6路等公交线路穿过校园（需付费乘坐）
+途径校园的公交线路有：2路，3路，6路等。具体可以参阅 [https://www.metrotransit.org/schedules-maps](https://www.metrotransit.org/schedules-maps)。
 
 美国的公交车（包括校车）不像国内的公交会每站都停，需要有人 **在到站前拉铃** (扶手杆上的按键或车窗边缘的白色或黄色金属线)，
 拉铃后司机才会在即将抵达的下一站停靠。（本条适用于全北美的公交系统）
@@ -931,16 +932,6 @@ East Bank Station, Stadium Village Station 的区间内免费乘坐轻轨。
 关于更多公交线路和车辆时刻等信息，可以使用 [Google Maps](https://www.google.com/maps) 进行查询，  
 或是参阅 [Metro Transit 官网](https://www.metrotransit.org/home)。
 
-#### U-Pass
-
-购买 [U-Pass](https://www.mingcns.org/light-rail/#u-pass) 学生版需要 $114/Semester。   
-
-持有 U-Pass，可以在有效期内，无限乘坐 Metro Transit 旗下的轻轨和公交线路（Commuter Line 除外）。
-
-_同一张 UCard 每年只能在 Campus Zone Pass 和 U-Pass 中二选一。若已领取了 Zone Pass，则需要归还 Zone Pass
-后才可以购买 U-Pass。如已购买了 U-Pass 则不可以领取 Zone Pass。_
-
-更多关于明尼轻轨系统及交通卡的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/)
 
 ### 外国驾照于明尼苏达州使用问题
 
