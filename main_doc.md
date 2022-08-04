@@ -924,6 +924,8 @@ A: 无需刷卡，直接上车即可。
 [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
 [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6)。
 
+关于轻轨的详细介绍请参阅：[Metro Transit 轻轨简介](https://www.mingcns.org/light-rail/)
+
 途径校园的公交线路有：2路，3路，6路等。具体可以参阅 [https://www.metrotransit.org/schedules-maps](https://www.metrotransit.org/schedules-maps)。
 
 美国的公交车（包括校车）不像国内的公交会每站都停，需要有人 **在到站前拉铃** (扶手杆上的按键或车窗边缘的白色或黄色金属线)，
