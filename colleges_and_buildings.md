@@ -68,7 +68,7 @@ function googleTranslateElementInit() {
 
 上图红圈内即为明大MPLS校区的 West Bank 西岸地区。
 
-**Mondale Hall（对法学研究生、博士生）**  
+**Mondale Hall（对法学硕士生、博士生）**  
 是法学院的主场，俗称 Law School。
 法学院的所有课程都在这栋楼里教授。法学院拥有独立的招收办、书店、图书馆，其他学院的学生在19点后将无法入内。  
 地址: [229 19th Ave S, Minneapolis, MN 55455](https://goo.gl/maps/5XwoZ1GicbpfCL899)
