@@ -230,7 +230,6 @@ Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold �
 
 ## 相关信息
 
-  1. Onestop对于MyU功能的介绍：[https://onestop.umn.edu/how-guides](https://onestop.umn.edu/how-guides)
   1. IT部门对MyU功能的介绍：[https://it.umn.edu/technology/myu-portal](https://it.umn.edu/technology/myu-portal)
   1. 学校Training部门的MyU介绍视频：[YouTube - Get to Know the New MyU](https://www.youtube.com/watch?v=TACviSppgFI)
 
