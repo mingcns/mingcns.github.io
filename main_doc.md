@@ -1321,7 +1321,7 @@ A: BA和BS的全称分别为 Bachelor of Arts (文学学士) 和 Bachelor of Sci
 
 **Q: 请问学校的假期有几个? 分别在什么时候？**  
 A: 请查阅学校官方Academic Calendar:
-[Academic Calendars](http://usenate.umn.edu/resources/academic-calendars)  
+[http://usenate.umn.edu/resources/academic-calendars](http://usenate.umn.edu/resources/academic-calendars)  
 一般来说，在秋季学期，我们只有感恩节放假两天；而在春季学期，则在三月会有一个礼拜的春假。
 
 ### 关于住房
