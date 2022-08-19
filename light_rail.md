@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2022-08-04)
+(Version: 2022-08-18)
 </div><br>
 
 ## 目录
