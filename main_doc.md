@@ -518,7 +518,6 @@ UMN 图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 * **Go-To Card**   
 Go-To Card 是明尼双城区域的公交储值卡，在 UTP 启用前大家可以在里面充值乘坐公共交通。在 UTP 启用后，在使用 UCard 付费时，收费系统会先判断 UTP 是否足够支付本次费用，如果可以的话就使用 UTP，如果不够的话系统会调取 Go-To Card 的信息，并从中扣除差价。**大部分同学可以无视这个账号。**
 
-
 学校官方对于 UCard Account 的介绍如下：[The U Card - Accounts](https://ucard.tc.umn.edu/u-card/accounts)
 
 _注：以上提及的 Gopher Gold 和 Dining Dollars 等账户为多个 **独立账户** ，虽然集成在同一张卡上，
