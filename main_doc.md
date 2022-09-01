@@ -919,7 +919,7 @@ A: 无需刷卡，直接上车即可。
 
 #### 轻轨和公交系统
 
-自2022年8月起，所有缴纳学杂费的学生可以激活 UCard 上的 [Universal Transit Pass](https://pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass) 以免费无限乘坐双城区域的轻轨和公交。
+自2022年9月起，所有缴纳学杂费的学生可以激活 UCard 上的 [Universal Transit Pass](https://pts.umn.edu/Transit/Transit-Passes/Universal-Transit-Pass) 以免费无限乘坐双城区域的轻轨和公交。
 
 校内有三个轻轨站，分别是
 [West Bank Station](https://goo.gl/maps/1a6HKad99Kok87V1A),
