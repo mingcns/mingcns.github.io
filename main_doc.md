@@ -493,12 +493,12 @@ UCard，也就是校园卡，是学生在 UMN 的几年中用于校内身份证�
 这里笔者建议大家在刚开学 UCard Office 推出充值送钱的活动时充值。
 但是由于 Gopher Gold 是支付校内打印/复印服务的 **唯一方式**，我们建议新生在领取 UCard 时充值10刀左右的 Gopher Gold
 以便打印/复印 Immigration Check-in 所需的文件使用。
-* **Flexdine (FD)**  
-和 Gopher Gold 有所区别，FD 只能在学校饭堂，或者 Dining 旗下的店铺使用。涵盖但不限于：Coffman Food Court,
+* **Dining Dollars (DD)**  
+Dining Dollars，在2022年前称为 Flexdine，和 Gopher Gold 有所区别，DD 只能在学校饭堂，或者 Dining 旗下的店铺使用。涵盖但不限于：Coffman Food Court,
 Freshii at Moos Tower, On-campus Starbucks and Caribou Coffee.
-FD 和 Gopher Gold 最大区别就是，使用 FD 可以不用交税（明尼 Sales Tax 消费税为商品价格的8.025%, 美国的消费税是不含在商品标价里的），
+DD 和 Gopher Gold 最大区别就是，使用 DD 可以不用交税（明尼 Sales Tax 消费税为商品价格的8.025%, 美国的消费税是不含在商品标价里的），
 而 Gopher Gold 需要交税。  
-充值信息如下：[University of Minnesota Dining Services - FlexDine](https://dining.umn.edu/flexdine)  
+充值信息如下：[University of Minnesota Dining Services - Dining Dollars](https://dining.tc.umn.edu/dining-dollars)  
 这里笔者建议大家等开学初期 Dining 有充值送钱的活动时再充值。
 * **Meal Plan**  
 如果选择住在学校宿舍的话，那么会强制需要购买一个 Meal Plan，而 Meal Plan 的使用也集成在了 UCard 上。
@@ -518,7 +518,7 @@ UMN 图书馆的借书额度没有上限，理论上可以将图书馆内全部�
 
 学校官方对于 UCard Account 的介绍如下：[The U Card - Accounts](https://ucard.tc.umn.edu/u-card/accounts)
 
-_注：以上提及的 Gopher Gold 和 Flexdine 等账户为多个 **独立账户** ，虽然集成在同一张卡上，
+_注：以上提及的 Gopher Gold 和 Dining Dollars 等账户为多个 **独立账户** ，虽然集成在同一张卡上，
 但是充值方式和余额都是 **相互独立存在** 的。_
 
 
@@ -1354,21 +1354,16 @@ A: 这个问题的回答取决于你看完上面两个问题的解答后，对�
 
 **Q: 如果我决定住宿舍了，Meal Plan应该如何选择？**  
 A: 如果选择了宿舍，那么必须购买一个Meal Plan。
-可供住宿生选择的Meal Plan有6个：
-* 11餐/周+100Flexdine
-* 11餐/周+250Flexdine
-* 14餐/周+100Flexdine
-* 14餐/周+250Flexdine
-* 无限/周+100Flexdine
-* 无限/周+250Flexdine
+可供住宿生选择的Meal Plan有3个：
+* Silver: $2420/Semester; Unlimited Meal Swipes + $100 Dining Dollars + 0 Guest Pass
+* Gold: $2520/Semester; Unlimited Meal Swipes + $200 Dining Dollars + 3 Guest Passes
+* Platinum: $2620/Semester; Unlimited Meal Swpies + $300 Dining Dollars + 6 Guest Passes  
+详见：[Dining & Meal Plans](https://housing.umn.edu/live/dining)
 
-关于Flexdine的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。
+关于Dining Dollars的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。  
 这里需要注意的是所谓的无限 Meal Plan 仅为 **在饭堂开门时** 持卡人可以无限次数进出，并不代表可以24x7进入饭堂吃东西。  
-至于如何选择Meal Plan，这个问题非常主观，因此我们仅建议先选择 `11餐/周+100Flexdine` 进行尝试。
-如果开学前两周内
-([点击这里](https://dining.umn.edu/meal-plan-policy)查看具体时间)
-发现不够，可以联系Dining进行更换。联系方式：
-[https://dining.umn.edu/](https://dining.umn.edu/)
+由于现在Meal Plan都是无限套餐，几个Plan的区别仅体现在Dining Dollars的多少和Guest Pass的数量多少。这里作者 **主观推荐** 大家选取 Silver Plan，因为不管是哪个套餐，在减去Dining Dollars后的价格均为$2320/学期，并且[单独充值Dining Dollars](https://dining.tc.umn.edu/dining-dollars)还会有额外的奖励。除非你有打算宴请朋友去学校的饭堂，并且可以确保用完 Guest Pass，这种情况下购买 Gold 和 Platinum 才有性价比 (一个Guest Pass的估值在14刀左右)。
+
 
 **Q: 作为大一新生，是住在东岸好还是西岸好呢？**  
 A:  没有特别大的区别。大一有很多的通识教育课（Liberal Education），教室东西岸都有，甚至有可能要去圣保罗校区，
@@ -1415,10 +1410,10 @@ Student Legal Service 地址 (就在西岸天桥上):
 [Daily Life Related - Legal Support](https://www.mingcns.org/resources-on-campus/#legal-support) 的介绍。
 
 **Q: 我住在校外还可以吃饭堂吗？**  
-A: 可以使用 UCard 中的 Gopher Gold 或者 Flexdine 消费进入饭堂，早餐9刀左右，午晚12-15刀。  
+A: 可以使用 UCard 中的 Gopher Gold 或者 Dining Dollars 消费进入饭堂，早餐10刀左右，午晚12-15刀。  
 关于UCard账户的介绍请参考本文 [UCard校园卡](#ucard校园卡) 章节。  
 另外也可以购买Meal Plan以进入饭堂：
-[Apartment/Commuter Meal Plans](https://housing.umn.edu/live-here/dining)
+[Apartment/Commuter Meal Plans](https://dineoncampus.com/UMN/meal-plan-purchase)
 
 ### 在明大的日常生活
 
