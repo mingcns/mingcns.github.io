@@ -1454,8 +1454,9 @@ A: 双城区域的公交系统虽然比起NYC等美国一线大城市并没有�
 如果需要出去游玩，可以考虑租车，尤其美国的租车行业十分发达，正常来说非常方便
 (如果年龄不够可能会租不到车，绝大多数租车公司对于年龄小于25岁的租车者会有额外的Youth Fee，这些都取决于租车公司)。
 当然，拥有一辆自己的汽车可以显著扩大自己的日常活动范围以及提高自己（以及舍友）的生活质量。  
-注意，学校的Contract停车位对于学生而言是需要每学期抽签购买的，详见
-[Parking & Transportation Services - Student Contracts](https://www.pts.umn.edu/park/contract/studentcontracts )
+注意，学校的 Contract 停车位对于学生而言是需要每学期抽签购买的。持有TA/RA的研究生朋友可以直接参与 Faculty Contract，拥有 Guaranteed Parking Contract。  
+详见：[Parking & Transportation Services - Student Contracts](https://pts.umn.edu/Park/Contract-Parking/Student-Parking-Contracts)
+和 [Parking & Transportation Services - Graduate Student Contracts](https://pts.umn.edu/Park/Contract-Parking/Graduate-Student-Parking-Contracts)
 
 **Q: 中国驾照可以在明尼苏达使用吗？**  
 A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照于明尼苏达州使用问题) 章节
