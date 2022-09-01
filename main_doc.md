@@ -1273,7 +1273,7 @@ A: 学校官方提供有VPN，虽然网速偏慢，但是做个Checklist还是�
 <!-- TODO(tnz): check ISSS required date of arrival. -->
 **Q: 学校要求8月24号前到达学校，请问一定要这个时间到吗？**  
 A: 不是，确保Orientation前到学校即可。
-学校推荐24号前到校的原因参考本文 [Orientation相关问题](#orientation相关问题) 章节。
+学校推荐24号前到校的原因参考本文 [Orientation相关问题](#orientation--immigration-check-in) 章节。
 
 **Q: 我是硕士生/博士生，为什么我没有Checklist？**  
 A: 硕士生和博士生没有Checklist，具体入学事项请联系你的Department。
