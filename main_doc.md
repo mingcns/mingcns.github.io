@@ -502,7 +502,7 @@ DD 和 Gopher Gold 最大区别就是，使用 DD 可以不用交税（明尼 Sa
 这里笔者建议大家等开学初期 Dining 有充值送钱的活动时再充值。
 * **Meal Plan**  
 如果选择住在学校宿舍的话，那么会强制需要购买一个 Meal Plan，而 Meal Plan 的使用也集成在了 UCard 上。
-每次进入饭堂的时候向前台 (greeter) 出示 UCard，由前台刷卡扣除次数后即可进入饭堂。饭堂模式为自助餐。  
+每次进入饭堂的时候向前台 (greeter) 出示 UCard，由前台刷卡后即可进入饭堂。饭堂模式为自助餐。  
 学校关于 Meal Plan 的政策如下：
 [University of Minnesota Dining Services - Meal Plan Policies](https://housing.umn.edu/live-here/dining)
 * **Universal Transit Pass**  
@@ -1334,7 +1334,7 @@ A: 明大不强制要求任何学生住在宿舍，大一即可出去租房住�
 **Q: 住宿舍有什么不好呢，为什么那么多学长学姐都不推荐住宿舍？
 <a id="is-dorm-bad-anchor" href="https://www.mingcns.org/guidebook/#is-dorm-bad-anchor">#is-dorm-bad-anchor</a>**  
 A: 首先，不同的人对于这个问题有不同的看法。
-住宿舍的主要问题在于没有私人空间（公共卫浴，有隔间，非澡堂）以及强制购买性价比很低且并不好吃的每周至少11顿食堂的Meal plan。
+住宿舍的主要问题在于没有私人空间（公共卫浴，有隔间，非澡堂）以及强制购买性价比低且并不好吃的Meal plan。
 没有私人空间可能在舍友做一些国人通常认为非常出格的事情时候造成困扰。另外注意，美国大学的宿舍并不像中国的宿舍那般和谐安全，
 请不要用中国的惯性思维来觉得美国大学的宿舍也会是一个很好的选择。
 宿舍因为<font color="red">酗酒、非法使用药品(一般为大麻)</font>等问题其实是校警UMPD出警非常频繁的地方。
