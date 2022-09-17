@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本介绍非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2020-04-11)
+(Version: 2022-09-17)
 </div><br>
 
 ## 目录
@@ -187,7 +187,7 @@ Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold �
     * Account Balance 和 Amount Due
         * Account Balance 显示的是用户**总共**需要缴纳的金额。正数为用户欠学校的钱，负数为学校欠用户的钱。
         * Amount Due 是在**当前账单周期** (Billing cycle) 用户需要缴纳的金额。 如果逾期未缴可能会被罚款。
-        * 如果学生产生了学杂费的退费，那么退款会以 Balance Credit 的形式计入 Student Account。如果账户中 Account Balance 不为零，那么该笔退款会直接用来抵扣 Account Balance。如果账户中 Account Balance 等于零或者是负数，那么学校会将账户内的金额退还。退款途径参考上一条 Direct Deposit。
+        * 如果学生产生了学杂费的退费，那么退款会以 Balance Credit 的形式计入 Student Account。如果账户中 Account Balance 大于零，那么该笔退款会直接用来抵扣 Account Balance。如果账户中 Account Balance 等于零或者是负数，那么学校会将账户内的金额退还。退款途径参考上一条 Direct Deposit。
 
 
 
