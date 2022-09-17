@@ -182,7 +182,12 @@ Hold(s) 会 **阻止你现在或者将来某一学期的选课**，每条 Hold �
                 1. 在账户欠款清零后收到了一笔奖学金/补贴。
                 1. 在交完学费后课程杂费发生变更。例如换课。
         * 如有意向设置，可以在点击 "Setup Direct Deposit" 后按要求输入银行账户信息即可。（不是 Debit Card 信息，
-        详见主文档 [Account vs Debit Card 美国银行账户与借记卡区别辨析](https://www.mingcns.org/guidebook/#account-vs-debit-card-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%80%9F%E8%AE%B0%E5%8D%A1%E5%8C%BA%E5%88%AB%E8%BE%A8%E6%9E%90) 章节）
+        详见主文档 [Account vs Debit Card 美国银行账户与借记卡区别辨析](https://www.mingcns.org/guidebook/#account-vs-debit-card-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%80%9F%E8%AE%B0%E5%8D%A1%E5%8C%BA%E5%88%AB%E8%BE%A8%E6%9E%90) 章节）  
+
+    * Account Balance 和 Amount Due
+        * Account Balance 显示的是用户**总共**需要缴纳的金额。正数为用户欠学校的钱，负数为学校欠用户的钱。
+        * Amount Due 是在**当前账单周期** (Billing cycle) 用户需要缴纳的金额。 如果逾期未缴可能会被罚款。
+        * 如果学生产生了学杂费的退费，那么退款会以 Balance Credit 的形式计入 Student Account。如果账户中 Account Balance 不为零，那么该笔退款会直接用来抵扣 Account Balance。如果账户中 Account Balance 等于零或者是负数，那么学校会将账户内的金额退还。退款途径参考上一条 Direct Deposit。
 
 
 
