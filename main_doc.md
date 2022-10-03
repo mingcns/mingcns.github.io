@@ -647,19 +647,20 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
 * **Bank of America 美国银行**    
 地址：[80 S 8th St STE 266, Minneapolis, MN 55402](https://goo.gl/maps/9rYiBQuCrffaoUpv5)
 (位于Downtown，轻轨Green Line坐到Nicollet Mall后步行6-8分钟，位于IDS Center 2楼)  
-校内ATM地址:
-    * [1000 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/XQPqyfTy9PWZEfzN6) (WaHu公寓楼下)
-    * [1312 4th St SE, Minneapolis, MN 55414](https://goo.gl/maps/DE3p69DSZHkVUn4e7) (Dinkytown)
-    * 开户奖励：
-        * [BOA Checking $100/$300/$500 开户奖励](https://www.uscreditcardguide.com/boa-core-checking/)
-            * 警告：此活动仅支持线上开户，需要税务身份为Resident Alien或U.S. Citizen，而F1学生身份在美国的前5年、
-            J1身份的前2年的税务身份属于Non-Resident Alien，**不满足开户条件**。若强行申请会有 **税务违法** 的风险。
+  *  校内ATM地址:
+      * [1000 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/XQPqyfTy9PWZEfzN6) (WaHu公寓楼下)
+      * [1312 4th St SE, Minneapolis, MN 55414](https://goo.gl/maps/DE3p69DSZHkVUn4e7) (Dinkytown)
+  * 开户奖励：
+      * [BOA Checking $100/$300/$500 开户奖励](https://www.uscreditcardguide.com/boa-core-checking/)
+      * 警告：此活动仅支持线上开户，需要税务身份为Resident Alien或U.S. Citizen，
+      而F1学生身份在美国的前5年、J1身份的前2年的税务身份属于Non-Resident Alien，**不满足开户条件**。若强行申请会有 **税务违法** 的风险。  
 * **Wells Fargo 富国银行**    
 地址1：[612 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vWM9J5obWTJLeiPi9) (Hub公寓楼下)  
 地址2：[80 S 8th St STE 281, Minneapolis, MN 55402](https://goo.gl/maps/F1mMC6EixWuvyhKJ7)  (上述BOA隔壁)  
-校内ATM:
-    * Willey Hall 大厅
-    * Coffman Memorial Union G层(Ground Floor)。
+  * 校内ATM:
+      * Willey Hall 大厅
+      * Coffman Memorial Union G层(Ground Floor)。
+  * 开户奖励：[Wells Fargo Checking Bonus](https://www.uscreditcardguide.com/wells-fargo-everyday-checking/)
 * **U.S. Bank 美国合众银行**  
     * 网点地址：
         * 在学校West Bank Skyway 就有一个Branch。 地址：
