@@ -685,6 +685,8 @@ _<font color="red">免责声明：以上关于运营商的介绍仅供参考，�
     * 可获得印有学校Logo的借记卡。
     * 以明大学生身份开户可以免除 Month Maintenance Fee。（大部分银行的 Student Checking 都可以免月费）
 
+* [Huntington Checking Account Bonus Offer](https://www.huntington.com/checking-account-promotions-bonuses-offers)
+
 
 #### 开户流程：
 
