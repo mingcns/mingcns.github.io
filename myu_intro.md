@@ -45,7 +45,7 @@ function googleTranslateElementInit() {
 ## MyU是什么
 
 MyU系统是University of Minnesota官方集教务、金融于一体的服务系统，
-是每个学生个人的资料搜寻与管理窗口，可以通过 [myu.umn.edu](myu.umn.edu) 访问。  
+是每个学生个人的资料搜寻与管理窗口，可以通过 [myu.umn.edu](https://myu.umn.edu) 访问。  
 由于MyU所含的功能丰富，且在日常中使用到的频率较高，
 因此我们强烈建议每位新生在Orientation前尽可能的了解熟悉MyU的使用。
 
