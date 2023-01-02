@@ -51,13 +51,13 @@ function googleTranslateElementInit() {
 
 ### 学校官方流程介绍
 1. _(本科生)_ 这里是学校 Admission Office 关于录取后注意事项的概述:
-[Checklist for Admitted International Freshmen](https://admissions.tc.umn.edu/checklist/intl_fresh.html)
+[Checklist for Admitted International Freshmen](https://admissions.tc.umn.edu/admissions/international-admission/checklist-admitted-international-freshman)
 
 1. _(本科新生/转学生)_ 学校国际生办公室 (ISSS) 制作的流程图：
-[https://isss.umn.edu/new/pdf/newugmap.pdf](https://isss.umn.edu/new/pdf/newugmap.pdf)
+[Timeline & Checklist for Undergraduate International Students](https://z.umn.edu/isssugmap)
 
 1. _(研究生，含硕士和博士)_ 学校国际生办公室 (ISSS) 制作的流程图：
-[https://isss.umn.edu/new/pdf/newgradmap.pdf](https://isss.umn.edu/new/pdf/newgradmap.pdf)
+[Timeline & Checklist for Graduate, Professional, Non-degree & Exchange International Students](https://isss.umn.edu/sites/isss.umn.edu/files/documents/NewStudent_Graduate_Timeline.pdf)
 
 
 ### UMN学生账号的激活与使用
