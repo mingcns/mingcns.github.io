@@ -67,6 +67,8 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 - **校外公寓居住体验投稿文档: [Google Docs - 校外公寓住宿体验收集文档](https://docs.google.com/document/d/1ngJgvJHpXnkCUGh_BuKL2OhEj4we9tY6eKFgxbkGQ-0/edit?usp=sharing)**  
 _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
+- **校外公寓居住体验问卷调查: [Google Form - UMN 周边校外公寓调查问卷](https://forms.gle/7J76TUhS7u2BZTAZ7)**  
+
 - **校外公寓清单：[mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)**
 
 <!-- TODO(tnz): Making it visible again when we're ready. -->
