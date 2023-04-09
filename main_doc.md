@@ -113,7 +113,7 @@ _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.chec
     * Placement test 中<font color="red">数学必考</font>，分配结果（课号）MATH1241/1271/1371 (Calculus I) 为该测试的最高水平。
     * 关于是否需要考化学请参照
     [Chemistry and Math Placement](http://placement.umn.edu/)
-    右侧对应学院的链接里自己专业的 Placement test 要求。  
+    对应学院的链接里自己专业的 Placement test 要求。  
     【太长不看版本（请以上述链接为准）：如果你将来的专业要求里没有化学，
     你可以选择不考化学。】  
         * 化学 Placement test 如果第一次考到80分以上，直接分配到 CHEM1061 ，为该测试的最高水平。
