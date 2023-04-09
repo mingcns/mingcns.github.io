@@ -80,7 +80,8 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
 据明大ISSS消息，**理论上** 国际生在抵达学校前不会被强制要求注册 DUO，但是如果你在抵达学校前忘记了你的账号密码，那么你就
 必须激活 DUO 以修改密码。所以为了自己的便利，**请避免在抵校前忘记账户密码** 。   
 大家在抵校后会被要求激活 DUO 以保证账户安全，**如果你在设置 DUO 账号的过程中遇到了技术问题，请联系学校IT部门**
-(联系方式在网页底部左下角)：[IT @ UMN](https://it.umn.edu/)
+(联系方式在网页底部左下角)：[IT @ UMN](https://it.umn.edu/)  
+ISSS说明如下：[https://isss.umn.edu/new-students/requirements/enroll-duo](https://isss.umn.edu/new-students/requirements/enroll-duo)
 
 1. <span id="activate-umn-email-anchor">激活你的 UMN 邮箱：</span>
 由于学校邮箱是基于 Google Gmail 的，此操作需要可以访问 Google 的网络环境，学校官方提供 VPN:
