@@ -130,12 +130,12 @@ _(所有国际学生)_ [ISSS](https://isss.umn.edu/new/) 要求学生在到达�
 
 * _(仅限本科新生与本科转学生)_ 本科新生与本科转学生将在 New Student Orientation 期间<font color="red">完整参与</font> **ISSS Check-In**
 和 **Welcome Session** 活动来消除来自 ISSS 的
-[Registration Hold](https://isss.umn.edu/new/removeholds.html)。
+[Registration Hold](https://isss.umn.edu/new-students/requirements/remove-holds)。
 
 * _(仅限研究生)_ <span id="prep-grad-before-arrival">研究生将在完成</span>
 International Student Preparation Course 的过程中预约 **ISSS Check-In and Welcome Session**
 时间，或者[点击这里](https://z.umn.edu/issscheckin)直接进行预约。<font color="red">完整参与</font> Session 活动之后，
-将可以[消除来自 ISSS 的 Registration Hold](https://isss.umn.edu/new/removeholds.html)。
+将可以[消除来自 ISSS 的 Registration Hold](https://isss.umn.edu/new-students/requirements/remove-holds)。
 研究生 **必须** 在自己院系的 Orientation 和 Events 开始之前完成 ISSS Check-in。
 
 * [International Student Preparation Course 核心内容中文综述](#isss-preparation-重点)
