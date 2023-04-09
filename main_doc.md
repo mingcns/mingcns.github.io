@@ -332,26 +332,24 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 
 ### 临时宿舍
 
-学校对国际生提供临时宿舍服务（需付费，$35/night），具体情况以可以参照此链接:
+学校对国际生提供临时宿舍服务（需付费，$37/night），具体情况以可以参照此链接:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
-最早于2022年7月24日可以入住，8月26日必须搬出。  
+最早于2023年7月23日可以入住，8月25日必须搬出。  
 
 Check-in 时间及地址：  
 前台24x7有人  
-Centennial Hall:
-[614 Delaware Street Southeast, Minneapolis, MN](https://goo.gl/maps/siNCPWx4TFNRbRiL8)
-由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时3分钟。
+Frontier Hall:
+[701 Fulton St SE, Minneapolis, MN 55455](https://goo.gl/maps/voUUeSfbkv5musxu6)
+由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时5分钟。
 
 ### 关于临时宿舍与正式宿舍的衔接
 
-* 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，
-听从临时宿舍的安排即可。详见:
+* 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，听从临时宿舍的安排即可。详见:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
 * Check-out 时间:
-    * 学校宿舍（除了Frontier Hall）：8月23日可以开始自行搬家。
-    * Frontier Hall：8月28日。
+    * 学校宿舍：8月23日可以开始自行搬家。
     * 学校公寓（Keller, Wilkins, Yudof, Radius）：8月15日即可搬入正式住所。
-    * 不住在学校公寓（校外租房）的学生需要于8月26日19点前退房。
+    * 不住在学校公寓（校外租房）的学生需要于8月25日19点前退房。
 
 
 ## 初至明尼
