@@ -84,8 +84,8 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
 
 1. <span id="activate-umn-email-anchor">激活你的 UMN 邮箱：</span>
 由于学校邮箱是基于 Google Gmail 的，此操作需要可以访问 Google 的网络环境，学校官方提供 VPN:
-[Virtual Private Network (VPN)](https://it.umn.edu/service-details/virtual-private-network-vpn)
-(Windows 推荐使用 AnyConnect, Mac OS 推荐使用 Native Client。AnyConnect 连接时请选择 **Full Tunnel**)。  
+[Virtual Private Network (VPN)](https://it.umn.edu/service-details/virtual-private-network-vpn)。
+AnyConnect 连接时请选择 **Full Tunnel**。  
 一般情况下，学校在6月后就会停止往学生申请时填写的邮箱发送邮件通知，所以为了保证可以收到来自学校的重要消息，
 请务必于 **7月前激活** 你的UMN邮箱，并 **保持一定的查阅频率**。
     * 在拥有 X.500 后可以通过以下链接登陆进行激活:
