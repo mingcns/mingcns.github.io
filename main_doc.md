@@ -820,7 +820,7 @@ _<font color="red"> 免责声明：以上关于银行所有内容（包括但不
 香园 Tea House | 北方菜、川菜 | [2425 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/Yi8oegwxLVhvFCEA6)
 宽窄 Legendary Spice | 川菜 | [317 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/yvqeAM8kxpXZwpUL6)
 香港面家 Hong Kong Noodles | 粤菜 | [901 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/XFJWBRJtn9z3M3V87)
-~~老四川 Lao Szechuan~~ | ~~川菜~~ | ~~[304 SE Oak St, Minneapolis, MN 55455](https://goo.gl/maps/gDMfj7kmiDLy6y5a8)~~
+老四川 Lao Szechuan | 川菜 | [304 SE Oak St, Minneapolis, MN 55455](https://goo.gl/maps/gDMfj7kmiDLy6y5a8)
 Kimchi Tofu House | 韩餐 | [307 SE Oak St, Minneapolis, MN 55414](https://goo.gl/maps/NhLHiu28tjaA4B7f8)
 Bona Vietnamese Restaurant | 越南粉 | [815 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/edGNRc213XbY1zHf9)
 Korea Restaurant | 韩餐 | [211 SE Oak St, Minneapolis, MN 55414](https://goo.gl/maps/MdGxjvQMpbfTwMTG6)
