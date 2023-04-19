@@ -386,6 +386,8 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
 
 ### Orientation & Immigration Check-in
 
+注：本段内容初稿写于2019年，已经过去4年，时效性可能不足。因此我们急需要一名热心的新生同学协助更新本段内容。如果哪位读者有意向的话请加入我们的新生群并与群主取得联系！非常感谢！
+
 * 大一新生：Orientation 分两天。  
     1. 第一天为 Immigration Check-in， **关系到你在美国的合法身份** ，请务必 **准时到场** 参加！
         1. Immigration Check-in 需要准备的材料如下：
