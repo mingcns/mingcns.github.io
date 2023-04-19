@@ -71,6 +71,8 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 - **校外公寓清单：[mingcns.org/non-hrl-apt/](https://www.mingcns.org/non-hrl-apt/)**
 
+- **常见税表和税务信息分享：[mingcns.org/tax/](https://www.mingcns.org/tax/)**
+
 <!-- TODO(tnz): Making it visible again when we're ready. -->
 <!-- - **校外公寓居住体验汇总: _Coming soon_** -->
 
