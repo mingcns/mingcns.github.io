@@ -455,7 +455,7 @@ Orientation 只有一天，将在一天内完成 Immigration Check-in 以及面�
 ### Global Gopher Experiences (GGE)
 
 <!-- TODO(tnz): check the time below later. -->
-时间：2022年5月起便有一系列的活动（线上和线下都有）。详见下述链接。
+时间：2023年5月起便有一系列的活动（线上和线下都有）。详见下述链接。
 
 GGE 可以理解为是一个针对国际生的 Welcome Week (WW)。WW 里会很泛的介绍许多学校资源、逛校园。
 而 GGE 则会 **侧重于国际生** 可以享受的资源，或者国际生有可能需要的资源（比如 Writing Center，ISSS 的各类服务）。  
