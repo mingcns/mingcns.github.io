@@ -816,7 +816,7 @@ _<font color="red"> 免责声明：以上关于银行所有内容（包括但不
 
 饭店名 | 主打菜系 | 地址
  --- | --- | ---
-九龙饭店 Kowloon Restaurant (老板自述将于23年3月停业) | 粤菜 | [935 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/bjH19aH6SsqYJQcj8)
+~~九龙饭店 Kowloon Restaurant (于2023年4月1日停业)~~ | ~~粤菜~~ | ~~[935 Washington Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/bjH19aH6SsqYJQcj8)~~
 香园 Tea House | 北方菜、川菜 | [2425 University Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/Yi8oegwxLVhvFCEA6)
 宽窄 Legendary Spice | 川菜 | [317 SE Huron Blvd, Minneapolis, MN 55414](https://goo.gl/maps/yvqeAM8kxpXZwpUL6)
 香港面家 Hong Kong Noodles | 粤菜 | [901 SE Washington Ave, Minneapolis, MN 55414](https://goo.gl/maps/XFJWBRJtn9z3M3V87)
