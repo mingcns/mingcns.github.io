@@ -69,7 +69,7 @@ need any help with taxes, please contact a certified accountant or a tax lawyer.
 本类别的条件自然十分明了，只要拥有美国国籍就是美国公民。
 
 ### 居民外国公民 Resident Alien (RA)
-没有美国国籍的人自然都是外国人(Alien)，而成为美国的税务居民(RA)一般情况下需要满足两个测试。
+没有美国国籍的人自然都是外国人(Alien)，而成为美国的税务居民(RA)一般情况下需要满足两个测试的其中一个。
 1. 绿卡测试 Green Card Test
   * 只要你拥有美国绿卡，那自你获得绿卡的那一天起，你的税务身份就是RA，不论在美国的居住时长有多久。
 1. 居住时间测试 Substantial Presence Test
@@ -79,7 +79,7 @@ need any help with taxes, please contact a certified accountant or a tax lawyer.
     * **税务年**是指一个人在报税的时候申报的是哪一年的税务。美国的报税季一般是每年的4月，
     而在该年申报的税务是产生于前一年的收入，我们称前一年为本税务年。举个例子，今年是2023年，
     A同学在2023年4月申报了其在2022年的收入，本税务年在此指的是2022年，即申报的收入是哪一年的，
-    税务年就是哪一年。
+    税务年就是哪一年。   
   * 居住时长测试的例外：
     * 持有 A、G、Q、F、J、M 签证且满足一定条件的人。
     * F1/F2 签证的前5年豁免本测试。
