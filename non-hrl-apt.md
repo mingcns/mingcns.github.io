@@ -129,7 +129,7 @@ function googleTranslateElementInit() {
   7 West 有快递柜，且前台每天会把快递送到住户的门口，有外卖的话前台也会将外卖送至租户门口。
   据目前问卷结果来看，尚未有快递和外卖的丢失现象。
   公寓有室内恒温停车场也有一个半露天的停车楼，价格不同。尚未有车辆财物或车辆被盗的情况。
-  
+
 
 ### GrandMarc Seven Corners
 [Google Maps](https://g.page/GrandMarcSeven?share)  
@@ -598,6 +598,17 @@ function googleTranslateElementInit() {
 
 劣势：
 * 房型之间差别较大，记得和公寓确实一下；
+
+基于调查问卷的点评
+* 公寓物管相关：
+  Stadium Village Flats 的房租不包含电和燃气，公寓提供单人独立合同，需要押金。
+  押金支持通过MoneyGram汇款、银行卡和银行账户支付。租金支持通过银行卡和银行账户支付。
+  物管响应速度一般为48小时。租客有什么需求都可以和前台当面沟通，且前台态度良好。
+  Maintenance响应速度一般为24小时，节假日会有延迟。
+* 硬件设施与治安相关：
+  SVF的快递由前台代收与保管，尚未发生快递丢失的情况。
+  SVF有恒温车库，尚未有车辆财物或车辆被盗的情况。
+
 
 ### Tairrie House
 [Google Maps](https://goo.gl/maps/cZ5rmhSMwbqM6DqG9)  
