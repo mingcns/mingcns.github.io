@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2022-01-02)
+(Version: 2023-04-22)
 </div><br>
 
 ## 目录
@@ -51,6 +51,7 @@ function googleTranslateElementInit() {
 * 价格记号：$1000+ 代表每人每月 1000 美元起；$1000± 代表每人每月 1000 美元左右。(特别标明的除外)
 * 房租价格不含电费，至于是否包含水费等其他费用，请自行联系公寓。
 * **没有房型和价格的表示我们目前没有收集到相关信息，请自行联系公寓。**
+* 由于工程量巨大，租金信息更新缓慢，请以官网信息为准。
 * **没有公寓介绍的表示我们目前没有收集到相关信息，
 请于我们的[新生群](https://www.mingcns.org/guidebook/#%E6%98%8E%E5%A4%A7%E6%96%B0%E7%94%9F%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A9%E7%BE%A4-mingcns)内提问。**   
 
