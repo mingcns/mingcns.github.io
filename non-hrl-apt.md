@@ -118,6 +118,19 @@ function googleTranslateElementInit() {
 * 房间较小
 * 附近没有中餐厅和超市
 
+基于调查问卷的点评
+* 公寓物管相关：
+  7 West 房租不包含水、电、网、燃气、垃圾、以及下水排污。公寓不提供单人独立合同，签约需要押金，
+  押金和租金支持通过银行账户、现金支票、个人支票或现金的途径支付。
+  公寓提供6个月、9个月、12个月、24个月等多种租期长度。
+  7 West 物管的响应速度很快，一般24小时内可以回复。租客有什么需求都可以和前台当面沟通，且前台态度良好。
+  Maintenance响应速度很快，提交Maintenance Request后的次日就会有人上门服务。
+* 硬件设施与治安相关：
+  7 West 有快递柜，且前台每天会把快递送到住户的门口，有外卖的话前台也会将外卖送至租户门口。
+  据目前问卷结果来看，尚未有快递和外卖的丢失现象。
+  公寓有室内恒温停车场也有一个半露天的停车楼，价格不同。尚未有车辆财物或车辆被盗的情况。
+  
+
 ### GrandMarc Seven Corners
 [Google Maps](https://g.page/GrandMarcSeven?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners)
