@@ -75,7 +75,7 @@ need any help with taxes, please contact a certified accountant or a tax lawyer.
 1. 居住时间测试 Substantial Presence Test
   * 美国税局IRS[官方说明](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test)
   * 如果一个人在本税务年在美国待够了31天，且本税务年居住时长 + 1/3 前税务年居住时长 +
-  1/6 前前税务年居住时长超过了183天，那此人就是RA。
+  1/6 前前税务年居住时长超过了183天，那此人就是RA。   
     * **税务年**是指一个人在报税的时候申报的是哪一年的税务。美国的报税季一般是每年的4月，
       而在该年申报的税务是产生于前一年的收入，我们称前一年为本税务年。举个例子，今年是2023年，
       A同学在2023年4月申报了其在2022年的收入，本税务年在此指的是2022年，即申报的收入是哪一年的，
