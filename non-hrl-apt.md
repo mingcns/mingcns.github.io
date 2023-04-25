@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2023-04-22)
+(Version: 2023-04-24)
 </div><br>
 
 ## 目录
@@ -791,7 +791,8 @@ function googleTranslateElementInit() {
 * 公寓物管相关：
   University Village 的房租包含所有Utility，提供单人独立合同，需要押金。
   押金和租金都仅支持通过银行账户支付。UV有referral项目且履约及时。
-  物管对于租户的回应速度在72小时左右，但是Maintenance响应速度平均在24小时。  
+  物管对于租户的回应速度在72小时左右，但是Maintenance响应速度平均在24小时。
+  物管在前台下班后会有值班人员为有需要的租客提供服务。
 * 硬件设施与治安相关：
   UV有恒温车库，月费$85 (2023年1月)。公寓有快递柜，目前未有发生快递或外卖丢失事件。
 
