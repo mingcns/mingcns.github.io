@@ -32,7 +32,7 @@ function googleTranslateElementInit() {
 
 <div align="right">
 本清单仅供参考，不构成任何意见建议，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2022-01-02)
+(Version: 2023-04-24)
 </div><br>
 
 ## 目录
@@ -51,8 +51,13 @@ function googleTranslateElementInit() {
 * 价格记号：$1000+ 代表每人每月 1000 美元起；$1000± 代表每人每月 1000 美元左右。(特别标明的除外)
 * 房租价格不含电费，至于是否包含水费等其他费用，请自行联系公寓。
 * **没有房型和价格的表示我们目前没有收集到相关信息，请自行联系公寓。**
+* 由于工程量巨大，租金信息更新缓慢，请以官网信息为准。
 * **没有公寓介绍的表示我们目前没有收集到相关信息，
-请于我们的[新生群](https://www.mingcns.org/guidebook/#%E6%98%8E%E5%A4%A7%E6%96%B0%E7%94%9F%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A9%E7%BE%A4-mingcns)内提问。**
+请于我们的[新生群](https://www.mingcns.org/guidebook/#%E6%98%8E%E5%A4%A7%E6%96%B0%E7%94%9F%E4%BA%A4%E6%B5%81%E4%BA%92%E5%8A%A9%E7%BE%A4-mingcns)内提问。**   
+
+关于“基于调查问卷的点评”小节：本小节的内容均基于我们发布的
+[《校外公寓居住体验问卷调查》](https://forms.gle/7J76TUhS7u2BZTAZ7)
+所收集到的内容汇总而成，该小节的内容仅代表问卷填写者的意见，**不代表MinG/CNS对本文内所提及公寓的意见与建议**。
 
 
 ## 西岸
@@ -113,6 +118,20 @@ function googleTranslateElementInit() {
 * 房间较小
 * 附近没有中餐厅和超市
 
+基于调查问卷的点评
+* 公寓物管相关：
+  7 West 房租不包含水、电、网、燃气、垃圾、以及下水排污。公寓不提供单人独立合同，签约需要押金，
+  押金和租金支持通过银行账户、现金支票、个人支票或现金的途径支付。
+  公寓提供6个月、9个月、12个月、24个月等多种租期长度。
+  7 West 物管的响应速度很快，一般24小时内可以回复。租客有什么需求都可以和前台当面沟通，且前台态度良好。
+  物管在前台下班后会有值班人员为有需要的租客提供服务。
+  Maintenance响应速度很快，提交Maintenance Request后的次日就会有人上门服务。
+* 硬件设施与治安相关：
+  7 West 有快递柜，且前台每天会把快递送到住户的门口，有外卖的话前台也会将外卖送至租户门口。
+  据目前问卷结果来看，尚未有快递和外卖的丢失现象。
+  公寓有室内恒温停车场也有一个半露天的停车楼，价格不同。尚未有车辆财物或车辆被盗的情况。
+
+
 ### GrandMarc Seven Corners
 [Google Maps](https://g.page/GrandMarcSeven?share)  
 [官网](https://www.americancampus.com/student-apartments/mn/minneapolis/grandmarc-seven-corners)
@@ -133,7 +152,7 @@ function googleTranslateElementInit() {
 
 设施：
 * 健身房
-* 游戏室：内有PS4、台球桌、电视、桌面足球等
+* ~~游戏室：内有PS4、台球桌、电视、桌面足球等~~
 * Computer Lab：内设Mac电脑和黑白打印机
 * Private Study Room
 
@@ -148,6 +167,24 @@ function googleTranslateElementInit() {
 劣势：
 * 设施偏旧
 * 附近没有中餐厅和超市
+
+基于调查问卷的点评   
+* 公寓物管相关：
+  GrandMarc房租包含了除了电费以外的所有杂费，且提供单人独立合同。签约时如果有担保人可以免除押金，
+  可以避免很多因为押金引发的纠纷。公寓租金支付方式有信用卡和借记卡、银行账户、现金支票和个人支票。
+  GrandMarc提供6个月、9个月和12个月的租期，其在房型分配和室友分配上基本满足租客的要求。
+  GM有Referral Program，且履约及时。自Fall2023起，新签约的Lease会被要求购买租房保险，
+  租客可以选择自行购买，也可以选择购买由GM提供的保险。公寓前台对邮件咨询的回应效率很高，
+  一般24小时内即可回复，且有24 x 7的值班人员为前台下班时间时有需求的租客提供服务。
+  GM的Maintenance响应速度很快，基本上问题在Work Order提交后的第二天就可以得到解决。
+  历史上，GM存在在租客搬出后乱收清洁费的情况，建议租客们在入住前保留好视频和照片证据，
+  避免承担本不应承担的费用。  
+* 硬件设施与治安相关：
+  GM有快递柜，且其容量一般情况下够用，很少发生丢快递的情况。但是因为外卖是放在桌子上的，
+  如果长时间不取会有被人顺手牵羊的风险。GM有恒温地下车库，在疫情期间发生过几起车内财物被盗的案件，
+  但该情况于23年后好转。车库内有空间可以供自行车免费停放，但是丢失风险较高。据目前的问卷情况来看，
+  GM尚未发生入室盗窃的案件。
+
 
 ## Dinkytown
 温情提示：Dinkytown 是学校周边最危险的地区之一，是抢劫案的高发区。
@@ -198,6 +235,16 @@ function googleTranslateElementInit() {
 劣势：
 * 房型只有小型studio，同等住宿面积下价格偏高。
 * 周围party聚集点太多周末有时很吵
+
+基于调查问卷的点评
+* 公寓物管相关：
+  Trademark公寓租金不含水电和网络，提供单人独立合同，需要押金。
+  押金和租金支付方式支持银行卡和银行账户以及现金。
+  Trademark提供9个月和12个月的租期，且不要求租客购买租房保险。
+  物管响应速度在48-72小时左右。
+* 硬件设施与治安相关：
+  公寓内有恒温车库和快递柜。快递和外卖偶尔会丢失，但是不常发生。
+
 
 ### The Knoll Apartments
 [Google Maps](https://goo.gl/maps/UnMg8Xs4prf2f2eV6)  
@@ -453,6 +500,19 @@ function googleTranslateElementInit() {
 劣势：
 * 房间在同价位较小
 
+基于调查问卷的点评
+* 公寓物管相关：
+  Hub的租金不包括水电燃气和下水排污，提供单人独立合同，需要押金。
+  押金和租金支持通过借记卡和银行账户支付。
+  公寓对于房型和室友匹配履约到位。Hub强制要求购买租房保险，需要租客自行选购。
+  Hub对于邮件咨询的回复速度约为48小时。Maintenance响应速度一般，约为48小时。
+* 硬件设施与治安相关：
+  Hub内有快递柜，偶尔会发生快递和外卖的丢失情况。公寓楼内有恒温车库。
+  问卷暂未收集到其他治安相关的数据。
+* 受访者评论：
+  “4B4B没法看房子，房间大小分配极其不均，要提前做好心理准备。”
+
+
 ### The Station on Washington Apartments
 [Google Maps](https://goo.gl/maps/7F4sEkHizCLkqikZ7)  
 [官网](https://liveatthestation.com/)
@@ -550,6 +610,19 @@ function googleTranslateElementInit() {
 劣势：
 * 房型之间差别较大，记得和公寓确实一下；
 
+基于调查问卷的点评
+* 公寓物管相关：
+  Stadium Village Flats 的房租不包含电和燃气，公寓提供单人独立合同，需要押金。
+  押金支持通过MoneyGram汇款、银行卡和银行账户支付。租金支持通过银行卡和银行账户支付。
+  SVF要求租客自行购买租房保险。
+  物管响应速度一般为48小时。租客有什么需求都可以和前台当面沟通，且前台态度良好。
+  物管在前台下班后会有值班人员为有需要的租客提供服务。
+  Maintenance响应速度一般为24小时，节假日会有延迟。
+* 硬件设施与治安相关：
+  SVF的快递由前台代收与保管，尚未发生快递丢失的情况。
+  SVF有恒温车库，尚未有车辆财物或车辆被盗的情况。
+
+
 ### Tairrie House
 [Google Maps](https://goo.gl/maps/cZ5rmhSMwbqM6DqG9)  
 [官网](https://www.dinnaken.com/page/show/714221--tairrie-house)
@@ -598,6 +671,18 @@ function googleTranslateElementInit() {
 * 物业管理较差；
 * 有些房型设计不合理；
 
+基于调查问卷的点评
+* 公寓物管相关：
+  Wahu租金不包含水电燃气和下水排污，提供单人独立合同，需要押金。押金和租金支付方式支持银行卡和银行账户。
+  Wahu要求租客租房保险。
+  公寓回复咨询的速度不错，一般24小时内可以回复。Maintenance响应速度极差，需要至少5天的时间，
+  且在租客快到期时会无视租客的维修需求。
+* 硬件设施与治安相关：
+  Wahu由前台代收与保管快递，暂无快递丢失的情况。公寓有恒温车库，但是由于其与一楼商户共享部分车位，任何人都可以进入，导致治安问题堪忧，时不时会发生车辆与车辆内部财物被盗的案件。
+* 受访者评论：
+  合同中存在陷阱，称押金为预付款，导致关于押金的法律无法适用。
+  公寓存在乱扣押金和乱收水电费的现象。Wahu同时存在对物件损耗收罚款的行为。
+
 
 ### Solhaus Apartments & Towers
 [Google Maps](https://g.page/SolhausApartments?share)  
@@ -609,6 +694,18 @@ function googleTranslateElementInit() {
 * 2B1B $800+
 * Studio $1375+
 * 部分可 Share Room
+
+基于调查问卷的点评
+* 公寓物管相关：
+  Solhaus的租金不包含水电垃圾和排污。公寓提供单人独立合同，需要押金。押金支持通过MoneyGram汇款、
+  银行账户、或者现金支票支付。房租支持通过信用卡和借记卡以及银行账户支付。
+  Solhaus有Referral项目，但是履约效率较低，需要Refer人主动跟进。
+  Solhaus对房型和室友匹配执行到位，令租客满意。
+  Solhaus强制要求租客购买租房保险，租客需要自行购买。公寓在上班时间外会有值班人员应对突发意外情况。
+  Solhaus的Maintenance响应速度很快，在提交Maintenance Request后一天内会得到响应。
+* 硬件设施与治安相关：
+  Solhaus内有快递柜，没有发生过快递或外卖丢失的情况。公寓内有恒温车库，且未发生过车辆被盗的情况。
+  据目前的问卷情况，Solhaus没有发生过入室盗窃的情况。
 
 ### The Quad On Delaware
 [Google Maps](https://goo.gl/maps/hDPHLqAekUsEFdL26)  
@@ -690,6 +787,15 @@ function googleTranslateElementInit() {
 * 公寓房间偏旧，采光一般；
 * 物业回复慢；
 
+基于调查问卷的点评
+* 公寓物管相关：
+  University Village 的房租包含所有Utility，提供单人独立合同，需要押金。
+  押金和租金都仅支持通过银行账户支付。UV有referral项目且履约及时。
+  物管对于租户的回应速度在72小时左右，但是Maintenance响应速度平均在24小时。
+  物管在前台下班后会有值班人员为有需要的租客提供服务。
+* 硬件设施与治安相关：
+  UV有恒温车库，月费$85 (2023年1月)。公寓有快递柜，目前未有发生快递或外卖丢失事件。
+
 
 ## Prospect Park 轻轨站周边
 ### 44 North
@@ -715,7 +821,6 @@ function googleTranslateElementInit() {
 
 优势：
 * 公寓房型不错，包含家具；
-* 物业靠谱；
 
 劣势：
 * 公寓的网不稳定；
@@ -774,11 +879,23 @@ function googleTranslateElementInit() {
 
 优势：
 * 公寓和房间条件不错；
-* 物业管理靠谱；
 * 位于轻轨站旁边那交通便利；
 
 劣势：
 * 公寓位于轻轨线上有噪音；
+
+基于调查问卷的点评
+* 公寓物管相关：
+  Link房租不包括电费和网费，合同提供单人独立合同。
+  需要押金，押金和租金支付方式支持银行卡、银行账户以及现金支票。
+  Link要求租客自行购买租房保险。Link有Referral项目，且履约及时。
+  公寓对于咨询的回复速度较慢，平均需要48小时。不过Link在下班时间会有值班人员协助有需要的租客。
+  Maintenance响应速度一般为2天。
+  对于Link物管的服务态度，受访者描述称“Leasing Office店大欺客，响应速度慢。
+  现任经理（2023年3月）有歧视华人的情况。”
+* 硬件设施与治安相关：
+  Link有快递室，但是快递和外卖丢失情况严重。有受访者描述称外卖在十分钟内未取就有可能丢失。
+  公寓内有恒温车库，历史上发生过多起车辆与车内财物被盗案件。
 
 
 ### Green on 4th
@@ -826,6 +943,13 @@ function googleTranslateElementInit() {
 * 公寓旁边没有中国餐馆/超市；
 * 只有露天车位。
 
+基于调查问卷的点评
+* 公寓物管相关：
+  Pavilion on Berry 的房租包含除了电费以外的所有费用，公寓提供单人独立合同。
+  如果签约时有担保人可以免除押金。押金MoneyGram、银行卡和银行账户。租金支持银行卡和银行账户。
+  PB要求租客自行购买租房保险。物管的响应速度在24小时左右。Maintenance需要至少3天的时间才能解决问题。
+* 硬件设施与治安相关：
+  PB有快递柜或由前台负责保管快递，PB只有露天停车场。暂无治安数据。
 
 ### 808 Berry Place apartments
 [Google Maps](https://goo.gl/maps/5ZPKdFbDziXbR4Jk9)  
