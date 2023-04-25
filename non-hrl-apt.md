@@ -613,6 +613,7 @@ function googleTranslateElementInit() {
 * 公寓物管相关：
   Stadium Village Flats 的房租不包含电和燃气，公寓提供单人独立合同，需要押金。
   押金支持通过MoneyGram汇款、银行卡和银行账户支付。租金支持通过银行卡和银行账户支付。
+  SVF要求租客自行购买租房保险。
   物管响应速度一般为48小时。租客有什么需求都可以和前台当面沟通，且前台态度良好。
   Maintenance响应速度一般为24小时，节假日会有延迟。
 * 硬件设施与治安相关：
@@ -671,6 +672,7 @@ function googleTranslateElementInit() {
 基于调查问卷的点评
 * 公寓物管相关：
   Wahu租金不包含水电燃气和下水排污，提供单人独立合同，需要押金。押金和租金支付方式支持银行卡和银行账户。
+  Wahu要求租客租房保险。
   公寓回复咨询的速度不错，一般24小时内可以回复。Maintenance响应速度极差，需要至少5天的时间，
   且在租客快到期时会无视租客的维修需求。
 * 硬件设施与治安相关：
@@ -938,6 +940,13 @@ function googleTranslateElementInit() {
 * 公寓旁边没有中国餐馆/超市；
 * 只有露天车位。
 
+基于调查问卷的点评
+* 公寓物管相关：
+  Pavilion on Berry 的房租包含除了电费以外的所有费用，公寓提供单人独立合同。
+  如果签约时有担保人可以免除押金。押金MoneyGram、银行卡和银行账户。租金支持银行卡和银行账户。
+  PB要求租客自行购买租房保险。物管的响应速度在24小时左右。Maintenance需要至少3天的时间才能解决问题。
+* 硬件设施与治安相关：
+  PB有快递柜或由前台负责保管快递，PB只有露天停车场。暂无治安数据。
 
 ### 808 Berry Place apartments
 [Google Maps](https://goo.gl/maps/5ZPKdFbDziXbR4Jk9)  
