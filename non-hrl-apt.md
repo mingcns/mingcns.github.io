@@ -235,6 +235,16 @@ function googleTranslateElementInit() {
 * 房型只有小型studio，同等住宿面积下价格偏高。
 * 周围party聚集点太多周末有时很吵
 
+基于调查问卷的点评
+* 公寓物管相关：
+  Trademark公寓租金不含水电和网络，提供单人独立合同，需要押金。
+  押金和租金支付方式支持银行卡和银行账户以及现金。
+  Trademark提供9个月和12个月的租期，且不要求租客购买租房保险。
+  物管响应速度在48-72小时左右。
+* 硬件设施与治安相关：
+  公寓内有恒温车库和快递柜。快递和外卖偶尔会丢失，但是不常发生。
+
+
 ### The Knoll Apartments
 [Google Maps](https://goo.gl/maps/UnMg8Xs4prf2f2eV6)  
 [官网](https://www.theknolldinkytown.com/)
