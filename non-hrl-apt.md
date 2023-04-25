@@ -773,6 +773,14 @@ function googleTranslateElementInit() {
 * 公寓房间偏旧，采光一般；
 * 物业回复慢；
 
+基于调查问卷的点评
+* 公寓物管相关：
+  University Village 的房租包含所有Utility，提供单人独立合同，需要押金。
+  押金和租金都仅支持通过银行账户支付。UV有referral项目且履约及时。
+  物管对于租户的回应速度在72小时左右，但是Maintenance响应速度平均在24小时。  
+* 硬件设施与治安相关：
+  UV有恒温车库，月费$85 (2023年1月)。公寓有快递柜，目前未有发生快递或外卖丢失事件。
+
 
 ## Prospect Park 轻轨站周边
 ### 44 North
@@ -798,7 +806,6 @@ function googleTranslateElementInit() {
 
 优势：
 * 公寓房型不错，包含家具；
-* 物业靠谱；
 
 劣势：
 * 公寓的网不稳定；
