@@ -130,6 +130,17 @@ need any help with taxes, please contact a certified accountant or a tax lawyer.
 明大与 [NRVTAP](https://www.nrvtap.com/) 合作并为 UMN 在校生提供免费的报税辅助服务。
 
 
+## 关于 Property Tax Refund
+很多同学会在每年的一月到三月期间收到他们所居住的公寓发来的 Certificate of Rent Paid (CRP)。
+通过提交该表格可以申请从MN州政府收取公寓的房地产税中返还一部分给到租客。
+但是，**申报 Property Tax Refund 的一个大前提是报税人不能是 Dependent**。
+明尼对于 Dependent 的定义是：在一年内的收入小于等于其个人支出50%的人。
+换句话来说，如果你在美国一年的收入可以支付得起自己一个人在美国支出的50%以上，那么你才有资格申报 Property Tax Refund。
+一般来说，除了有 Stipend 的 Ph.D. 和 Master 学生，大部分人都是不符合这个要求的。
+
+具体申报程序请联系 [NRVTAP](https://www.nrvtap.com/)。
+
+
 ## 版权与免责协议
 本项目包含的所有内容均为通用情况下的知识普及目的而创作， **并且不构成任何法律上的建议** 。
 关于税务、移民身份相关问题的法律上的建议，请咨询专业会计师、律师或者UMN ISSS官方。
