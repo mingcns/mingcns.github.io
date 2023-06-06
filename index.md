@@ -28,14 +28,6 @@ Project MinG/CNS
 
 ---
 
-<h2 style="margin: 0 auto 10px auto; text-align: center; color: #cc0000;">关于 COVID-19 与 Fall 2021 学期</h2>
-
-- **关于 Fall 2021 学期的常见问题 (FAQ): [mingcns.org/faq-fall2020](https://www.mingcns.org/faq-fall2021/)**
-
-- **2021 疫情下赴明大航线指南: [mingcns.org/2021-china-to-msp](https://www.mingcns.org/2021-china-to-msp/)**
-
----
-
 <h2 style="margin: 0 auto 10px auto; text-align: center;">学术相关 Academia Related</h2>
 
 - **明大地理：主要院系和教学楼简介: [mingcns.org/colleges-and-buildings](https://www.mingcns.org/colleges-and-buildings/)**
