@@ -363,7 +363,7 @@ Frontier Hall:
 否则将无法正常进行对第二学期的选课。
 **具体情况请留意你的 [UMN邮箱](#umn学生账号的激活与使用) 和 Application Tracker。**
 
-UMN 官方对于国际生 成绩单/学位证明 的要求以及例子：
+UMN 官方对于 **本科** 国际生 成绩单/学位证明 的要求以及例子：
 [https://admissions.tc.umn.edu/international/docs.html](https://admissions.tc.umn.edu/international/docs.html)
 * 不接受电子或扫描件。
 * 原件不是英文的须要附上【官方文件】和【认证过的英文翻译件】。
@@ -373,11 +373,19 @@ UMN 官方对于国际生 成绩单/学位证明 的要求以及例子：
 * 所有文件须要装在密封好的、盖有骑缝章的学校信封中邮寄。
 * 对于本段解释有疑问的请详细阅读 [上述链接](https://admissions.tc.umn.edu/international/docs.html)。
 
-
 * Admissions Office 地址 (适用于本科生):  
 [240 Williamson Hall, 231 Pillsbury Drive S.E., Minneapolis, MN](https://goo.gl/maps/Z2EixBekrRKk5Q1s5)  
 Phone #: (612) 625-2008  
 E-mail: [admissions@umn.edu](mailto:admissions@umn.edu)
+
+UMN 官方对于 **研究生** 国际生 成绩单/学位证明 的要求以及例子：
+[https://grad.umn.edu/admissions/application-instructions/official-transcripts-credentials](https://grad.umn.edu/admissions/application-instructions/official-transcripts-credentials)
+* 文件必须经过学信网认证。
+* 文件必须是由学信网直接发送至UMN Graduate School。
+* 不接受纸质文件。
+* 由学信网递送电子文件时请 **不要** 选择Parchment系统内的"University of Minnesota"，这样做会把你的文件送给本科招生办。
+* 对于本段解释有疑问的请详细阅读 [上述链接](https://grad.umn.edu/admissions/application-instructions/official-transcripts-credentials)。
+
 
 * Graduate School Admissions Office 地址 (适用于研究生):  
 [321 Johnston Hall, 101 Pleasant St. S.E, Minneapolis, MN](https://goo.gl/maps/HVhonUo69hggriMr7)  
