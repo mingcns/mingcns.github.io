@@ -21,7 +21,7 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'zh'}, 'google_translate_element');
 }
 </script>
-<script async src="//translate.google.cn/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <div style="padding-bottom: 6px">
 <a href="http://www.mingcns.org">返回文档索引主页</a>
@@ -1532,7 +1532,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 ### 关于家长群
 学校官方QQ家长群如下图所示 (信息可能不实时，请以中国办公室官网信息为准)。
-如果家长希望加入微信家长群，建议直接与学校中国办公室[联系](https://china.umn.edu/contact-0)
+如果家长希望加入微信家长群，建议直接与学校中国办公室[联系](https://china.umn.edu)
 
 ![Parent QQ Group Number](https://www.mingcns.org/images/main_doc/parent_qq_group.png)
 

@@ -14,7 +14,7 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'zh'}, 'google_translate_element');
 }
 </script>
-<script async src="//translate.google.cn/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <h1 style="margin: 0 auto; text-align: center; font-weight: bold;">
 Project MinG/CNS
@@ -25,14 +25,6 @@ Project MinG/CNS
 <h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
 
 - **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook/)**
-
----
-
-<h2 style="margin: 0 auto 10px auto; text-align: center; color: #cc0000;">关于 COVID-19 与 Fall 2021 学期</h2>
-
-- **关于 Fall 2021 学期的常见问题 (FAQ): [mingcns.org/faq-fall2020](https://www.mingcns.org/faq-fall2021/)**
-
-- **2021 疫情下赴明大航线指南: [mingcns.org/2021-china-to-msp](https://www.mingcns.org/2021-china-to-msp/)**
 
 ---
 
