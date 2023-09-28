@@ -90,6 +90,8 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 - **中国学生社区 Chinese Student Community (CSC): [mingcns.org/csc](https://www.mingcns.org/csc/)**
 
+- **Hospitality Center (HCC): [mingcns.org/csc](https://www.mingcns.org/hcc/)**
+
 ---
 
 <p style="margin: 20px auto 15px auto; text-align: center; font-style: italic; font-weight: bold;" id="about-us">
