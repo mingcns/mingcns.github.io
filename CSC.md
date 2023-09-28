@@ -12,9 +12,8 @@
 > 公众号二维码：
 
 ## 公众号精选
-> 福利｜CSC & Horizon Auto新学期接机活动来啦～ [链接](https://mp.weixin.qq.com/s/QjpOnNQKjVKv9FNc0DPEeg)
-> 
-> CSC福利｜新生办卡活动 [链接](https://mp.weixin.qq.com/s/ih-b6Jl7oAbMJ72wpXwNCA)
+- 福利｜CSC & Horizon Auto新学期接机活动来啦～ [链接](https://mp.weixin.qq.com/s/QjpOnNQKjVKv9FNc0DPEeg)
+- CSC福利｜新生办卡活动 [链接](https://mp.weixin.qq.com/s/ih-b6Jl7oAbMJ72wpXwNCA)
 
 
 ## 版权与免责协议
