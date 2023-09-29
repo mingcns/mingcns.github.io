@@ -49,7 +49,7 @@ function googleTranslateElementInit() {
 ## CSC 微信公众号
 
 > 公众号 ID：gh_970b17d03a2a
-> 公众号二维码：
+> 公众号二维码：![CSC Wechat Account](https://www.mingcns.org/images/CSC/CSC.JPG)
 
 ## 公众号精选
 - 福利｜CSC & Horizon Auto新学期接机活动来啦～ [链接](https://mp.weixin.qq.com/s/QjpOnNQKjVKv9FNc0DPEeg)
