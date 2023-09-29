@@ -26,7 +26,7 @@ function googleTranslateElementInit() {
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 新文档模板
+# 中国学生社区 (Chinese Student Community) 相关内容
 {:.no_toc}
 
 <div align="right">
@@ -34,7 +34,6 @@ function googleTranslateElementInit() {
 (Version: 2000-01-01)
 </div><br>
 
-# 中国学生社区 (Chinese Student Community) 相关内容
 
 ## 目录
 {:.no_toc}
