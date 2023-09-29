@@ -48,7 +48,7 @@ function googleTranslateElementInit() {
 ## HCC 微信公众号
 
 > 公众号 ID: HCCChinese-
-> 公众号二维码：
+> 公众号二维码：![HCC Wechat Account](https://www.mingcns.org/images/HCC/IMG_1407.PNG)
 
 ## 公众号精选:
 
