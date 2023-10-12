@@ -1207,7 +1207,7 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 周日-周三: 8:30 pm-12:30 am
 周四-周六: 10:00 pm-1:30 am
 
-5. **The Aurora Center**  
+4. **The Aurora Center**  
 TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨打TAC 24小时热线 **612-626-9111**  
 如果遇到问题不想报警，可以先打电话咨询TAC。而且TAC对外严格保密，保证让你得到帮助的同时，不会让你的个人信息遭到泄露。
 
