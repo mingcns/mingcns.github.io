@@ -111,7 +111,8 @@ _(仅限本科新生与本科转学生)_ [New Student Checklist](http://www.chec
 * 如果国际生新生 Orientation 只显示5到7月的日期，请发邮件联系对应学院的新生联络邮箱来选择8月的 Orientation 日期。在第一次做出选择后，Orientation 的日期后续 **可以** 在 Checklist 里更改。
 
 * Placement Test
-    * Placement test 中<font color="red">数学必考</font>，分配结果（课号）MATH1241/1271/1371 (Calculus I) 为该测试的最高水平。
+    * Placement test 中<font color="red">数学必考<sup>*</sup></font>，分配结果（课号）MATH1241/1271/1371 (Calculus I) 为该测试的最高水平。
+      * *(若有AP/IB/Alevel数学可免考数学，详见[https://admissions.tc.umn.edu/hs-counselor-guidebook/transferring-credit](https://admissions.tc.umn.edu/hs-counselor-guidebook/transferring-credit))
     * 关于是否需要考化学请参照
     [Chemistry and Math Placement](http://placement.umn.edu/)
     对应学院的链接里自己专业的 Placement test 要求。  
@@ -1211,7 +1212,15 @@ Admission Requirements 有时候又被称作 **Declaration Requirement** ，这�
 ![University security photo 1](https://www.mingcns.org/images/main_doc/u_security_1.png)
 ![University security photo 2](https://www.mingcns.org/images/main_doc/u_security_2.png)
 
-3. **The Aurora Center**  
+3. **Gopher Chauffeur**
+这是Boynton Health为学生单独开设的开车接送服务，但是只有在夜间才有，而且也只覆盖小区周围一公里的距离。
+但是如果晚上需要从学校回家，直接在软件上订车就会有一辆印着学校Gopher的车来接你。
+软件下载[链接](http://onelink.to/5kmgpc)
+营业时间：
+周日-周三: 8:30 pm-12:30 am
+周四-周六: 10:00 pm-1:30 am
+
+4. **The Aurora Center**  
 TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨打TAC 24小时热线 **612-626-9111**  
 如果遇到问题不想报警，可以先打电话咨询TAC。而且TAC对外严格保密，保证让你得到帮助的同时，不会让你的个人信息遭到泄露。
 
