@@ -426,6 +426,8 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。  
         学校提供有排课工具网站 **Schedule Builder**:
         [schedulebuilder.umn.edu](https://schedulebuilder.umn.edu/)  
+        **强烈推荐schedulebuilder的chrome/firefox extension：gopher grades**。里面涵盖以往课程的均分，成绩分布，rate my professor评价，和SRT(Student Rating of Teacher)评价。插件[链接](https://chromewebstore.google.com/detail/gopher-grades-past-grades/lhekbajaehiokcacoaeicphgdnmeaedp?pli=1)
+        
         _(使用 Schedule Builder 排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
         1. 学校虽然安排新生于选课后前往 UCard Office 领取 UCard，
         但是其实新生到校后便可前往 UCard Office 凭 **护照** 领取 UCard 了， **并无时间限制** 。（也可以使用其他由政府签发的含有英文名字与照片的证件）
