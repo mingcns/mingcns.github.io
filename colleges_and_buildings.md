@@ -483,6 +483,10 @@ CSE Advising Office 针对每一个专业分别制定了Four-Year-Plan，
 * 校车至 Coffman Union 或 Northrop Mall站，各大CSE主要教学楼位于车站北侧。
 * 轻轨 Green Line East Bank Station。车站西北侧即为 Keller Hall 以及其他CSE教学楼。
 
+CS专业 CLA v.s. CSE: 
+* CLA的CS专业是BA(Bachelor of Arts)，CSE的CS专业是BS(Bachelor of Science)，学位不同。
+* CLA要求更多非CS的课程，CSE要求额外的数学课程与科学课程。（物理，化学，心理等）
+* CLA仅要求8学分的upper-division课程要求（4xxx-5xxx课程），CSE要求23学分。
 
 ### Carlson School of Management (CSOM)
 
