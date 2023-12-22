@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "中国学生社区 (Chinese Student Community)"
-permalink: /CSC/
+permalink: /csc/
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DT3EE5Z3Q"></script>
