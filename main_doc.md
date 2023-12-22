@@ -456,7 +456,7 @@ Orientation 只有一天，将在一天内完成 Immigration Check-in 以及面�
 请参考 [国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
 
 **关于 University Writing/ AKA Freshman Writing (课号WRIT 1301):**  
-学校要求所有的本科生(包括转学生)于毕业前完成 WRIT1301 课程。选课时，WRIT1301 的 section 1-10 是为国际生定制的 sections，
+学校要求所有的本科生(包括转学生)于毕业前完成 WRIT1301 课程。选课时，WRIT1301 的 section 200 以后 是为国际生定制的 sections，
 综合难度会小于其他美国本地生的 sections，所以我们建议选择前十个 sections。
 当然，选择本地生的 sections 也不是不可以，有些老师对上本地生 sections 的国际生还是很友好的，会适当降低要求，
 所以请在充分了解某老师的教学要求后再做出选择。另外，不论是国际生还是本地生 sections，WRIT1301 的课程设置
