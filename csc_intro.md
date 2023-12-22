@@ -72,7 +72,7 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 参与本文编撰的作者与共同创作者名单(排名不分先后):  
 Authors, co-editors, and contributors of this documentation:
 
-* Zheng Robert, Jia
+* Jia, Zheng Robert
 
 ---
 
