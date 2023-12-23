@@ -36,6 +36,8 @@ Project MinG/CNS
 
 - **学校 MyU 系统简介: [mingcns.org/myu-intro](https://www.mingcns.org/myu-intro/)**
 
+- **通识(liberal education)水课推荐：[mingcns.org/course-recommendations](https://www.mingcns.org/course-recommendations)**
+
 <!-- TODO(tnz): Making it visible again when we're ready. -->
 <!-- - **图书馆资源简介: _Coming soon_** -->
 
