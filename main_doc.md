@@ -1048,11 +1048,11 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 请注意，选择使用 **S-N Grade Basis** 完成的课程只能用于满足120学分的总学分要求以及通识课程要求，
 并 **<font color="red">不能满足学位要求</font>**。
 
-2018 Fall 之后才 Declare 专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
-将被降低为 **20学分**。
+双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
+为 **20学分**。
 
-在此之前 Declare 专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
-仍然为不超过毕业时 **总学分的 25%** 即可。
+<!-- no longer possible 在此之前 Declare 专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
+仍然为不超过毕业时 **总学分的 25%** 即可。 -->
 
 请查看APAS([下有介绍](#apas))，或者面见 Advisor 获取更多细节，同时可以通过学校的 Policy Library 网站查看最新政策:
 [Credit and Grade Point Requirements for an Undergraduate (Baccalaureate) Degree: Twin Cities, Crookston, Morris, Rochester](https://policy.umn.edu/education/bacreditreq)
