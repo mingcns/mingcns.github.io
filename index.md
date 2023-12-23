@@ -48,6 +48,8 @@ _(链接指向 Google Docs 共享文档，请使用 UMN 邮箱登陆)_
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">生活相关 Daily Life Related</h2>
 
+- **校内打印机使用指南: [mingcns.org/printer-guide](https://www.mingcns.org/printer-guide/)/**
+
 - **UMN宿舍楼及HRL旗下公寓简介: [mingcns.org/hrl-dorm-apt-intro](https://www.mingcns.org/hrl-dorm-apt-intro/)**
 
 - **Metro Transit 轻轨简介: [mingcns.org/light-rail](https://www.mingcns.org/light-rail/)**
