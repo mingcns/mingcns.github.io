@@ -427,6 +427,10 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         学校提供有排课工具网站 **Schedule Builder**:
         [schedulebuilder.umn.edu](https://schedulebuilder.umn.edu/)  
         **强烈推荐schedulebuilder的chrome/firefox extension：gopher grades**。里面涵盖以往课程的均分，成绩分布，rate my professor评价，和SRT(Student Rating of Teacher)评价。插件[链接](https://chromewebstore.google.com/detail/gopher-grades-past-grades/lhekbajaehiokcacoaeicphgdnmeaedp?pli=1)
+
+        **选课常见问题**: 
+        选课时经常会遇见想要选的课程A爆满只能进入waitlist，所以想要选择课程B作为保底。如果课程A有空位了，不想上B；如果A没空位，就选择B做替补。如果两个课同时注册却又有可能超过学分或者有时间冲突。这种时候可以利用future swap。onestop官网底部有详细指南[https://onestop.umn.edu/registration/change-registration/swap-or-future-swap-classes](https://onestop.umn.edu/registration/change-registration/swap-or-future-swap-classes)
+
         
         _(使用 Schedule Builder 排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
         1. 学校虽然安排新生于选课后前往 UCard Office 领取 UCard，
@@ -1063,6 +1067,7 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 
     1. 新生将在 Orientation 第一次选课
     1. 老生的选课时间将会在学校开放选课前于 MyU 中的 Academic 下的 Register 专栏出现。具体选课时间因人而异。
+
 
 1. 退课 (Drop/Withdraw)  
 退课的选择分为四个阶段，每个阶段的操作和造成的后果都不相同。
