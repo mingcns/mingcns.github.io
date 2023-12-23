@@ -1055,7 +1055,6 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
 为 **20学分**。
 
-<!-- no longer possible 在此之前 Declare 专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
 仍然为不超过毕业时 **总学分的 25%** 即可。 -->
 
 请查看APAS([下有介绍](#apas))，或者面见 Advisor 获取更多细节，同时可以通过学校的 Policy Library 网站查看最新政策:

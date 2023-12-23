@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "通识水课推荐"
-permalink: /course-recommendation
+permalink: /course-recommendation/
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -27,13 +27,13 @@ function googleTranslateElementInit() {
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 新文档模板
+# 通识水课推荐
 
 {:.no_toc}
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2000-01-01)
+(Version: 2023-12-23)
 </div><br>
 
 ## 目录
@@ -57,7 +57,7 @@ function googleTranslateElementInit() {
     <td>Arts/Humanities & Technology and Society</td>
   </tr>
   <tr>
-    <td>MUS 1013 *Oneline</td>
+    <td>MUS 1013 *Online</td>
     <td>Rock I: The Historical Origins and Development of Rock Music to 1970</td>
     <td>Arts/Humanities Diversity & Soc. Justice in the U.S</td>
   </tr>
@@ -91,16 +91,6 @@ function googleTranslateElementInit() {
     <td>Biorenewable Resources</td>
     <td>Technology and Society</td>
   </tr>
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr> -->
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr> -->
 </table>
 
 <!-- TODO -->
@@ -127,7 +117,7 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 参与本文编撰的作者与共同创作者名单(排名不分先后):  
 Authors, co-editors, and contributors of this documentation:
 
-- Zheng Robert Jia
+- Jia, Zhenghao
 
 ---
 

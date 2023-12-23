@@ -27,13 +27,13 @@ function googleTranslateElementInit() {
 <a href="http://www.mingcns.org">返回文档索引主页</a>
 </div>
 
-# 新文档模板
+# 校内打印机指南
 
 {:.no_toc}
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2000-01-01)
+(Version: 2023-12-23)
 </div><br>
 
 ## 目录
@@ -65,7 +65,7 @@ Mac 驱动安装教程：[https://it.umn.edu/services-technologies/how-tos/wifi-
 
 详细[教程](https://it.umn.edu/services-technologies/how-tos/wifi-printing-print-ios-device-wifi)
 
-- 非正常 A4 纸的打印指南：[https://printing.umn.edu/](https://printing.umn.edu/)
+- 非正常 US letter 大小或特殊材质的纸的打印指南：[https://printing.umn.edu/](https://printing.umn.edu/)
 
 ## 版权与免责协议
 
@@ -88,7 +88,7 @@ The “copyleft” of the entire document belongs to all of the author team, co-
 参与本文编撰的作者与共同创作者名单(排名不分先后):  
 Authors, co-editors, and contributors of this documentation:
 
-- I am Groot.
+- Jia, Zhenghao
 
 ---
 
