@@ -426,6 +426,12 @@ E-mail: [gsquest@umn.edu](mailto:gsquest@umn.edu)
         [明大学术要求与专业项目 - 专业与学位项目要求](#专业与学位项目要求) 章节。  
         学校提供有排课工具网站 **Schedule Builder**:
         [schedulebuilder.umn.edu](https://schedulebuilder.umn.edu/)  
+        **强烈推荐schedulebuilder的chrome/firefox extension：gopher grades**。里面涵盖以往课程的均分，成绩分布，rate my professor评价，和SRT(Student Rating of Teacher)评价。插件[链接](https://chromewebstore.google.com/detail/gopher-grades-past-grades/lhekbajaehiokcacoaeicphgdnmeaedp?pli=1)
+
+        **选课常见问题**: 
+        选课时经常会遇见想要选的课程A爆满只能进入waitlist，所以想要选择课程B作为保底。如果课程A有空位了，不想上B；如果A没空位，就选择B做替补。如果两个课同时注册却又有可能超过学分或者有时间冲突。这种时候可以利用future swap。onestop官网底部有详细指南[https://onestop.umn.edu/registration/change-registration/swap-or-future-swap-classes](https://onestop.umn.edu/registration/change-registration/swap-or-future-swap-classes)
+
+        
         _(使用 Schedule Builder 排课 **并不等于选课**，请于 Orientation 时认真听取选课流程)_
         1. 学校虽然安排新生于选课后前往 UCard Office 领取 UCard，
         但是其实新生到校后便可前往 UCard Office 凭 **护照** 领取 UCard 了， **并无时间限制** 。（也可以使用其他由政府签发的含有英文名字与照片的证件）
@@ -456,7 +462,7 @@ Orientation 只有一天，将在一天内完成 Immigration Check-in 以及面�
 请参考 [国际生入境前准备](#isss-international-student-preparation-国际生入境前准备) 章节。
 
 **关于 University Writing/ AKA Freshman Writing (课号WRIT 1301):**  
-学校要求所有的本科生(包括转学生)于毕业前完成 WRIT1301 课程。选课时，WRIT1301 的 section 1-10 是为国际生定制的 sections，
+学校要求所有的本科生(包括转学生)于毕业前完成 WRIT1301 课程。选课时，WRIT1301 的 section 200 以后 是为国际生定制的 sections，
 综合难度会小于其他美国本地生的 sections，所以我们建议选择前十个 sections。
 当然，选择本地生的 sections 也不是不可以，有些老师对上本地生 sections 的国际生还是很友好的，会适当降低要求，
 所以请在充分了解某老师的教学要求后再做出选择。另外，不论是国际生还是本地生 sections，WRIT1301 的课程设置
@@ -1046,11 +1052,10 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 请注意，选择使用 **S-N Grade Basis** 完成的课程只能用于满足120学分的总学分要求以及通识课程要求，
 并 **<font color="red">不能满足学位要求</font>**。
 
-2018 Fall 之后才 Declare 专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
-将被降低为 **20学分**。
+双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
+为 **20学分**。
 
-在此之前 Declare 专业的双城校区的学生，能够使用 **S-N Grade Basis** 完成的课程的 <font color="red">学分上限</font>
-仍然为不超过毕业时 **总学分的 25%** 即可。
+仍然为不超过毕业时 **总学分的 25%** 即可。 -->
 
 请查看APAS([下有介绍](#apas))，或者面见 Advisor 获取更多细节，同时可以通过学校的 Policy Library 网站查看最新政策:
 [Credit and Grade Point Requirements for an Undergraduate (Baccalaureate) Degree: Twin Cities, Crookston, Morris, Rochester](https://policy.umn.edu/education/bacreditreq)
@@ -1061,6 +1066,7 @@ Audit 仅用作选课时占位使用，**需要付学费** 。（但是由于学
 
     1. 新生将在 Orientation 第一次选课
     1. 老生的选课时间将会在学校开放选课前于 MyU 中的 Academic 下的 Register 专栏出现。具体选课时间因人而异。
+
 
 1. 退课 (Drop/Withdraw)  
 退课的选择分为四个阶段，每个阶段的操作和造成的后果都不相同。
