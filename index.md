@@ -6,8 +6,20 @@
   gtag('js', new Date());
 
   gtag('config', 'G-4DT3EE5Z3Q');
+  gtag('config', 'DC-13316960');
 </script>
 <script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- Main page View conversion bit -->
+<script>
+  gtag('event', 'conversion', {
+    'allow_custom_scripts': true,
+    'send_to': 'DC-13316960/auto_act/mingc0+standard'
+  });
+</script>
+<noscript>
+<img src="https://ad.doubleclick.net/ddm/activity/src=13316960;type=auto_act;cat=mingc0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1?" width="1" height="1" alt=""/>
+</noscript>
 
 <script>
 function googleTranslateElementInit() {
