@@ -12,6 +12,7 @@ permalink: /guidebook/
   gtag('js', new Date());
 
   gtag('config', 'G-4DT3EE5Z3Q');
+  gtag('config', 'DC-13316960');
 </script>
 <script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
