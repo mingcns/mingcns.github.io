@@ -1307,7 +1307,7 @@ A: 学校官方提供有VPN，虽然网速偏慢，但是做个Checklist还是�
 [Virtual Private Network (VPN) | IT@UMN](https://it.umn.edu/service-details/virtual-private-network-vpn)
 
 <!-- TODO(tnz): check ISSS required date of arrival. -->
-**Q: 学校要求8月24号前到达学校，请问一定要这个时间到吗？**  
+**Q: 学校要求8月19号前到达学校，请问一定要这个时间到吗？**  
 A: 不是，确保Orientation前到学校即可。
 学校推荐24号前到校的原因参考本文 [Orientation相关问题](#orientation--immigration-check-in) 章节。
 
