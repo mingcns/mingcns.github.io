@@ -350,9 +350,9 @@ Centennial Hall:
 * 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，听从临时宿舍的安排即可。详见:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
 * Check-out 时间:
-    * 学校宿舍：8月23日可以开始自行搬家。
+    * 学校宿舍：8月20日可以开始自行搬家。
     * 学校公寓（Keller, Wilkins, Yudof, Radius）：8月15日即可搬入正式住所。
-    * 不住在学校公寓（校外租房）的学生需要于8月25日19点前退房。
+    * 不住在学校公寓（校外租房）的学生需要于8月23日19点前退房。
 
 
 ## 初至明尼
