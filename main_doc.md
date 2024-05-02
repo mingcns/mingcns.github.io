@@ -335,15 +335,15 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 
 ### 临时宿舍
 
-学校对国际生提供临时宿舍服务（需付费，$37/night），具体情况以可以参照此链接:
+学校对国际生提供临时宿舍服务（需付费，$38/night），具体情况以可以参照此链接:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
 最早于2023年7月23日可以入住，8月25日必须搬出。  
 
 Check-in 时间及地址：  
 前台24x7有人  
-Frontier Hall:
-[701 Fulton St SE, Minneapolis, MN 55455](https://goo.gl/maps/voUUeSfbkv5musxu6)
-由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时5分钟。
+Centennial Hall:
+[614 Delaware Street Southeast, Minneapolis, MN, 55455](https://maps.app.goo.gl/FmuLQwxLERkgm4wP9)
+由轻轨 [East Bank Station](https://goo.gl/maps/Qe3L3UMDLRDpT5VA7) 下车后步行前往约耗时3分钟。
 
 ### 关于临时宿舍与正式宿舍的衔接
 
