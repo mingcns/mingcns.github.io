@@ -35,6 +35,12 @@ Project MinG/CNS
 
 ---
 
+<h2 style="margin: 0 auto 10px auto; text-align: center;">MinG/CNS 明城论坛 Forum</h2>
+
+- **MinG/CNS 明城论坛 - 明尼苏达华人社群: [forum.mingcns.org](https://forum.mingcns.org)**
+
+---
+
 <h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
 
 - **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook/)**
