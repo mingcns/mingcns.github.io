@@ -38,9 +38,9 @@ function googleTranslateElementInit() {
 </div><br>
 
 <div style="color: red; font-weight: bold;">
-本指南正文内容已于2024年5月6日迁移至 <a href="https://forum.mingcns.org/d/8-project-mingcns-2024">MinG/CNS 明城论坛</a> 并进行了审阅与修订。本页内容将会不定时由论坛同步至此。<br><br>
+本指南正文内容已于2024年5月6日迁移至 <a href="https://www.mingcns.com/d/8-project-mingcns-2024">MinG/CNS 明城论坛</a> 并进行了审阅与修订。本页内容将会不定时由论坛同步至此。<br><br>
 为了可以与大家更好地在线进行互动，我们鼓励大家前往论坛阅读并进行讨论。<br><br>
-MinG/CNS 明城论坛 - 明尼苏达华人社群: <a href="https://forum.mingcns.org">forum.mingcns.org</a> <br><br>
+MinG/CNS 明城论坛 - 明尼苏达华人社群: <a href="https://www.mingcns.com">mingcns.com</a> <br><br>
 </div>
 
 本文所有的地址链接均可以在点击后使用Open in Safari (安卓用户Open with Browser)，自动导入Google Maps进行导航。

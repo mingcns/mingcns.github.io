@@ -37,7 +37,7 @@ Project MinG/CNS
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">MinG/CNS 明城论坛 Forum</h2>
 
-- **MinG/CNS 明城论坛 - 明尼苏达华人社群: [forum.mingcns.org](https://forum.mingcns.org)**
+- **MinG/CNS 明城论坛 - 明尼苏达华人社群: [mingcns.com](https://www.mingcns.com)**
 
 ---
 
