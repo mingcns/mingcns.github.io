@@ -17,13 +17,13 @@ permalink: /guidebook/
 </script>
 <script data-ad-client="ca-pub-3457849876540251" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<div id="google_translate_element" style="float:right"></div>
+<!-- <div id="google_translate_element" style="float:right"></div>
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'zh'}, 'google_translate_element');
 }
 </script>
-<script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 
 <div style="padding-bottom: 6px">
 <a href="http://www.mingcns.org">返回文档索引主页</a>
@@ -1581,12 +1581,12 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 2. 签证知识:
     1. 美国签证是用来进入美国的门票，哪怕签证过期也不影响在美国的身份，但是离境后重新进入美国必须需要在有效期内的对应种类的美国签证。
-    2. F-1签证必须配合SEVIS号码一致的有效I-20一起使用。
+    2. F-1签证必须配合有效I-20一起使用。
 
 3. I-20知识:
     1. I-20表格是在美国的学生身份的法律文件，请妥善保管。右上角为你的SEVIS档案号码，会伴随你在美国的学生生涯。
     2. 确保I-20上所有的信息是最实时的，当更换专业，declare 新专业等可能会改变I-20表格上信息等行为发生时，请联系ISSS换发新的I-20.
-    3. 请 保留 所有历史版本的I-20，当申请OPT时会需要所有的I-20的复印件，弄丢了很麻烦。
+    3. 请保留所有历史版本的I-20，当申请OPT时会需要所有的I-20的复印件，弄丢了很麻烦。
     4. 签证时，如果要提供财产证明，请尽量不要少于I-20上所描述的会提供的一年所有费用。
     5. 如果在第一次入境之后，需要离境再次进入，除了有效的签证之外，还需要在I-20的第二页上有在入境日期的一年以内的
     Travel Endorsement Signature。这个签名可以找ISSS walk-in更新，立等可取。（P.S. OPT期间需要是半年内的签名)
