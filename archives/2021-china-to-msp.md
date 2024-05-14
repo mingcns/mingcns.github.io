@@ -226,22 +226,6 @@ Authors, co-editors, and contributors of this documentation:
 
 ---
 
-<div id="disqus_thread"></div>
-<script async>
-    var disqus_config = function () {
-    this.page.url = 'https://www.mingcns.org/2021-china-to-msp/';
-    this.page.identifier = '2021-china-to-msp';
-    };
-
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://mingcns.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
 _<font color="grey">Locations of Visitors: </font>_
 <div style="width: 50%; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6dgA5xsRget7ciqINHnS-LTZ2Bt67OdMGfiecR3Qa-8&cmo=ff7a00&cmn=ff0000&ct=ffffff&co=2d78ad'></script>
