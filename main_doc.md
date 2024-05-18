@@ -26,7 +26,7 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2024-05-01)
+(Version: 2024-05-18)
 </div><br>
 
 <div style="color: red; font-weight: bold;">
@@ -80,7 +80,7 @@ Internet ID，也就是 X.500，将会是你在 UMN 除了 Student ID 外的另�
 必须激活 DUO 以修改密码。所以为了自己的便利，**请避免在抵校前忘记账户密码** 。   
 大家在抵校后会被要求激活 DUO 以保证账户安全，**如果你在设置 DUO 账号的过程中遇到了技术问题，请联系学校IT部门**
 (联系方式在网页底部左下角)：[IT @ UMN](https://it.umn.edu/)  
-ISSS说明如下：[https://isss.umn.edu/new-students/requirements/enroll-duo](https://isss.umn.edu/new-students/requirements/enroll-duo)
+ISSS关于Duo的说明如下：[https://isss.umn.edu/new-students/requirements/enroll-duo](https://isss.umn.edu/new-students/requirements/enroll-duo)
 
 1. <span id="activate-umn-email-anchor">激活你的 UMN 邮箱：</span>
 由于学校邮箱是基于 Google Gmail 的，此操作需要可以访问 Google 的网络环境，学校官方提供 VPN:
@@ -150,9 +150,7 @@ _(所有国际学生)_ 在确认录取之后，需要申请 I-20 学生表格。
 [Financial Certification Statement](https://admissions.tc.umn.edu/submit/fincert.php) 按照要求一步步提交
 Financial Certification Statement 表格（在提交这个表格的步骤时，不需要财产证明，一切数据均为 self-report），
 之后 ISSS 或者 Graduate School 会开始处理制作你的 I-20 表格。  
-在 I-20 准备完毕可以被寄出时，会收到来自学校的信息跟指引，如果需要寄送到美国以外的地址（比如中国大陆），一般是选择 **Express Mail**
-寄送，根据邮件里的指引会让你去 [study.eshipglobal.com](https://study.eshipglobal.com) 上填写你的收件地址，
-七位数字的 Student ID 等个人信息，以及选择快递提供商。顺利的话2-4个工作日即可收到 I-20。在收到 I-20 之后，需要去
+在 I-20 准备完毕时，会收到学校的邮件提示可以下载、打印、签字。在2020年之后，I-20打印件也被视作有效文件。在收到 I-20 之后，需要去
 [www.fmjfee.com/i901fee/index.html](https://www.fmjfee.com/i901fee/index.html)
 缴费激活 (Pay I-901 Fee) 自己的 SEVIS 记录，并获取 **I-901 Receipt**, 只有 SEVIS 记录被激活之后才可以去面签。
 SEVIS 记录将会伴随你的整个美国学生生涯以及毕业后 [OPT](https://isss.umn.edu/fstudent/opt/) 工作。
@@ -194,7 +192,6 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 这个体检 **不是 UMN，也不是美国政府的要求** ，而是 **中国政府的要求**（疫苗是 UMN 要求的）。
 在体检之后会收到一本 [小红本](http://www.ithc.cn/article/48517.html)，
 打了疫苗会收到一本 [小黄本](http://www.ithc.cn/article/48519.html)。
-在 **出中国海关** 时 _有可能_ 会抽查这两本资料。小红本有效期一年。
 
 * 对于打疫苗的意见建议:  
 笔者当时是在国内打了两针 MMR 拿了小黄本。对于已经有小黄本的同学们完全可以来到学校再打，毕竟医保报销，自己不用掏钱。
@@ -205,8 +202,7 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 （春季入学的需要在4月选取秋季课程前提交疫苗表）  
 疫苗表可以通过 Google Form 网上电子填写：
 [Online Immunization Form](https://docs.google.com/forms/d/e/1FAIpQLSepNBnCb-weLc5smkNpsIOb_P_b3daUR7M3zQv0fzF2yGqMFw/viewform),
-也可以打印
-[纸质版](https://boynton.umn.edu/sites/boynton.umn.edu/files/2018-10/Form_Immunization-2018.pdf)
+也可以打印[纸质版](https://boynton.umn.edu/sites/boynton.umn.edu/files/2024-05/Student_Immunization_Form_4-2024%20.pdf)
 出来填好交去 Boynton 前台。如果在 Boynton 打疫苗的话，可以直接在 Boynton 的工作人员处填表。
 
 ### 预约签证
@@ -216,8 +212,7 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 中[关于I-901的最后一段](#i901fee-anchor)。
 
 * _(仅限目前 F-1 签证仍然有效且将会使用 I-20 Transfer 将 SEVIS 记录转到明大的 **美高、美本、美本转学生**)_
-只要你的新 I-20 上的 **SEVIS ID**（N开头+10位数字），与签证上的 **SEVIS ID** 一致，
-就可以继续持有 **现有签证+新的 I-20** 出入美国。
+只要你现有美国签证还没有过期且没有被取消，就可以继续持有**现有签证+新的 I-20** 出入美国。
 
 * _(仅限**目前 F-1 签证已经过期**、但是将会使用 I-20 Transfer 将 SEVIS 记录转到明大的美高、美本、美本转学生)_  需要按照本章 [_(仅限目前没有F-1签证的同学)_](#no-f1-visa-anchor) 的情况操作，用新的 I-20 重新申请签证。但是不需要再支付 I-901 fee 来激活 I-20，因为 SEVIS 已经是 active 状态了。
 
