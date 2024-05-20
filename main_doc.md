@@ -1276,9 +1276,9 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
 
 更多关于学校医保的介绍请参考我们的[《学费包含的服务》](https://www.mingcns.org/service-included-in-tuition/#%E5%AD%A6%E7%94%9F%E5%8C%BB%E4%BF%9D-student-health--benefits-plan)文档。
 
-_<font color="red">免责声明：以上关于医保所有内容（包括但不限于保险费用、保险生/失效日期、保险涵盖内容等信息）的介绍仅供参考，
+_免责声明：以上关于医保所有内容（包括但不限于保险费用、保险生/失效日期、保险涵盖内容等信息）的介绍仅供参考，
 具体情况请咨询学校Office of Student Health & Benefit确认，并以SHB官方答复为准。
-官网链接：[Office of Student Health Benefits](https://shb.umn.edu/) </font>_
+官网链接：[Office of Student Health Benefits](https://shb.umn.edu/)_
 
 
 ## 常见问题FAQ
