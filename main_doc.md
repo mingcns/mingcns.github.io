@@ -506,7 +506,7 @@ UCard，也就是校园卡，是学生在 UMN 的几年中用于校内身份证�
 * **Dining Dollars (DD)**  
 Dining Dollars，在2022年前称为 Flexdine，和 Gopher Gold 有所区别，DD 只能在学校饭堂，或者 Dining 旗下的店铺使用。涵盖但不限于：Coffman Food Court,
 Freshii at Moos Tower, On-campus Starbucks and Caribou Coffee.
-DD 和 Gopher Gold 最大区别就是，使用 DD 可以不用交税（Minneapolis 合计 Sales Tax 消费税为商品价格的9.03%%,
+DD 和 Gopher Gold 最大区别就是，使用 DD 可以不用交税（Minneapolis 合计 Sales Tax 消费税为商品价格的9.03%,
 St Paul 合计 Sales Tax 消费税为商品价格的9.88%。美国的消费税是不含在商品标价里的），而 Gopher Gold 需要交税。
 
 充值信息如下：[University of Minnesota Dining Services - Dining Dollars](https://dining.tc.umn.edu/dining-dollars)  
