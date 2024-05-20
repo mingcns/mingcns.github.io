@@ -226,7 +226,7 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 离学校最近的商用机场为 **Minneapolis−Saint Paul International Airport 明尼阿波利斯-圣保罗国际机场** IATA代码: **MSP** 。美国各大主要航空公司、荷兰皇家航空、法国航空、汉莎航空、加拿大航空、爱尔兰航空等均于此运营商业航班，为达美航空 (Delta Air Lines) 第二大枢纽，前西北航空 (Northwest Airlines NWA) 总部，全美客流第18忙碌的机场。拥有定期航班的目的地超过230个，于美国境内的航线覆盖非常好，主要次要城市均可直飞到达。远洋国际直飞航线主要目的地包括: 阿姆斯特丹史基浦(AMS)、巴黎戴高乐(CDG)、伦敦希思罗(LHR)、雷克雅未克(KEF)、都柏林(DUB)、法兰克福(FRA)、东京羽田(HND)、首尔(汉城)仁川(ICN)。~~并且达美航空已经提交了航权申请，如果一切顺利将会在2020年开航上海浦东(PVG)直航。~~ (该航线因疫情已被搁置)
 
 <!-- TODO(tnz): check the recommended arrival date from ISSS -->
-_（仅限本科新生、本科转学新生）_ 一般来说，虽然 ISSS 要求8月25日前到达学校，但是实际上只需要保证在 Orientation 前到达学校即可。
+_（仅限本科新生、本科转学新生）_ 一般来说，虽然 ISSS 要求8月19日前到达学校，但是实际上只需要保证在 Orientation 前到达学校即可。
 
 _（全部研究生）_ 强烈建议在院系安排的 Orientation 以及 Events 之前，完成 ISSS 要求的 Check-in，提交最终成绩单、申请 SSN（见下文）等准备工作，请合理安排到达时间。
 关于 ISSS Check-in 详见 [ISSS International Student Preparation 国际生入境前准备 - 研究生](#prep-grad-before-arrival).
