@@ -54,7 +54,7 @@ permalink: /colleges-and-buildings/
 
 ### 西岸 West Bank
 
-学校官方提供的西岸地图: [PTS - West Bank Map](http://www.pts.umn.edu/sites/pts.umn.edu/files/west_bank_map_9-17-20.pdf)
+学校官方提供的西岸地图: [PTS - West Bank Map](https://pts.umn.edu/sites/pts.umn.edu/files/2023-08/West%20Bank%20083023.pdf)
 
 ![West Bank Google Map](https://www.mingcns.org/images/colleges_and_buildings/west_bank.png)
 
@@ -102,7 +102,7 @@ Social Sciences Bldg: [267 19th Ave S, Minneapolis, MN 55455](https://goo.gl/map
 
 ### 东岸 East Bank
 
-学校官方提供的东岸地图: [PTS - East Bank Map](https://www.pts.umn.edu/sites/pts.umn.edu/files/ebank.pdf)
+学校官方提供的东岸地图: [PTS - East Bank Map](https://pts.umn.edu/sites/pts.umn.edu/files/2023-08/East%20Bank%20083023.pdf)
 
 #### DinkyTown
 
@@ -347,7 +347,7 @@ Health Science相关的课程大部分在此上课，里面包含很多医学专
 
 ### 圣保罗校区
 
-圣保罗校区地图：[PTS - St Paul Campus](https://www.pts.umn.edu/sites/pts.umn.edu/files/st_paul_map_8-31-20.pdf)
+圣保罗校区地图：[PTS - St Paul Campus](https://pts.umn.edu/sites/pts.umn.edu/files/2023-08/Saint%20Paul%20083023.pdf)
 
 Lenny Yu 学姐拍摄的圣保罗校区的介绍视频：  
 YouTube链接：[YouTube - 明尼苏达大学双城分校之圣保罗校区游](https://www.youtube.com/watch?v=Wia8EeZTHYU)  
