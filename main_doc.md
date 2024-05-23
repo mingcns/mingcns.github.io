@@ -1528,8 +1528,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### 微信群二维码
 
-**因代写广告猖獗，已开启群主验证，加群请添加群管微信**  （见下一个Tab）
-<!-- <img alt="Wechat Group QR code" src="https://www.mingcns.org/images/wechat_group_qr.jpg" style="max-width: 75%"> -->
+请访问 MinG/CNS 明诚论坛《明尼苏达大学2024新生群二维码》以获取 2024 新生微信群二维码：[mingcns.com/d/15-2024](https://www.mingcns.com/d/15-2024)
 
 #### 联系人微信
 
