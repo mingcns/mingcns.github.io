@@ -39,6 +39,8 @@ Project MinG/CNS
 
 - **MinG/CNS 明城论坛 - 明尼苏达华人社群: [mingcns.com](https://www.mingcns.com)**
 
+- **MinG/CNS 明尼苏达大学 2024 新生群二维码: [mingcns.com/d/15-2024](https://www.mingcns.com/d/15-2024)**
+
 ---
 
 <h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
