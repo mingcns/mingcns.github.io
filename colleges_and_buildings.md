@@ -274,7 +274,7 @@ Lind虽然是CSE的行政楼，但因二楼原先有 Language 部门的办公室
 所以 Freshman Writing 这门课还是有很大概率是在Lind Hall上课。
 
 **Keller Hall**  
-是 Computer Science，Computer Engineering 和 Electrical Engineering 的主场。地面层进楼加后其实是3楼。在其1楼有整整半层均为CSE Labs，2至3楼则有大片的开放学习空间。
+是 Computer Science，Computer Engineering 和 Electrical Engineering 的主场。地面层进楼后其实是3楼。在其1楼有整整半层均为CSE Labs，2至3楼则有大片的开放学习空间。
 
 **Amundson Hall**  
 化工系和材料系的主场，地下一层与Keller Hall相连的阶梯教室也会是很多工院大课的上课地点。
