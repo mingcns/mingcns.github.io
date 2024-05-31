@@ -306,10 +306,8 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
     直到再次看到 App-based Ride Service 的牌子后左转，坐电梯上两层楼后，即为机场 Pick-up 乘车点。Terminal 1 - Zone A 和 Zone B 都在这一层。
     * Terminal 2: Sun Country, JetBlue, Southwest, Condor, Icelandair 会降落在 Terminal 2 - Humphrey。在行李转盘提取行李后，
     跟随 App-based Ride Services 牌子走，只有一个 Pick-up 乘车点 Terminal 2 - App-based Ride Services。
-    * 由于明尼阿波利斯市实施的[网约车司机最低工资法案](https://apnews.com/article/uber-lyft-rideshare-drivers-minneapolis-85391e96786a3822fbc55fd8db1cbde3)，
-    Uber与Lyft计划于 ~~2024年5月1日~~ (<font color="red">已推后至2024年7月1日</font>) 之后在 City of Minneapolis 境内停止服务，并不再接受出发点或目的地在 Minneapolis 
-    境内的行程。MSP 机场虽不属于 City of Minneapolis 境内，但是学校 Minneapolis 校区全境均处于 City of Minneapolis 境内。
-    因此在服务停止后，可能无法再请求前往学校 Minneapolis 校区的网约车。从机场出发以 St Paul 校区作为目的地则不受影响。
+    * ~~由于明尼阿波利斯市实施的网约车司机最低工资法案，Uber与Lyft计划于 2024年5月1日 (已推后至2024年7月1日) 之后在 City of Minneapolis 境内停止服务，并不再接受出发点或目的地在 Minneapolis 境内的行程。MSP 机场虽不属于 City of Minneapolis 境内，但是学校 Minneapolis 校区全境均处于 City of Minneapolis 境内。因此在服务停止后，可能无法再请求前往学校 Minneapolis 校区的网约车。从机场出发以 St Paul 校区作为目的地则不受影响。~~\
+    <font color="red">在2024年5月19日，明尼苏达州立法机构已推翻先前的明尼阿波利斯市法案并与Uber和Lyft和解。Uber和Lyft之后会继续在双城地区运营。</font>
 1. 轻轨:
     * Terminal 1: 在抵达到达层（行李转盘层）之后，跟随 LRT/Light Rail Transportation 的标志走，坐电梯下降到地下层。
     乘坐机场内部轨道交通到另一头，乘坐扶手电梯或者直梯下楼即可抵达轻轨 Terminal 1 - Lindbergh 站。
@@ -324,11 +322,11 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
     [East Bank Station](https://goo.gl/maps/HR3itXE9x5RE223v7),
     [Stadium Village Station](https://goo.gl/maps/RMrdjk7pNW1eTHuA6))。
     * 更多关于明尼轻轨系统的介绍请参考我们的 [《Metro Transit 轻轨简介》](https://www.mingcns.org/light-rail/) 文档。
-1. ~~**学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，
+2. ~~**学校官方** 接机服务：时间为8月7日至23日期间，每天10点到21点20分，每小时一趟车，
 地点在 Terminal 1 的6号行李传送带处 (Baggage Claim Carousel 6)。具体情况请访问连接：
 [Transportation from Airport to Campus for International Students](https://boynton.umn.edu/gopher-chauffeur/airport-transportation)~~ 因为疫情暂停服务了。
 1. 其他私人接机服务，请联系好接机人员，确认 **航班时间** 以及 **降落航站楼** 。
-1. 其他交通方式：[https://isss.umn.edu/new-students/prepare/transportation](https://isss.umn.edu/new-students/prepare/transportation)  
+2. 其他交通方式：[https://isss.umn.edu/new-students/prepare/transportation](https://isss.umn.edu/new-students/prepare/transportation)  
 [https://www.mspairport.com/directions/ground-transportation](https://www.mspairport.com/directions/ground-transportation)
 
 ### 临时宿舍
