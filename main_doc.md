@@ -860,7 +860,8 @@ Kbop Korean Bistro | 韩餐 | [425 13th Ave SE, Minneapolis, MN 55414](https://g
 乐涮 Le Pot | 小火锅 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/R6SZUJ4LvFjFkjsM6)
 Bonchon | 韩式炸鸡、韩餐 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/7AfEBYgmCq662aCf9)
 JJ's Poke | 日餐| [509 14th Ave SE, Minneapolis, MN 55414](https://g.page/jjspokedinkytown?share)
-University Food Hall | 中餐、韩餐大排档 | [330 15th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/VuFx2fYQUN669zqU8)
+Pho Mai |  越南菜 | [319 14th Ave SE, Minneapolis, MN 55414](https://maps.app.goo.gl/setyoZeiLVv4Lvys6)
+~~University Food Hall~~ | ~~中餐、韩餐大排档~~ | [~~330 15th Ave SE, Minneapolis, MN 55414~~](https://goo.gl/maps/VuFx2fYQUN669zqU8)
 
 
 ### 学校周边奶茶、甜品店不完全清单
@@ -881,8 +882,8 @@ University Food Hall | 中餐、韩餐大排档 | [330 15th Ave SE, Minneapolis,
  --- | --- | ---  
 功夫茶 Kung Fu Tea | 奶茶 | [507 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/9GVmHJb6okNMCAgV7)
 Mango Mango Dessert | 甜品 | [406 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/H8ZqryzJ2ktjU7Wq7)
-Chatime | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vC1ZwxPJv1gyPRnU9)
-弥茶 Mi Tea | 奶茶 | [330 15th Ave SE suite 10, Minneapolis, MN 55414](https://goo.gl/maps/z7F5KbNgkg2TXsEU8)
+Niko Niko Boba | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/vC1ZwxPJv1gyPRnU9)
+~~弥茶 Mi Tea~~ | ~~奶茶~~ | [~~330 15th Ave SE suite 10, Minneapolis, MN 55414~~](https://goo.gl/maps/z7F5KbNgkg2TXsEU8)
 
 
 ### 亚洲超市不完全清单
@@ -893,8 +894,9 @@ Chatime | 奶茶 | [321 14th Ave SE, Minneapolis, MN 55414](https://goo.gl/maps/
  --- | ---
 Shuang Hur Supermarket 双和St Paul店 | [654 University Ave W, St Paul, MN 55104](https://goo.gl/maps/CAmFQ8pjXgkv8T698)
 United Noodles 联合超市 | [2015 E 24th St, Minneapolis, MN 55404](https://goo.gl/maps/VhPUetG9jFCYfBMy8)
-Shanghai Market 上海超市 | [1546 Como Ave, St Paul, MN 55108](https://goo.gl/maps/G3gRKUtwDKrpTsz18)
+~~Shanghai Market 上海超市~~ | [~~1546 Como Ave, St Paul, MN 55108~~](https://goo.gl/maps/G3gRKUtwDKrpTsz18)
 Market Fresh 上海批发 | [1800 Highway 36 West, Roseville, MN 55113](https://goo.gl/maps/e8oDupA3DR37BsFz8)
+Shanghai Wholesale Market Place 上海批发 | [640 Prior Ave N, St Paul, MN 55104](https://maps.app.goo.gl/LC5Fd95p3xr9YwSU7)
 Dragon Star 龙星 | [633 W Minnehaha Ave, St Paul, MN 55104](https://goo.gl/maps/d82jfe3gRzPQzXJv8)
 Shuang Hur 双和Mpls Uptown店 | [2712 Nicollet Ave, Minneapolis, MN 55408](https://goo.gl/maps/N7mgcuHBewznK5K17)
 Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/maps/K7VhHA7YmicXabUy7)
