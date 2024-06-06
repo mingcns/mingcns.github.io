@@ -901,7 +901,7 @@ Dragon Star 龙星 | [633 W Minnehaha Ave, St Paul, MN 55104](https://goo.gl/map
 Shuang Hur 双和Mpls Uptown店 | [2712 Nicollet Ave, Minneapolis, MN 55408](https://goo.gl/maps/N7mgcuHBewznK5K17)
 Sun Food St. Paul | [544 University Ave W, St Paul, MN 55103](https://goo.gl/maps/K7VhHA7YmicXabUy7)
 Rong Market 榕城 | [6515 Nicollet Ave, Minneapolis, MN 55423](https://goo.gl/maps/tvs5QWNnkt4u22ZY9)
-Shanghai Market Oriental Food | [8450 Excelsior Blvd, Hopkins, MN 55343](https://goo.gl/maps/4wFuf7XtbyYyxtAy6)
+Shanghai Market Oriental Food | [7105 Cedar Lk Rd S, St Louis Park, MN 55426](https://goo.gl/maps/4wFuf7XtbyYyxtAy6)
 Kim's Asian Market | [689 Snelling Ave N, St Paul, MN 55104](https://goo.gl/maps/7uxjpQmmN2FSC1Ty8)
 
 
