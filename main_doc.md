@@ -1224,7 +1224,7 @@ TAC是一个针对性骚扰，性暴力的机构。如果遇到性骚扰可拨�
 
 1. [实时更新明尼犯罪地图，掌握区域一手安全情况](https://communitycrimemap.com/?rms=Minneapolis_Crime_Map&type=simple&address=Minneapolis%20MN)
 1. [校园护送服务官方介绍 & QA](https://publicsafety.umn.edu/home/security)
-1. [校园护送服务覆盖地区地图](https://umn-egis.maps.arcgis.com/apps/webappviewer/index.html?id=0594a3d7511846e0beda80a724353eba)
+1. [校园护送服务覆盖地区地图](https://experience.arcgis.com/experience/94f50b99d03d4e309ee280f54cbeb792)
 1. [The Aurora Center 官网](http://aurora.umn.edu/)
 1. [明大学生规范对性骚扰的定义](https://regents.umn.edu/sites/regents.umn.edu/files/policies/Sexual_Harassment_Sexual_Assault_Stalking_Relationship_Violence.pdf)
 
