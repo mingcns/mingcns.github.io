@@ -56,13 +56,13 @@ permalink: /mn-drivers-license/
 
 ### 笔试：
 
-* 不要求预约，但是也可以预约。前往任意提供笔试的 DVS 即可。
+* 不强制要求预约，但是也可以预约。前往任意提供笔试的 DVS 即可。
 * 笔试为40道选择题
-* 容错8题
+* 可以错8题
 * 备考请详细阅读 [Minnesota Driver's Manual](https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Minnesota_Drivers_Manual.pdf)
 * 其余备考手段请自行 Google "Minnesota Driver's License Test"
 * 可以免费考两次，第三次开始每次收费$10
-* 部分 DVS **仅接受现金和支票付款**，保险起见建议携带支票或者至少30刀现金。
+* 部分 DVS **仅接受现金和支票付款**，保险起见建议携带支票或者至少40刀现金。
 
 笔试通过后就可以申请 Instruction Permit 了（2024年的工本费为$29.50，请查询[官网](https://dps.mn.gov/divisions/dvs/Pages/drivers-license-fees.aspx)了解最新价格）
 * 需要证件如下：
@@ -94,6 +94,7 @@ permalink: /mn-drivers-license/
     * 上真实路面考试
     * 考场内测试
 * 具体测试内容请自行 Google "Minnesota Road Test"
+* 可以免费考两次，第三次开始每次收费$20
 * 比较普遍的练车方式有：
     * 抱有车的朋友的大腿
     * 私人陪练
@@ -130,20 +131,21 @@ PRC驾照持有人可以在自抵达明尼苏达州起60天内合法上路，但
 所有种类的驾照都需要工本费，2024年 Class D 驾照首次签发的工本费为$46，请查询 [DVS: Driver's License Fees](https://dps.mn.gov/divisions/dvs/Pages/drivers-license-fees.aspx) 了解最新价格。请携带支票或至少60刀的现金前往 DVS。
 
 1. Standard Driver's License (SDL)
-    * 普通驾照，在 Real ID Act 生效之后将不能作为联邦证件使用，届时持有人将不能使用SDL登机美国国内航班。目前 Real ID Act 生效日期为2025年5月7日。
+    * 普通驾照，在 Real ID Act 生效之后将不能在联邦层面作为身份证明使用，届时持有人将不能使用 SDL 通过安检并登机美国国内航班。目前 Real ID Act 生效日期为2025年5月7日。
     * 需要文件请参考：[Standard DL Primary Secondary Documents Fact Sheet](https://dps.mn.gov/divisions/dvs/forms-documents/Documents/DL%20For%20All%20Primary%20Secondary%20Documents%20Fact%20Sheet.pdf)
 2. Real ID
-    * 联邦证件，可以在上述 Real ID Act 生效后继续当作身份证件用来通过机场安检。
+    * 可以在上述 Real ID Act 生效后继续当作身份证件用来通过机场安检。
     * 需要在 (1) 所需要的证件外额外提交地址证明文件，具体请参照 DVS 的 [Pre-application](https://dps.mn.gov/divisions/dvs/online-self-services/Pages/default.aspx)
     * 申请所需文件列表请参考：https://dps.mn.gov/divisions/dvs/real-id/Pages/required-documents.aspx
 3. Enhanced Driver's License (EDL)
-    * 只有是美国公民的明州居民才可以办理，可以作为从以下国家/地区经陆路和海路口岸返回美国时的身份证件（效果类似于美国护照卡）：
+    * 只有是美国公民的明州居民才可以办理，可以作为国际旅行证件经陆路和海路口岸从美国往返以下国家（效果类似于美国护照卡）：
         * 加拿大
         * 墨西哥
         * 百慕大
         * 加勒比
-    * EDL 为 Real ID Compliant
-    * 需要在 (2) 所需的证件外额外提交美国公民身份证明文件。
+    * EDL 为 Real ID Compliant，在上述 Real ID Act 生效之后可以继续当作身份证件用来通过机场安检。
+    * 需要提交美国公民身份证明文件。
+    * 需要额外收费 $15
     * 详见：[EDL](https://dps.mn.gov/divisions/dvs/Pages/dvs-content-detail.aspx?pageID=683)
 
 ## 相关信息
