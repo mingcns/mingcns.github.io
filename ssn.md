@@ -98,8 +98,8 @@ SSN 的用途如下：
 大家收到卡后请立刻验证卡上的姓名拼写，并去 [ssa.gov](https://www.ssa.gov/) 官网通过注册在线账户来验证生日信息是否录入正确。
 历史经验上，双城地区的 SSA 工作人员把姓名和生日输错的情况不在少数。如果信息错误，需要重新填写 SS-5 表格并带着相关文件去线下申请更正。
 
-_<font color="red">再次声明，本文仅为一份概况介绍文档，不构成任何法律上的意见建议，如果您有任何的疑问，
-请联系 [UMN ISSS](https://isss.umn.edu/office/hours.html) 官方。</font>_
+_<font color="red">再次声明，本文仅为一份概况介绍文档，不构成任何法律上的意见建议。</font>如果您有任何疑问，
+请联系 [UMN ISSS](https://isss.umn.edu/office/hours.html) 官方。_
 
 
 ## 版权与免责协议
