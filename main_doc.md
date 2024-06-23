@@ -1505,7 +1505,7 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### 微信群二维码
 
-请访问 MinG/CNS 明诚论坛《明尼苏达大学新生交流群二维码》以获取最新的新生交流微信群二维码：[mingcns.com/d/15](https://www.mingcns.com/d/15)
+请访问 MinG/CNS 明诚论坛《明尼苏达大学新生交流群二维码》以获取最新的新生交流微信群二维码：[new.mingcns.com](https://new.mingcns.com)
 
 #### 联系人微信
 
@@ -1534,12 +1534,12 @@ A: 请参考本文档 [外国驾照于明尼苏达州使用问题](#外国驾照
 
 #### Discord  群信息
 
-请使用 [Project MinG/CNS 自助入群工具](https://www.mingcns.com/new-student-qr.php)
+请使用 [Project MinG/CNS 自助入群工具](https://wx.mingcns.com)
 通过 @umn.edu 邮箱验证自助获取 Discord Server 链接。
 
 #### Telegram 群信息
 
-请使用 [Project MinG/CNS 自助入群工具](https://www.mingcns.com/new-student-qr.php)
+请使用 [Project MinG/CNS 自助入群工具](https://wx.mingcns.com)
 通过 @umn.edu 邮箱验证自助获取 Telegram 群链接。
 
 #### QQ群信息
