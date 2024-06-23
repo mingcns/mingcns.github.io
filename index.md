@@ -39,9 +39,9 @@ Project MinG/CNS
 
 - **MinG/CNS 明城论坛 - 明尼苏达华人社群: [mingcns.com](https://www.mingcns.com)**
 
-- **明尼苏达大学2024新生交流群: [new.mingcns.com](https://new.mingcns.com)**
+- **明尼苏达大学2024新生交流群: [qun.mingcns.com](https://qun.mingcns.com)**
 
-- **Project MinG/CNS 自助入群工具（请使用 UMN 邮箱登陆）：[wx.mingcns.com](https://wx.mingcns.com)**
+- **Project MinG/CNS 自助入群工具（请使用 UMN 邮箱登陆）：[new.mingcns.com](https://new.mingcns.com)**
 
 ---
 
