@@ -35,6 +35,12 @@ Project MinG/CNS
 
 ---
 
+<h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
+
+- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook/)**
+
+---
+
 <h2 style="margin: 0 auto 10px auto; text-align: center;">MinG/CNS 明城论坛 Forum</h2>
 
 - **MinG/CNS 明城论坛 - 明尼苏达华人社群: [mingcns.com](https://www.mingcns.com)**
@@ -42,12 +48,6 @@ Project MinG/CNS
 - **明尼苏达大学2024新生交流群: [qun.mingcns.com](https://qun.mingcns.com)**
 
 - **Project MinG/CNS 自助入群工具（请使用 UMN 邮箱登陆）：[new.mingcns.com](https://new.mingcns.com)**
-
----
-
-<h2 style="margin: 0 auto 10px auto; text-align: center;">核心指南 Guidebook</h2>
-
-- **明尼苏达大学中国新生核心指南: [mingcns.org/guidebook](https://www.mingcns.org/guidebook/)**
 
 ---
 
