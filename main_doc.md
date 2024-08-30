@@ -589,7 +589,7 @@ _注：AT&T停止了对未在美国销售的手机型号的通讯支持，使用
 但是也正是因为 Google Fi 使用了三家运营商的网络，可以支持使用 Google Fi 的手机非常有限，
 大家可以点击
 [这里查看](https://fi.google.com/compatibility)
-你的手机是否支持 Google Fi。除了信号覆盖较好外，Google Fi 还有很多优势，比如拨打全球50+国家和地区的电话不额外收费
+你的手机是否支持 Google Fi(非eSIM的iPhone14和15暂时无法使用）。除了信号覆盖较好外，Google Fi 还有很多优势，比如拨打全球50+国家和地区的电话不额外收费
 （含中国大陆与港台地区），全球200+国家和地区（4G或3G、某些地区2G网速）网络漫游
 [免费或低资费](https://fi.google.com/about/international-rates/)
 （含中国大陆及港澳台地区），非常适合喜欢出国旅游的朋友。
