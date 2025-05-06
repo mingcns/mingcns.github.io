@@ -26,11 +26,11 @@ permalink: /guidebook/
 
 <div align="right">
 本指南非官方文件，详见<a href="#版权与免责协议">版权与免责协议</a><br>
-(Version: 2024-05-18)
+(Version: 2025-05-05)
 </div><br>
 
 <div style="color: red; font-weight: bold;">
-本指南正文内容已于2024年5月6日迁移至 <a href="https://www.mingcns.com/d/8">MinG/CNS 明城论坛</a> 并进行了审阅与修订。本页内容将会不定时由论坛同步至此。<br><br>
+本指南正文内容也可以在 <a href="https://www.mingcns.com/d/8">MinG/CNS 明城论坛</a> 进行交互式阅读。
 为了可以与大家更好地在线进行互动，我们鼓励大家前往论坛阅读并进行讨论。<br><br>
 MinG/CNS 明城论坛 - 明尼苏达华人社群: <a href="https://www.mingcns.com">mingcns.com</a> <br><br>
 </div>
@@ -201,7 +201,7 @@ TD 的成人版国内不普遍，所以一般等来学校打，学校医保<font
 打疫苗的 **时间** 很随意，只要在 **春季选课前 (11月前)** 打完并填好疫苗表给学校即可，表格不需要医生签名。
 （春季入学的需要在4月选取秋季课程前提交疫苗表）  
 疫苗表可以通过 Google Form 网上电子填写：
-[Online Immunization Form](https://docs.google.com/forms/d/e/1FAIpQLSepNBnCb-weLc5smkNpsIOb_P_b3daUR7M3zQv0fzF2yGqMFw/viewform),
+[Online Immunization Form](https://forms.gle/HMHQ8pjUXMkDcRiv5),
 也可以打印[纸质版](https://boynton.umn.edu/sites/boynton.umn.edu/files/2024-05/Student_Immunization_Form_4-2024%20.pdf)
 出来填好交去 Boynton 前台。如果在 Boynton 打疫苗的话，可以直接在 Boynton 的工作人员处填表。
 
@@ -331,7 +331,7 @@ _（有 TA、RA 职位或者 Fellowship 的 Master、Ph.D.项目）_ 请确保�
 
 ### 临时宿舍
 
-学校对国际生提供临时宿舍服务（需付费，$38/night），具体情况以可以参照此链接:
+学校对国际新生在2025年7月27日至2025年8月22日间提供临时宿舍服务（需付费，$38/night），具体情况以可以参照此链接:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)    
 
 Check-in 时间及地址：  
@@ -345,10 +345,10 @@ Centennial Hall:
 * 如果选择住在临时宿舍，那么在需要搬入正式宿舍时，学校会派车辆和志愿者协助搬运行李。时间上是无缝衔接，听从临时宿舍的安排即可。详见:
 [International Early Arrival Housing](https://housing.umn.edu/international/temporary-housing)  
 * Check-out 时间:
-    * 学校宿舍（除Bailey）：8月20日可以开始自行搬家。
-    * 学校公寓（Keller, Wilkins, Yudof, Radius）：8月15日即可搬入正式住所。
-    * Bailey宿舍：8月23日直接当天搬入正式宿舍
-    * 不住在学校公寓（校外租房）的学生需要于8月23日19点前退房。
+    * 学校宿舍（包括 Wilkins）：8月19日起可以开始搬入正式宿舍。
+      * 如果是分配到Bailey Hall的话，在8月19日至24日之间需要住在一个临时房间过渡。
+    * 学校公寓（Keeler, Yudof, Radius）：8月15日即可搬入正式住所。
+    * 不住在学校公寓（校外租房）的学生需要于8月22日18点前退房。
 
 
 ## 初至明尼
